@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="64"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de6065"><!-- con1q1c13 -->
+            <head xml:id="wWpoi1-de6065-Hd1e106">Caput 13</head>
+            <p xml:id="wWpoi1-de6065-d1e109">
+               <lb ed="#C" n="5"/>CAPTII 
+      <lb ed="#C" n="6"/>QUUIaua 
+      <lb ed="#C" n="7"/>PRO hoc libro nullum afferre Adversarij possunt peculiare argu¬ 
+      <lb ed="#C" n="8"/>mentum: &amp; communibus non necesse est saepius respondere. 
+    </p>
+            <p xml:id="wWpoi1-de6065-d1e120">
+               <lb ed="#C" n="9"/>Nos non esse Canonicum argumentis doceamus. Primum, non 
+      esse<lb ed="#C" n="10" break="no"/>hunc Canonicum librum colligi ex eo potest, quod Graece scriptus 
+      fu<lb ed="#C" n="11" break="no"/>erit, vt iam intellexistis. Avus lesu nonnulla Hebraice scripserat: ea 
+      <lb ed="#C" n="12"/>hic Iesus transtulit in linguam Graecam, vt in prologo legimus. Sed nec 
+      <lb ed="#C" n="13"/>illa Hebraica fidem atque authoritatem Propheticam, cum extarent, 
+      ha<lb ed="#C" n="14" break="no"/>buerunt, &amp; iam penitus interciderunt, vt nunc Graeca sola Iesu 
+      transsa<lb ed="#C" n="15" break="no"/>tio reliqua sit, quae multis etiam mendis vitijsque abundat: &amp; hic Iesus 
+      <lb ed="#C" n="16"/>non nisi interpres fuit. Secandum, quam preclare hic interpres de se, 
+      <lb ed="#C" n="17"/>suaque transiatione senserit, ex ejus verbis &amp; confessione in Prologo 
+      ma<lb ed="#C" n="18" break="no"/>nifestum est. Hebraea ait in linguam Graecam non posse verti tam 
+      <lb ed="#C" n="19"/>commode. Quamobrem vero? veniamque postulat, si vocum 
+      quibus<lb ed="#C" n="20" break="no"/>dam in locis facultate defici videatur. Ubi satis se indicat, nec 
+      Prophe<lb ed="#C" n="21" break="no"/>tam esse, nec spiritu Prophetico praeditum. Non enim Spiritus sanctus 
+      <lb ed="#C" n="22"/>veniam aquoquam petit, non haeret in verbis, &amp; semper assequitur quod  
+      <lb ed="#C" n="23"/>vult, praesertim si diligentiam adhibet, quod hic se fecisse profitetur.  
+      </p>
+            <p xml:id="wWpoi1-de6065-d1e155">
+               <lb ed="#C" n="24"/>Denique, quod de Samuele scribitur in hoc libro, cap. 49. varie a 
+      <lb ed="#C" n="25"/>multis dubieque accipitur, vt ex Augustino ad Simplicianum, lib. 2. quaest. 
+      <lb ed="#C" n="26"/>3. &amp; libro de Cura pro mortuis, cap. 15, perspicitur. Nam quod 
+      habe<lb ed="#C" n="27" break="no"/>tur I. Samuelis cap. 28. id de spectro potius Diabolico intelligendum 
+      <lb ed="#C" n="28"/>videtur. Sanctorum enim animae non possunt magicis artibus aut 
+      car<lb ed="#C" n="29" break="no"/>minibus evocari. Quare Augustinus in Lib. 2. cap. 23. de Doctrina 
+      <lb ed="#C" n="30"/>Christ. ait imaginem Samuelis mortui Sauli regi vera praedixisse: ubi non 
+      <lb ed="#C" n="31"/>ipsum Samuelem, sed imaginem aliquam &amp; similitudinem Samuelis 
+      <lb ed="#C" n="32"/>cum Saule colloquutam esse significat. Ide in L. de Octo Dulcit quest. 
+      <lb ed="#C" n="33"/>in quaest. 6. cum hac de re nonnulla in alteram partem disputasset, 
+      tan<lb ed="#C" n="34" break="no"/>dem subiungit, Quanquam in hoc facto est alius facilior exitus, &amp; expeditior  
+      <lb ed="#C" n="35"/>intellectus, vt non vere Spiritum Samuelis excitatum a requie sua credamus, 
+      <lb ed="#C" n="36"/>sed aliquod phantasma, &amp; imaginariam illusionem diaboli machinationibus fa¬ 
+      <!--74.xml-->
+      <pb ed="#L" n="65"/>
+               <lb ed="#C" n="1"/>ctam: quam propterea Scriptura nomine Samuelis appellat, quia solent 
+      imagi<lb ed="#C" n="2" break="no"/>nes earum rerum nominibus appellari, quarum imagines sunt: &amp; sic postea 
+      <lb ed="#C" n="3"/>concludit, non mirum esse, quod Scriptura dicit Samuelem visum, 
+      eti<lb ed="#C" n="4" break="no"/>amsi forte imago Samuelis apparuit machinamento eius, qui trans figurat se 
+      ve<lb ed="#C" n="5" break="no"/>lut Angelum lucis, &amp; ministros suos velut ministros iustitiae. Similiter in 
+      <lb ed="#C" n="6"/>Lib. 2. cap. 11. de Mirabilib. Scripturae, si modo is Augustini liber 
+      ge<lb ed="#C" n="7" break="no"/>nuinus habendus sit, ad hunc modum scribit: Unde non hunc esse 
+      Samuo<lb ed="#C" n="8" break="no"/>lem illum Prophetam, per factum facilius intelligitur, sed Diabolus, qui 
+      se<lb ed="#C" n="9" break="no"/>transfert in eAngelum lucis, in phantasia Samuelis consideretur. Quod ex 
+      ser<lb ed="#C" n="10" break="no"/>monibus eius recte dignoscitur, quoniam funesto Sauli dicebat, Tu &amp; filij. 
+      <lb ed="#C" n="11"/>tui mecum eritis. Ctenim si verus hic Samuel ostensus esset, nullo modo 
+      ini<lb ed="#C" n="12" break="no"/>quum regem consortem sui meriti post mortem diceret. Et apertissime in 
+      <lb ed="#C" n="13"/>Lib. Quaest. veteris &amp; novi Testamenti. Quaestione vicesima septima: 
+      <lb ed="#C" n="14"/>quo in loco sic statuit: Indignum facinus aestimo, si secundum verba 
+      bi<lb ed="#C" n="15" break="no"/>storiae commendetur assensus. Quomodo enim fieri poterat, vt arte magica 
+      at<lb ed="#C" n="16" break="no"/>traheretur vir, &amp; nativitate sanctus, &amp; vitae operibus iustus? aut fi non 
+      at<lb ed="#C" n="17" break="no"/>tractus est, consensit? quod vtrumque de viro iusto credere absurdum est. Atque 
+      <lb ed="#C" n="18"/>vt sancti Prophetae animam fuisse sagarum incantationibus infestam 
+      <lb ed="#C" n="19"/>dicamus, id vero etiam Isidorus vt valde impium detestatur, vt est 
+      a<lb ed="#C" n="20" break="no"/>pud Grat. 26. quaest. 5. cap. Nec mirum: aitque Satanae praestigium fuisse. Et  
+      <lb ed="#C" n="21"/>Augustinus in lib. de Cura pro mortuis, cap. 15. testis est, multis videri. 
+      <lb ed="#C" n="22"/>non ipsum fuisse, sed Spiritum malum. Et de libro Ecclesiastici sic 
+      scri<lb ed="#C" n="23" break="no"/>bit, Sed si huic libro ex Hebraeorum, quia in eo non est, Canone contradicitur,  
+      <lb ed="#C" n="24"/>quid de Mose dicturi sumus? Huic ergo libro contradici posse concedit. 
+      <lb ed="#C" n="25"/>Sic Aquinas 1. p. 89. 4. 8. Art. ad 29, de hoc loco tria respondit. 1n. 
+      <lb ed="#C" n="26"/>Samuelem apparuisse per revelarionem divinam. 37. aut illam 
+      appariti<lb ed="#C" n="27" break="no"/>onem procuratam fuisse per Daemones: 37. Aut Ecclesiastici 
+      authori<lb ed="#C" n="28" break="no"/>tatem non recipi, propter hoc, quod inter Canonicas Scripturas non 
+      <lb ed="#C" n="29"/>habetur apud Hebraeos. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

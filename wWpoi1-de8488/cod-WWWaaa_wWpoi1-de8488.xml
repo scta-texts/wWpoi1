@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="90"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de8488"><!-- con1q2c6 -->
+            <head xml:id="wWpoi1-de8488-Hd1e106">Caput 6</head>
+            <p xml:id="wWpoi1-de8488-d1e109">
+               <lb ed="#C" n="9"/>CAPUTTIII 
+      <lb ed="#C" n="10"/>Deiaigusῳ.Qua 
+      <lb ed="#C" n="11"/>VEnio nunc ad Latinam editionem, quam vulgatam vulgo 
+      vo<lb ed="#C" n="12" break="no"/>Vcant, quemadmodum tertio loco propositum fuit. Fuisse 
+      au<lb ed="#C" n="13" break="no"/>tem olim in Ecclesia valde multas Latinas Scripturarum versiones, testis 
+      <lb ed="#C" n="14"/>est August. Lib. 2. cap. 11. de Doctrina Christiana. Sic enim ait, Qui ex  
+      <lb ed="#C" n="15"/>Hebraea lingua Scripturas in Graecam verterunt numerari possunt: 
+      Latinmau<lb ed="#C" n="16" break="no"/>tem nulo modo. Qua quidem versionum multitudine adiuvari nonnihil. 
+      <lb ed="#C" n="17"/>Theologum posse Augustinus existimat. Ita nullam ex iis vnam 
+      puta<lb ed="#C" n="18" break="no"/>vit pro Authentica habendam, sed quae in singulis erant ad Lectorum. 
+      <lb ed="#C" n="19"/>tvtilitatem accommodatissima, ijs vtendum esse ad Scripturarum 
+      sen<lb ed="#C" n="20" break="no"/>sum intelligendum. Sed Hieronymus in Praefatione in los. de ista 
+      tam<lb ed="#C" n="21" break="no"/>multiplice exemplarium apud Latinos varietate conqueritur. Tot enim 
+      <lb ed="#C" n="22"/>esse ait apud Latinos exemplaria, quot codices, cum quisque pro suo arbitrio 
+      <lb ed="#C" n="23"/>vel addiderit, vel subtraxerit, quod ei videretur. Sed inter reliquas erat.  
+      <lb ed="#C" n="24"/>vna illustrior, quam Italam vocabant: eam Augustinus caeteris 
+      ante<lb ed="#C" n="25" break="no"/>ponit, Lib. 2. cap. 15. de Doctrina Christiana, propterea quod &amp; 
+      astri<lb ed="#C" n="26" break="no"/>ctior esset ad verba, &amp; sententiam clarius &amp; dilucidius interpretaretur.  
+      <lb ed="#C" n="27"/>Haec autem illa non est, quam edidit Hieronymus. Eius quis tandem 
+      au<lb ed="#C" n="28" break="no"/>thor extiterit, ignotum est, sed antiquiorem illam fuisse hac 
+      Hieronymi<lb ed="#C" n="29" break="no"/>ana constat. Nam Gregorius in epistola ad Leandrum, Ecclesiam 
+      Roma<lb ed="#C" n="30" break="no"/>nam ait vsam esse duabus versionibus, quarum alteram vocat veterem, 
+      <lb ed="#C" n="31"/>alteram novam. Et vetus videtur esse illa Itala: nova haec 
+      Hieronymia<lb ed="#C" n="32" break="no"/>na, quae quidem mox edita caepit in nonnullis Ecclesiis lectitati, vt 
+      col<lb ed="#C" n="33" break="no"/>ligi potest ex Augustini Epistola 10. ad Hieronymum, in qua 
+      Christia<lb ed="#C" n="34" break="no"/>nos quosdam novo in illius versione vocabulo offensos fuisse scribit. 
+      <lb ed="#C" n="35"/>Nam lonae quarto, vetus editio Latina habebat cacurbitam. 
+      Hierony<lb ed="#C" n="36" break="no"/>mus in sua versione pro cucurbita hederam posuit: Etsi forsan Hebraea¬ 
+      <!--100.xml-->
+      <pb ed="#L" n="91"/>
+               <lb ed="#C" n="1"/>vox neutrum significet, sed plantam aliam, quam Ricinum appellant. Et  
+      <lb ed="#C" n="2"/>quanquam erant multae olim &amp; pene infinitae in Ecclesia Latina 
+      versi<lb ed="#C" n="3" break="no"/>ones Latinae, tamen hae duae sine dubio erant celeberrimae, atque in 
+      <lb ed="#C" n="4"/>plurimis Ecclesiis vsitatae, cum his duabus Romanam vti solitam esse 
+      <lb ed="#C" n="5"/>Ecclesiam Gregorius testetur. Tandem vero non reliquae modo, quae 
+      <lb ed="#C" n="6"/>erant obscuriores, ex hominum manibus effluxerunt, sed illa etiam 
+      Itala<lb ed="#C" n="7" break="no"/>penitus intercidit, vnaque Hieronymiana passim in Ecclesiis Latinis 
+      ob<lb ed="#C" n="8" break="no"/>tinuit, si modo haec illa sit, quam merito possis Hieronymianam dicere. 
+      <lb ed="#C" n="9"/>Non enim ignoro esse viros doctos, qui hac de re magnopere dubitent. 
+      <lb ed="#C" n="10"/>Quanquam enim nunc Papistae plerique, praesertim Iesuite, nanc Latinam? 
+      <lb ed="#C" n="11"/>esse puram Hieronymianam contendunt, sunt tamen inter illos 
+      Theo<lb ed="#C" n="12" break="no"/>logi magna eruditione iudicioque praediti, qui contra omnino statuunt,  
+      <lb ed="#C" n="13"/>maximis argumentis inducti. Sanctes quidem Pagninus, in Praefatione. 
+      <lb ed="#C" n="14"/>suae interpretationis, quam scripsit ad Clementem septimum, in ea se 
+      o<lb ed="#C" n="15" break="no"/>pinione esse testatur, hanc non esse Hieronymi, optatque illam 
+      Hietony<lb ed="#C" n="16" break="no"/>mi nunc esse superstitem. Similiter Paulus Forosempronianus, in Lib. 2. 
+      <lb ed="#C" n="17"/>cap. 1. de Die passionis Dominicae: Vt de Erasmo, &amp; Munstero interim, 
+      <lb ed="#C" n="18"/>reliquisque eiusmodi taceam. Alij etsi illam esse partim Hieronymianam 
+      <lb ed="#C" n="19"/>existimant, tamen non eandem ipsam esse iudicant, quam Hieronymus 
+      <lb ed="#C" n="20"/>tanta diligentia fideque composuit: sed quandam esse mistam ex 
+      Hiero<lb ed="#C" n="21" break="no"/>nymiana aliaque vetere. Sic Iohannes Driedo, Lib. 2. cap. 1. de 
+      Catalo<lb ed="#C" n="22" break="no"/>go Scripturae. Sunt, inquit, qui dicunt, transiationem hanc Latinam, qua 
+      <lb ed="#C" n="23"/>communitervtitur tota Latinorum Ecclesia, neque esse divi Hieronymi, neque in 
+      <lb ed="#C" n="24"/>omnibus consonam Scripturae sacrae originali: eamque ait non modo ab 
+      Ar<lb ed="#C" n="25" break="no"/>machano, &amp; Lyrano, sed &amp; a caeteris huius temporis viris vtriusque 
+      lin<lb ed="#C" n="26" break="no"/>guae peritis argui, atque emendari. Et post in propositione prima, sic 
+      sta<lb ed="#C" n="27" break="no"/>tuit, interpretationem hanc Latinam, tam veteris quam novi 
+      Testamen<lb ed="#C" n="28" break="no"/>ti, neque penitus esse aliam ab interpretatione Hieronymi, neque cum 
+      il<lb ed="#C" n="29" break="no"/>la penitus eandem esse. In eadem est sententia Sixtus Senensis, Lib. 8. 
+      <lb ed="#C" n="30"/>Biblioth. seque necessariis rationibus adductum esse confitetur, vt ita 
+      <lb ed="#C" n="31"/>sentiat. Bellarminus in Lib. 2. cap. 9. haec tria statuit. Primum, Libros 
+      <lb ed="#C" n="32"/>Sapientiae, Ecclesiastici, Macc abaeorum, Psalmorum, non haberi apud 
+      il<lb ed="#C" n="33" break="no"/>los ex versione Hieronymi: &amp; illos quidem primos non transtulit, quia 
+      <lb ed="#C" n="34"/>Apocryphos esse iudicavit. Psalmos vero transtulit summa fide ac 
+      Reli<lb ed="#C" n="35" break="no"/>gione ex Hebraeo. Sed haec transiatio, quae vulgata dicitur Psalmorum, 
+      <lb ed="#C" n="36"/>est facta ex Greco vtres indicat, &amp; Adversarij concedunt. Ludus vero 
+      <lb ed="#C" n="37"/>est videre, vtGenebrardus in suis Scholijs Latinam versionem cum 
+      He<lb ed="#C" n="38" break="no"/>braica, jeritate conciliet. Secundum, Latinam editionem novi Testa¬ 
+      <!--101.xml-->
+      <pb ed="#L" n="92"/>
+               <lb ed="#C" n="1"/>menti haberi, non ex versione Hieronymi, sed emendatione. Veterem: 
+      <lb ed="#C" n="2"/>enim versionem Hieronymus correxit, rogatus a Damaso, non novam 
+      <lb ed="#C" n="3"/>fecit: quemadmodum ipse, cum alibi, tum in Catalogo in fine testatur. 
+      <lb ed="#C" n="4"/>Novum, inquit, testamentum Graecae fidei reddidi: vetus iuxta Hebraicum 
+      <lb ed="#C" n="5"/>transtuli. Tertium, Reliqua omnia veteris Testamenti haberi ex 
+      Hierony<lb ed="#C" n="6" break="no"/>mi versione in editione vulgata. 
+      </p>
+            <p xml:id="wWpoi1-de8488-d1e276">
+               <lb ed="#C" n="7"/>Rationes autem quas affert, id evincunt, non hanc esse puram 
+      Hiero<lb ed="#C" n="8" break="no"/>nymianam vel veteris vel novi Testamentireditionem, sed non esse 
+      for<lb ed="#C" n="9" break="no"/>san omnino aliam ab Hieronymiana, quemadmodum Driedo Sixtusque  
+      <lb ed="#C" n="10"/>Senensis arbitrantur. De qua re dici sane multa possent: sed non oportet. 
+      <lb ed="#C" n="11"/>in his rebus nimis longum tempus teri. Itaque paucis hanc non esse illam, 
+      <lb ed="#C" n="12"/>quam Hieronymus aut novam fecit, aut emendatam edidit, luce clarius 
+      <lb ed="#C" n="13"/>demonstrabo. Primum enim, Hieronymus vetus Testamentum 
+      transtu<lb ed="#C" n="14" break="no"/>lit accurate ex libris Hebraeis, quemadmodum ipse sepissime testatus 
+      ac<lb ed="#C" n="15" break="no"/>professus est. In praefatione Psalterij ad Sophronium, quae est Ep. 133. 
+      <lb ed="#C" n="16"/>sic de sua transiatione scribit: Certe confidenter dicam, &amp; multos huius 
+      ope<lb ed="#C" n="17" break="no"/>ris testes citabo, me nihil duntaxat sententiae de Hebraica veritate mutasse. 
+      <lb ed="#C" n="18"/>Sicubi igitur editiomea a veteribus discreparit, interroga quemlibet 
+      Hebraeo<lb ed="#C" n="19" break="no"/>rum, &amp; liquido pervidebis me ab emulis frustra lacerari, qui malunt videri 
+      <lb ed="#C" n="20"/>contemnere praeclava, quam discere. Idem in Prefatione in Pentateuchum; 
+      <lb ed="#C" n="21"/>Mosis: Sicubi, inquit, in Transiatione tibi videor errare, interroga Hebraeos; 
+      <lb ed="#C" n="22"/>diversarum urbium magistros consule: &amp; in praefatione Reg. de Hebraica 
+      <lb ed="#C" n="23"/>veritate nihil se mutasse dicit. Ita Hieronymus suam versionem ubique 
+      <lb ed="#C" n="24"/>ad libros Hebraeos diligentissime contulit atque accommodavit. Quod de 
+      <lb ed="#C" n="25"/>ipso etiam August. Lib. 18. cap. 43. de Civitate Dei testatus est, Non 
+      de<lb ed="#C" n="26" break="no"/>fuit, inquiens, temporibus nostris presbiter Hieronymus homo doctissimus, 
+      <lb ed="#C" n="27"/>&amp; trium linguarum peritissimus, qui non ex Graeco, sed ex Hebrao in Latinum 
+      <lb ed="#C" n="28"/>divinas Scripturas converteret: cuius tantum literarum laborem 
+      Hebraefa<lb ed="#C" n="29" break="no"/>tentur esse veracem. Sic Hispalensis Isidorus, L. 6. Etymolog. cap. 5. 
+      Hie<lb ed="#C" n="30" break="no"/>zonymi versionem omnibus prefert, vtpote &amp; verborum tenaciorem, 
+      <lb ed="#C" n="31"/>&amp; perspicuitate sententiae clariorem. Et talem quidem fuisse 
+      Hieronymi<lb ed="#C" n="32" break="no"/>anam nulli dubium est, quando id &amp; ipse Hieronymus tam saepe asserat,  
+      <lb ed="#C" n="33"/>&amp; alii testentut. Iam vero vulgata ista in singulis libris multum sane 
+      ab<lb ed="#C" n="34" break="no"/>Hebraeis exemplaribus differt, quod ipse omnino Hieronymus negare: 
+      <lb ed="#C" n="35"/>non posset, si revivisceret. Nec est quod Hebraea esse corrupta 
+      responde<lb ed="#C" n="36" break="no"/>as. Nam etsi id aliqui Papistae dicant, tamen &amp; aperta ratione, &amp; suorum 
+      <lb ed="#C" n="37"/>etiam authoritate redarguuntur. Nam Bellarminus Lib. 2. cap. 2. 
+      con<lb ed="#C" n="38" break="no"/>tra lacobum Christopolitanum &amp; Melchiorem Canum codicum He¬ 
+      <!--102.xml-->
+      <pb ed="#L" n="93"/>
+               <lb ed="#C" n="1"/>braeorum integritatem defendit, eosque non esse a ludaeis corruptos, 
+      vt<lb ed="#C" n="2" break="no"/>illi putabant, nonnullis argumentis probat. Quomodo ergo corrupti 
+      <lb ed="#C" n="3"/>sunt? Alibrariis? Hoc quidem dici non potest. Nam omnia exemplaria 
+      <lb ed="#C" n="4"/>conveniunt: &amp; hoc non minus de Latinis affirmari potest, quam 
+      He<lb ed="#C" n="5" break="no"/>braicis libris. Cum ergo vulgata editio tam vehementer ab Hebraica. 
+      <lb ed="#C" n="6"/>discrepet, aut esse Hebraicam corruptissimam dicant est necesse (quod  
+      <lb ed="#C" n="7"/>tamen qui prudentiores sunt dicere non audent) aut hanc Latinam non 
+      <lb ed="#C" n="8"/>esse Hieronymianam concedendum est. Deinde Hieronymus in 
+      Quae<lb ed="#C" n="9" break="no"/>stionibus super Genesin. &amp; in commentariis in Prophetas, &amp; in libro de 
+      <lb ed="#C" n="10"/>optimo genere interpretandi, multa esse aliter vertenda iudicavit, quam 
+      <lb ed="#C" n="11"/>in hac versa esse invenimus. Hieronymi autem versio qua ratione 
+      dice<lb ed="#C" n="12" break="no"/>tur, quam ipse Hieronymus damnat? Multa autem in hac versione 
+      im<lb ed="#C" n="13" break="no"/>probata esse ab Hieronymo multis admodum exemplis ostendere 
+      lice<lb ed="#C" n="14" break="no"/>ret. Sed pauca delibasse sufficiet, vnde hoc consequetur, quod nos 
+      con<lb ed="#C" n="15" break="no"/>cludere volumus. 
+      </p>
+            <p xml:id="wWpoi1-de8488-d1e385">
+               <lb ed="#C" n="16"/>Quod ergo Gen. 12. legimus in vulgata editione, Spiritus 
+      Domini<lb ed="#C" n="17" break="no"/>ferebatur super aquas, habetur (inquit Hieronymus) in Hebraeo 
+      vocabu<lb ed="#C" n="18" break="no"/>lum, quod significat incubabat, sive confovebat, in similitudinem volucris 
+      <lb ed="#C" n="19"/>ova calore animantis. Gen. 4. vulgata habet, Et respexit Dominus ad Abel, 
+      <lb ed="#C" n="20"/>&amp; ad munera eius, ad Cain autem &amp; ad munera eius non respexit. Hunc 
+      <lb ed="#C" n="21"/>locum Hieronymus sic potius esse vertendum censuit, 
+      quemad<lb ed="#C" n="22" break="no"/>modum Theodotion interpretatus est, Et inflammavit Dominus super 
+      A<lb ed="#C" n="23" break="no"/>bel, &amp; super sacrificium eius: super Cain autem, &amp; super sacrificium eius non 
+      <lb ed="#C" n="24"/>infiammavii: &amp; hanc esse verissimam interpretationem confirmat. In 
+      <lb ed="#C" n="25"/>hoc eodem capite illud superfluum esse dicit, Transeamus in campum, 
+      <lb ed="#C" n="26"/>quod in nostro &amp; Samaritanorum volumine legitur. Hoc autem idem  
+      <lb ed="#C" n="27"/>est, quod in vulgata habetur, Egrediamur foras. 
+      </p>
+            <p xml:id="wWpoi1-de8488-d1e414">
+               <lb ed="#C" n="28"/>Genes. cap. 30. ver. 32. quod legitur, Cunctum gregem unicolorem, 
+      <lb ed="#C" n="29"/>Hieronymus admonet legendum esse, Non unicolorem: atque ita locus 
+      <lb ed="#C" n="30"/>&amp; ratio postulat. Similiter Esaiae primo, quod vulgata editio habet, ve 
+      <lb ed="#C" n="31"/>ambularetis in atriis meis: Hieronymus sic vertit, Calcare atrium meum 
+      <lb ed="#C" n="32"/>nonapponetis: atque ita nunc illa versio habet, quam in Hieronymi 
+      ope<lb ed="#C" n="33" break="no"/>ribus cum cominentatiis legimus. Eodem modo post, vbi vulgata 
+      ver<lb ed="#C" n="34" break="no"/>siolegit, Facti estis mihi molesti, Hieronymus habet, Facti estis mihi in 
+      sa<lb ed="#C" n="35" break="no"/>tietatem. Et in fine capitis, quod in vulgata legitur, Cam fueritis velut  
+      <lb ed="#C" n="36"/>quercus, Hieronymus sic transtulit, Erunt enim quasi Terebinthus. Sunt  
+      <lb ed="#C" n="37"/>huius rei infinita pene alia exempla. 
+      </p>
+            <p xml:id="wWpoi1-de8488-d1e439">
+               <lb ed="#C" n="38"/>Neque hoc invetere duntaxat, sed in novo etiam Testamento occur¬ 
+      <!--103.xml-->
+      <pb ed="#L" n="94"/>
+               <lb ed="#C" n="1"/>rit. Primo cap. ad Galat, illud, Non acquievi carni &amp; sangumi, 
+      Hierony<lb ed="#C" n="2" break="no"/>mus in Commentariis docet transferendum esse, Non contuli cum carne 
+      <lb ed="#C" n="3"/>&amp; sanguine. In eadem epistola, cap. 3. v. 1. Hieronymus illa verba 
+      prae<lb ed="#C" n="4" break="no"/>termisit in sua versione, non credere veritati, quae in vulgata editione 
+      ha<lb ed="#C" n="5" break="no"/>bentur: vnde Erasmus in Annotationibus suis scribit, hunc vnum esset 
+      <lb ed="#C" n="6"/>locum e multis, qui hanc editionem non esse totam Hieronymi 
+      convin<lb ed="#C" n="7" break="no"/>cat. Et cap. 1. Ephes. Latinum interpretem Hieronymus reprehendit, 
+      <lb ed="#C" n="8"/>quod Pignus posuerit pro eArrhabone. Et hoc male versum esse optima 
+      <lb ed="#C" n="9"/>ratione probat, Tamen est in libris omnibus vulgatae editionis non 
+      Ar<lb ed="#C" n="10" break="no"/>rhabo, sed Pignus, contra atque Hieronymus statuit. Ad Ephes. 4. quod  
+      <lb ed="#C" n="11"/>libri vulgati habent, Qui desperantes semetipsos tradiderunt impudicitiae, 
+      ali<lb ed="#C" n="12" break="no"/>ter (inquit Hieronymus) in Graeco legitur. Non enim desperant gentes (ait) 
+      <lb ed="#C" n="13"/>nequaquam sentientes ruinam suam, sed tanquam bestiae secundum carnem 
+      vi<lb ed="#C" n="14" break="no"/>vunt. Et subiungit pro, desperantes, legi posse Indolentes. Quid reliqua 
+      <lb ed="#C" n="15"/>coner persequi? Facilius erit principium, quam exitum, invenire. 
+      </p>
+            <p xml:id="wWpoi1-de8488-d1e481">
+               <lb ed="#C" n="16"/>Quae vero Bellarminus attulit ad hanc veritatis lucem obscurandam, 
+      <lb ed="#C" n="17"/>ea dispelli facile possunt. Nam primum in his &amp; eiusmodi aliis 
+      innume<lb ed="#C" n="18" break="no"/>rabilibus locis nullus est error librariorum. Omnes enim libri 
+      consenti<lb ed="#C" n="19" break="no"/>unt, seu antiqui, seurecentes. Deinde, quod attinet ad vocabulorum 
+      va<lb ed="#C" n="20" break="no"/>riam significationem, boni interpretis est expendere, quae 
+      significatio<lb ed="#C" n="21" break="no"/>maxime conveniat, eamque amplecti. Sed quando Hieronymus 
+      aperte<lb ed="#C" n="22" break="no"/>dicit, se putare aliquem locum aut verbum aliter esse vertendum, quam 
+      <lb ed="#C" n="23"/>in editione vulgata versum esse perspicimus, manifestum est illam 
+      versi<lb ed="#C" n="24" break="no"/>onem non esse Hieronymi. Nam quod tertio fingit, Hieronymum 
+      mu<lb ed="#C" n="25" break="no"/>tasse sententiam, id etsi in paucis sorsan locis concedi potest, tamen in 
+      <lb ed="#C" n="26"/>tam multis incredibile est. Nam si tam multa mutavisset, iudicij sui 
+      au<lb ed="#C" n="27" break="no"/>thoritatem non parum minuisset. Deinde, causa in plerisque locis non 
+      <lb ed="#C" n="28"/>fuit, cur sententiam mutaret. Nam Gal. 1. ωροπανεθεμιιν rectius vertitur  
+      <lb ed="#C" n="29"/>Contuli, quam Acquievi. Et Ephes. 1. αρραριν aliud est quam Pignus, 
+      vti<lb ed="#C" n="30" break="no"/>ipse Hieronymus in suis Commentariis docuit. Nam Pignus (inquit) 
+      pro<lb ed="#C" n="31" break="no"/>mutua pecunta opponitur: Arrhabo vero futurae emptioni quasi testimonium 
+      <lb ed="#C" n="32"/>quoddam &amp; obligamentum datur. Et Ephes. 4 ἀτηλγηκοτες non significat)  
+      <lb ed="#C" n="33"/>desperantes, sed dedolentes, aut indolentes, vt Hieronymus. Et quis haec 
+      ita<lb ed="#C" n="34" break="no"/>esse ab Hieronymo versa dubitet, qui Hieronymum legat disputantem, 
+      <lb ed="#C" n="35"/>&amp; argumentis probantem, ita fuisse vertendum. Immo non modo non esset 
+      <lb ed="#C" n="36"/>hanc Hieronymi versionem constat, sed etiam ab Hietonymo 
+      impro<lb ed="#C" n="37" break="no"/>baram esse, manifestum est. Quod vero postremo addit Bellarminus, 
+      Ec<lb ed="#C" n="38" break="no"/>clesiam suum iudicium interposuisse, &amp; primam versionem iudicasse ve¬ 
+      <!--104.xml-->
+      <pb ed="#L" n="95"/>
+               <lb ed="#C" n="1"/>riorem, quando tandem, aut quomodo hoc iudicium Ecclesia declaravit?: 
+      <lb ed="#C" n="2"/>aut quam Ecclesiam intelligit? aut quo jure potuit vlla Ecclesia indicare 
+      <lb ed="#C" n="3"/>versionem aut falsam aut impropriam esse falsa propriaque veriorem? 
+      </p>
+            <p xml:id="wWpoi1-de8488-d1e544">
+               <lb ed="#C" n="4"/>Haec sunt, vt omittam alia, quae Latinam vulgatam Editionem non 
+      <lb ed="#C" n="5"/>esse illam puram, quam Hieronymus tanto studio elaboravit atque 
+      e<lb ed="#C" n="6" break="no"/>didit, satis aperte confirment. Quando vero in ea tam multa 
+      reperiun<lb ed="#C" n="7" break="no"/>tur, quae in Hieronymiana fuerunt, eorum probanda sententia videtur,  
+      <lb ed="#C" n="8"/>qui illam esse ex Hieronymiana &amp; vetustiore quadam mistam 
+      arbi<lb ed="#C" n="9" break="no"/>trantur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

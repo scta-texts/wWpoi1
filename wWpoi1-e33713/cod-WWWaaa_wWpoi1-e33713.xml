@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="365"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e33713"><!-- con1q5c13 -->
+            <head xml:id="wWpoi1-e33713-Hd1e106">Caput 13</head>
+            <p xml:id="wWpoi1-e33713-d1e109">
+               <lb ed="#C" n="24"/>CAPUTTII 
+      <lb ed="#C" n="25"/>Scipiess uoiuigagiggeaa 
+    </p>
+            <p xml:id="wWpoi1-e33713-d1e116">
+               <lb ed="#C" n="26"/>REstat nunc postremo, vt vtendum his Mediis esse doceamus: quod  
+      <lb ed="#C" n="27"/>Rsequitut ex iis, que iam demonstrata sunt, Scripturam esse sui ipsius 
+      <lb ed="#C" n="28"/>interpretem. Nam si se Scriptura interpretatur, tum nos, vt Scripture 
+      inter<lb ed="#C" n="29" break="no"/>pretationem assequamur, haec Media adhibere debemus. Nam qui aliis 
+      <lb ed="#C" n="30"/>vti volunt, ij non concedunt Scripturis, vt se interpretentur. At se 
+      Scri<lb ed="#C" n="31" break="no"/>ptura clarissime &amp; luculentissime interpretatur, si nos Scripturam sese 
+      in<lb ed="#C" n="32" break="no"/>terpretantem atrendere volumus, etsi non inomnibus ubique locis, sic 
+      ve<lb ed="#C" n="33" break="no"/>dubitationis nihil relinquatur, tamen in plurimis, maximeque 
+      necessa<lb ed="#C" n="34" break="no"/>riis, &amp; in summis fidei nostrae capitibus. Et huius interpretationis 
+      exem<lb ed="#C" n="35" break="no"/>pla habemus in Scripturis. Nam Scriptura, vbi obscurius loquitur, sese 
+      ex<lb ed="#C" n="36" break="no"/>plic at aliquandostatim in eodem loco, aliquando in aliis locis cumulate. 
+      <!--375.xml-->
+      <pb ed="#L" n="366"/>
+               <lb ed="#C" n="1"/>Id in vtroque genere exemplis paucis illustrabo. Esaiae 51. 1. Aspicite ad 
+      <lb ed="#C" n="2"/>petram unde excisi, &amp; ad fossam cisternae, unde effossi estis. Obscura &amp; 
+      am<lb ed="#C" n="3" break="no"/>bigua oratio: sed ijs verbis, quae proximo versu subsequuntur, tota 
+      ob<lb ed="#C" n="4" break="no"/>scutitasremovetur. Attendite ad Abrahamum patrem vestrum, &amp; ad 
+      Sa<lb ed="#C" n="5" break="no"/>ram, quae peperit vos. Quem nos meliorem interpretem desideremus? 
+      Ge<lb ed="#C" n="6" break="no"/>nesis. 15. 2. Abrahamus ait Domino, Quid dares mihi, cum ego incedam 
+      <lb ed="#C" n="7"/>liberis carens, &amp; filius derelictionis domus meae sit Damascenus Eleazarus: 
+      <lb ed="#C" n="8"/>Haec, quae sunt obscuriora, mox illustrantur; En mihi non dedisti semen, 
+      un<lb ed="#C" n="9" break="no"/>de ecce vernameus, is haeres meus futurus est. Quid dici apertius potuit? 
+      Ge<lb ed="#C" n="10" break="no"/>nes. 11. 1 tota terra dicitur fuisse vnius laby: quod vt melius 
+      intelligere<lb ed="#C" n="11" break="no"/>tur, statim subiungitur, verba eadem erant. Exodi 20.4. in secundo 
+      De<lb ed="#C" n="12" break="no"/>calogi praecepto prohibemur sculptilem aliquam imaginem formamve 
+      fin<lb ed="#C" n="13" break="no"/>gere: atque vt huius legis sententiam penitus cognitam haberemus, 
+      illu<lb ed="#C" n="14" break="no"/>stris explicatio, quasi commentarius attexitur. Deuter. 7. 3. Israelitae 
+      pro<lb ed="#C" n="15" break="no"/>hibentur ulla se cum Cananais affinitate coniungere: quod quanquam 
+      sa<lb ed="#C" n="16" break="no"/>tis fuit per se apertum, tamen ex iis, quae sequuntur eodem in loco, 
+      certi<lb ed="#C" n="17" break="no"/>us clariusque apparet: Filiam tuam ne dato filio vllius earum, &amp; filium 
+      vlli<lb ed="#C" n="18" break="no"/>us ne accipito pro filia tua: &amp; ratio legis multis deinceps verbis exposita 
+      le<lb ed="#C" n="19" break="no"/>gem apertiorem facit. Esaiae 1. 2. Filios educavi, ipsi autem defecerunt a 
+      <lb ed="#C" n="20"/>me, inquit Dominus: &amp; statim ostendit hanc orationem ad Israelitas 
+      <lb ed="#C" n="21"/>spectate: Israel non agnoscit, populus meus non animadvertit. Esaiae 5 3. 1. 
+      <lb ed="#C" n="22"/>Brachium lehovae cuirevelatur? quid hoc sibi velit, ex superiore membro 
+      <lb ed="#C" n="23"/>constat, Quis credidit predicationi nostrae? vt Evangelium per brachium 
+      <lb ed="#C" n="24"/>significari manifestum sit. Sexto loannis Christus de sua carne 
+      come<lb ed="#C" n="25" break="no"/>denda, suoque sanguine bibendo multa dixerat; eaque oratione non 
+      <lb ed="#C" n="26"/>Capernaitas modo, sed suos etiam discipulos vehementer offenderat.  
+      <lb ed="#C" n="27"/>Quare ne ista offensio in piorum animis diutius atque altius insideret, se 
+      <lb ed="#C" n="28"/>Christus ipse interpretatur ad extremum, quando futurum narrat, 
+      ve<lb ed="#C" n="29" break="no"/>filium hominis ascendentem videant: atque Spiritum esse, quivivificat,  
+      <lb ed="#C" n="30"/>carnem non prodesse quicquam: &amp; adhuc apertius, verba illa, 
+      quaelo<lb ed="#C" n="31" break="no"/>quutus fuerat, esse Spiritum &amp; vitam. Tam aperte, tam diligenter, tam 
+      mul<lb ed="#C" n="32" break="no"/>tis Christus illam offensionem ex sua oratione non intellecta 
+      natamre<lb ed="#C" n="33" break="no"/>movet, docetque se de spirituali, non corporeo &amp; carnali 
+      quodameden<lb ed="#C" n="34" break="no"/>di bibendique genere dixisse. Paulus, 1. Cor. 5. 9. Scripsit inquit) in 
+      Epi<lb ed="#C" n="35" break="no"/>stola ne consortium cum scortatoribus haberetis: quos vero scortatores 
+      in<lb ed="#C" n="36" break="no"/>telligeret, statimindicat; non qui alieni essent a nomine professioneque 
+      <lb ed="#C" n="37"/>Christiana; sed qui, nominibus Christo datis, minime tamen a stupris 
+      <lb ed="#C" n="38"/>&amp; huiusmodi alijs flagitijs abstinerent: cum his habere aliquam con¬ 
+      <!--376.xml-->
+      <pb ed="#L" n="367"/>
+               <lb ed="#C" n="1"/>suetudinem vetuit, suamque mentem aperte declaravit. Sic Cap. 5. 
+      Epi<lb ed="#C" n="2" break="no"/>stolae ad Ephesios, de matrimonio verba feciens, mysterium hoc (inquit)  
+      <lb ed="#C" n="3"/>magnum est: vbi cum praevidisset fore qui hinc matrimonium esse 
+      Sacra<lb ed="#C" n="4" break="no"/>mentum colligerent, ea verba subjecit, quae hunc scrupulum plane 
+      re<lb ed="#C" n="5" break="no"/>moverent, Loquor autem de Christo, &amp; de Ecclesia: quibus verbis testatur,  
+      <lb ed="#C" n="6"/>mysterium a se dici, non matrimonium, sed Christi atque Ecclesiae 
+      con<lb ed="#C" n="7" break="no"/>iunctionem. Atque eiusmodi sunt exempla infinita, in quibus apparet: 
+      <lb ed="#C" n="8"/>Spiritum sanctum dedisse operam, vt quod videbatur obscurius paulo 
+      <lb ed="#C" n="9"/>dixisse, mox dilucide explic aret, omnique scrupulo lectorem 
+      libe<lb ed="#C" n="10" break="no"/>raret.  
+      </p>
+            <p xml:id="wWpoi1-e33713-d1e255">
+               <lb ed="#C" n="11"/>Iam si vellem exemplis demonstrare, quemadmodum quae in vno 
+      lo<lb ed="#C" n="12" break="no"/>co minus aperte dicuntur, in aliis tamen locis ac partibus Scripturarum 
+      <lb ed="#C" n="13"/>clarissime explicentur, vix vllum finem facerem. Est enim hic mos 
+      Scri<lb ed="#C" n="14" break="no"/>pturae, vead assequendam vnius loci veram intelligentiam, nos remittat  
+      <lb ed="#C" n="15"/>ad alium, atque hoc modo non insistamus aut acquiescamus in vna 
+      ali<lb ed="#C" n="16" break="no"/>qua parte Scripturae, sed totum corpus Sacrorum voluminum lectione 
+      <lb ed="#C" n="17"/>meditationeque nostra complectamur. Sunt ergo loca locis conferenda, 
+      <lb ed="#C" n="18"/>si quid in Scripturis recte intelligere ac tenere volumus. Mosis libros 
+      <lb ed="#C" n="19"/>Prophetic ae Scripturae illustrant, totumque vetus Testamentum in 
+      novo<lb ed="#C" n="20" break="no"/>aperitur. Exod. 3. Ero quiero, &amp;, Erit misit me advos. Quid ista sibi 
+      vo<lb ed="#C" n="21" break="no"/>lunt? Quid sane aliud, quam Deum aeternum atque immortalem esse, 
+      <lb ed="#C" n="22"/>reliquis falsa opinione Diis dissimilem? quod alibi sinevllis verborum. 
+      <lb ed="#C" n="23"/>involucris declaratur. Esaiae 44 eAnte menon est formatus Deus, &amp; post 
+      <lb ed="#C" n="24"/>me non erit. &amp; Esai. 48. Ego primus, &amp; ego novissimus: atque in aliis 
+      infim<lb ed="#C" n="25" break="no"/>tis vtriusque Testamenti locis eadem veritas apertissime confirmatur.  
+      <lb ed="#C" n="26"/>Christus Diabolum Scripturis abutentem authoritate Scripturarum 
+      con<lb ed="#C" n="27" break="no"/>pressit, Mat. 4. suamque Ecclesiam docuit Adversarios, Scripturas varie 
+      <lb ed="#C" n="28"/>torquentes, Scripturarum testimoniis inter se collatis, sciteque adhibitis, 
+      <lb ed="#C" n="29"/>&amp; recte intellectis, refutare. Repudiorum illam consuetudinem atque 
+      li<lb ed="#C" n="30" break="no"/>centiam, quam sibi ex Mofaicae legis prava interpretatione Iudaei 
+      sume<lb ed="#C" n="31" break="no"/>bant, Christus damnat atque removet, non aliter, quam legem 
+      interpre<lb ed="#C" n="32" break="no"/>tando, atque ex alio Scripturae loco exponendo, Mat. 19. Sadducaeos 
+      re<lb ed="#C" n="33" break="no"/>sunmectionem negantes, &amp; ratione quadam futili subnixos, Christus 
+      re<lb ed="#C" n="34" break="no"/>fellit ac convincittestimonio Scripturae, Matth. 22. Apostolus, in 
+      Episto<lb ed="#C" n="35" break="no"/>lis ad Romanos, Corinthios, Galatas, Hebraeos, atque in omnibus fere 
+      <lb ed="#C" n="36"/>aliis, frequentesadducit ex Scriptura veteris Testamenti sententias, 
+      eas<lb ed="#C" n="37" break="no"/>que explicat: vtnisinos vουθροι ταiς ακοωiς essemus, quod de Iudaeis 
+      Apo<lb ed="#C" n="38" break="no"/>stolus affirmat, seduloque vellemus, sine arrogantia studiisque pravis, Scri¬ 
+      <!--377.xml-->
+      <pb ed="#L" n="368"/>
+               <lb ed="#C" n="1"/>pturas tractare, versare, evolvere, ἐρώἀναν, ανακρινειν, atque Scripturas 
+      ex<lb ed="#C" n="2" break="no"/>ipsis Scripturis discere, &amp; nullum putare meliorem Spiritus sancti 
+      inter<lb ed="#C" n="3" break="no"/>pretem, quam ipsum Spiritum sanctum, minus certe in Scripturis 
+      intelli<lb ed="#C" n="4" break="no"/>gendis laporatemus. Sed dum Scripturas parum attente legimus aut 
+      con<lb ed="#C" n="5" break="no"/>sideramus, &amp; hominum opiniones interpretationesque mutabiles 
+      ac<lb ed="#C" n="6" break="no"/>multiplices consectamur, in ancipites ac pene infinitas sententias 
+      distra<lb ed="#C" n="7" break="no"/>himur, &amp; fingimus obscuritates, nescio quas, &amp; lumen inmeridie 
+      quae<lb ed="#C" n="8" break="no"/>rimus, &amp; plane μυοπαζοσθν 
+      </p>
+            <p xml:id="wWpoi1-e33713-d1e340">
+               <lb ed="#C" n="9"/>De his medijs quid Patres statuant, paucis deinceps videamus. 
+      Basi<lb ed="#C" n="10" break="no"/>lius de Spiritu sancto, Cap. 1. jubet τ ἐν ἐκαση λόζει κισυλλαος vουυ κεκρυμ¬ 
+      <lb ed="#C" n="11"/>μηνον ζεγευτα. Quod fieri oportere sic probat: Scripturae σκοτός est, vt Deo 
+      <lb ed="#C" n="12"/>nos similes evadamus: haec similitudo sine scientia non consistit: at γνο 
+      <lb ed="#C" n="13"/>εκ διδαγθλεjam διδατκδιιας αρχιληγοςλεγα μιρη σθλλαζαι X λιςεις. Idem 
+      Ba<lb ed="#C" n="14" break="no"/>silius in ασκπε. 267. ἐρωτημ. sic habet, τα αμριζολα, κ θτικεκαλυμμηεως ειρη&amp; σο¬ 
+      <lb ed="#C" n="15"/>κουθτα ον τεσι τοπας τ θεοππευσε χαρῆς υσο τις ἐν δοις τυποις αμολσγημδεον σα¬ 
+      <lb ed="#C" n="16"/>φlυιζεγ: Hoc quid aliud est, quam quod nos asserimus, Quae amligua 
+      <lb ed="#C" n="17"/>sunt, quaeque obscure dici videntur in quibusdam locis sacrae Scripturae, abus 
+      <lb ed="#C" n="18"/>quae in alijs locis aperta ac perspicua sunt, illustrantur? Ergo vt ambigua aut 
+      <lb ed="#C" n="19"/>obscura quaedam intelligamus, quae nobis passim Scripturas legentibus 
+      <lb ed="#C" n="20"/>occurrunt, opus est, vt alia loca consulamus, atque inter se Scripturas 
+      <lb ed="#C" n="21"/>conferamus. Irenaeus, Lib. 2. cap. 47. ait totam Scripturam esse 
+      conso<lb ed="#C" n="22" break="no"/>nantem, &amp; parabolas (id est obscuriores sententias) consonare ijs quae 
+      <lb ed="#C" n="23"/>manifeste dicuntur, &amp; quae manifesta sunt, absolvere parabolas, hoc est, 
+      ob<lb ed="#C" n="24" break="no"/>scura ex apertis sic illustrari, vt nemo nisi volens errare fallique possit. 
+      O<lb ed="#C" n="25" break="no"/>rigenes, Homil. 24. in Num. Facilius (inquit) in Scripturis quod quaeritur 
+      <lb ed="#C" n="26"/>invenitur, si ex pluribus locis quae de eadem re scripta sunt proferantur. 
+      Ter<lb ed="#C" n="27" break="no"/>tullianus, in Lib. de Virginibus velandis: Exurge veritas: ipsa Scripturas 
+      <lb ed="#C" n="28"/>tuas interpretare, quas consuetudo non novit: si enim nosset, nunquam esset. Et  
+      <lb ed="#C" n="29"/>in Lib. advers. Praxean: Non periclitatur Scriptura, vt illi de tua 
+      argumen<lb ed="#C" n="30" break="no"/>tatione succurras, ne sibi contraria videatur. Habet rationem, &amp; cum 
+      uni<lb ed="#C" n="31" break="no"/>cum Deum statuit, &amp; cum duos Patrem &amp; Filium ostendit, &amp; sufficit sibi. 
+      Hi<lb ed="#C" n="32" break="no"/>larius, de Ttinit. Lib. 9. Dictorum intelligentia aut ex praepositis, aut ex 
+      con<lb ed="#C" n="33" break="no"/>sequentibus expectetur. Paulum Ambrosius ait, Lib. 2. Epist. 7. se 
+      inple<lb ed="#C" n="34" break="no"/>risque locis interpretari: &amp; similiter Chrysostomus in 2. Cor. Homil. 9. 
+      <lb ed="#C" n="35"/>πανταχε στον τι σσαρεσειτοι, ααυτὸν ἐρμωενει σαλιν. Cyrillus, in Thes. Lib. 8. 
+      <lb ed="#C" n="36"/>cap. 2. ait observandas esse circumstantias, tempus, &amp; rem, &amp; personam, 
+      ve<lb ed="#C" n="37" break="no"/>sensum verum investigemus. Sed Augustinus omnium clarissime in 
+      quatu<lb ed="#C" n="38" break="no"/>jor suis de doctrina Christiana libris, in quorum tribus tractat modum in¬ 
+      <!--378.xml-->
+      <pb ed="#L" n="369"/>
+               <lb ed="#C" n="1"/>veniendi verum sensum Scripturae; in quarto docendi ea, quae jam 
+      intelli<lb ed="#C" n="2" break="no"/>gimus. Et quia totius Scripturae finis est, vti Augustinus ait, Dei &amp; 
+      proximi<lb ed="#C" n="3" break="no"/>dilectio, ideo ea de re in primo libro disserit, aitque illam sine dubio esse 
+      <lb ed="#C" n="4"/>falsam interpretationem, quae non aedificat ad hanc genuinam 
+      charita<lb ed="#C" n="5" break="no"/>tem. His sic tractatis, ad tem propius accedit, &amp; difficultatem 
+      intelligen<lb ed="#C" n="6" break="no"/>di res ait esse positam in signis, quibus res significantur: signa vero haec 
+      <lb ed="#C" n="7"/>aut esse ignota, aut ambigua. De ignotis agit, Li. 2. de ambiguis 3. 
+      Sig<lb ed="#C" n="8" break="no"/>num primo definit ac dividit nonnullis capitibus, quod aut proprie, aut 
+      <lb ed="#C" n="9"/>figurate sumi docet, vnde obscuras fieri Scripturas ait, &amp; huius 
+      obscuri<lb ed="#C" n="10" break="no"/>tatis vtilitatem proponit. Deinde, cap. 8. enumerat libros Canonicos, 
+      <lb ed="#C" n="11"/>quia primus labor est, vt ait, nosse libros, &amp; totos legere, memoriaeque 
+      <lb ed="#C" n="12"/>mandare. Tum monet vtin ijs, quae aperte posita sunt, investigemus 
+      prae<lb ed="#C" n="13" break="no"/>cepta vivendi, &amp; regulas credendi: nam in ijs quae aperte posita sunt, 
+      in<lb ed="#C" n="14" break="no"/>veniri ea omnia, quae continent fidem moresque vivendi. His perceptis 
+      <lb ed="#C" n="15"/>quae sunt apertiora, ad obscuriora progredi jubet, atque in cap. 10. 
+      ite<lb ed="#C" n="16" break="no"/>rum ad signa redit, eaque ait vel in verbis, vel in oratione esse ignota. 
+      <lb ed="#C" n="17"/>Ne quis ergo fallatur propter signorum ignorantiam, cap. 11. &amp; 12. 
+      ge<lb ed="#C" n="18" break="no"/>neralia praecepta tradit de cognitione Grammaticae artis, sub qua nonis 
+      <lb ed="#C" n="19"/>discenda Scriptura proponitur. Tnum linguarum peritiam magnopere. 
+      <lb ed="#C" n="20"/>necessariam esse affirmat, &amp; interpretum multitudinem peritorum 
+      mul<lb ed="#C" n="21" break="no"/>tum adjuvare testatur. Sed si interpretes non consentiant, recurrendum 
+      <lb ed="#C" n="22"/>esse docet ad fontes Hebraeos atque Graecos. Postea ostendit vtilem esse  
+      <lb ed="#C" n="23"/>Theologo ad Scripturas intelligendas Physicam, &amp; Arithmeticam, &amp; 
+      <lb ed="#C" n="24"/>Musicam, &amp; Dialecticam inprimis, de qua multa: &amp; artes has 
+      Philoso<lb ed="#C" n="25" break="no"/>phorum multum discipulis sacrae Theologiae prodesse confirmat: 
+      caven<lb ed="#C" n="26" break="no"/>dum tamen esse monet, ne quid nimis: quia multa a Philosophis 
+      super<lb ed="#C" n="27" break="no"/>stitiosa traduntur, &amp; falsa, &amp; impia, sed non omnia. Historias quoque 
+      le<lb ed="#C" n="28" break="no"/>gendas esse praescribit, quarum ignorantia multi errarunt, cap. 27. 28. &amp; 
+      <lb ed="#C" n="29"/>Philosophos multa habere nostrae religioni consentanea concludit. In 
+      <lb ed="#C" n="30"/>Lib. 3. de ambiguitate signorum disputat, quae multis modis contingit. 
+      <lb ed="#C" n="31"/>Nam aut proprie, aut metaphorice ac figurate sumuntur: Incertum est, 
+      <lb ed="#C" n="32"/>etiam aliquando quomodo oratio distinguenda, aut pronuncianda sit: 
+      v<lb ed="#C" n="33" break="no"/>Ibi hanc generalem regulam proponit, Neunquam a regula fidei 
+      disceda<lb ed="#C" n="34" break="no"/>mus. Deinde, quae figurate dicuntur, cavendum esse ne proprie 
+      intelliga<lb ed="#C" n="35" break="no"/>mus, cap. 6. Nam est miserabilis servitus animae signa pro rebus 
+      accipe<lb ed="#C" n="36" break="no"/>re. Hac dere multa capita, &amp; multae regulae sunt.  
+      </p>
+            <p xml:id="wWpoi1-e33713-d1e491">
+               <lb ed="#C" n="37"/>Aliam communem regulam subjungit; Praecepta quaedam 
+      commu<lb ed="#C" n="38" break="no"/>niter omnibus proponi, quaedam certis hominibus privatim: &amp; haec dili¬ 
+      <!--379.xml-->
+      <pb ed="#L" n="370"/>
+               <lb ed="#C" n="1"/>genter distinguenda esse. Deinde addit aliam, Non omnia, quae narrantur 
+      <lb ed="#C" n="2"/>aut laudantur in Scripturis, esse nobis imitanda: &amp; aliam, Aperta adhiben. 
+      <lb ed="#C" n="3"/>da esse ad intelligentam obscurorum; quod etiam saepius repetit. Tum 
+      re<lb ed="#C" n="4" break="no"/>gulae Ticonij sequuntur, numero septem. quas apud ipsum Augustinum 
+      <lb ed="#C" n="5"/>legere licebit. Has regulas ait esse claves, quibus divinarumScripturarum 
+      <lb ed="#C" n="6"/>aperiuntur occulta. Mirum est Augustinum, cum cuperet optimam 
+      intel<lb ed="#C" n="7" break="no"/>ligendi interpretandi, ue Scripturas rationem praescribere, non monuisse 
+      <lb ed="#C" n="8"/>vnum certum Scripturae interpretem esse Romanum Episcopum. Idem 
+      <lb ed="#C" n="9"/>Augustinus in L.83. quaest. q. 69. Solet circumstantia Scripturae illuminare 
+      <lb ed="#C" n="10"/>sententiam, cum ea quae circa Scripturam sunt, prae sentem quaestionem 
+      contin<lb ed="#C" n="11" break="no"/>gentia, diligenti discussione tractantur. Et Hieronymus, in Esa. cap. 19. 
+      Mo<lb ed="#C" n="12" break="no"/>ris est Scripturarum, obscuris manifesta subnectere, &amp; quod prius 
+      subamgma<lb ed="#C" n="13" break="no"/>tibus dixerint, aperta voce proserre. In epistola vero ad Pammachium, quae 
+      <lb ed="#C" n="14"/>Commentatiis inOseam praefigitur, ait Scripturas esse librum signatum, que 
+      <lb ed="#C" n="15"/>nullus aperire possit, nisi leo de tribu luda, eiusque mysteria reserare. Non 
+      <lb ed="#C" n="16"/>pergo Hieronymus Papam agnoscit pro publico Scripturarum 
+      interprete<lb ed="#C" n="17" break="no"/>Sed nos ergo quomodo Scripturas intelligemus? Subiungit, Orandus est 
+      <lb ed="#C" n="18"/>Dominus, &amp; cum Petro dicendum, Edissere nobis parabolam istam, 
+      </p>
+            <p xml:id="wWpoi1-e33713-d1e541">
+               <lb ed="#C" n="19"/>Quid alios authores, etiam papistas, persequar? <name xml:id="wWpoi1-e33713-Nd1e545">Gerson</name> in Tract. 
+      <lb ed="#C" n="20"/>Quae veritates sunt credendae, ait, p. 1. Scriptura ex ponit regulas suas per 
+      se<lb ed="#C" n="21" break="no"/>met ipsas secundum diversos passus Scripturae, Et in Lib. de Commun. 
+      sub<lb ed="#C" n="22" break="no"/>ytraque specie, Scripturam esse dicit quasi vnam orationemcopulativam? 
+      <lb ed="#C" n="23"/>quarum una pars confirmat, elucidat, ex ponit, alteram: &amp; hinc cum 
+      Ru<lb ed="#C" n="24" break="no"/>gustino concludit, Scripturam esse conferendam ad alios sacrae Scripturae, 
+      <lb ed="#C" n="25"/>passus. Et in Cantic. p. 3. Vnus potest passus in Scripturis mutus caeteros 
+      ex<lb ed="#C" n="26" break="no"/>ponere. Augustinus Steuchius, ssP Genes. Cap. 2. Neque enim (inquit) adeo 
+      <lb ed="#C" n="27"/>inhumanus fuit Deus, vt voluerit huius rei ignoratione per omnes aetates 
+      ho<lb ed="#C" n="28" break="no"/>mines torqueri; cum neque ullum in sacris Scripturis esse passus sit locam, 
+      <lb ed="#C" n="29"/>quem si accurate pensitemus, interpretari non possimus. Vt enim hoc loco ait. 
+      <lb ed="#C" n="30"/>Theodoritus, i αγια γξκοη ἐτε ς αν ἀολιιαι τι τοικτον ημας δεδατκον, ααυτω αρ¬ 
+      <lb ed="#C" n="31"/>μlν:θει κεκ αριηη λαος τ ακροκταα: id est, sacra Scriptura, cum expleare 
+      <lb ed="#C" n="32"/>aliquid grande vult, seipsa acclarat, neque patitur errare audtoremfeto 
+      <lb ed="#C" n="33"/>nymus ab Oleastro Canones sedecim praescribit, in initio 
+      Commentari<lb ed="#C" n="34" break="no"/>porum suorum in Pentateuchum Mosis, ad lectionem &amp; cognitionem 
+      <lb ed="#C" n="35"/>Scripturarum perutiles, qui onines eo referuntur, vt Scripturas 
+      interpre<lb ed="#C" n="36" break="no"/>temur ex Scripturis, non ad externa Media nosmet conferamus, quo 
+      <lb ed="#C" n="37"/>ties Scripturas difficiles interpretari volumus. Atque hanc Quaestionem 
+      <lb ed="#C" n="38"/>sic terminamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="390"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e36009"><!-- con1q6c8 -->
+            <head xml:id="wWpoi1-e36009-Hd1e106">Caput 8</head>
+            <p xml:id="wWpoi1-e36009-d1e109">
+               <lb ed="#C" n="32"/>CAPTTIIII 
+      <lb ed="#C" n="33"/>Scripturas esse necessaeias 
+    </p>
+            <p xml:id="wWpoi1-e36009-d1e116">
+               <lb ed="#C" n="34"/>HIC paucis demonstrabo, Scripturas esse necessarias, etsi postea 
+      <lb ed="#C" n="35"/>plenius hac de re agendum sit. Primo, Scripturae continent 
+      do<lb ed="#C" n="36" break="no"/>ctrinam necessariam, sine qua nos servari non possumus, Legis nempege 
+      <lb ed="#C" n="37"/>Evangelij. Ergo sunt nec essariae. De Lege Apostolus, Rom. 7. ait, Ego non 
+      <!--400.xml-->
+      <pb ed="#L" n="391"/>
+               <lb ed="#C" n="1"/>novissem concupiscentiam esse peccatum, nisi lex dixisset, Non concupisces: 
+      er<lb ed="#C" n="2" break="no"/>go legis doctrina ex Scripturis discitur, &amp; quidem ex solis Scripturis 
+      re<lb ed="#C" n="3" break="no"/>cte ac solide intellectis. Doctrinam vero Evangelij multo minus 
+      possu<lb ed="#C" n="4" break="no"/>mus sine Scripturis intelligere; quia ab intellectu nostro alienior ac 
+      re<lb ed="#C" n="5" break="no"/>motior est, quam doctrina Legis, &amp; ab ea magis abhorret natura nostra, 
+      <lb ed="#C" n="6"/>quam a Lege. Praeterea, non docet nos iam Deus per visa, insomnia, 
+      re<lb ed="#C" n="7" break="no"/>velationes, oracula, vtolim; sed per Scripturas solas: ergo si velimus esse 
+      <lb ed="#C" n="8"/>salvi, Scripturae nobis necessario sunt cognoscendae. Secundo, Scripturae 
+      <lb ed="#C" n="9"/>conservant Dei doctrinam ac religionem, ne aut corrumpatur, aut intea 
+      <lb ed="#C" n="10"/>reat, aut oblivioni tradatur: Ergo sunt nec essariae. Antecedens patet. Ideo. 
+      <lb ed="#C" n="11"/>enim voluit Deus Verbum suum a Mose, Prophetis, &amp; Apostolis scribi, 
+      <lb ed="#C" n="12"/>quia certum periculum fuit, ne doctrina vera aut corrumperetur, aut 
+      in<lb ed="#C" n="13" break="no"/>teriret, aut oblivione deleretur, si nullis libris descripta ac prodita 
+      fuis<lb ed="#C" n="14" break="no"/>set, Oseae 8. 12. Deus ait, Scripsi is authentica Legis meae, sed illi tanquam,  
+      <lb ed="#C" n="15"/>aliena repudiarunt. Lucas ait, 1. Cap. vers. 3. Disum est mihi ordine ad 
+      te<lb ed="#C" n="16" break="no"/>omnia scribere, praestantissime Theophile. Quare? Causa sequitur, ἵνα θεογιῳς 
+      <lb ed="#C" n="17"/>ωρι ῶν κατηχεθης λόγαν τυν ἀσροηειαν, Theophilus antea edoctus fuerat 
+      ve<lb ed="#C" n="18" break="no"/>tam doctrinam (quod patet ex his verbis ωριῶν κατηγιθιν) sed vt illam 
+      do<lb ed="#C" n="19" break="no"/>ctrinam melius ac certius cognosceret, &amp; cognitam firmius retineret, 
+      <lb ed="#C" n="20"/>voluit Lucas totam illam doctrinam perscribere. Scriptura ergo 
+      neces<lb ed="#C" n="21" break="no"/>saria est, ωρις ἀσρδιμιαν. Quae enim viva voce docentur, ea non sunt 
+      tam<lb ed="#C" n="22" break="no"/>firma atque ἀοροη, quam quae scribuntur &amp; literis mandantur. Tertio, 
+      <lb ed="#C" n="23"/>Matth. 22. 29. Christus Sadduc aeis ait, Erratis, nescientes Scripturas, 
+      Hha<lb ed="#C" n="24" break="no"/>νοθε, μη ειδοτες τας γζαρας. Ex quibus verbis colligimus, Scripturas esse 
+      no<lb ed="#C" n="25" break="no"/>bis necessarias, ne erremus. In alio Evangelista sic se habent verba. Ideo 
+      <lb ed="#C" n="26"/>erratis, quia nescitis Scripturas, κ διά τότο ταναθε, μη εἴδοτες τῶς γαρας, &amp; 
+      <lb ed="#C" n="27"/>sic locus hic apertius pro nobis facit. Huc etiam pertinet locus ille, qui  
+      <lb ed="#C" n="28"/>habetur 2. Pet. 1. 19. Habemus firmiorem &amp; certiorem sermonem 
+      Prophe<lb ed="#C" n="29" break="no"/>ticum, cui recte facitis quod attendatis: vbi docet nos Petrus, nihil esse 
+      cer<lb ed="#C" n="30" break="no"/>tius Scripturis. Ad illas ergo, tanquam ad solida, firma, perpetua fidei 
+      <lb ed="#C" n="31"/>praesidia, adhaerescendum est. Luc.16. Abraham illi epuloni respondet, J 
+      <lb ed="#C" n="32"/>petenti vt aliquis ad fratres suos mitteretur, Habent Mosen &amp; 
+      Prophe<lb ed="#C" n="33" break="no"/>tas, illos audiant. Ex quibus verbis manifestum est, omnia necessaria 
+      ex<lb ed="#C" n="34" break="no"/>Mose &amp; Prophetis, hoc est, ex Scripturis haurienda esse, nec certiorem 
+      <lb ed="#C" n="35"/>aliquam aut illustriotem esse discendi rationem, quam ex Scripturis, 
+      Io<lb ed="#C" n="36" break="no"/>an. 20. 31. sic legimus: Haec scripta sunt, vt credatis Iesum esse Christum, 
+      <lb ed="#C" n="37"/>illum filium Dei, &amp; utcredentes vitam habeatis in nomine eius. Unde 
+      col<lb ed="#C" n="38" break="no"/>ligi potest, Scripturas nobis esse ad fidem &amp; aeternam vitam consequen¬ 
+      <!--401.xml-->
+      <pb ed="#L" n="392"/>
+               <lb ed="#C" n="1"/>dam necessarias. Ideo enim scriptae sunt. Iohan. 5. 39. Christus ait 
+      Iu<lb ed="#C" n="2" break="no"/>daeis Epδυάτε τῶς γαρας: quare? quia vos putatis in ipsis vitam aternam hae 
+      <lb ed="#C" n="3"/>bere. Et recte quidem putabant, eamque opinionem Christus 
+      compro<lb ed="#C" n="4" break="no"/>bat. In Psal. 19. &amp; 119. Propheta David mirifice Scripturam 
+      commen<lb ed="#C" n="5" break="no"/>dat: ex quibus laudibus atque encomiis nec essitas eius colligi potest. 
+      <lb ed="#C" n="6"/>Vocat legem, qua quid magis necessarium? Si vero lex in Republica 
+      ne<lb ed="#C" n="7" break="no"/>cessaria sit, tum multo magis in Ecclesia. Si enim in rebus Boliticis sibi 
+      <lb ed="#C" n="8"/>ipsis homines non sunt relinquendi, sed legibus certis moderandi ac 
+      con<lb ed="#C" n="9" break="no"/>tinendi in officio; mulio minus in rebus divinis soluti esse debemus, aut s 
+      <lb ed="#C" n="10"/>non potius ad praescriptam certamque normam arctissime astncti; 
+      nein<lb ed="#C" n="11" break="no"/>? θελοθρυσκειαν Deo odiosam incidamus. Quarto, Scripturis carete nullo?J 
+      <lb ed="#C" n="12"/>modo possumus: Ergo sunt nec essariae. Sed negabit antecedens lesuita. 
+      <lb ed="#C" n="13"/>At si Scripturis carere possumus, quare eas nobis Deus tradidit? Ita Dei 
+      <lb ed="#C" n="14"/>sapientia ac consilium stultas Papistarum argumentationes refellit.  
+      </p>
+            <p xml:id="wWpoi1-e36009-d1e249">
+               <lb ed="#C" n="15"/>Quinto, Iubentur minisiri Scripturas legere, &amp; in legendis Scripturis 
+      <lb ed="#C" n="16"/>assidui ac diligentes esse: Ergo Scripturae sunt nec essariae. Si enim ylli 
+      ho<lb ed="#C" n="17" break="no"/>mines liberi essent ac immunes a lectione Scripturarum, qui magisquam  
+      <lb ed="#C" n="18"/>ministri? cum nullis magis notae sint Traditiones, quam ijs. 1. Tim. 4. 13. 
+      <lb ed="#C" n="19"/>Paulus Timotheum monet, vt sit intentus lectioni, ωροσεχε τῶ ἀναργνώσει, 
+      <lb ed="#C" n="20"/>&amp; 2. Tim. 3. 14. 15. ostendit quarum rerum lectioni eum intentumesse ? 
+      <lb ed="#C" n="21"/>velit, nempe τί ἐερόν χαματον. Sic enim scribit: At tu permane inus quae 
+      <lb ed="#C" n="22"/>didicisti, &amp; quae tibi concredita sunt, sciens a quo didiceris; Teque a puero 
+      sa<lb ed="#C" n="23" break="no"/>cras literas novisse, quae te possunt sapientem reddere in salute, per fidem quae 
+      <lb ed="#C" n="24"/>est in Christo Iesu. In quem locum Chrysostomus sic scribit: Ista profectoJ 
+      <lb ed="#C" n="25"/>Timotheo dum loquitur, omnes salubriter aedmonet. Quod sici qui mortuos 
+      ex<lb ed="#C" n="26" break="no"/>citabat, haec monita edidit, quid iam nos miseri dicturi sumus? Haec ille. Si 
+      et<lb ed="#C" n="27" break="no"/>go Timotheo Scripturae commendantur, quantomagis nobis? si illi 
+      ne<lb ed="#C" n="28" break="no"/>cessaria fuit Scripturarum lectio, multo magis nobis, Huc etiam locusj 
+      <lb ed="#C" n="29"/>ille pertinet, qui habetur Rom. 15. 4. Quae antea scripta sunt, ad nostram, 
+      <lb ed="#C" n="30"/>doctrinam scripta sunt, vi per patientiam &amp; consolationem Scripturarum spemi 
+      <lb ed="#C" n="31"/>habeamus. Nobis igitur consuluit deus in doctrina sua literis tradenda, nel 
+      <lb ed="#C" n="32"/>dicam sibi, quia antea saepe coactus erat eadem repetere. Atqueita qui  
+      <lb ed="#C" n="33"/>dem Thomas Aquinas ait in illum locum: Non fuit (inquit) ullanecessiet 
+      <lb ed="#C" n="34"/>tas haec scribere, nisi propter nos. 
+      </p>
+            <p xml:id="wWpoi1-e36009-d1e295">
+               <lb ed="#C" n="35"/>Serto, Chrysostomus, Homil. 11. in Matth. diserte scribit, necessarias 
+      <lb ed="#C" n="36"/>esse Scripturas, &amp; tollit objectionem lesuitae: Non fuerunt 
+      Patriarcha<lb ed="#C" n="37" break="no"/>rum tempore necessariae; ergo nec nunc. Ait enim Patriarchas &amp; 
+      Apo<lb ed="#C" n="38" break="no"/>stolos mente puriores fuisse, ac proinde Deum illos alloquutum esse, &amp;¬ 
+      <!--402.xml-->
+      <pb ed="#L" n="393"/>
+               <lb ed="#C" n="1"/>sine scriptis docuisse; nos vero rudiores atque haebetiores esse, ac proinde 
+      <lb ed="#C" n="2"/>voluisse Deum nos per Scripturas erudire, Bellarminus hunc locum 
+      vi<lb ed="#C" n="3" break="no"/>dit &amp; conatur huius argumenti vim infringere. Ait dici necessarias, quia 
+      <lb ed="#C" n="4"/>vtiles. Praeclare: Sed ita sunt vtiles, vt etiam necessariae sint. Necessario 
+      <lb ed="#C" n="5"/>quidem nihil vtilius. Quam praeclare praestiterit lesuita, quod in se primo 
+      <lb ed="#C" n="6"/>recepit, ac cepiius. Nolo istam causam nunc pluribus persequi, aut 
+      il<lb ed="#C" n="7" break="no"/>lustrare Patrum testimoniis, quae suo loco proferuntur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="324"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e29941"><!-- con1q5c6 -->
+            <head xml:id="wWpoi1-e29941-Hd1e106">Caput 6</head>
+            <p xml:id="wWpoi1-e29941-d1e109">
+               <lb ed="#C" n="21"/>CAPTTII 
+      <lb ed="#C" n="22"/>DE 
+    </p>
+            <p xml:id="wWpoi1-e29941-d1e116">
+               <lb ed="#C" n="23"/>TErtium eius generale argumentum est ex praxi Ecclesiae in Con¬ 
+      <lb ed="#C" n="24" break="no"/>ciliis, &amp; ex testimoniis Patrum: atque hic multus est in Conciliis 
+      <lb ed="#C" n="25"/>recitandis, a quibus controversias definitas esse dicit. Respondeo: Haec 
+      <lb ed="#C" n="26"/>quidem omnia quorsum spectent, non intelligo. Nos enim concedimus, 
+      <lb ed="#C" n="27"/>hanc esse viam valde commodam inveniendi verum Scripturae sensum, 
+      <lb ed="#C" n="28"/>vepijnimirum &amp; docti homines conveniant, &amp; diligenter causam 
+      exa<lb ed="#C" n="29" break="no"/>minent, veritatemque exquirant: sed ita tamen, vt non nisi ex 
+      Scriptu<lb ed="#C" n="30" break="no"/>ris quicquam pronunciare audeant. Atque hoc quidem nos iam diuop 
+      <lb ed="#C" n="31"/>tavimus. Duplex enim inde manat vtilitas. Prima: Quod a multis 
+      quae<lb ed="#C" n="32" break="no"/>ritur, facilius invenitur. Secunda: Errores, &amp; haeretici errorum patroni 
+      <lb ed="#C" n="33"/>facilius reprimuntur, cum communi multorum consensu ac indicio dam, 
+      <lb ed="#C" n="34"/>nantur. Sed hoc in omnibus controversiis, atque omni tempore, 
+      commo<lb ed="#C" n="35" break="no"/>de fieri non potest. Non enim potest quisquam, cum de loci alicuius in 
+      <lb ed="#C" n="36"/>terpretatione dubitat, Concilium statuim cogere. Iterum erit hisce de 
+      re<lb ed="#C" n="37" break="no"/>bus dicendum: ergo nunc vno verbo respondeo ad haec omnia, maxi¬ 
+      <!--334.xml-->
+      <pb ed="#L" n="325"/>
+               <lb ed="#C" n="1"/>mas sane controversias fuisse in Concilijs definitas ac constitutas, non 
+      <lb ed="#C" n="2"/>absoluta authoritate ipsius Concilij, sed iudicio &amp; authoritate Scripturae 
+      <lb ed="#C" n="3"/>in Concilio: Episcopi pij nunquam convenetunt, vt rem ipsi definirent  
+      <lb ed="#C" n="4"/>authoritate sua, sed Scripturarum. Ergo Scripturis summum iudicium 
+      <lb ed="#C" n="5"/>omnia pia Concilia detulerunt, Ita factum videmus, Act. 15. Ibi enim, 
+      <lb ed="#C" n="6"/>qui circumcisionem defendebant, ex lege Mofaica per Scripturas 
+      refu<lb ed="#C" n="7" break="no"/>tati sunt. Sic Novatiani authoritate Scripturarum sunt refutati. Sic 
+      Ana<lb ed="#C" n="8" break="no"/>baptistae, vt patet ex Augustino. Sic Ariani denique, in Concilio 
+      Nice<lb ed="#C" n="9" break="no"/>no, ex Scripturae authoritate &amp; refutati, &amp; damnati sunt. In hunc enim 
+      <lb ed="#C" n="10"/>modum Imperator Constantinus Patres in illo Concilio congregatos 
+      <lb ed="#C" n="11"/>alloquutus est: Sunt libri Prophetici &amp; Apostolici, qui aperte, quid credendum 
+      <lb ed="#C" n="12"/>sit, docent. Deposita igitur omni hostili discordia, ex diuvinitus inspiratis 
+      Scri<lb ed="#C" n="13" break="no"/>pturis sumamus carum rerum, quae in controversiam vocantur, τυσν, hoc est, 
+      <lb ed="#C" n="14"/>dissolutionem, sive disceptationem. Atque hoc quidem illud est, quod nos 
+      <lb ed="#C" n="15"/>petimus. Cum ergo Concilia semper Scripturas sequantur, si bona ac 
+      pia<lb ed="#C" n="16" break="no"/>fuerint; Scripturarum summam indicandi authoritatem esse constat.  
+      <lb ed="#C" n="17"/>Citat deinceps Iesuita Pontifices Romanos, &amp; Imperatores, Patresque multos, 
+      <lb ed="#C" n="18"/>Ide quibus etiam nos ordine breviterque respondebimus. Pontifices proferuntur,  
+      <lb ed="#C" n="19"/>Damasus in Epist. 3. ad Stephanum: Innocentius P. in Epist, ad Concilia 
+      Car<lb ed="#C" n="20" break="no"/>thag. &amp; Mileuit, quae sunt apud August. 91. &amp; 93. Leo. V. in Epist. 81. &amp; 89. 
+      <lb ed="#C" n="21"/>Gelasuis, in Epist. ad Episcopos Dardaniae: Gregorius, Lib. 4. Epist. 52. Hi 
+      do<lb ed="#C" n="22" break="no"/>cent causas graviores, praesertim fidei, ad iudicium sedis Apostolicae pertinere. 
+      <lb ed="#C" n="23"/>Respondeo primo, Delatas olim fuisse ad Ecclesiam Romanam causas 
+      gravio<lb ed="#C" n="24" break="no"/>res ex condicto &amp; instinuto Episcoporum, vt hoc modo paci Ecclesiasticae 
+      me<lb ed="#C" n="25" break="no"/>lius consuleretur, &amp; haeretici ac schismatici facilius reprimerentur: cum etiam 
+      <lb ed="#C" n="26"/>iniquumvideretur aliquid statuere, quod ad publicam fidei professionem 
+      per<lb ed="#C" n="27" break="no"/>tineret, non consulto Episcopoi Romano, qui primariam sedem obtinebat.  
+      <lb ed="#C" n="28"/>Hinc extitit, vt paulatim Episcopi illi maiorem sibi authoritatem raperent atque  
+      <lb ed="#C" n="29"/>arrogarent, &amp; ius divinum venditanuint, Catholicis interim non admodum 
+      re<lb ed="#C" n="30" break="no"/>clamantibus, qui in Ecclesia Romana magnum sibicontra haereticos 
+      praesidi<lb ed="#C" n="31" break="no"/>lumpositumessearbitrabantur. Secundo, has Decretales Pontificum Epistolas, 
+      <lb ed="#C" n="32"/>Damasi, lulij, &amp; aliorum, plane supposititias esse, nullius cerebri aut genii, 
+      ex<lb ed="#C" n="33" break="no"/>inscitia, artogantia, &amp; Antichristianismo conflatas. Innocentij Epistolas 
+      Eras<lb ed="#C" n="34" break="no"/>mus tanto Pontifice indignas esse iudicat, atque in eis &amp; dictionem, &amp; 
+      ingeni<lb ed="#C" n="35" break="no"/>um, &amp; eruditionem desiderat. Gelasuis vbiquesine modestia suae sedis 
+      digni<lb ed="#C" n="36" break="no"/>tatem &amp; privilegia amplificat. Leo ac Gregorius multo quidem verecundius 
+      <lb ed="#C" n="37"/>scribunt, &amp; tamen humilitatis Christianae cancellos longe multumque 
+      prae<lb ed="#C" n="38" break="no"/>tervehuntur. Tertio, Hos Episcopos non esse in sua re audiendos, quos satis 
+      <!--335.xml-->
+      <pb ed="#L" n="326"/>
+               <lb ed="#C" n="1"/>constet nimium fuisse suarum partium studiosos, &amp; sibi addictos, cum 
+      mani<lb ed="#C" n="2" break="no"/>festa aliarum Ecclesianim &amp; Episcoponum iniuria. 
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e246">
+               <lb ed="#C" n="3"/>Iam ad Imperatores veniamus, quorum primus Constantinus est. Is (
+      in<lb ed="#C" n="4" break="no"/>quit Bellarnimus) non prius assedit in Niceno Concilio, quam Episcopi, vt 
+      se<lb ed="#C" n="5" break="no"/>deret, anniissent; ut Euseb. L. 3. de vita Constant. &amp; hoc signo iudicavit se non 
+      <lb ed="#C" n="6"/>esse praesidentem Concilij. Et ibid. in epist. ad omnes Ecclesias ait, Quic quid 
+      <lb ed="#C" n="7"/>in sanctis Episcoporum Conciljs decernitur, id universum divinae voluntati, 
+      <lb ed="#C" n="8"/>attribui debet. Et de eodemsic Ambrosius loquitur, Epist. 32. (onstantinus 
+      <lb ed="#C" n="9"/>liberum dedit iudicium sacerdotibus: &amp; Augustinus, Epist. 162. scribit 
+      Do<lb ed="#C" n="10" break="no"/>natistas ab illo esse remissos ad suum indicem proprium Melchiadem, 
+      Ro<lb ed="#C" n="11" break="no"/>manum Episcopum. Respondeo. Haec nihil ad causam pertinete, quam in 
+      ma<lb ed="#C" n="12" break="no"/>nibus habemus. Nos non dicimus Constantinum Concilij Niceni praesidem: 
+      <lb ed="#C" n="13"/>fuisse, cui non nisi semelforsan interfuit. Quid tum denique? Nam 
+      nesto<lb ed="#C" n="14" break="no"/>manus Pontifex Concilio praesidebat, vt suo loco docebimus. Quod non 
+      as<lb ed="#C" n="15" break="no"/>sederit, nisi rogatus ab Episcopis, hoc illius singularem humanitatem &amp; 
+      pie<lb ed="#C" n="16" break="no"/>tatem erga Christi Episcopos argnebat, nihil aliud. Quod vero scripsent in 
+      <lb ed="#C" n="17"/>Epistola ad Ecclesias, divinae voluntati tribui debere, quod sancta 
+      Episcopo<lb ed="#C" n="18" break="no"/>rum Concilia statuunt; agnoscimus. Nam sancti Episcopi nil statuunt, nisi 
+      <lb ed="#C" n="19"/>quod divinae Scripturae loquantur, quas illi in suis decretis sequuntur: alias 
+      <lb ed="#C" n="20"/>sancti non sunt. Neque omnia omnium Conciliorum decreta pro divinis 
+      <lb ed="#C" n="21"/>habenda sunt, sed quae authoritate Scripturarum comprobantur, vtpost suo 
+      <lb ed="#C" n="22"/>loco ostendemus, Ambrosius de Constantino quid loquitur? Quid si enim 
+      <lb ed="#C" n="23"/>Constantinus sacerdotibus permiseritliberum indicum, &amp; eis mhil ipse 
+      prae<lb ed="#C" n="24" break="no"/>scripserit? Nomergo non illi deberent secundum Scripturas iudicare? Iam 
+      <lb ed="#C" n="25"/>vero Augustinus non scribit, Constantinum remisisse Donatistas ad 
+      Episco<lb ed="#C" n="26" break="no"/>pum Romanum, tanquam iudicem proprium. Non enim Donatistarum 
+      <lb ed="#C" n="27"/>proprius index Episcopus Romanius fuit: tum enim eos Constantinus 
+      coe<lb ed="#C" n="28" break="no"/>gisset in eius sententia acquiescere: sed alios postea judices dedit, &amp; tandem 
+      <lb ed="#C" n="29"/>ipse causam judicavit; quod Bellarminus praetermisit, quia cum ejus instituta 
+      <lb ed="#C" n="30"/>defensione aperte pugnat.  
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e309">
+               <lb ed="#C" n="31"/>Secundus est Gratanus, in Epist. ad Aquiliensem Episcopum, in qua 
+      al<lb ed="#C" n="32" break="no"/>tercati onis iudicium Episcopis permisit. Res pondeo. Quis negat Episcopos 
+      <lb ed="#C" n="33"/>posse huiusmodi lites iudicare? aut quid hoc ad causam, de interpretatione 
+      <lb ed="#C" n="34"/>Scripturanim? Tertius est Theodosius iunior, in Epist. ad synodum 
+      Ephesi<lb ed="#C" n="35" break="no"/>mam, inqua ait eos qui non sunt ex ordine Episcoporum, non debere 
+      Ecclesia<lb ed="#C" n="36" break="no"/>sticis immisceri tractatibus. Respondeo: An nullis liceat, nisi Episcopis, res 
+      Ec<lb ed="#C" n="37" break="no"/>clesiasticas tractare, alibi disputandum est: interim quid hoc facit, ad 
+      confir<lb ed="#C" n="38" break="no"/>lmandam summam Romani Pontificis in Scripturis interpretandis authorita 
+      <!--336.xml-->
+      <pb ed="#L" n="327"/>
+               <lb ed="#C" n="1"/>tem? Quartus est Martianus, qui L. Nemo. Cde summa Trinit, negat 
+      se<lb ed="#C" n="2" break="no"/>meliudicata revosvi &amp; disputari debere. Respondeo: Quae iudicata in 
+      Syno<lb ed="#C" n="3" break="no"/>do sunt secundum Scripturas, ea non posse iterum in Controversiam 
+      vo<lb ed="#C" n="4" break="no"/>cari sine iniuria Synodi. Sed num ideo quicquid Romanus Pontifex 
+      iu<lb ed="#C" n="5" break="no"/>dicavit, etiam contra apertas Scripturas, valere debet? Quintus est 
+      Va<lb ed="#C" n="6" break="no"/>lentinianus senior, qui permittit Episcopis, vbi voluerint, convenire, &amp; 
+      <lb ed="#C" n="7"/>negathoc ad se pertinere, vt Soxom. L. 6. c. 7. Respondeo. Valentinianus 
+      <lb ed="#C" n="8"/>negat fas esse sibi &amp; λας τεταγαισ τοιαυτα πολυωραγμονεῖν: ergo quid? 
+      Ro<lb ed="#C" n="9" break="no"/>manus Pontifex est iudex omnium interpretationum Scripturae, &amp; 
+      om<lb ed="#C" n="10" break="no"/>niumcontroversiarum? pulchre conclusum: Sextus est, Basilius 
+      Impera<lb ed="#C" n="11" break="no"/>tor in 8. Synodo, &amp; Septimus, Theodericus rex Gothorum in . 
+      Sy<lb ed="#C" n="12" break="no"/>nodo Romana sub Symmacho: qui nil aliud dicunt, quam laicos non 
+      de<lb ed="#C" n="13" break="no"/>bere sibi sumere, vt controversias Ecclesiasticas decidant, sed eas 
+      Episco<lb ed="#C" n="14" break="no"/>pis relinquant. Atqui non hinc sequitur aut Episcopum Romanum esse 
+      <lb ed="#C" n="15"/>summum interpretem Scripturae, aut Episcopos posse aliter, quam ex 
+      <lb ed="#C" n="16"/>Scripturis, controversias de fide &amp; religione definire. 
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e369">
+               <lb ed="#C" n="17"/>Iam de Patribus videamus. Et primo quidem in loco Irenaeum objicit, 
+      <lb ed="#C" n="18"/>3. Libr. contra haeret. cap. 2. vbi ait illum asserere, controversias ex solis 
+      <lb ed="#C" n="19"/>Scripturis finiri non posse, quia varie ab haereticis exponuntur; ac 
+      proin<lb ed="#C" n="20" break="no"/>de proximo capite haereticos, contra quos disputabat, ad Romanam 
+      Ec<lb ed="#C" n="21" break="no"/>clesiam remittere, &amp; docere, controversias ex doctrina Rom. Ecclesiae 
+      <lb ed="#C" n="22"/>finiendas esse. Respondeo. Qui ipsum Irenaei locum inspiciet, Iesuitae 
+      frau<lb ed="#C" n="23" break="no"/>dem &amp; calumniam facile agnoscet. Ibi enim Irenaeus hoc in haereticis 
+      il<lb ed="#C" n="24" break="no"/>lis, quibuscum temhabebat, reprehendit, quod non reciperent Scripturas, 
+      <lb ed="#C" n="25"/>sed magis traditiones vrgerent, ijsque adhaerescerent. Ratio vero illorum 
+      <lb ed="#C" n="26"/>fuit, quod Scriptura varios sensus, variamque interpretationem 
+      admit<lb ed="#C" n="27" break="no"/>teret. Hoc Iesuita tribuit Irenaeo, ac sieius sententia esset; cum Irenaeus eo 
+      <lb ed="#C" n="28"/>in loco non ex animo suo loquatur, sed haereticorum sententiam ac 
+      opi<lb ed="#C" n="29" break="no"/>nionemproponat, eamque reprehendat. Quod vero ad 3. cap. illius 
+      libri<lb ed="#C" n="30" break="no"/>attinet, remittit quidem Irenaeus eos haereticos ad Romanam Ecclesiam, 
+      <lb ed="#C" n="31"/>idque jure: quia illa Ecclesia tunc illustrissima fuit omniumque 
+      Ecclesi<lb ed="#C" n="32" break="no"/>arum nobilissima, &amp; Traditionem Apostolicam eo tempore 
+      incorrup<lb ed="#C" n="33" break="no"/>tam tenuit. At nunc collapsa est, &amp; multum mutata ab illa, quae olim fuit.  
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e408">
+               <lb ed="#C" n="34"/> Deinde, Athanasium objicit, in Epist. ad solitatiam vitam acentes, 
+      in<lb ed="#C" n="35" break="no"/>qua ille, loquensde Constantio Ariano, ait; Quando auditum est tudicium 
+      <lb ed="#C" n="36"/>Ecc lesiae authoritatem suam ab Imperatore accepisse? Res pondeo: Iudicia 
+      Ec<lb ed="#C" n="37" break="no"/>clesiae legitima, de rebus ad fidem spectantibus, vim suam atque 
+      autho<lb ed="#C" n="38" break="no"/>ritatem a nullo homine mutuari, sed ab ipso Deo. Ergo quisquis sibi su¬ 
+      <!--337.xml-->
+      <pb ed="#L" n="328"/>
+               <lb ed="#C" n="1"/>mit, vt de fide statuat, quemadmodum ipsi visum fuerit, quod impius 
+      <lb ed="#C" n="2"/>Constantius aperte fecit; is sibi divinam authoritatem arripit, etiam Rom. 
+      <lb ed="#C" n="3"/>Pontifex, aut omnes simel Pontifices, quorum est, non quid sibi placeat  
+      <lb ed="#C" n="4"/>pronunciare, sed quid Deus iudicaverit aperire, idque non aliter, quam 
+      per<lb ed="#C" n="5" break="no"/>Scripturas, sic vt semper agnoscant suam sententiam esse ad regulam 
+      <lb ed="#C" n="6"/>Scripturae exigendam, &amp; prout cum Scriptura consenserit, approbandam. 
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e439">
+               <lb ed="#C" n="7"/>sertio loco Basilium objicit, in Epist. 5 2. ad Athanasium, ubi ait, sibi 
+      <lb ed="#C" n="8"/>videri bonum, vt scribatur ad Romanum Episcopum, ve ipse authoritate 
+      <lb ed="#C" n="9"/>sua inittat aliquos in Orientem, qui Acta Concilij Ariminensis 
+      dissol<lb ed="#C" n="10" break="no"/>vant. Respondeo: Hoc quidem sibi Basilius visum esse scribit, fateor: sed  
+      <lb ed="#C" n="11"/>quid ad rem? Nonne Episcopi Catholici debent haereticas opiniones. 
+      <lb ed="#C" n="12"/>damnare, &amp; paci ac tranquillitati Ecclesiarum consulere? Postulat 
+      Ba<lb ed="#C" n="13" break="no"/>silius mitti ad Episcopum Rom. vt quia difficile erat aliquos mittere 
+      pub<lb ed="#C" n="14" break="no"/>lico decreto ac consensu, &amp;ο κοινοό κι ζυυοδικοδ δεγματος, ipse per se certos 
+      ho<lb ed="#C" n="15" break="no"/>mines ad hoc negotium idoneos eligat atque mittat, qui teneant omnia, 
+      <lb ed="#C" n="16"/>quae gesta sunt Arimini in Italia, ἐτι λυσειτουχε αναζκλενακεί ηυομζεων, uεquα 
+      <lb ed="#C" n="17"/>illic acta sunt per vim, dissolvant: id est, doceant in eo Concilio non 
+      ratio<lb ed="#C" n="18" break="no"/>nem aut Scripturam, sed vim &amp; fraudem valuisse, &amp; sic eius Concilij 
+      au<lb ed="#C" n="19" break="no"/>thoritatem minuant. Quid hinc quisquam colligat, quod Romano 
+      <lb ed="#C" n="20"/>Episcopo jus summum &amp; dictaturam quandam tribuat omnes 
+      Scriptu<lb ed="#C" n="21" break="no"/>ras interpretandi?: 
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e474">
+               <lb ed="#C" n="22"/>Quartus, quem obiicit, Nazianzenus est, in oratione de fuga; &amp; 
+      ite<lb ed="#C" n="23" break="no"/>rum, in orat, ad cives suos timore perculsos, vbi nihil habetur quod 
+      Ad<lb ed="#C" n="24" break="no"/>versariorum sententiae faveat. Vetat ne pascant Pastorem, aut iudicent 
+      iu<lb ed="#C" n="25" break="no"/>dicem: non quasi liceat Episcopis quidvis statuere, prout ipsis libitum 
+      fu<lb ed="#C" n="26" break="no"/>erit, &amp; populo nefas sit aut contradicere, aut inquitere; sed quia in 
+      iudi<lb ed="#C" n="27" break="no"/>cando temeritas cavenda est. Nam haereticos Episcopos, pastorum &amp; 
+      <lb ed="#C" n="28"/>iudicum loco ac munere fungentes, populus iudicare debet, si errate, &amp; 
+      <lb ed="#C" n="29"/>perire non vult.  
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e494">
+               <lb ed="#C" n="30"/>Quinto loco sequitur Chrysostomus, qui Homil. vitima, in Iohan. ait 
+      <lb ed="#C" n="31"/>Petrum toti orbi magistrum a Christo praepositum. Respondeo, sed non 
+      <lb ed="#C" n="32"/>solum: neque hoc ad Papae stabiliendam authoritatem aliquid valet.  
+      <lb ed="#C" n="33"/>Chrysostomus enim non ait, Papam esse mundo praepositum magistrum. 
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e505">
+               <lb ed="#C" n="34"/>Seaxtus est Cyrillus, quem Thomas citat in opusculo de erroribus 
+      Grae<lb ed="#C" n="35" break="no"/>corum. Respondeo: Illud testimonium in Cyrilli Thesauro non haberi, 
+      <lb ed="#C" n="36"/>quod Thomas contra Graecos citavit, vt quaeri merito possit, vnde 
+      Tho<lb ed="#C" n="37" break="no"/>mas illud ac ceperit, Apocryphum aliquod &amp; supposititium testimonium 
+      <lb ed="#C" n="38"/>est, cuiusmodi reliqua sunt, quibus Pontificius primatus nititurae¬ 
+      <!--338.xml-->
+      <pb ed="#L" n="329"/>
+               <lb ed="#C" n="1"/>Iam ad Latinos Patres Bellarminus accedit, &amp; septimo loco objicit, 
+      <lb ed="#C" n="2"/>Tertullianum, in Lib. de Praescript. ad vers. haereticos: vbi docet non 
+      de<lb ed="#C" n="3" break="no"/>bere ex Scripturis disputari cum haereticis. Respondeo: Tertullianus ait 
+      <lb ed="#C" n="4"/>quosdam haereticos non recipere quasdam Scripturas: contra tales 
+      ex<lb ed="#C" n="5" break="no"/>Scripturis non esse disputandum, sed aliis argumentis ytendum esse. Hoc 
+      <lb ed="#C" n="6"/>quidem nos fatemur, cum huiusmodi nimirum hominibus; qui 
+      Scriptu<lb ed="#C" n="7" break="no"/>ras negant &amp; rejiciunt, non ex Scripturis, sed ex Ecclesiae testimonio 
+      a<lb ed="#C" n="8" break="no"/>gendum esse, aut alijs argumentis pugnandum. Operam enim ludit, qui  
+      <lb ed="#C" n="9"/>contra negantes Scripturas ex Scripturis disputat. Tertullianus ergo 
+      ni<lb ed="#C" n="10" break="no"/>hil contra nos dicit. Et quis negat veritatem fuisse potissimum in 
+      Apo<lb ed="#C" n="11" break="no"/>stolicis Ecclesiis quaerendam? Num hinc effici potest Romanum 
+      Episco<lb ed="#C" n="12" break="no"/>pum esse summum iudicem controversiarum, &amp; interpretem 
+      Scriptura<lb ed="#C" n="13" break="no"/>tum? Nisi Romae Bellarminus viveret, &amp; Papae gratificari studeret, 
+      nun<lb ed="#C" n="14" break="no"/>quam isto modo disputatet. Tertulliano succedit Cyprianus, Lib. 1. 
+      E<lb ed="#C" n="15" break="no"/>pist. 3. vbi Cyprianus ait, haereses &amp; schismata inde nasci, quod sacerdotis 
+      <lb ed="#C" n="16"/>Dei non obtemperatur, nec unus in Ecclesia ad tempus sacerdos, &amp; ad tempus 
+      <lb ed="#C" n="17"/>tudex vice Christi cogitatur. Respondeo, hunc sacerdotem &amp; indicem non 
+      <lb ed="#C" n="18"/>esse vnum Pontificem Romanum, quemadmodum Iesuita fingit, sed  
+      <lb ed="#C" n="19"/>quemvis Ecclesiae Catholicum Episcopum. Nam de se nunc Cyprianus 
+      <lb ed="#C" n="20"/>loquitur, adversus quem Novatiani alterum Episcopum creaverant, &amp; 
+      <lb ed="#C" n="21"/>schisma atque haeresin in illam Ecclesiam invexerant. Sic Libi 4. Epist. 
+      <lb ed="#C" n="22"/>10. Inde (inquit) schismata &amp; haereses obortae sunt &amp; oriuntur, dum 
+      Episco<lb ed="#C" n="23" break="no"/>pus, qui vnus est, &amp; Ecclesiae praeest, superba quorundam prae sumptione 
+      contem<lb ed="#C" n="24" break="no"/>nitur. De singulis loquitur Episcopis singularum Ecclesiarum, quibus 
+      ta<lb ed="#C" n="25" break="no"/>men ne Bellarminus ipse tribuit absolutam interpretandi Scripturas 
+      po<lb ed="#C" n="26" break="no"/>testatem. Atque vt de Cornelio loqui Cyprianum concedamus, quid 
+      in<lb ed="#C" n="27" break="no"/>de aliud sequetur, quam fuisse hunc vnum Ecclesiae Romanae, non 
+      omni<lb ed="#C" n="28" break="no"/>um Ecclesiarum sacerdotem? Ambrosius vero in Epist. 32. 
+      Valentinia<lb ed="#C" n="29" break="no"/>num luniorem graviter &amp; metrito reprehendit, quod judicium de causis 
+      <lb ed="#C" n="30"/>fidei Episcopis Catholicis praeriperet, &amp; sibi arrogaret. Quis enim 
+      dubi<lb ed="#C" n="31" break="no"/>tat pastorum &amp; Episcoporum esse de causis fidei udicare? Sed num 
+      er<lb ed="#C" n="32" break="no"/>go aut summus iudex erit Romanus Pontifex, aut pro suo arbitratu 
+      Epis<lb ed="#C" n="33" break="no"/>copi iudicabunt?  
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e595">
+               <lb ed="#C" n="34"/>Objicitur deinceps nobis Augustinus, qui 1. lib. contra Crescon. 
+      Gram<lb ed="#C" n="35" break="no"/>mat. 33. cap. ait. Qui falli metuit, Ecclesiam consulat. Res pondeo: Fatemur:  
+      <lb ed="#C" n="36"/>id quidemm sed cum ea conditione, quam Augustinus subiungit: eam 
+      <lb ed="#C" n="37"/>nempe Ecclesiam consulendam esse, quam Scriptura demonstrat. Quae 
+      e<lb ed="#C" n="38" break="no"/>nim vera sit Ecclesia, nisiex Scripturis, certo constare non potest. In omnis 
+      <!--339.xml-->
+      <pb ed="#L" n="330"/>
+               <lb ed="#C" n="1"/>causa fidei consulendam Ecclesiam esse dicimus, &amp; Ecclesia debet 
+      consu<lb ed="#C" n="2" break="no"/>lere Scripturam. Et merito sane falluntur, qui Ecclesiam non consulunt, 
+      e<lb ed="#C" n="3" break="no"/>iusque piis consiliis atque monitis obtemperant. Sed quanquam pij 
+      docto<lb ed="#C" n="4" break="no"/>res quaerendi atque interrogandi sunt, &amp; superbae periculosaeque 
+      tentati<lb ed="#C" n="5" break="no"/>ones cavendae, vt Augustinus monuit, in Prologo librorum de Doctr. 
+      <lb ed="#C" n="6"/>Christiana; tamen videndum est quid respondeant, &amp; quam vere, ne fides 
+      <lb ed="#C" n="7"/>nostra non divinis testimoniis, sed huimanis documentis nitatur. Fides 
+      <lb ed="#C" n="8"/>enim non est, quae posita est in hominum authoritate: &amp; in hominum 
+      au<lb ed="#C" n="9" break="no"/>thoritate ponitur, quae non a Dei verbo voceque pendet. 
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e632">
+               <lb ed="#C" n="10"/>At Hieronymus (inquit) ad Damasumsic scribit: Non timebo dicere 
+      <lb ed="#C" n="11"/>tres esse hypostases, si iubetis: ergo is in Romani Pontificis authoritate 
+      <lb ed="#C" n="12"/>totus acquievit. Respondeo: Fuit Hieronymus quidem admodum 
+      solici<lb ed="#C" n="13" break="no"/>tus &amp; dubius, num dicere deberet cum Graecis Episcopis tres esse 
+      hypo<lb ed="#C" n="14" break="no"/>stases. Agnoscebat ille tres personas: sed hoc vocabulum (θπρυρμσ) 
+      suspe<lb ed="#C" n="15" break="no"/>ctum habebat, in quo putabat forsan aliquid veneni latere. Apud Graecos 
+      <lb ed="#C" n="16"/>passim cum legeret, tres esse hypostases, veritus est ne dicerent, tres esse 
+      <lb ed="#C" n="17"/>Deos. Consuluit vero hac de re Romanum Episcopum, ipse in solitudine 
+      <lb ed="#C" n="18"/>constitutus, quod nullum doctum virum eo in loco haberet, quem consuleret: 
+      <lb ed="#C" n="19"/>&amp; cum potius quam alium consulere voluit, quia Ecclesiae Romanae 
+      presby<lb ed="#C" n="20" break="no"/>ter fuit; &amp; Damasus, cum eiusdem Ecclesiae Episcopus esset, optime scue 
+      po<lb ed="#C" n="21" break="no"/>tuit Ecclesiae illius sensum, quem Hieronymus sequi libenter cupiebat, Fuit 
+      er<lb ed="#C" n="22" break="no"/>go de verbo, non de re, controversia. Nam tem ipsam Hieronymus 
+      te<lb ed="#C" n="23" break="no"/>nebat: quid vero de verbo Damasus sentiret, &amp; Ecclesia Romana 
+      statue<lb ed="#C" n="24" break="no"/>ret, scire Hieronymus desiderabat, quia in illius Ecclesiae consensu &amp; 
+      <lb ed="#C" n="25"/>consuetudine ac quiescere cupiebat.  
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e669">
+               <lb ed="#C" n="26"/>Quod deinde Sulpitius, Lib. 2. historiae sacrae, namat de Martiuo, 
+      quem<lb ed="#C" n="27" break="no"/>admodum Maximo Imperatori responderit, nefas esse quod causam Ecclesiae. 
+      <lb ed="#C" n="28"/>tudet seculi iudicaret; Respondeo, Martinum Ecclesiae vindicare judicium 
+      <lb ed="#C" n="29"/>de genere doctrinae, non concedere Imperatori. Et quis negat ad 
+      Episco<lb ed="#C" n="30" break="no"/>pos hac iudicium pertinere? Sed num propterea Romanus Pontifex solus 
+      <lb ed="#C" n="31"/>haec iudicia tractabit, aut summus ent iudex Ecclesiae, atque interpres 
+      Scni<lb ed="#C" n="32" break="no"/>pturae? Viderit Bellarminus quantam sibi in disputando licentiam 
+      sumpse<lb ed="#C" n="33" break="no"/>rit. Inter huiusmodi Praemissas, &amp; quaestionis institutae conclusionem, 
+      longissi<lb ed="#C" n="34" break="no"/>mum intervallum interest. Iam vero Prosper, qui sequitur, non probat, vt 
+      <lb ed="#C" n="35"/>Bellarminus affirmat, in fine libri contra Cassianum Collatorem, 
+      Pelagia<lb ed="#C" n="36" break="no"/>nos non aliter haereticos esse, quam quia damnati fuerant a Romanis 
+      Episco<lb ed="#C" n="37" break="no"/>pis. Nam contra Pelagianos toto libro, multisque argumentis 
+      contende<lb ed="#C" n="38" break="no"/>rat ex Augustino fere sumptis, &amp; in fine commemorat, quemadmodum De¬ 
+      <!--340.xml-->
+      <pb ed="#L" n="331"/>
+               <lb ed="#C" n="1"/>lagiani fuerint ab Innocentio, Sozimo, Bonifacio Coelestino damnati. 
+      <lb ed="#C" n="2"/>Hoc nil aliud fuit, quam probare, non aliter haereticos esse Pelagianos, 
+      <lb ed="#C" n="3"/>quam quia damnati fuerant ab Episcopis Romanis: 
+      </p>
+            <p xml:id="wWpoi1-e29941-d1e711">
+               <lb ed="#C" n="4"/>Adducit postea Vincentium Litinensem lesuita, qui in suo 
+      commo<lb ed="#C" n="5" break="no"/>nitorio, praeter Scripturae Canonem adhibendam esse docet normam 
+      Ca<lb ed="#C" n="6" break="no"/>tholici sersus. Respondeo; Non esse fingulos homines suis privatis 
+      opi<lb ed="#C" n="7" break="no"/>nionibus relinquendos, sed esse fidei αναλονίαν retinendam, &amp; 
+      Propheti<lb ed="#C" n="8" break="no"/>cae Apostolicaeq interpretationis lineam. Sed quae illa tandem est? Eam (
+      in<lb ed="#C" n="9" break="no"/>quit Bellarminus) ostendit esse Conciliorum decreta, consensionem 
+      Pa<lb ed="#C" n="10" break="no"/>trum, &amp; similia. Et nos ista magni facimus, non tamen promiscue, sed  
+      <lb ed="#C" n="11"/>cum delectu. Nam Conciliorum decreta omnia non perinde integra 
+      <lb ed="#C" n="12"/>sunt, &amp; Patrum consensio nunquam probari poterit. Sed quare 
+      Vincen<lb ed="#C" n="13" break="no"/>tius non meminit Romani Pontificis, cum de recta Scripturae 
+      interpreta<lb ed="#C" n="14" break="no"/>tione disputaret? Quis non videt Vincentio ignotum hunc fuisse prae 
+      cla<lb ed="#C" n="15" break="no"/>rum interpretem Scripturae? Gregorius sequitur, qui in Lib. 5. Epist. 
+      <lb ed="#C" n="16"/>25. ait: Scimus pussimos dominos disciplinam dirigere, ordinem servare, cano: 
+      <lb ed="#C" n="17"/>nes venerari, &amp; se sacerdotalibus negotus non miscere. Respondeo: Pij 
+      prin<lb ed="#C" n="18" break="no"/>cipes non solent tractare negotia sacerdoralia, neque hoc illis licere 
+      di<lb ed="#C" n="19" break="no"/>citur. Sed quid hoc ad causam Iesuitae? Num enim inde sequitur, 
+      sum<lb ed="#C" n="20" break="no"/>mam interpretationem Scripturae, iudiciumque controversiarum 
+      om<lb ed="#C" n="21" break="no"/>nium ad Romanum Episcopum pertinere? Haec testimonia ad aliam 
+      <lb ed="#C" n="22"/>quaestionem potius spectant, Vtium Princeps debeat Religionis curam 
+      <lb ed="#C" n="23"/>suscipere. Sed lesuitae quidlibet possunt e quolibet arguere pro suo 
+      acu<lb ed="#C" n="24" break="no"/>mine. Anselmum &amp; Bernatdum praetermitto, atque per tempus, in quo 
+      <lb ed="#C" n="25"/>vixerunt, excuso, si forte nimium aliquid Pontifici Romano tribuerunt. 
+      <lb ed="#C" n="26"/>Si testimonia adhuc plura atque acriora adduceret, ea tamen, cum 
+      hu<lb ed="#C" n="27" break="no"/>mana essent, nullum θτεδρκτκον argumentum efficerent. Atque hactenus 
+      <lb ed="#C" n="28"/>de tertio Iesuitae argumento. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

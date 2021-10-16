@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="423"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e38987"><!-- con1q6c11 -->
+            <head xml:id="wWpoi1-e38987-Hd1e106">Caput 11</head>
+            <p xml:id="wWpoi1-e38987-d1e109">
+               <lb ed="#C" n="18"/>CAPVT VNDECIUVI 
+      <lb ed="#C" n="19"/>
+               <name xml:id="wWpoi1-e38987-Nd1e115">Bellamini</name> tertium argumentum diluitur:  
+      <lb ed="#C" n="20"/>ea Equitur jam <name xml:id="wWpoi1-e38987-Nd1e120">Bellarmini</name> argumentum tertium, quod totum pendet 
+      <lb ed="#C" n="21"/>ex testimonio &amp; authoritate Conciliorum generalium. Nam 
+      de<lb ed="#C" n="22" break="no"/>cretales quorundam Pontificum Epistolas non moramur. Tria Concilia 
+      <lb ed="#C" n="23"/>proponit, Nicenum primum, Nicenum secundum, &amp; 
+      Constantinopoli<lb ed="#C" n="24" break="no"/>tanum, quod fuit octavum generale Concilium. Quod attinet ad 
+      pri<lb ed="#C" n="25" break="no"/>mum illud Nicenum Concilium, ait Theodoretum, Lib. 15. historiae suae, 
+      <lb ed="#C" n="26"/>cap. 6, aperte scribere, Arium in illo Concilio damnatum fuisse ex 
+      Tradi<lb ed="#C" n="27" break="no"/>tione non scripta. Protulerunt enim &amp; Ariani ipsi (inquit) nonnulla 
+      ex<lb ed="#C" n="28" break="no"/>Scripturis: ergo non ex Scripturis, sed doctrina tradita damnati sunt. 
+      Re<lb ed="#C" n="29" break="no"/>spondeo: primo, Quale hoc argumentum est? Ariani ex Scripturis 
+      multa<lb ed="#C" n="30" break="no"/>protulerunt: ergo non potuerunt ex Scripturis refelli. Si haec 
+      consequen<lb ed="#C" n="31" break="no"/>tia fima sit, tum certe nulli haeretici possunt ex Scripturis refelli: 
+      profe<lb ed="#C" n="32" break="no"/>runt enim omnes haeretici Scripturas. Sed Ariani male Scripturas in 
+      alie<lb ed="#C" n="33" break="no"/>num sensum detorserunt, quorum impias expositiones Patres in illo 
+      Con<lb ed="#C" n="34" break="no"/>cilio congregati refellebant ex Scripturis, vt patet ex Socrate, Sozome- 
+      <lb ed="#C" n="35"/>no, Athanasio, qui Concilio Niceno interfuit, &amp; ex Scripturis multa 
+      con<lb ed="#C" n="36" break="no"/>tra Arium disputavit. Vetum Iesuita forte sic rationem instituit, 
+      quasi<lb ed="#C" n="37" break="no"/>Ariani plura ex Scripturis proferre possent pro se, quam Patres Catholici: 
+      <lb ed="#C" n="38"/>contra illos, atque ideo non esset tutum Catholicis confidere Scripturis. 
+      <!--433.xml-->
+      <pb ed="#L" n="424"/>
+               <lb ed="#C" n="1"/>At non potuerunt plura proferre. Neque tamen ille verissimam sempers 
+      <lb ed="#C" n="2"/>causam defendit, qui plurimas potest ex Scripturis sententias cumulare. 
+      <lb ed="#C" n="3"/>Qui enim vnam sententiam recte intellectam profert ex Scriptura, isj 
+      <lb ed="#C" n="4"/>meliorem causam habet, quam qui pluribus Scripturae locis abutitur. A¬c 
+      <lb ed="#C" n="5"/>thanasius quidem refellit Atianos ex Scripturis, &amp; reliqui Patres 
+      Scriptu<lb ed="#C" n="6" break="no"/>ris magis confisi sunt, quam Traditionibus. Alias Augustinus, in Lib. 3. 
+      <lb ed="#C" n="7"/>cap. 14. contra Maximinum Arianum, nunquam illum a Conciliis ads 
+      <lb ed="#C" n="8"/>Scripturas revocasset: vbi habetur celebre illud dictum: Nec ego Nicenum, 
+      <lb ed="#C" n="9"/>nec tu debes Ariminense, tanquam praeiudicaturus, proferre Concilium, nec 
+      e<lb ed="#C" n="10" break="no"/>go huius authoritate, nec tu illius detineris. Scripturarum authoritatibus, 
+      <lb ed="#C" n="11"/>non quorumque propriis, sed uvtrisque communibus testibus, res cum re, causal 
+      <lb ed="#C" n="12"/>cum causa, ratio cum ratione concertet. Itaque Augustinus in hac causa 
+      po<lb ed="#C" n="13" break="no"/>tissimum confisus est Scripturis. Praeterea Constantinus (ut refert 
+      The<lb ed="#C" n="14" break="no"/>odoret. Lib. 11. cap. 7. suae historiae) aperte ait, doctrinam Spiritus sanctis 
+      <lb ed="#C" n="15"/>esse αναγρατον, scriptam. Haec eius verba sunt: Nam libri (inquit) 
+      Evangeli<lb ed="#C" n="16" break="no"/>starum &amp; Apostolorum, quinetiam veterum Prophetarum oracula, nos eviden 
+      <lb ed="#C" n="17"/>ter docent, quid de diuvinis rebus sentiendum sit. Omni igitur seditiosa 
+      conten<lb ed="#C" n="18" break="no"/>tione depulsa, literarum diuvinitus inspiratarum testimoniis res in quaestionem 
+      <lb ed="#C" n="19"/>adductas dissolvamus: ἐκ τις θεοπνευσον λόγον λαζουδν τῶ ζητυμζεον τυν λυση 
+      <lb ed="#C" n="20"/>Itaque hortatur Constantinus illius Concilij Patres, vetotam hanc 
+      Con<lb ed="#C" n="21" break="no"/>troversiam ex libris Propheticis ac Apostolicis definiant, Secundo, respon 
+      <lb ed="#C" n="22"/>deo illud esse falsum, quod affirmat Theodoretum diserte scribere, 
+      dam<lb ed="#C" n="23" break="no"/>natos fuisse Arianos ex Traditione non scripta. Scribit enim 
+      Theodore<lb ed="#C" n="24" break="no"/>tus scriptum Eusebij, Nicomediensis convictum fuisse apertae 
+      blasphe<lb ed="#C" n="25" break="no"/>miae ex Scripturis. Eius verba haec sunt: ζuυηγαγον ακ τιίχραρόν. Et ex 
+      Scri<lb ed="#C" n="26" break="no"/>pturis colligebant testimonia contra Eulebium &amp; alios Atianos. Fateori  
+      <lb ed="#C" n="27"/>quidem verbum ἀμοιιος ex antiquitate comprobatum esse, quod 
+      vsur<lb ed="#C" n="28" break="no"/>patum fuisset ante annos 130 ab Epii copis, qui tum in Ecclesiis flore 
+      <lb ed="#C" n="29"/>bant, quia Ariani novum esse vocabulum calumniabantur. Nomen 
+      fate<lb ed="#C" n="30" break="no"/>mur non haberi in Scripturis, sed tamen vis nominis in Scripturis 
+      habe<lb ed="#C" n="31" break="no"/>tur. Ex verbis Scripturae recte intellectis damnati sunt Ariani, inquit Theei 
+      <lb ed="#C" n="32"/>odoretus eodem in loco: α ἐγγραρον μιι ευσεθειασ εννουμηνον λζεαιηεί 
+      <lb ed="#C" n="33"/>xριθεταν. Quid scrbi disertius potuit? &amp; ait, quae ex Scripturis cona 
+      A<lb ed="#C" n="34" break="no"/>rium afferebant, vim eandem &amp; sententiam habere, quam habet αμοια: 
+      <lb ed="#C" n="35"/>εχει το σκμασιν. 
+      </p>
+            <p xml:id="wWpoi1-e38987-d1e243">
+               <lb ed="#C" n="36"/>Venio nunc ad Concilium Nicenum secundum, in cuius actione 
+      se<lb ed="#C" n="37" break="no"/>xta haec verba habentur: Servantur a nobis multa fine Scriptura, exempli 
+      <lb ed="#C" n="38"/>causa, imaginum veneratio. Res pondeo: Nos illud Concilium nihili aesti¬ 
+      <!--434.xml-->
+      <pb ed="#L" n="425"/>
+               <lb ed="#C" n="1"/>mamus, nec eius authoritatem agnoscimus, immo impium illud &amp; 
+      sce<lb ed="#C" n="2" break="no"/>leratum conventiculum fuisse dicimus, in quo multa contra Scripturas 
+      <lb ed="#C" n="3"/>apertissime conclusa sunt. Vt Nicenum primum vere Catholicum fuit, 
+      <lb ed="#C" n="4"/>ita hoc secundum Nicenum plane haereticum fuit, de quo suo loco 
+      di<lb ed="#C" n="5" break="no"/>cemus. Si esset in Papistis pudor aliquis, ipsos etiam huius Concilij 
+      pu<lb ed="#C" n="6" break="no"/>deret. Sed accipimus quod ille dat, hos Patres dixisse, imaginum 
+      vene<lb ed="#C" n="7" break="no"/>rationem non posse ex Scripturis probari. Quare ergo non pudet illos 
+      <lb ed="#C" n="8"/>tot Scripturae locis ad hanc rem confirmandam tam turpiter abutis 
+      </p>
+            <p xml:id="wWpoi1-e38987-d1e274">
+               <lb ed="#C" n="9"/>Tertio, objicit Bellarminus octavum generale Concilium, actione 
+      se<lb ed="#C" n="10" break="no"/>xta, vbi Patres illius Concilij dicunt, se tenere Traditiones Apostolicas 
+      <lb ed="#C" n="11"/>&amp; Ecclesiasticas. Respondeo eodem plane modo, quo supra. Nos huius 
+      <lb ed="#C" n="12"/>Concilij nulla authoritate aut reverentia tenemur, quod priori simile 
+      fu<lb ed="#C" n="13" break="no"/>it, &amp; profanam εἰκονολατρειαν stabilivit. Habitum quidem est 9o0. post 
+      <lb ed="#C" n="14"/>Christum annis. Haec Bellarmini Concilia fuerunt, Nonne verorem 
+      pul<lb ed="#C" n="15" break="no"/>chre demonstravit? 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

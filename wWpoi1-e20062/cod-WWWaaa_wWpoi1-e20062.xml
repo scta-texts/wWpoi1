@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="217"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e20062"><!-- con1q3c4 -->
+            <head xml:id="wWpoi1-e20062-Hd1e106">Caput 4</head>
+            <p xml:id="wWpoi1-e20062-d1e109">
+               <lb ed="#C" n="33"/>CAPI 
+      <lb ed="#C" n="34"/>In quo secundum argumentum Si apletoni proponitur 
+      <lb ed="#C" n="35"/>QQUυu 
+    </p>
+            <p xml:id="wWpoi1-e20062-d1e118">
+               <lb ed="#C" n="36"/>IN Libro igituro cap. 5. praeclarum proponit argumentum, quod  
+      <lb ed="#C" n="37"/>ita se habet: Quaedam Prophetarum &amp; Apostolorum scripta 
+      Ca<lb ed="#C" n="38" break="no"/>nonicam authoritatem non habent, &amp; quaedam quae non sunt Prophe¬ 
+      <!--227.xml-->
+      <pb ed="#L" n="218"/>
+               <lb ed="#C" n="1"/>tarum aut Apostolorum, in Canonem recipiuntur: ergo Ecclesiae iudicio 
+      <lb ed="#C" n="2"/>totus Canon Scripturarum nititur ac definitur: illa Scripturae Canonem? 
+      <lb ed="#C" n="3"/>statuere debet: ex eius ergo testimonio Scriptura suam authoritatem 
+      <lb ed="#C" n="4"/>habet.
+    </p>
+            <p xml:id="wWpoi1-e20062-d1e140">
+      Respondeo tria: Primum, Fieri potest, vt Prophetae &amp; Apostoli 
+      non<lb ed="#C" n="5" break="no"/>nulla communiter ad privatos quosdam homines scripserint, 
+      quemad<lb ed="#C" n="6" break="no"/>modum David ad loabum privatas literas misit. Ista revera in Canonem: 
+      <lb ed="#C" n="7"/>recipi non debent. Sed quaecunque scripserunt vt Prophetae, &amp; a Deo 
+      <lb ed="#C" n="8"/>inspirati, ad publicam institutionem Ecclesiae, ea in Canonem recepta 
+      <lb ed="#C" n="9"/>sunt. 
+    </p>
+            <p xml:id="wWpoi1-e20062-d1e153">
+      Secundum. Quaero ab illo, vtrum scripta ista, de quibus loquitur,  
+      <lb ed="#C" n="10"/>fuerint in se sacra &amp; divina necne? Si fuerint, tum Ecclesia debuit illa 
+      <lb ed="#C" n="11"/>admittere atque approbare suotestimonio, vt ipsi concedunt, &amp; erravit.  
+      <lb ed="#C" n="12"/>Ecclesia, quae illa non receperit: est enim Ecclesiae officium sacras 
+      Scri<lb ed="#C" n="13" break="no"/>pturas agnoscere, &amp; aliis etiam commendare. Si non fuerint, tum 
+      cer<lb ed="#C" n="14" break="no"/>tum est a Prophetis &amp; Apostolis alio consilio scripta fuisse, quam ut in 
+      <lb ed="#C" n="15"/>Canonem reciperentur, adeovt nec potuerit ea, nec debuerit Ecclesia in 
+      <lb ed="#C" n="16"/>Canonem recipere.
+    </p>
+            <p xml:id="wWpoi1-e20062-d1e172">
+      Tertium, Nullum eiusmodi publicum scriptum vel 
+      <lb ed="#C" n="17"/>Propheticum vel Apostolicum proferri potest, quod non sit in Scripturae 
+      <lb ed="#C" n="18"/>Canonem ab Ecclesia receptum. Sed Stapletonus probat multa 
+      eius<lb ed="#C" n="19" break="no"/>modi scripta fuisse tum Prophetarum, tum Apostolorum, quae Ecclesia 
+      <lb ed="#C" n="20"/>nunquam comprobarevoluerit. Et primo, Prophetarum quaedam scripta 
+      <lb ed="#C" n="21"/>commemorat, deinde Apostolorum, quae in Canonem nunquam 
+      rece<lb ed="#C" n="22" break="no"/>pta sint. A Samuele, inquit, Nathano, &amp; Gad, scripta sunt gesta 
+      Davi<lb ed="#C" n="23" break="no"/>dis, vt patet 1. Paralip. cap. vlt. 29. at hi libri iam Canonici non sunt: ergo 
+      <lb ed="#C" n="24"/>in Ecclesiae arbitrio positum est, sacrae Scripturae libros vel pro Canonicis 
+      <lb ed="#C" n="25"/>suscipere, vel vt Apocryphos respuere &amp; rejicere. 
+    </p>
+            <p xml:id="wWpoi1-e20062-d1e194">
+      Respondeo: Eo loco 
+      sa<lb ed="#C" n="26" break="no"/>cram historiam primi &amp; secundi Samuelis intelligi, contextam a tribus 
+      <lb ed="#C" n="27"/>illis Prophetis, Samuele, Nathano, &amp; Gad, quam <name xml:id="wWpoi1-e20062-Nd1e200">Stapletonus</name> imprudens 
+      <lb ed="#C" n="28"/>Canonicam esse negat. Certum est enim non fuisse hos libros ab vno 
+      Sa<lb ed="#C" n="29" break="no"/>muele ambos conscriptos, quia Samuel mortuus est ante finem 
+      primi<lb ed="#C" n="30" break="no"/>libri. Hos vero libros Ecclesia semper pro Canonicis agnovit. 
+      Stapleto<lb ed="#C" n="31" break="no"/>nus vero putat aliam quandam historiam ab illis eximiis Prophetis 
+      esa<lb ed="#C" n="32" break="no"/>boratam designari, quod nullo argumento probari potest. Secundo, dicit  
+      <lb ed="#C" n="33"/>Salomonis res gestas a Nathano, Ahia, &amp; Ieddone literis mandotas 
+      fu<lb ed="#C" n="34" break="no"/>isse, vt patet, 2. Paralip. 9. 29. Respondeo, illam historiam hoc loco 
+      signifi<lb ed="#C" n="35" break="no"/>cari, quae habetur 1. Lib. Regum: aut si alia historia intelligatur, quo 
+      <lb ed="#C" n="36"/>modo probat eandem, cum extaret, Canonicam authoritatem 
+      nonha<lb ed="#C" n="37" break="no"/>buisse? Tertio, probat ex 2. Paralip. 13. 22. Abihae historiam ab 
+      Iddo<lb ed="#C" n="38" break="no"/>ne Propheta scriptam fuisse, quae quidem iam in Scripturarum Canone 
+      <!--228.xml-->
+      <pb ed="#L" n="219"/>
+               <lb ed="#C" n="1"/>Non extat. 
+    </p>
+            <p xml:id="wWpoi1-e20062-d1e234">
+      Respondeo, eandem plane historiam esse, quae habetur de Abiha
+      <lb ed="#C" n="2"/>Rege, 1. Reg. 15. Quarto, dicit historiam Iehosaphat a Iehu Propheta 
+      <lb ed="#C" n="3"/>scriptam fuisse, idque probat ex 2. Paralip. 20. 34. Respondeo, eandem 
+      hi<lb ed="#C" n="4" break="no"/>storiam intelligi, quae extat. 1. Reg. 16. Certum enim est historias 
+      Iudi<lb ed="#C" n="5" break="no"/>cum, &amp; Ruth, &amp; Samuelis, &amp; Regum, a pluribus Prophetis conscriptas 
+      <lb ed="#C" n="6"/>fuisse: vnde Matth. 2. vIt. vers. ex libro Iudicum testimonium citatur (
+      nus<lb ed="#C" n="7" break="no"/>quam enim alibi reperitur) &amp; tamen dicit Matthaeus, vt impleretur id, 
+      <lb ed="#C" n="8"/>quod dictum est per prophetas, το ρηθεν σια το ωρορητῆς: ex quo facile 
+      intelligi<lb ed="#C" n="9" break="no"/>potest, librum illum a pluribus Prophetis conscriptum &amp; compositum 
+      <lb ed="#C" n="10"/>fuisse. Quinto, dicit multa Salomonis scripta in Canone Scripturarum 
+      <lb ed="#C" n="11"/>iam minime extare. Respondeo, id minime mirum esse, quia iampridem 
+      <lb ed="#C" n="12"/>perierunt, nec omnino extant. Nam Canonica quaedam periisse, 
+      credo<lb ed="#C" n="13" break="no"/>esse neminem qui dubitet. Quod si iam extarent, probandum esset 
+      Sta<lb ed="#C" n="14" break="no"/>pletono, in Ecclesiae authoritate situm esse, vt essent, vel non essent in 
+      Ca<lb ed="#C" n="15" break="no"/>none. Affert deinceps testimonium ex Augustino, Lib. 17. de Civit. Dei, 
+      <lb ed="#C" n="16"/>cap. vlt vbi haec verba reperiuntur: Sunt scripta eorum (intelligit 
+      Zacha<lb ed="#C" n="17" break="no"/>riam, Malachiam, Aggeum) sicut aliorum, qui in magna multitudine 
+      pro<lb ed="#C" n="18" break="no"/>phetarunt: perpauci ea scripserunt, quae authoritatem Canonis haberent. 
+      Re<lb ed="#C" n="19" break="no"/>Spondeo, Ista, quae ab Augustino dicuntur, nihil ad nostram causam 
+      spe<lb ed="#C" n="20" break="no"/>ctant. Non enim ait, multa a Prophetis scripta esse, quae Canonicam 
+      au<lb ed="#C" n="21" break="no"/>thoritatem non haberent; sed inter multos Prophetas paucos admodum, 
+      <lb ed="#C" n="22"/>fuisse, qui scripserint: quia scilicet multi Prophetae nihil scripserunt 
+      omni<lb ed="#C" n="23" break="no"/>no. Ait ergo multos, qui viva voce Ecclesiam docuetunt, Prophetas 
+      fuis<lb ed="#C" n="24" break="no"/>se; paucos autem, qui aliquid omnino scripserint, Hanc Augustini 
+      men<lb ed="#C" n="25" break="no"/>tem ac sententiam esse constat: vnde obiter Stapletoni fides in Patribus. 
+      <lb ed="#C" n="26"/>citandis anitnadverti potest. Atque haec de Prophetatum scriptis obiecit, 
+      <lb ed="#C" n="27"/>Stapletonus: Iam ad Apostolorum scripta, quae ille non esse in Canonem 
+      <lb ed="#C" n="28"/>recepta dicit, veniamus. 
+      </p>
+            <p xml:id="wWpoi1-e20062-d1e295">
+               <lb ed="#C" n="29"/>Primo Epistolam ad Laodicenses nominat, quam a Paulo scriptam 
+      <lb ed="#C" n="30"/>fuisse probat ex Coloss. 4.16. Atqui illa Epistola iam (inque) non est 
+      in<lb ed="#C" n="31" break="no"/>Canone. Respondeo. Nulla huiusmodi Epistola eo in loco 
+      commemora<lb ed="#C" n="32" break="no"/>tur. Apostolus enim dicit ἐ Ααοικειας, non ωρος λαοδικειαν, adeo vt haec 
+      <lb ed="#C" n="33"/>Epistola, cuius hic mentio fit, non ad Laodicenses, sed ex Laodicea 
+      scri<lb ed="#C" n="34" break="no"/>pta sit: error natus est ex vulgari editione Latina, quae legit Epistolam 
+      <lb ed="#C" n="35"/>Laodicensium. Olim quide n Epistola quaedam eo nomine ferebatur, &amp; 
+      <lb ed="#C" n="36"/>multi antiqui eius meminerunt. vt Epiphan. in Lib. contra Marcionit.  
+      <lb ed="#C" n="37"/>&amp; alij. Faber Stapulensis inter Paulinas Epistolas hanc recenset, sed eo 
+      <lb ed="#C" n="38"/>nomine ab Erasmo reprehenditur. Illi aequiores sunt, &amp; probabilius 
+      sen<lb ed="#C" n="39" break="no"/>tiunt, qui putant talem Epistolam fuisse, sed iam periisse. Verum ne id 
+      <!--229.xml-->
+      <pb ed="#L" n="220"/>
+               <lb ed="#C" n="1"/>quidem ex hoc loco colligi potest. Id mihi potius hoc loco 
+      significari<lb ed="#C" n="2" break="no"/>videtur, Laodicenses nempe ad Paulum Epistolam scripsisse, in qua 
+      quo<lb ed="#C" n="3" break="no"/>niam quaedam fuerunt, quae ad Colossenses pertinerent, quaeque 
+      scire<lb ed="#C" n="4" break="no"/>illorum interesset, Paulus eam quoque a Colossensibus vnam cum hac sua 
+      <lb ed="#C" n="5"/>Epistola legi voluit, Hanc esse non incredibilem, &amp; multo veriorem 
+      o<lb ed="#C" n="6" break="no"/>pinionem iudico. Et sic quidem Oecumenius aperte scribit: Θυκ ειπε τυν 
+      <lb ed="#C" n="7"/>προς λανδικεισ, ωιρα τν ιν λαλικειας χαρεισαν: κ τν το Παλη ωρος Aωικιας 
+      <lb ed="#C" n="8"/>διηα τν  λαοδκεαον ωρος Παθλον, κν γαῳ π ωαγτσ εν ουτη αφου λολοασις 
+      <lb ed="#C" n="9"/>Atque haec ex Chrysostomo sumpsit Oecumenius. Et Cacharinus Papista. 
+      <lb ed="#C" n="10"/>fatetur, non hic nominari Epistolam a se scriptam ad Laodicenses, sed 
+      ex<lb ed="#C" n="11" break="no"/>eo loco scriptam: in comment. in hunc locum. Hieronymus in Catalog. 
+      <lb ed="#C" n="12"/>author. Ecclesiastic. in Paulo, huius Epistolae mentionem facit, sed 
+      pas<lb ed="#C" n="13" break="no"/>sim ait reprohari. Secundum Concilium Nicenum adulterinam statuit, 
+      <lb ed="#C" n="14"/>&amp; tanquam supposititiam rejicit, Theophylactus putat hoc loco 
+      signifi<lb ed="#C" n="15" break="no"/>cari priorem Epistolam ad Timotheum, quia illa ex Laodicea scripta 
+      fu<lb ed="#C" n="16" break="no"/>it: Tertullianus vero Lib. 5. contra Marcionit. Epistolam ad Ephesios. 
+      </p>
+            <p xml:id="wWpoi1-e20062-d1e360">
+               <lb ed="#C" n="17"/>Quod vero subjungit Stapletonus, fuisse libros quosdam a Petro 
+      scri<lb ed="#C" n="18" break="no"/>ptos, &amp; librum etiam quendam de peregrinatione Pauli &amp; Teclae, qui  
+      <lb ed="#C" n="19"/>non sunt in Canone: Respondeo, hos libros ab Ecclesia semper fictos &amp; 
+      a<lb ed="#C" n="20" break="no"/>dulterinos iudicatos fuisse. Hieronymus in Catalog. in Petro, tanquam  
+      <lb ed="#C" n="21"/>Apocryphos, &amp; a Petro minime scriptos, rejicit. Liceat ergo mihi idem 
+      <lb ed="#C" n="22"/>de his libris dicere, quod olim Augustinum de nonnullis longe 
+      antiquio<lb ed="#C" n="23" break="no"/>ribus libris dixisse legimus, 18. Lib. de Civitate Dei. Cap. 38. Haec. 
+      Scri<lb ed="#C" n="24" break="no"/>pta castitas Canonis non recepit, non quod eorum bominum, qui Deo 
+      placue<lb ed="#C" n="25" break="no"/>runt, reprobetur authoritas, sed quod ista non credantur ipsorum esse. Non 
+      er<lb ed="#C" n="26" break="no"/>go in Ecclesiae iudicio positum est, Prophetarum aut Apostolorum 
+      scri<lb ed="#C" n="27" break="no"/>pta Canonica, vel non Canonica facere, aut quae Canonic a sunt 
+      rejice<lb ed="#C" n="28" break="no"/>re, aut quae non Canonica suscipere. Atque haec de secundo 
+      Stapletoni<lb ed="#C" n="29" break="no"/>argumento. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

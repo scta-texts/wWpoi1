@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="483"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e44412"><!-- con1q6c15 -->
+            <head xml:id="wWpoi1-e44412-Hd1e106">Caput 15</head>
+            <p xml:id="wWpoi1-e44412-d1e109">
+               <lb ed="#C" n="26"/>CAPTIII 
+      <lb ed="#C" n="27"/>CAPUTTIII 
+      <lb ed="#C" n="28"/>nes explicantur, de quibus nihil Bellar¬ 
+      <lb ed="#C" n="29"/>muus respondit 
+    </p>
+            <p xml:id="wWpoi1-e44412-d1e120">
+               <lb ed="#C" n="30"/>TAM adiungam alia, quae ipse non attingit. Nos Bellarminus non 
+      <lb ed="#C" n="31"/>Thabere plura testimonia Scripturatum existimavit? Nunc igitur  
+      <lb ed="#C" n="32"/>Scripturas a Bellarmino omissas proponam, atque ex locis singulis 
+      argu<lb ed="#C" n="33" break="no"/>menta colligam. Primus locus sumitur ex Psal. 19. 8. vbi haec verba 
+      <lb ed="#C" n="34"/>leguntur: Dex Iehovae est integra, &amp; sapientiam dat parvulis. Legis 
+      nomi<lb ed="#C" n="35" break="no"/>ne intelligit Propheta vetus Testamentum, vel dectrinam in vetere 
+      Te<lb ed="#C" n="36" break="no"/>stamento traditam, Id Rabbini ipsi viderunt, vt patet ex Comment. Da¬ 
+      <!--493.xml-->
+      <pb ed="#L" n="484"/>
+               <lb ed="#C" n="1"/>vidis Rimchi, in Psal. 119. Et in Scriptura etiam ipsa Legis nomen ita 
+      v<lb ed="#C" n="2" break="no"/>surpatur, vt Rom. 3. 19. Ioan. 15. 29. quod ita vsitatum est, vt Legis 
+      no<lb ed="#C" n="3" break="no"/>men etiam Evangelio tribuatur, Rom. 3. 27. Hic duo attributa Legis 
+      ex<lb ed="#C" n="4" break="no"/>plicantur, quae eandem esse perfectam declarant: primo, dicitur integra: 
+      <lb ed="#C" n="5"/>secundo, dicitur sapientiam dare parvulis. Temimah, Tremellius, 
+      Buce<lb ed="#C" n="6" break="no"/>rus, &amp; Vatablus vertunt integra: Pagninus, Arias Montanus, &amp; 
+      Calvi<lb ed="#C" n="7" break="no"/>nus vertunt perfecta. Significat hoc vocabulum veteri Testamento 
+      ni<lb ed="#C" n="8" break="no"/>hil deesse, sed in eo contineri plenam, perfectam, absolutam doctrinam: 
+      <lb ed="#C" n="9"/>Nam libri, qui post editi sunt, nullum dogma novum addiderunt. Vetus 
+      <lb ed="#C" n="10"/>interpres transtulit immaculata; non recte: sed tamen abutitur Censor.  
+      <lb ed="#C" n="11"/>ille, de quo supra diximus, ista interpretatione. Concedit legem Dei esse 
+      <lb ed="#C" n="12"/>immaculatam, sed non proinde esse perfectam. At perfectam esse, patet: 
+      <lb ed="#C" n="13"/>ex altero attributo, quia dicitur tribuere sapientiam infantibus vel 
+      par<lb ed="#C" n="14" break="no"/>vulis: hoc est, eos, qui nihil intelligebant, divina scientia sapientiaque 
+      cu<lb ed="#C" n="15" break="no"/>mulet. In sapientia vero est summa &amp; perfectissima scientia. Ex hoc 
+      loco<lb ed="#C" n="16" break="no"/>sic instituo argumentum: Si veteris Testamenti doctrina sic 
+      perfectaat<lb ed="#C" n="17" break="no"/>que integra fuit, vt sui studiosos omnibus verae sapientiae partibus 
+      absol<lb ed="#C" n="18" break="no"/>veret; tum multo magis vtriusque Testamenti doctrina perfecta est. At: 
+      <lb ed="#C" n="19"/>Antecedens verum est: Ergo &amp; consequens. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e183">
+               <lb ed="#C" n="20"/>Secundus locus sumitur ex Luc. 1. 3. 4. vbi Lucas in prooemio sic 
+      sen<lb ed="#C" n="21" break="no"/>bit: Visum est mihi omnia alte repetita penitus consequuto, ordine de eis adie 
+      <lb ed="#C" n="22"/>scribere, praestantissime Theophile, vt agnoscas carum rerum, quas auditione 
+      <lb ed="#C" n="23"/>accepisti, τν ἀσροξειαν Theophilus fuerat antea in religione Christiana 
+      in<lb ed="#C" n="24" break="no"/>stitutus, &amp; de Christo edoctus: (nam ait, ωει ών κατηχισαν:) tamen 
+      puta<lb ed="#C" n="25" break="no"/>vit Lucas sibi necessarium esse, vt scriberet ad illum eadem, quae 
+      didice<lb ed="#C" n="26" break="no"/>rat: &amp; quare?vt illarum rerum τυν ἀσρθιειαν, exploratam certamque 
+      veri<lb ed="#C" n="27" break="no"/>tatem agnosceret. Extra Scripturam ergo nulla est, aut non tanta ἀoρδsuμαν 
+      <lb ed="#C" n="28"/>Ex his verbis huiusmodi argumentum colligi potest: Si necessarium fuit. 
+      <lb ed="#C" n="29"/>Theophilo, vtea scriberentur, quae ipse antea audierat, &amp; didicerat, qρνα 
+      <lb ed="#C" n="30"/>ἀτροειαν, tum omnia omnino, quae Apostoli docuerunt, scripta sunt. Nam 
+      <lb ed="#C" n="31"/>debemus ἀσρλιειαν, id est, certam scientiam habere eorum omnium, quae 
+      <lb ed="#C" n="32"/>necessaria sunt: At necessarium id Theophilo fuit: Ergo omnesnecessatm 
+      <lb ed="#C" n="33"/>λθι scripti sunt. Et si hoc fuit Theophilo necessarium, qui Apostolos 
+      ip<lb ed="#C" n="34" break="no"/>sos audierat, vt ea nempe, quae ab Apostolis didicerat, scripta haberet, 
+      <lb ed="#C" n="35"/>quo eorum verissimam &amp; certissimam doctrinam cognosceret; tum 
+      mul<lb ed="#C" n="36" break="no"/>to magis nobis &amp; Ecclesiis sequentium seculorum hoc necessanum 
+      iu<lb ed="#C" n="37" break="no"/>dicari debet. At verum primum: Ergo &amp; secundum. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e225">
+               <lb ed="#C" n="38"/>Tertius locus sumitur ex Luc. 16. 29. vbi Abrahamus ait epuloni, 
+      <!--494.xml-->
+      <pb ed="#L" n="485"/>
+               <lb ed="#C" n="1"/>Habent Mosen &amp; Prophetas, illos audiant. Pet Mosen &amp; Prophetas 
+      in<lb ed="#C" n="2" break="no"/>telligi Scripturas omnes veteris Testamenti, satis constat. Et cum illos 
+      <lb ed="#C" n="3"/>audiendos esse dicit, perfectam in ijs doctrinam inveniri posse indicat.  
+      <lb ed="#C" n="4"/>Non sequitur (inquit Stapletonus, Lib. 12. cap. 6.) Aliud est enim (
+      in<lb ed="#C" n="5" break="no"/>quit ille) Mosen &amp; Prophetas audire, aliud, solos audire: tum enim 
+      no<lb ed="#C" n="6" break="no"/>vum Testamentum excluderetur, tanquam superfluum. Respondeo: primo, 
+      <lb ed="#C" n="7"/>Quod audire iubet, illos solos audiendos esse significat: quia haec 
+      doctri<lb ed="#C" n="8" break="no"/>na, quae ex Mose &amp; Prophetis comparatur, omnibus revelationibus &amp; 
+      <lb ed="#C" n="9"/>visionibus opponitur. Nam epulo ille voluit fratres suos sic moneri &amp; 
+      in<lb ed="#C" n="10" break="no"/>stitui, vt vitam consequi, &amp; istas poenas, quibus ille tum cruciabatur, 
+      es<lb ed="#C" n="11" break="no"/>fugere possent. Et subiungit Abraham, Habent Mosen &amp; Prophetas, illos 
+      <lb ed="#C" n="12"/>audiant: ac si diceret. Si illos audierint, poterunt ex illis ea omnia disceret 
+      <lb ed="#C" n="13"/>&amp; cognoscere, quibus hanc mortem &amp; hos cruciatus vitare possint. 
+      Per<lb ed="#C" n="14" break="no"/>inde enim est, ac si diceret, horum librorum doctrina perfecta est, quos 
+      <lb ed="#C" n="15"/>Moses &amp; Prophetae scripserunt: nihil opus est alios Magistros aut 
+      moni<lb ed="#C" n="16" break="no"/>tores requitere. Alias enim non respondisset Abrahamus ad mentem 
+      sen<lb ed="#C" n="17" break="no"/>tentiamque epulonis, Secundo, quia cum instaret ille epulo, &amp; diceret,  
+      <lb ed="#C" n="18"/>Non, pater Abraham, sed si aliquis e mortuis ad illos profectus fuerit, tum 
+      <lb ed="#C" n="19"/>resipiscent; respondet Abrahamus, Si Mosen &amp; Prophetas non audiant, 
+      <lb ed="#C" n="20"/>ne si quidem quispiam ex mortuis excitetur, assentientur. Quibus verbis 
+      in<lb ed="#C" n="21" break="no"/>nuit, eos, qui Scripturae doctrina contenti esse nolunt, nulla omnino 
+      do<lb ed="#C" n="22" break="no"/>ctrina persuaderi posse. Tertio. Quando ait Abrahamus, ἀκεσάτυσαν, 
+      audi<lb ed="#C" n="23" break="no"/>ant illos, solos intelligit: vt cum Deus e coelo Christum suum filium audiri. 
+      <lb ed="#C" n="24"/>iubet, Matth. 17. 5. Illum audite, solum illum audiendum esse indicat. 
+      Ita<lb ed="#C" n="25" break="no"/>Cyprianus, 63 Epist. solum Christum esse audiendum, ex illo loco 
+      Mat<lb ed="#C" n="26" break="no"/>thaei diserte colligit. Deut 10. 20. jubemur colere Deum, &amp; illi servire: 
+      <lb ed="#C" n="27"/>Christus illum locum interpretans, Matth. 4. 10. apposite adjecit ( solis) J 
+      <lb ed="#C" n="28"/>sic hoc loco, audiant, id est, solos audiant. Quod attinet ad objectionem 
+      <lb ed="#C" n="29"/>de novo Testamento superfluo, Respondeo primo, Novum Testamentum. 
+      <lb ed="#C" n="30"/>eo tempore non erat editum. Secundo, non eadem est ratio Traditionum, 
+      <lb ed="#C" n="31"/>&amp; harum Scripturarum. Tertio, Evangelium tantum explicat Mosen &amp; 
+      <lb ed="#C" n="32"/>Prophetas: sed haec expositio non est similis commentariis interpretum, 
+      <lb ed="#C" n="33"/>cum sit θευτώσος &amp; αυτόπnςoς. Lyranus non male istum locum 
+      interpre<lb ed="#C" n="34" break="no"/>tatur in hunc modum: Habent Mosen, qui docuit moralia &amp; agenda: 
+      ha<lb ed="#C" n="35" break="no"/>bent Prophetas, qui docuerunt mystica &amp; credenda; &amp; ista sufficiunt ad 
+      salu<lb ed="#C" n="36" break="no"/>tem: ideo sequitur, audiant illos. Nihil dici apertius potuit. Iansenius in 
+      <lb ed="#C" n="37"/>comment. in Evangelist. cap. 97. ait ex Scripturis disci posse omnia, quae 
+      <lb ed="#C" n="38"/>de futuro vitae statu necessario nobis sunt cognoscenda. Hoc satis est. 
+      <!--495.xml-->
+      <pb ed="#L" n="486"/>
+               <lb ed="#C" n="1"/>Quamvis non hoc solum in Scripturis sufficienter docetur. Nam ille 
+      epu<lb ed="#C" n="2" break="no"/>lo noluit fratres id tantum scire, sed ea potius, quibushas poenas effugere, 
+      <lb ed="#C" n="3"/>potuissent. Sed sic saltem non est necessarium credere aut purgatorium, 
+      <lb ed="#C" n="4"/>autimbum Patrum &amp; puerorum: hanc enim Traditionem esse statuumt: 
+      <lb ed="#C" n="5"/>at Iansenius ex Scripturis disci posse ait, quae sunt de vitae futurae statu 
+      cog<lb ed="#C" n="6" break="no"/>noscenda. Ex hoc loco sic συλογίςομα: Si qui volunt 
+      aliquidscitenecessati<lb ed="#C" n="7" break="no"/>tum ad salutem, remittuntur ad Scripturas, tum Scripturae omnem 
+      saluti<lb ed="#C" n="8" break="no"/>feram doctrinam complectuntur: Antecedens est verum: ergo Consequens. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e339">
+               <lb ed="#C" n="9"/>Quartus locus sumitur ex Luc. cap. 24. vers. 25. &amp; 27. Obiurgat 
+      dis<lb ed="#C" n="10" break="no"/>cipulos Christus, vers. 25. quod essent tardi ad credendum omnibus, quaes 
+      <lb ed="#C" n="11"/>Prophetae loquuti essent. Sed vbi illa inveniti possunt? Hoc patet ex vers. 27. 
+      <lb ed="#C" n="12"/>Sequitur enim: Exorsus a Mose &amp; omnibus Prophetis, interpretabatur illis 
+      <lb ed="#C" n="13"/>in omnibus Scripturis, quae de ipso scripta erant. Unde huiusmodi 
+      argumen<lb ed="#C" n="14" break="no"/>tum colligimus: Si quae Prophetae dixerunt, ea omnia in Scripturis 
+      inve<lb ed="#C" n="15" break="no"/>niri possunt, tum &amp; ea, quae Apostoli loquuti sunt, in Scripturis possunt  
+      <lb ed="#C" n="16"/>reperiti. At primum verum: ergo &amp; secundum. Ratio consequutionis 
+      ma<lb ed="#C" n="17" break="no"/>nifesta est. Quae enim ratio impulit Prophetas, vtea, quae loquuti sunt, 
+      scri<lb ed="#C" n="18" break="no"/>berent omnia, eadem etiam Apostolos induxit, vt similiter facerent. 
+      Si<lb ed="#C" n="19" break="no"/>enim Prophetae omnia scripserunt, quae loquuti sunt, cur non putemus 
+      <lb ed="#C" n="20"/>Apostolos &amp; Evangelistas eodem consilio vsos, eodem Spiritu 
+      guberna<lb ed="#C" n="21" break="no"/>tos, eundem finem spectantes, literis mandasse summam ejus doctrinae, 
+      <lb ed="#C" n="22"/>quam Ecclesijs tradiderunt? Par parium iudicium. Atque hic refelluntur,  
+      <lb ed="#C" n="23"/>qui Propheticas fuisse quasdam non scriptas Traditiones somniant. Nam 
+      <lb ed="#C" n="24"/>quae Prophetae loquuti omnia sunt, Lucas ad Scripturas revocat: ergo 
+      <lb ed="#C" n="25"/>nullae erant non scriptae Traditiones Prophetarum: ergo nullae sunt non 
+      <lb ed="#C" n="26"/>scriptae Traditiones Apostolorum. Ratio onmino simsis. Si vero vetus 
+      <lb ed="#C" n="27"/>Ecclesia omnia habuit in Scripturis, similiter &amp; Christianorum 
+      Ecclesia<lb ed="#C" n="28" break="no"/>omnia in Scripturis habet: Ante cedens patet; ergo consequens: aut 
+      Iudae<lb ed="#C" n="29" break="no"/>is melius, quam nobis, Dominus prospexit.  
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e387">
+               <lb ed="#C" n="30"/>Quintus locus sumitur ex Ioan. 5. 39. vbi Christus ait, Scrutamini, 
+      <lb ed="#C" n="31"/>Scripturas. Iudaei Scripturas legebant, sed eas non recte intelligebant,  
+      <lb ed="#C" n="32"/>Hortatur igitur cos Christus, vt diligentius attendant &amp; scrutentur 
+      sta<lb ed="#C" n="33" break="no"/>tionem addit, quia videmini in ijs vitam aeternam habere. Etversquidem 
+      <lb ed="#C" n="34"/>sic putabant, nec Christus hanc opinionem reprehendit. Sic Psalm. 119. 
+      <lb ed="#C" n="35"/>2. Beati, qui scrutantur testimonia eius. Si ex Scripturis faelicitas &amp; salus 
+      <lb ed="#C" n="36"/>hauriri potest, tum in Scripturis omnia in sunt. Sic Psalm. 1. Beatus, qui  
+      <lb ed="#C" n="37"/>meditatur in lege Domini die ac nocte. Si Scripturis Iudaei recte vti 
+      potuis<lb ed="#C" n="38" break="no"/>sent, in eis vitam invenissent: atque hac ratione eos Christus ad apdvar 
+      <!--496.xml-->
+      <pb ed="#L" n="487"/>
+               <lb ed="#C" n="1"/>Scripturarum hortatur. Ex isto loco sic concludo: Si scrutando 
+      Scriptu<lb ed="#C" n="2" break="no"/>ras invenire possumus ea omnia, quae ad salutem vitamque aeternam 
+      re<lb ed="#C" n="3" break="no"/>quituntur, tum omnia necessaria scripta sunt. At primum: ergo 
+      secun<lb ed="#C" n="4" break="no"/>dum. Praeterea, si hic fructus percipi potuit ex Scripturis veteris 
+      Testa<lb ed="#C" n="5" break="no"/>menti, tum multo certius nunc potest idem fructus percipi, cum 
+      Scriptu<lb ed="#C" n="6" break="no"/>rae novi Testamenti accesserunt. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e426">
+               <lb ed="#C" n="7"/>Sextus locus sumitur ex Act. 1. 1. vbi Lucas sic scribit: Primum quidem 
+      <lb ed="#C" n="8"/>llibram confeci, Theophile, de omnibus quae coepit Iesus &amp; facere, &amp; docere. At 
+      <lb ed="#C" n="9"/>quaecunque nobis de Christo cognitu necessaria sunt, his duobus 
+      conti<lb ed="#C" n="10" break="no"/>nentur, dictis nempe, &amp; factis Christi: ideo ait Lucas initio Evangelij sui, 
+      <lb ed="#C" n="11"/>se assequutum esse omnia perfecte, &amp; scripsisse. Ex hoc loco sic 
+      concludi<lb ed="#C" n="12" break="no"/>mus: Si omnia, quae Christus fecit &amp; dixit, scripta sunt, tum omnia, quae 
+      <lb ed="#C" n="13"/>nobis nec essario sunt de Christo cognoscenda, scripta sunt: At primum: 
+      <lb ed="#C" n="14"/>ergo secundum. Hic forsan aliquis objiciet; Num ille omnia scripsit? 
+      <lb ed="#C" n="15"/>immo omisitmulta, a Matthaeo &amp; reliquis scripta, vt de Magis, de 
+      crude<lb ed="#C" n="16" break="no"/>litate Herodis, &amp;c. Praeterea, loannes ait, si omnia scriberentur, non posse 
+      <lb ed="#C" n="17"/>totum mundum libros tam multos capere. Quide an quae a reliquis 
+      Evan<lb ed="#C" n="18" break="no"/>gelistis scribuntur, supervacanea sunt? Respondeo: Nihil minus. Sed si 
+      so<lb ed="#C" n="19" break="no"/>lum Lucae vel Matthaei Evangelium haberemus, nos quidem eo 
+      contenti<lb ed="#C" n="20" break="no"/>esse deberemus, &amp; vnum sufficeret: tamen reliqua non sunt propterea 
+      su<lb ed="#C" n="21" break="no"/>pervacanea. Primo, Quia Deus voluit ista non ab vno tantum scribi, sed  
+      <lb ed="#C" n="22"/>a multis, vt fides istarum rerum nobis certius constaret. Secundo, Quia 
+      <lb ed="#C" n="23"/>voluit ea, quae ab vno scribuntur obscurius, ab alio apertius scribi; vt sic 
+      <lb ed="#C" n="24"/>non modo sufficienter, verumetiam plenissime erudiremur. Non scripsit 
+      <lb ed="#C" n="25"/>Lucas absolute omnia, quae dixit fecitque Christus, sed praecipua, &amp; 
+      ma<lb ed="#C" n="26" break="no"/>xime necessaria, vt ipsi etiam Rhemenses interpretantur, quaeque 
+      suffice<lb ed="#C" n="27" break="no"/>re possent. Et sic nostra ratio optime sequetur, hoc modo: Si omnia 
+      prae<lb ed="#C" n="28" break="no"/>cipua &amp; necessaria reperiuntur vel in vno, vel in pluribus Evangelistis: 
+      <lb ed="#C" n="29"/>tum multo magis in tota Scriptura. At primum: ergo secundum. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e478">
+               <lb ed="#C" n="30"/>Septimus locus sumitur ex Act. 17. 2. 3. vbi Lucas scribit per tria 
+      Sabba<lb ed="#C" n="31" break="no"/>tha disseruisse Paulum ἐτό τιί χιαρον, &amp; aperte comprobasse, Christum esse  
+      <lb ed="#C" n="32"/>passum, &amp; hunc esse illum Christum, quem ipse ijs annunciabat. Paulus 
+      <lb ed="#C" n="33"/>ergo ex Scripturis disserebat, atque ex Scripturis suam totam doctrinam 
+      <lb ed="#C" n="34"/>confirmabat. Hinc huiusmodi argumentum colligimus: Si Paulus in 
+      do<lb ed="#C" n="35" break="no"/>cendo tradendoque Evangelio, &amp; in ludaeis refellendis, nullis alijs testimoniis 
+      <lb ed="#C" n="36"/>aut argumentis vsus est, quam Scripturarum; tum ex Scripturis possunt omnia 
+      <lb ed="#C" n="37"/>testimonia sumi, quae vel ad veram Evangelij doctrinam confirmandam, vel  
+      <lb ed="#C" n="38"/>ad haereses refutandas requiruntur. At primum: Ergo secundum. Conse 
+      <!--497.xml-->
+      <pb ed="#L" n="488"/>
+               <lb ed="#C" n="1"/>quentia manifesta est. Nam si aliud aliquod testimonium fuisset 
+      necessa<lb ed="#C" n="2" break="no"/>rium, eo Apostolus vsus fuisset. At ille ex Scripturis tantum suam 
+      doctri<lb ed="#C" n="3" break="no"/>nam confirmavit. Atque ideo versu 11. Beroeenses laudantur, quod 
+      Scri<lb ed="#C" n="4" break="no"/>pturas scrutati sint, &amp; ex ijs Pauli doctrinam examinarent. Ergo &amp; nos 
+      si<lb ed="#C" n="5" break="no"/>militer facere oportet. Nulli autem haeretici acriores sunt, nec difficilius 
+      <lb ed="#C" n="6"/>refelli possunt, quam Iudaei. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e517">
+               <lb ed="#C" n="7"/>Octavus locus, sumitur ex Act. 18. 24. &amp; 28. Apollos erat δuνaτὸς in 
+      <lb ed="#C" n="8"/>Scripturis, &amp; is ἐυτόνως ex Scripturis ludaeos refellebat. Ex quo loco similis 
+      <lb ed="#C" n="9"/>ratio priori colligi potest, in hunc modum: Si Apollos in ludaeis 
+      refutan<lb ed="#C" n="10" break="no"/>dis, &amp; in confirmanda Evangelij doctrina, Scripturis tantum vsus est, tum 
+      <lb ed="#C" n="11"/>&amp; Evangelium confirmari, &amp; haereses refelli possunt ex solis Scripturis. 
+      <lb ed="#C" n="12"/>At primum verum: ergo &amp; secundum. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e533">
+               <lb ed="#C" n="13"/>Monus locus sumitur ex Act. 24. 14. vbi Paulus testatur coram 
+      Praesi<lb ed="#C" n="14" break="no"/>de, se credere omnibus, quae scripta sunt in lege &amp; Prophetis. Quibus 
+      ver<lb ed="#C" n="15" break="no"/>bis suam fidem, religionem, &amp; pietatem testatam esse voluit Paulus. 
+      Ea<lb ed="#C" n="16" break="no"/>enim de causa dixit se illis credere, vt ludaeis persuaderet se esse fidelem &amp; 
+      <lb ed="#C" n="17"/>Christianum. Ex hoc sequitur, omnia quae sunt credenda, in libris Mosis 
+      <lb ed="#C" n="18"/>&amp; Prophetarum comprehendi. Sic igitur argumentamur: Si quaecunque 
+      <lb ed="#C" n="19"/>homini fideli &amp; pio credenda sunt, in libris Mosis &amp; Prophetarum tradita 
+      <lb ed="#C" n="20"/>sint, tum omnia necessaria in Scripturis inveniuntur: At primum: 
+      ergo<lb ed="#C" n="21" break="no"/>&amp; secundum. Consequentia vera est. Nam totus cultus Dei consistit 
+      in<lb ed="#C" n="22" break="no"/>credendis illis, quae a Mose &amp; Prophetis tradita sunt, &amp; fides haec tantum 
+      <lb ed="#C" n="23"/>complectitur. Sic enim Paulus ait, ὅτο λατρευο τι πατραιῳ θεγι, πσενωνσας 
+      <lb ed="#C" n="24"/>τος κσι τον νόμον χι ἐ τοις ωρορητ γεγραμηνoις. Cultum Dei verum in eo 
+      po<lb ed="#C" n="25" break="no"/>situm esse significat, vt quae Moses &amp; Prophetae docuerunt, credantur:  
+      <lb ed="#C" n="26"/>si fuissent alia necessaria, non satis idoneo argumento pietatem suam, 
+      <lb ed="#C" n="27"/>comprobasset. Sed hinc constat, Deum voluisse nihil praeterquam quod  
+      <lb ed="#C" n="28"/>in Scripturis traditur, fide suscipi: eumque esse vere per omnia fidelem, 
+      <lb ed="#C" n="29"/>qui, quae in Scripturis habentur, crediderit.  
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e573">
+               <lb ed="#C" n="30"/>n&amp; 
+      <lb ed="#C" n="31"/>Decimus locus sumitur ex Act. 26. 22. vbi Paulus ait, se divino 
+      auxi<lb ed="#C" n="32" break="no"/>lio adiutum, in illum vsque diem perstitisse, testificantem tum parvis, tume 
+      <lb ed="#C" n="33"/>magnis, nec quicquam dicentem, ἔδεν ἐκτός, extra ea, quae Prophetaeaei 
+      <lb ed="#C" n="34"/>Moses futura praediverunt. Ergo Paulus, in Evangelio praedicando, 
+      nul<lb ed="#C" n="35" break="no"/>lum verbum protulit extra Scripturas legales &amp; Propheticas. Ex hoc 
+      loco<lb ed="#C" n="36" break="no"/>sic ratiocinamur: Si Paulus, quando Evangelium praedicavit, nullum 
+      ver<lb ed="#C" n="37" break="no"/>bum ex oreemisit extra Scripturas Mofaicas &amp; Propheticas, tum omnia 
+      <lb ed="#C" n="38"/>necessaria ad Evangelij praedicationem in Scripturis continentur. At 
+      ve<lb ed="#C" n="39" break="no"/>rum primum ergo &amp; secundum. Consequentia firma est. Nam Paulus 
+      <!--498.xml-->
+      <pb ed="#L" n="489"/>
+               <lb ed="#C" n="1"/>totum Evangelium praedicavit, quia ad hoc defignatus erat a Deo, &amp; in 
+      <lb ed="#C" n="2"/>hoc toto explicando nihil extra Scripturas loquutus est. Act. 20. 27. dicit:  
+      <lb ed="#C" n="3"/>se totum consilium Dei Ephesijs annunciasse: Ergo totum Dei consilium 
+      <lb ed="#C" n="4"/>in Evangelio annunciando ex Scripturis disci potest. Hinc alius 
+      Syllo<lb ed="#C" n="5" break="no"/>gismus sequitur: Si Paulus nihil extra Scripturas docuit, tum neque nunc 
+      <lb ed="#C" n="6"/>cuiquam licet aliquid extra Scripturas tradere: Atprimum verum: ergo 
+      <lb ed="#C" n="7"/>&amp; secundum. Nam quod Paulus aut non potuit, aut non debuit praestare, 
+      <lb ed="#C" n="8"/>quis sibi sumere audebit; 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e619">
+               <lb ed="#C" n="9"/>Cndecimus locus sumitur ex Rom. 1. 2. vbi Paulus ait Evangelium, 
+      <lb ed="#C" n="10"/>quod ipse praedicavit, antea promissum fuisse in Prophetis. At forte non 
+      <lb ed="#C" n="11"/>scripserunt Prophetae: semperenim hic hallucinantur Papistae, Sed ne 
+      for<lb ed="#C" n="12" break="no"/>te quis suspicetur, promisisse tantum viva voce Prophetas, non scripsisse, 
+      <lb ed="#C" n="13"/>se quitur, ἐν χαραίς αλίας, in sacris Scripturis, hoc Evangelium per 
+      Prophe<lb ed="#C" n="14" break="no"/>tas promissum fuisse. Hinc sic concludimus: Si illud Evangelium, quod  
+      <lb ed="#C" n="15"/>Paulus praedicavit, promissum in Scripturis fuit, &amp; Paulus totum Evan. 
+      <lb ed="#C" n="16"/>gelium praedicavit; tum totum Evangelium in Scripturis promissum fuit,  
+      <lb ed="#C" n="17"/>&amp; in Scripturis reperiri potest. At verum primum: ergo &amp; secundum. 
+      <lb ed="#C" n="18"/>Quid hic negabunt? Aut totum Evangelium, aut partem praedicavit.  
+      <lb ed="#C" n="19"/>Num non totum? At designatus fuit Paulus ad hoc, non vt partem 
+      tan<lb ed="#C" n="20" break="no"/>tum Evangelij, sed vt totum Evangelium praedicaret. Si dicunt partem 
+      <lb ed="#C" n="21"/>tantum Evangelij a Paulo praedicatam esse, dicant illi quota pars ea 
+      fue<lb ed="#C" n="22" break="no"/>rit. Sed non possunt. Chrysostomus egregie in hunc locum scribit: ἀλυε¬ 
+      <lb ed="#C" n="23"/>λογον μόνον υ ωροριτα, δηα κι εχαρον: nec modo ἔχζαρον, sed &amp; ἐτυπου: Non 
+      lo<lb ed="#C" n="24" break="no"/>quuti tantum sunt Prophetae (inquit) sed quae loquebantur, literis etiam 
+      man<lb ed="#C" n="25" break="no"/>darunt; neque scripserunt tantum, sed &amp; rebus ipsis quae futurae erant 
+      praefigura<lb ed="#C" n="26" break="no"/>runt: vt erat, quod Abraham filium suum Isaac ad immolandum ducebat, quod; 
+      <lb ed="#C" n="27"/>Moses serpentem aeneum exaltabat, &amp; super eAmalec manus tendebat, &amp; 
+      <lb ed="#C" n="28"/>agnum Paschalem immolabat. Haec Chrysostomus: &amp; sic Cap. 16. vers. 26. 
+      <lb ed="#C" n="29"/>hoc Evangelium esse declaratum legimus ια χαρών ωροοητηκον.  
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e667">
+               <lb ed="#C" n="30"/>Duodecimus locus sumitur ex Rom. 10. 17. Fides ex auditu, auditus 
+      ve<lb ed="#C" n="31" break="no"/>ro per verbum Dei. Ex quo loco patet fidem auditu concipi. Sed multa 
+      <lb ed="#C" n="32"/>audiuntur: Quaenam ergo illa sunt, quorum auditio fidem gignit? pημae 
+      <lb ed="#C" n="33"/>(inquit Joο Oee Ex quibus verbis sic argumentamur: Si audiendo verbum; 
+      <lb ed="#C" n="34"/>Dei fides concipitur, tum omnia, quae ad fidem necessaria sunt, in verbo 
+      <lb ed="#C" n="35"/>Dei continentur: At verum primum: ergo &amp; secundum. Sed inquient, 
+      to<lb ed="#C" n="36" break="no"/>tum verbum Dei non esse scriptum. At verbum Dei Scripturam 
+      signifi<lb ed="#C" n="37" break="no"/>c are hoc in loco probabo. Scribitur 1. Pet. 1. vlt. vers. in hunc modum: 
+      <lb ed="#C" n="38"/>Verbum Domini manet in aeternum, hoc autem est verbum illud, quod evan¬ 
+      <!--499.xml-->
+      <pb ed="#L" n="490"/>
+               <lb ed="#C" n="1"/>gelizatum est vobis. Matth. 5. 18. Christus ait: Osque dum praeterierit 
+      coe<lb ed="#C" n="2" break="no"/>lum &amp; terra, iota uvnum, aut unus apex nequaquam praeterierit ex Lege, 
+      <lb ed="#C" n="3"/>usque dum omnia facta fuerint. Hoc idem est, quod Petrus dicit. Lexenim, 
+      <lb ed="#C" n="4"/>hoc in loco, doctrinam scriptam significat. Ita Matth. 24. 35. Christus 
+      <lb ed="#C" n="5"/>ait: Coelum &amp; terra praeteribunt, sermones autem mei nequaquam 
+      praeteri<lb ed="#C" n="6" break="no"/>bunt. At Christi sermones omnes scriptos esse, saltem necessarios, supra 
+      <lb ed="#C" n="7"/>ostendimus, &amp; probavimus. Et Petrus ipse hoc declarat, cum ait, Hoc est 
+      <lb ed="#C" n="8"/>verbum illud, quod evangelizatum est vobis. Sic Paulus, Rom. 10. 8. Hoc 
+      <lb ed="#C" n="9"/>est verbum illud fidei, quod praedicamus. Totum enim Evangelium est 
+      pro<lb ed="#C" n="10" break="no"/>missum in Propheticis Scripturis, vt supra ac cepimus, &amp; declaratum in 
+      Apo<lb ed="#C" n="11" break="no"/>stolicis. Itaque ex auditione verbi scripti nascitur fides. Basilius in ἀσκηηκοη 
+      <lb ed="#C" n="12"/>nostram interpretationem egregie confirmat. Ait enim: Quicquid est 
+      ex<lb ed="#C" n="13" break="no"/>tra Scripturas diuvinitus inspiratas, quia non est ex fide, peccatum est, &amp; fidet 
+      <lb ed="#C" n="14"/>ex auditu est, auditus autem per verbum Dei. Ubi illud verbum, ex quo fides 
+      <lb ed="#C" n="15"/>generatur, nullo modo ἐκτός τ δεοπνευσεγχαρῆς quaerendam esse statuit.  
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e726">
+               <lb ed="#C" n="16"/>Decimus tertius locus sumitur ex Rom. 15. 4. Quaecunque antea scripta 
+      <lb ed="#C" n="17"/>sunt, ad nostram doctrinam scripta sunt, vt per patientiam, &amp; consolationem! 
+      <lb ed="#C" n="18"/>Scripturarum, spem habeamus. Quibus verbis Apostolus explicat veteris 
+      <lb ed="#C" n="19"/>Testamenti vtilitatem, quia ait ωρνεγργοη. At quaenam ea vilitas est 
+      <lb ed="#C" n="20"/>doctrina nempe nostra, eiς ἡμετίραν διδατκδγιαν. Unde patet, nullam 
+      par<lb ed="#C" n="21" break="no"/>tem veteris Testamenti aut inanem, aut infructuosam esse. Ex hoc loco 
+      <lb ed="#C" n="22"/>sicconcludimus: Si Dominus voluit tam multa scribi ad nostram 
+      doctri<lb ed="#C" n="23" break="no"/>nam, vt nos inde doctiores essemus, tum omnia necessatia scribi voluit.  
+      <lb ed="#C" n="24"/>At primum: ergo &amp; secundum. Connexi ratio manifesta est. Si enimnon 
+      <lb ed="#C" n="25"/>yvnum aut alterum librum, sed tot libros scribi voluit, certe omnia 
+      neces<lb ed="#C" n="26" break="no"/>saria in ijs scribantur, necesse est: alias non tam saepe eadem repetere, &amp; 
+      <lb ed="#C" n="27"/>quaedam necessaria omittere voluisset. Huc facit, quod ad libros veteris 
+      <lb ed="#C" n="28"/>Testamenti Dominus adiunxit novum Testamentum, vt doctrinam 
+      lu<lb ed="#C" n="29" break="no"/>culentissimam haberemus. Hoc postea illustratur. Subiungit enim 
+      Pau<lb ed="#C" n="30" break="no"/>lus, vt per patientiam, &amp; consolationem Scripturarum, spem habeamus. Si 
+      <lb ed="#C" n="31"/>spes ex Scripturis nascitur, tum fides: nam spes fide sustentatur: ergoom 
+      <lb ed="#C" n="32"/>nia necessana ex Scripturis haberi possunt.  
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e765">
+               <lb ed="#C" n="33"/>Decimus quartus locus sumitur ex Ephes. 2. 19. 20. Non ampiit estis 
+      bo<lb ed="#C" n="34" break="no"/>spites &amp; inquilinm, sed concives sanctorum, &amp; domestici Dei, ἐποηδοθηθίτεις, 
+      <lb ed="#C" n="35"/>superstructi super fundamentum Apostolorum ac Prophetarum, cuius imus 
+      an<lb ed="#C" n="36" break="no"/>gularis lapis est ipse Iesus Christus. Pet fundamentum Apostolorum &amp; 
+      <lb ed="#C" n="37"/>Prophetarum significat Propheticam &amp; Apostolicam doctrinam, vtnon 
+      <lb ed="#C" n="38"/>lmodo nostri, sed &amp; Thomas, Cajetanus, &amp; omnes Papistae fatentur. Er¬ 
+      <!--500.xml-->
+      <pb ed="#L" n="491"/>
+               <lb ed="#C" n="1"/>go non erit necesse in hoc probando insistere. Caletanus ait nos super I 
+      <lb ed="#C" n="2"/>Christum superstrui, mediante doctrina Prophetarum &amp; Apostolorum. 
+      <lb ed="#C" n="3"/>Sed quare coniunxit Paulus Prophetas cum Apostolis? Illius rei ratio  
+      <lb ed="#C" n="4"/>intelligi potest ex Thoma, sexta Lect. in cap. 2. Ephes. qui ait Paulum 
+      <lb ed="#C" n="5"/>vtrosque nominare, quia vtrorumque doctrina necessaria est ad salutem, &amp; 
+      <lb ed="#C" n="6"/>vtostendat illorum inter se concordiam. Nam quae Prophetae (inquit) 
+      fu<lb ed="#C" n="7" break="no"/>tura praedixerunt, ea eApostoli facta praedicarunt. Hinc ergo sic concludo 
+      <lb ed="#C" n="8"/>Prophetae omnia necessaria ad salutem praedixerunt: ergo Apostoli 
+      om<lb ed="#C" n="9" break="no"/>nia necessaria praedicarunt. Sed fatentur Papistae Apostolos praedicasse; 
+      <lb ed="#C" n="10"/>ergo hoc nihil videtur contra illos facere. At hinc assumo aliam 
+      argu<lb ed="#C" n="11" break="no"/>mentationem, quae erit huiusmodi: Quaecunque Prophetae praedicarunt, 
+      <lb ed="#C" n="12"/>ea scripserunt (inquit Chrysostomus) ἀωο εκεγον, χ εχραρον: omnia 
+      ergo<lb ed="#C" n="13" break="no"/>necessaria scripserunt. Quicquid autem Prophetae futurum praedixerunt . 
+      <lb ed="#C" n="14"/>&amp; scripserunt, hoc Apostolifactum esse praedicarunt &amp; scripserunt. Ergo 
+      <lb ed="#C" n="15"/>omnia necessaria habentur in Propheticis &amp; Apostolicis Scripturis: in 
+      <lb ed="#C" n="16"/>illis futura, in his facta; in illis praedicta, in his praestita, &amp; satis nobis erit, 
+      <lb ed="#C" n="17"/>si Prophetae omnia scripserunt. Certissimum enim est, nihil in libris 
+      Pro<lb ed="#C" n="18" break="no"/>pheticis futurum praedici, quod non in Apostolicis factum legatur. 
+      Hinc<lb ed="#C" n="19" break="no"/>ergo aliud argumentum colligo: Si Ecclesia nitatur scripta tantum 
+      do<lb ed="#C" n="20" break="no"/>ctrina Prophetarum, tum &amp; Apostolorum etiam scripta tantum 
+      doctrina<lb ed="#C" n="21" break="no"/>nititur. At verum primum. Nullam enim possunt non scriptam 
+      doctri<lb ed="#C" n="22" break="no"/>nam Prophetarum proferre: ergo &amp; secundum. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e833">
+               <lb ed="#C" n="23"/>Decimus quintus locus sumitur ex 2. Pet. 1. 19. Habemus firmiorem 
+      <lb ed="#C" n="24"/>λγον, sermonem Propheticum, cui recte facitis, quod attendatis, velut lucernae 
+      <lb ed="#C" n="25"/>splendenti in obscuro loco, usque dum dies illucescat, &amp; lucifer exoriatur in) 
+      <lb ed="#C" n="26"/>cordibus vestris. Quibus verbis status huius vitae comparatur loco 
+      obscu<lb ed="#C" n="27" break="no"/>ro, qui lucernae lumine egeat; status vero futurae vitae claro diei, in quo 
+      <lb ed="#C" n="28"/>Christus lucifer noster exorietur, mentesque nostras luce divinissima 
+      <lb ed="#C" n="29"/>complebit. Petrus ergo hortatur, vt dum in hac vita moramur, oculos] 
+      <lb ed="#C" n="30"/>nostros ad hanc λόγε ωροριηκο lucernam perpetuo convertamus. Hinc sici 
+      <lb ed="#C" n="31"/>concludo: Si in hac caliginosa vita nullum nobis ostenditur &amp; 
+      proponi<lb ed="#C" n="32" break="no"/>tur aliud lumen, nisi Scripturarum, tum in solis Scripturis versari &amp; 
+      ac<lb ed="#C" n="33" break="no"/>quiescere debemus, &amp; nos totos ad solas Scripturas convertere: At 
+      An<lb ed="#C" n="34" break="no"/>tecedens verum est: ergo consequens. Assumptio probatur, quia λυχον: 
+      <lb ed="#C" n="35"/>nostrum vocat λόγον ωροριτικον, id est sacram Scripturam, vt Cajetanus 
+      in<lb ed="#C" n="36" break="no"/>terpretatur, &amp; omnes fatentur. Nam λόγον saepe sumi pro Scriptura, 
+      con<lb ed="#C" n="37" break="no"/>stat ex mulus locis. Act. 1. 1. Τὸν μόο ωρῶτον λόγον ἐποιήσῶμλια, vbi λόγος 
+      li<lb ed="#C" n="38" break="no"/>brum significat. Et Luc. 3. 4. ως γιχζατασἐν διζλα λόγον Hσαις. &amp; Act. 13. 1. 
+      <!--501.xml-->
+      <pb ed="#L" n="492"/>
+               <lb ed="#C" n="1"/>27. ροναι τγ ωρορητον voces Prophetatum legi dicuntur.  
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e878">
+               <lb ed="#C" n="2"/>Decimus sextus locus sumitur ex 1. Ioan. 1. 4. Xαι τυὕτα χξασοδν υμιν,  
+      <lb ed="#C" n="3"/>iνα ι χαρα δεσ φ πηρωον. In primo versu facit mentionem sermonis 
+      <lb ed="#C" n="4"/>vitae, &amp; ait. Quod vidimus, quod audivimus, hoc annunciamus. Sed num 
+      <lb ed="#C" n="5"/>tantum annunciamus? immo etiam χαρουιιν, scribimus: loquitur autem 
+      <lb ed="#C" n="6"/>non de se tantum, sed &amp; de reliquis sacris scriptoribus. Quaecunque 
+      er<lb ed="#C" n="7" break="no"/>go viderunt &amp; audierunt Apostoli, ea annunciaverunt: quaecunque 
+      an<lb ed="#C" n="8" break="no"/>nunciaverunt, eascripserunt. At omnia necessaria annunciaverunt, hoc  
+      <lb ed="#C" n="9"/>fatentur Papistae: Ergo omnia necessaria scripserunt. Hoc etiam adhuc 
+      ex<lb ed="#C" n="10" break="no"/>fine illustratur, vi gaudium vestrum sit plenum, inquit. Sic ergo disputo: Ex 
+      <lb ed="#C" n="11"/>Scripturis plenum gaudium percipitur: ergo Scriptura est perfecta. 
+      </p>
+            <p xml:id="wWpoi1-e44412-d1e902">
+               <lb ed="#C" n="12"/>Postremum testimonium sumitur ex inscriptione Scripturarum, quae 
+      nomi<lb ed="#C" n="13" break="no"/>ne veteris &amp; novi Testamenti inscribuntur. Libri Prophetici vetus 
+      Testamen<lb ed="#C" n="14" break="no"/>tum constituunt, libri Evangelici novum. Hoc patet ex 2. Cor. 3. 14. In 
+      lecti<lb ed="#C" n="15" break="no"/>one veteris Testamenti ad hodiernum vsque diem manet non retectum 
+      vela<lb ed="#C" n="16" break="no"/>men illud, quod per Christum tollitur. Loquitur vero Paulus de libris 
+      Prophe<lb ed="#C" n="17" break="no"/>ticis. Ergo Prophetici libri recte titulo veteris Testamenti inscribuntur. 
+      Hinc<lb ed="#C" n="18" break="no"/>sic concludossi libri sacrarum Scripturarum recte appellentur vetus &amp; novum 
+      <lb ed="#C" n="19"/>Testamentum, tum continent plenam perfectamque voluntatem Dei&amp; Christi. 
+      <lb ed="#C" n="20"/>Nam haec ratio Testamenti est, vt perfectam voluntatem Testatoris declaret; 
+      <lb ed="#C" n="21"/>hoc est eius, qui Testamentum condidit: hominis enim Testamentum nemo 
+      <lb ed="#C" n="22"/>audet ἀθετειν, aut στιδνατεωεοθ, vt est apud Paulum, Gal. 3. 15. Si ergo hoc 
+      re<lb ed="#C" n="23" break="no"/>vera sit Testamentum Dei, tum continet plenam Dei voluntatem, &amp; per 
+      con<lb ed="#C" n="24" break="no"/>sequens, nemo debet ei addere, aut detrahere aliquid, aut Dei voluntatem 
+      <lb ed="#C" n="25"/>alibi quaerere. At est Dei Testamentum (nemo enim hactenus istumtitulum 
+      <lb ed="#C" n="26"/>reprehendit.) Ergo continet plenam Dei voluntatem. Et sane foedus illud, 
+      <lb ed="#C" n="27"/>quod in his libris explicatur, Christus suo sanguine confimavit &amp; stabilivit.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

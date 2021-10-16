@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="30"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de4438"><!-- con1q1c7 -->
+            <head xml:id="wWpoi1-de4438-Hd1e106">Caput 7</head>
+            <p xml:id="wWpoi1-de4438-d1e109">
+               <lb ed="#C" n="19"/>CAPTTTI 
+      </p>
+            <p xml:id="wWpoi1-de4438-d1e114">
+               <lb ed="#C" n="20"/>CAPUTI 
+      <lb ed="#C" n="21"/>RJUnc consequens est, vt de singulis his Apocryphis Scripturis 
+      <lb ed="#C" n="22"/>Uparticulatim disseramus. Et primum de ijs, quae in librorum 
+      Ca<lb ed="#C" n="23" break="no"/>nonicorum partibus reputantur. Atque hic primo loco ille examinandus 
+      <lb ed="#C" n="24"/>liber occurrit, qui vulgo Prophetia Baruch vocatur. Ad huius libri 
+      con<lb ed="#C" n="25" break="no"/>firmandam authoritatem argumentis quatuor Adversarij vtuntur.  
+      <lb ed="#C" n="26"/>Primum est, quia Machabaeorum 2. cap. 2. citatur aliquid ex 
+      vitimo<lb ed="#C" n="27" break="no"/>cap. Baruch. Secundum, Florentinum &amp; Tridentinum Concilium 
+      <lb ed="#C" n="28"/>nominatim hunc librum in Canonicis Scripturis ponunt. Tertium, 
+      Ec<lb ed="#C" n="29" break="no"/>clesia in officiis anniversarijs nonnullas ex hoc libro lectiones sumit.  
+      <lb ed="#C" n="30"/>Quartum, Patres multi testimonia ex hoc libro tanquam 
+      Canonico<lb ed="#C" n="31" break="no"/>proferunt. Ex his ipsum librum esse vere Canonicum concludit 
+      Bellar<lb ed="#C" n="32" break="no"/>minus, Lib. 1. cap. 8. Ad haec breviter respondere possumus. Nam 
+      ar<lb ed="#C" n="33" break="no"/>gumenta sunt omnino, vt videtis, levia, nec longiorem responsionem. 
+      <lb ed="#C" n="34"/>postulant: sic igitur ad singula respondeo. 
+      </p>
+            <p xml:id="wWpoi1-de4438-d1e149">
+               <lb ed="#C" n="35"/> Ad primum: Secundus liber Machabaeorum Apocryphus est, 
+      quem<lb ed="#C" n="36" break="no"/>admodum postea necessariis rationibus demonstrabo. Vnus autem li¬ 
+      <!--56.xml-->
+      <pb ed="#L" n="31"/>
+               <lb ed="#C" n="1"/>ber Apocryphus non potest alterius Apocryphi libri authoritatem 
+      suo<lb ed="#C" n="2" break="no"/>testimonio confirmare. Igitur hoc nullum argumentum est. Ad 
+      secun<lb ed="#C" n="3" break="no"/>dum: De illis Concilijs nos minime laboramus. Erant enim Papistica 
+      <lb ed="#C" n="4"/>&amp; prorsus Antichristiana. Papistis, permittitur, vt his Concilijs 
+      quan<lb ed="#C" n="5" break="no"/>tum volunt tribuant. Nos tali authoritate vrgeri aut teneri nolumus. 
+      <lb ed="#C" n="6"/>Quod tertio loco obiicitur, etsi huius libri partes quasdam Ecclesia 
+      le<lb ed="#C" n="7" break="no"/>gebat, atque adhuc legit, ex eo tamen nequaquam sequitur librum 
+      es<lb ed="#C" n="8" break="no"/>se genuine proprieque Canonicum. Ostendimus enim supra ex 
+      Hierony<lb ed="#C" n="9" break="no"/>mo atque alijs Patribus, solitam fuisse olim Ecclesiam legere libros non 
+      <lb ed="#C" n="10"/>Canonicos, ad populi in moribus informandis vtilitatem, sed non ad 
+      <lb ed="#C" n="11"/>fidei confirmationem. Deinde, quenam illa Ecclesia est, cuius nobis 
+      ex<lb ed="#C" n="12" break="no"/>emplum pro argumento objiciunt? Parum enim apud nos Ecclesiae 
+      <lb ed="#C" n="13"/>Romanae consuetudo valet, nedum vt vim in ea tanti argumenti 
+      ag<lb ed="#C" n="14" break="no"/>noscamus. Ad postremum, fateor a Patribus ex hoc libro nonnulla 
+      testi<lb ed="#C" n="15" break="no"/>monia citari: addo etiam aliquos in ea opinione fuisse, vt Scripturam 
+      <lb ed="#C" n="16"/>hanc esse partem Ieremiae crederent. Et sane liberhic caeteris 
+      Apocry<lb ed="#C" n="17" break="no"/>phis praeferendus esse videatur. In eo enim omnia, quam in reliquis 
+      <lb ed="#C" n="18"/>augustiora, &amp; sacro characteri convenientiora sunt, sive res ipsas 
+      consi<lb ed="#C" n="19" break="no"/>deremus, sive loquendi genus. Tamen liber est Apocryphus, vt audi. 
+      <lb ed="#C" n="20"/>etis. Non sequitur autem ista ratio, Aliqui Patres putabant hanc esse 
+      <lb ed="#C" n="21"/>partem aliquam Ieremiae; ergo est pars leremiae. Nam illi Patres 
+      erra<lb ed="#C" n="22" break="no"/>bant, vt manifestum est. Nec sequitur, Aliqui Patres ex hoc libro 
+      testi<lb ed="#C" n="23" break="no"/>monia citabant: ergo Canonicam authoritatem liber habet. Nam 
+      te<lb ed="#C" n="24" break="no"/>stimonia ex alijs etiam libris saepe adducuntur, qui nullo modo pro 
+      Ca<lb ed="#C" n="25" break="no"/>nonicis habendi sunt. Iteneus librum Pastoris citat, vt Eusebius, L. 5. C. 
+      <lb ed="#C" n="26"/>8. nisi forsan eum librum in Canonicis Scripturis habuit. Quando enim 
+      <lb ed="#C" n="27"/>aliquid ex hoc libro protulit, his verbis vsus est: Recte dixit Scriptura, quae 
+      <lb ed="#C" n="28"/>ait: &amp; Eusebius de illo scripsit, ἀποοιιχεδ τυ τοποιμενος χιαριν, Pastoris 
+      <lb ed="#C" n="29"/>scripturam suscipit. Atque hoc etiam Nicephorus testatur, Lib. 4. cap. 24. 
+      <lb ed="#C" n="30"/>Similiter Athanasius in tertia oratione contra Artianos affert aliquid  
+      <lb ed="#C" n="31"/>ex libro Baruch: sed idem etiam in eadem oratione ex 3 Esdrae (quem 
+      <lb ed="#C" n="32"/>librum Adversarij Apocryphum esse confitentur) testimonium 
+      produ<lb ed="#C" n="33" break="no"/>cit, quo Verbum esse Deum probet. Huius quoque tertii libri Esdrae 
+      testi<lb ed="#C" n="34" break="no"/>moniis vsus est Cyprianus, Epist. 74. &amp; Augustinus in veteris ac 
+      novi<lb ed="#C" n="35" break="no"/>Testamenti Quaest. 109. &amp; Lib. 18. de Civit. cap. 36. Et Ambrosius de 
+      <lb ed="#C" n="36"/>bono Mortis, cap. 10. vt animos doceat vnam cum corporibus non 
+      ex<lb ed="#C" n="37" break="no"/>tingui. Hic tamen liber Esdrae non est Canonicus, vt ipsi Papistae 
+      conce<lb ed="#C" n="38" break="no"/>dunt: sic perspicuum est, causam hoc argumento non concludi. Obiici¬ 
+      <!--57.xml-->
+      <pb ed="#L" n="32"/>
+               <lb ed="#C" n="1"/>unt Papistae libros hos Esdrae non citari ab illls Patribus tanquam 
+      sa<lb ed="#C" n="2" break="no"/>cros &amp; Canonicos: at illum librum Baruch vnam cum reliquis sic ab illis 
+      <lb ed="#C" n="3"/>citari ac nominari, vt de illis, tanquam vere Canonicis, sentire se 
+      decla<lb ed="#C" n="4" break="no"/>raverint. Ergo non est horum similis ratio. Respondeo, vocari quidem 
+      ab<lb ed="#C" n="5" break="no"/>illis Scripturas, &amp; Sacras, sed communi quadam appellatione. Non 
+      <lb ed="#C" n="6"/>enim plerique intelligebant sic illos libros esse sacros, vtinter eos &amp; 
+      <lb ed="#C" n="7"/>reliquos, qui vere Divini &amp; Canonici sunt, ninil interesse iudicarent.  
+      <lb ed="#C" n="8"/>Quod de hoc etiam libro Baruch <name xml:id="wWpoi1-de4438-Nd1e263">Iohannes Driedo</name> ex primariis 
+      Pa<lb ed="#C" n="9" break="no"/>pistis diserte testatur. Sic enim scribit, De Catal. Scripturae Lib. 1. ca. 4. 
+      <lb ed="#C" n="10"/>ad difficultatem 4. Sic Cyprianus, eAmbrosius, caeterique Patres citant 
+      sen<lb ed="#C" n="11" break="no"/>tentias ex libro Baruch, ex 3. &amp; 4. Esdrae, non tanquam ex Canonicis libris, sed  
+      <lb ed="#C" n="12"/>tanquam ex libris continentibus dogmata quaedam piaiuvantia, &amp; non 
+      contra<lb ed="#C" n="13" break="no"/>ria, sed consona potius fidet nostrae. Papistarum objectionem Papista 
+      di<lb ed="#C" n="14" break="no"/>luit. His enim verbis librum Baruch aut esse Canonicum, aut tanquam  
+      <lb ed="#C" n="15"/>Canonicum ab illis Patribus citari negat. Et <ref xml:id="wWpoi1-de4438-Rd1e282">
+                  <name xml:id="wWpoi1-de4438-Nd1e284">Melchior Canus</name> sic de 
+      eo<lb ed="#C" n="16" break="no"/>dem hoc libro scribit, Lib. 12. cap 6</ref>. Nam vt in secundo libro docuimus, 
+      si<lb ed="#C" n="17" break="no"/>bellum Baruch non adeo explorate &amp; firmiter in sacrorum numero 
+      Ecclesiare<lb ed="#C" n="18" break="no"/>posuit, vt aut illum esse sacrum fidei Catholicae veritas expedita sit, aut non esse 
+      <lb ed="#C" n="19"/>sacrum, haeresis expedita sit. Libellus ergo iste, sive quilibet alius, qui in 
+      quaestio<lb ed="#C" n="20" break="no"/>nem citra crimen hereseos vocari possit, non efficit certas atque constantes 
+      Catho<lb ed="#C" n="21" break="no"/>licae fidei veritates. Ex hoc Cani testimonio colligo, primum, hunc 
+      libel<lb ed="#C" n="22" break="no"/>lum Baruch non esse explorate Canonicum. Deinde, negari posse sine 
+      <lb ed="#C" n="23"/>haeresi, hunc librum omnino esse Canonicum. Postremo, nullam ex hoc  
+      <lb ed="#C" n="24"/>libro sumi posse firmam &amp; constantem fidei catholicae veritatem: quod  
+      <lb ed="#C" n="25"/>Apocryphum esse librum hunc omnem evincit, quandoquidem qui 
+      li<lb ed="#C" n="26" break="no"/>ibri Canonici sunt, ij certas fidei Catholicae &amp; constantes veritates 
+      effi<lb ed="#C" n="27" break="no"/>ciunt. Aquinas vero in Comment. in ludam ait, licere ex libro 
+      Apocry<lb ed="#C" n="28" break="no"/>pho trahere testimonium veritatis. Sic enim ludam Apostolum ex 
+      Apo<lb ed="#C" n="29" break="no"/>crypho libro Enochi aliquid citavisse, V. 14. Etsi autem minime 
+      nego<lb ed="#C" n="30" break="no"/>non minus licere ex libro Apocrypho sententiam aliquam citare, quam 
+      <lb ed="#C" n="31"/>ex profano, vt Paulus ex Menandro lambum, 1. Cor. 15. 33. ex 
+      Ara<lb ed="#C" n="32" break="no"/>to Hemistichium, Act. 17. 28. ex Epimenide Cretensi heroicum 
+      ver<lb ed="#C" n="33" break="no"/>sum citavit, Tit. 1. 12. tamen non puto hanc sententiam quam Iudas 
+      re<lb ed="#C" n="34" break="no"/>citat, ex Apocrypho libro sumptam esse, quia Iudas ait, ωροερητώσε: 
+      er<lb ed="#C" n="35" break="no"/>go tanquam Propheticum testimonium adduxit: nisi forsan sic 
+      Prophe<lb ed="#C" n="36" break="no"/>tae nomen hoc loco vsurpatur, vt quando Paulus Epimenidem 
+      Prophe<lb ed="#C" n="37" break="no"/>tam vocat. Quanquam non illum simpliciter Prophetam, sed 
+      Creten<lb ed="#C" n="38" break="no"/>sium Prophetam nominat.  
+      <!--58.xml-->
+      <pb ed="#L" n="49"/>
+               <lb ed="#C" n="1"/>Satis iam huius libri authoritas convulsa est. Quaero enim quis 
+      scrip<lb ed="#C" n="2" break="no"/>serit? Aut Baruch ipse, aut Ieremias libri author censetur. Sed horum 
+      <lb ed="#C" n="3"/>neuter librum scripsit, quod hinc manifestum est, quia liber Graece, non 
+      <lb ed="#C" n="4"/>Hebraice scriptus suit, id quod &amp; Hieronymus affirmat, &amp; liber ipse 
+      in<lb ed="#C" n="5" break="no"/>dicat. Hieronymus enim in Praefat. in lerem. ait hunc librum apud 
+      <lb ed="#C" n="6"/>Hebraeos nec legi, nec haberi: itaque a se omnino praetermissum esse. 
+      <lb ed="#C" n="7"/>Si vero vel ab illo Baruch, vel a leremia ipso scriptus fuisset, Hebraice 
+      <lb ed="#C" n="8"/>procul dubio, non Graece prodijsset. Ieremias enim Hebraice 
+      lo<lb ed="#C" n="9" break="no"/>quutus est, &amp; sua vaticinia sermone Hebraico edidit. Baruch vero 
+      Iere<lb ed="#C" n="10" break="no"/>miae scriba fuit, &amp; multa ex ore Ieremiae excepta literis mandavit, 
+      ve<lb ed="#C" n="11" break="no"/>Ierem. 36. 4. Deinde, phrasis ipsa &amp; dictio Graecanica est, non tam 
+      pres<lb ed="#C" n="12" break="no"/>sa, nervosa, sedata, maiestatis plena, quam sacrae Scripturae stilus esse 
+      <lb ed="#C" n="13"/>solet. In Epistola illa leremiae, quae cap. 6. commemoratur, quod 
+      scribi<lb ed="#C" n="14" break="no"/>tur, Eritis ibi generationes septem, ver. 2. novum est, &amp; a phrasi 
+      Hebraeo<lb ed="#C" n="15" break="no"/>rum alienum. Nunquam enim in Hebraicis libris vocabulum illud 
+      Ge<lb ed="#C" n="16" break="no"/>nerationis isto modo sumitur, vt decem annorum spatium significet,  
+      <lb ed="#C" n="17"/>quemadmodum Franciscus lunius recte observavit. Quisquis librum 
+      <lb ed="#C" n="18"/>scripsit, Grecus homo fuit, aut Graece scripsit. Ergo nec Baruch fuit, nec 
+      <lb ed="#C" n="19"/>aliquis ex numero Prophetarum. Ita efficitur necessaria ratione librum 
+      <lb ed="#C" n="20"/>hunc in Apocryphis esse statuendum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

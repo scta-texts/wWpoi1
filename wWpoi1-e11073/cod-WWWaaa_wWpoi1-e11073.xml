@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="118"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e11073"><!-- con1q2c10 -->
+            <head xml:id="wWpoi1-e11073-Hd1e106">Caput 10</head>
+            <p xml:id="wWpoi1-e11073-d1e109">
+      <!--127.xml-->
+               <pb ed="#L" n="118"/>
+               <lb ed="#C" n="1"/>CIPVT DECITV  
+      <lb ed="#C" n="2"/>In quo proponimtur loca quaedam corrupta in vulgata 
+      <lb ed="#C" n="3"/>eduue veteris Testamenti, 
+    </p>
+            <p xml:id="wWpoi1-e11073-d1e122">
+               <lb ed="#C" n="4"/>PRimus locus est Genes. 3. Ipsa conteret caput tuum, sic in vulgata 
+      <lb ed="#C" n="5"/>Amale &amp; vitiose legitur: legendum enim erat spse, vel Ipsum, vt ad 
+      <lb ed="#C" n="6"/>semen mulieris, non ad ipsam mulierem referatur. Bellarminus affirmat,  
+      <lb ed="#C" n="7"/>non esse improbabile, deberi legi Ipsa, &amp; sic multos veteres legisse: quod  
+      <lb ed="#C" n="8"/>autem verbum, quod in Hebraeo est masculini generis, cum nomine 
+      foe<lb ed="#C" n="9" break="no"/>minino copulatur, in eo magnum mitaculum esse considerandum ait. 
+      <lb ed="#C" n="10"/>nimirum foeminam serpentis caput conterete, non per se, sed per filium 
+      <lb ed="#C" n="11"/>suum. Sed hoc ille mysterium in editione Sartoriana praetermisit. 
+      Re<lb ed="#C" n="12" break="no"/>spondeo. Etsi omnes Patres dicerent legendum esse (Ipsa) tamen id nullo 
+      <lb ed="#C" n="13"/>modo admitti probarique debet. Hebraici enim libri constanter legunt: 
+      <lb ed="#C" n="14"/>Hu: Septuaginta habent ἀυτὸs: Chaldaica paraphrasis hanc lectionem 
+      <lb ed="#C" n="15"/>confirmat: Denique quidam codices vulgatae editionis retinent spse, 
+      qui<lb ed="#C" n="16" break="no"/>dam Ipsum. Postremo, pondus ipsum sententiae postulat, vt hoc de 
+      semi<lb ed="#C" n="17" break="no"/>ne mulieris, non de muliere intelligamus. Quae enim mulier serpentis 
+      ca<lb ed="#C" n="18" break="no"/>put conterere potuit? Num Maria? Id ab istis dici non ignoro. Sed quo- 
+      <lb ed="#C" n="19"/>modo? num quando Christum peperit? at parere Christum, non est 
+      ca<lb ed="#C" n="20" break="no"/>put serpentis conterere. Aliud enim est caput serpentis conterere, aliud 
+      <lb ed="#C" n="21"/>illum parere, a quo serpentis caput conteratur. Num quando in 
+      Chri<lb ed="#C" n="22" break="no"/>stum credidit? At hoc ad fideles omnes pertinet. Solus ergo Christus 
+      ip<lb ed="#C" n="23" break="no"/>se est, qui potentia sua inferni Serpentis caput confringere &amp; 
+      comminu<lb ed="#C" n="24" break="no"/>ere potuit, quique nos ex illius faucibus cripuit atque liberavit. Itaque 
+      <lb ed="#C" n="25"/>hanc primam redemptionis nostrae promissionem, ex qua tota 
+      humani<lb ed="#C" n="26" break="no"/>generis salus pendet, non esse ab istis diligentius curatam, sane 
+      mitan<lb ed="#C" n="27" break="no"/>dum est. Si de hominum salute tam solliciti fuissent, atque oportebat,  
+      <lb ed="#C" n="28"/>eius profecto fundamentum tam nesarie periculoseque convelli 
+      nun<lb ed="#C" n="29" break="no"/>quam permisissent. Si qui Patres aliter legerint, hoc nihil ad nos. 
+      Augu<lb ed="#C" n="30" break="no"/>stinus quidem, Lib. 11. Cap. 36. de Genes. ad Litt, totum locum 
+      depra<lb ed="#C" n="31" break="no"/>vate legit, Ipsa tibi servabit Caput. Cyprianus vero legit Ipse, Lib. 2. ad. 
+      <lb ed="#C" n="32"/>Quitinum; &amp; ante illum Irenaeus, Lib. 3. Cap. 77. &amp; Leo Pontifex 
+      Roma<lb ed="#C" n="33" break="no"/>nus, hunc locum de semine mulieris interpretatur, Serm. 2. de Nativitate 
+      <lb ed="#C" n="34"/>Domini. Atque ita omnino legendum esse, Hieronymus docet, in Quaest. 
+      <lb ed="#C" n="35"/>in Genes. Quare, aut vulgata editio non est Hieronymiana, aut 
+      Hierony<lb ed="#C" n="36" break="no"/>mus secum ipse pugnavit. Chrysostomus alicubi legere videtur Ipsa: sed il¬ 
+      <!--128.xml-->
+      <pb ed="#L" n="119"/>
+               <lb ed="#C" n="1"/>lud interpretitribuendum esse Philippus Montanus admonuit. Canus lib. 
+      <lb ed="#C" n="2"/>2. cap. 15. vitium manifestum in hoc loco agnoscit. Sic etiam 
+      Andradi<lb ed="#C" n="3" break="no"/>us, Lib. 4. Defens. &amp; Caletanus in cap. 3. Genes. aperte scribit, hoc non 
+      <lb ed="#C" n="4"/>de muliere, sed mulieris semine dici. Isidorus Clarius in suis Bibliis 
+      repo<lb ed="#C" n="5" break="no"/>suit Ipsum. Et lohannes Benedictus in Scholiis suis in hunc locum, non 
+      <lb ed="#C" n="6"/>Ipsa legendum esse ait, sed Ipsum, vt de semine intelligatur. Quare hanc 
+      <lb ed="#C" n="7"/>lectionem vulgatae editionis defendere, est errorem manifestum 
+      excusa<lb ed="#C" n="8" break="no"/>re, &amp; apertae veritati repugnate. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e218">
+               <lb ed="#C" n="9"/>Secundus locus est Genes. 6. vbi sic in vulgata editione legitur: Cuncta 
+      <lb ed="#C" n="10"/>cogitatio cordis est intenta ad malum. Erat autem legendum iuxta 
+      Hebrae<lb ed="#C" n="11" break="no"/>um, Figmentum cordis eius tantummedo malum omni die. Bellarminus ait 
+      <lb ed="#C" n="12"/>primo, sensum esse eundem. Respondeo, hoc quanquam esset verum, 
+      <lb ed="#C" n="13"/>non haberet iustum defensionis momentum. Nam interpretem 
+      Scrip<lb ed="#C" n="14" break="no"/>turae non modo cavere oportet, ne sensum corrumpat, sed quantum 
+      fie<lb ed="#C" n="15" break="no"/>ri omnino potest, vt quamminime a verbis discedat: propterea quod in 
+      <lb ed="#C" n="16"/>verbis Spiritus sancti latere multa possunt, quae non siatim 
+      animadver<lb ed="#C" n="17" break="no"/>tuntur, &amp; tamen egregiam admonitionem continent. Sed hoc loco 
+      sen<lb ed="#C" n="18" break="no"/>sus mutatur. Nam aliud est, esse intentam in malum, aliud esse malam, &amp; 
+      <lb ed="#C" n="19"/>tantummodo malam, Minus enim est in malum propensam esse, quam 
+      <lb ed="#C" n="20"/>esse iam revera malam. Deinde, vulgatus interpres ait, cunctam 
+      cogitati<lb ed="#C" n="21" break="no"/>onem hominis intentam esse in malum. Quasi Spiritus sanctus ipsas 
+      dunta<lb ed="#C" n="22" break="no"/>xat cogitationes reprehenderet: qui tamen &amp; cogitationes, &amp; 
+      cogitati<lb ed="#C" n="23" break="no"/>onum omnium fontem ac principium damnat. Haec sunt igitur huius 
+      <lb ed="#C" n="24"/>loci errata. Primum, In Hebraeo nihil est quod Intentam significet. 
+      Secun<lb ed="#C" n="25" break="no"/>dum, ponitur cuncta cogitatio cordis, pro omni figmento 
+      cogitatio<lb ed="#C" n="26" break="no"/>num cordis humani. Tertium, Praetermissa est particula tantummodo, quae 
+      <lb ed="#C" n="27"/>vim in significatione maximam habet. Secundo, ait Bellarminus, non 
+      <lb ed="#C" n="28"/>sequi hinc, vt Lutherani putant, omnia opera hominum esse mala. Nam 
+      <lb ed="#C" n="29"/>hanc esse hyperbolen, vt in eodem cap. dicitur, Omnis caro corruperat  
+      <lb ed="#C" n="30"/>viam suam: &amp; tamen ibidem Noe vocatur vir iustus, &amp; perfectus. Res 
+      pon<lb ed="#C" n="31" break="no"/>deo: primo, Lutherani non omnia hominum opera mala esse dicunt, sed  
+      <lb ed="#C" n="32"/>quae hominum sunt nondum renatorum. Illa vero omnia esse mala, cum 
+      <lb ed="#C" n="33"/>ex aliis Scripturarum testimoniis, tum ex hoc clarissime patet. Secundo, 
+      <lb ed="#C" n="34"/>nulla est huius sententiae hyberbole: nam revera sunt talium hominum 
+      <lb ed="#C" n="35"/>desideria nullanisi mala: quod etiam Andradius agnoscit, lib. 3. 
+      Ortho<lb ed="#C" n="36" break="no"/>dox. Explic. &amp; lib. 5. Defens. Malum enim esse dicit, quod cor ipsum 
+      hu<lb ed="#C" n="37" break="no"/>manum primo conatu fingit &amp; format. Si primi cordis motus tam vitiosi &amp; 
+      <lb ed="#C" n="38"/>impuri sint, quid omnino integrum in corde humano remanet? Non e¬ 
+      <!--129.xml-->
+      <pb ed="#L" n="120"/>
+               <lb ed="#C" n="1"/>nim de substantia cordis loquimur, sed qualitatibus. Tertio. Quod 
+      om<lb ed="#C" n="2" break="no"/>nis earo dicitur viam suam corrupisse, in iis verbis nihil est ὑπρριλικον. 
+      E<lb ed="#C" n="3" break="no"/>rat quidem Noc instus ac perfectus, sic tamen, vt iustitiam non in natura 
+      <lb ed="#C" n="4"/>sua insitam habuerit, sed a Deo donatam acceperit. Noc non fuit 
+      om<lb ed="#C" n="5" break="no"/>nino illius corruptionis expers, quae per omnem carnem pervaserat. 
+      Vi<lb ed="#C" n="6" break="no"/>dete quales isti hyperbolas in Scripturis invenerint. De Noe sic in 
+      <lb ed="#C" n="7"/>Quaest. in Genes. Hieronymus: Signanter dicit in generatione sua, vt 
+      osten<lb ed="#C" n="8" break="no"/>deret non iuxta iustitiam consummatam, sed iuxta generationis suae justitiam 
+      <lb ed="#C" n="9"/>eum iustum fuisse. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e309">
+               <lb ed="#C" n="10"/>Tertius locus est Geneseos 9. vbi sic illi legunt: Qui fuderit sanguinem 
+      <lb ed="#C" n="11"/>hom inis, fandetur sanguis illius: praetermissa hic sunt illa verba, per 
+      homi<lb ed="#C" n="12" break="no"/>nem. Bellarminus ait hanc omissionem non reddere sensum 
+      imperfe<lb ed="#C" n="13" break="no"/>ctum. Sensum enim essetam in Hebraeo, quam in Latino, Qui occiderit 
+      <lb ed="#C" n="14"/>hominem, occidetur etiam ipse. Respondeo. Sensus in Latino non tam 
+      ple<lb ed="#C" n="15" break="no"/>nus est, quam in Hebraeo. Nam illud (per hominem) vel, ve aiij vertunt, 
+      <lb ed="#C" n="16"/>in hominem, ἐμφατκον est, quemadmodum Caletanus in suis 
+      commen<lb ed="#C" n="17" break="no"/>tariis, alijque docent, &amp; a multis varie exponitur: quae omnes 
+      expositi<lb ed="#C" n="18" break="no"/>ones tolluntur, si verba e textu removentur. Ergo felsum est, non 
+      fieri<lb ed="#C" n="19" break="no"/>sensum hac omissione minus perfectum. Verissima illorum expositio 
+      vi<lb ed="#C" n="20" break="no"/>detur, qui his verbis Magistratus ludicisque authoritatem sanciri 
+      existi<lb ed="#C" n="21" break="no"/>mant, &amp; homicidam non esse divinae solummodo vindictae 
+      relinquen<lb ed="#C" n="22" break="no"/>dum, sed ab ijs, quibus est gladius a Deo traditus, ad poenam 
+      conquiten<lb ed="#C" n="23" break="no"/>dum esse. Non enim idem est, si quis dicat, Qui occiderit hominem, 
+      oc<lb ed="#C" n="24" break="no"/>cidetur &amp; ipse, &amp; si addiderit, per hominem. Nam illudprius sic intelligi 
+      <lb ed="#C" n="25"/>potest, ac si a Deo occidendus esset: hoc autem posterius, illum ab 
+      ho<lb ed="#C" n="26" break="no"/>mine neci tradendum esse arguit.  
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e349">
+               <lb ed="#C" n="27"/>Quartus locus est Geneseos 14. 18. Ubi in Hebraeo textu nec 
+      ver<lb ed="#C" n="28" break="no"/>bum afferendi, nec conjunctio rationalis habetut. Ecllatininus objicit,  
+      <lb ed="#C" n="29"/>primo, non haberi in vulgata editione, obtulit, sed protulit panem &amp; 
+      vi<lb ed="#C" n="30" break="no"/>num. Respondeo, in quibusdam tamen exemplaribus haberi obiulit. 
+      An<lb ed="#C" n="31" break="no"/>dradius non negat, in4. Defensione. Sed plerique nunc Latini, codices. 
+      <lb ed="#C" n="32"/>legunt sane, proferens panem &amp; vinum, non offerens: Quo magis 
+      Adver<lb ed="#C" n="33" break="no"/>sarij nostri hoc loco abutuntur ad Missae stabiliendum sacrificium. 
+      Se<lb ed="#C" n="34" break="no"/>cundo obiicit, ve particulam apud Hebraeos saepe accipi pro, chi, 
+      quo<lb ed="#C" n="35" break="no"/>niam. Respondeo, id non negatur, neque erat opus ad hoc confirmandum, 
+      <lb ed="#C" n="36"/>tam multorum exemplorum appositione: sed tamen hoc loco non eam  
+      <lb ed="#C" n="37"/>vim habet. Nam panem Melchisedech vinumque protulit, non vt 
+      sacri<lb ed="#C" n="38" break="no"/>ficium offerret, aut sacerdotis aliquo munere fungeretur, sed vt faceret 
+      <!--130.xml-->
+      <pb ed="#L" n="121"/>
+               <lb ed="#C" n="1"/>potius quod Regem deceret, id est, Abrahamum eiusque commilitones 
+      <lb ed="#C" n="2"/>commeatu reficeret. Quod tibi a me responsum forsan non probabis. 
+      I<lb ed="#C" n="3" break="no"/>taque quid tibi tui contubernales responde ant, audias. Caietanus in 
+      <lb ed="#C" n="4"/>commentatiis suis in hunc locum, sic habet: Quod in vulgata editione 
+      sub<lb ed="#C" n="5" break="no"/>ditur, vt causa oblationis (erat enim sacerdos Dei altissimi) in Hebraeo non 
+      ha<lb ed="#C" n="6" break="no"/>betur vt causa, sed separata clausula, Et ipse sacerdos Deo excelso. Adiungit. 
+      <lb ed="#C" n="7"/>siquidem Regiae dignitati &amp; liberalitati dignitatem sacerdotalem. Itaque quod  
+      <lb ed="#C" n="8"/>panem &amp; vinum protulit, illius regiae liberalitati; quod Abrahamo 
+      bene<lb ed="#C" n="9" break="no"/>dixit, sacerdotali eius dignitati Caletanus tribuit, &amp; omnino vere. Sic¬i 
+      <lb ed="#C" n="10"/>Andradius, Lib 4. Defens. Trid. Ego cum illis sentio, qui Iassos eAbrahae 
+      <lb ed="#C" n="11"/>milites, &amp; diuturna pugna fractos, Melchisedechum pane vinoque refecisse 
+      ai<lb ed="#C" n="12" break="no"/>unt. Tecum igitur nec Andradius, nec Caletanus, nec multi alij 
+      senti<lb ed="#C" n="13" break="no"/>unt, quando panem &amp; vinum ideo prolatum a Melchisedecho fuisse 
+      <lb ed="#C" n="14"/>existimas, vt eas res Deo in sacrificium offerret. De Patrum vero iudiciis 
+      <lb ed="#C" n="15"/>alius erit respondendi locus. Obijcit tertio, Psalmo 109. dici de 
+      Chri<lb ed="#C" n="16" break="no"/>sto, Tu es sacerdos in aeternum secundum ordinem Melchisedech: Cur 
+      Chri<lb ed="#C" n="17" break="no"/>stus sacerdos est secundum ordinem Melchisedech, nisi quia ille obtulit,  
+      <lb ed="#C" n="18"/>panem &amp; vinum, hic seipsum in specie panis &amp; vini? Aes pondeo, 
+      Apo<lb ed="#C" n="19" break="no"/>stolus aperte docet in Epistola ad Hebraeos, cap. 5. 7. quemadmodum 
+      <lb ed="#C" n="20"/>Christus sit sacerdos secundum ordinem Melchiscedech, vt necesse 
+      mini<lb ed="#C" n="21" break="no"/>me sit, hanc novam similitudinis rationem comminisci. Si vero 
+      Melchi<lb ed="#C" n="22" break="no"/>sedech non aliter Christitypus fuit, quam quia panem vinumque 
+      obtu<lb ed="#C" n="23" break="no"/>lit, frustra Apostolus cum Melchisedecno Christum comparavit, nec ad 
+      <lb ed="#C" n="24"/>rem omnino aliquid dixit: Huius enim sacrificij in illa comparatione 
+      <lb ed="#C" n="25"/>non ineminit. Igitur si propterhoc sacrificium solum Christus fuit 
+      sa<lb ed="#C" n="26" break="no"/>cerdos secundum ordinem Melchisedech, tum Apostolus, quando 
+      Chri<lb ed="#C" n="27" break="no"/>stum cum Melchisedecho contulit, illud omnino praetermisit, quod 
+      so<lb ed="#C" n="28" break="no"/>lumerat commemorandum, nec aut diligenter, aut accommodate 
+      pro<lb ed="#C" n="29" break="no"/>bavit, quod illiprobandum erat. Hoc quid aliud est, quam Spiritum 
+      <lb ed="#C" n="30"/>sanctum contumelia aperta afficere? quod isti plane faciunt, quando 
+      <lb ed="#C" n="31"/>Christum dicunt non aliter esse sacerdotem secundum ordinem 
+      Mel<lb ed="#C" n="32" break="no"/>chisedech, quam quia ille obtulit panem &amp; vinum, hic seipsum in 
+      spe<lb ed="#C" n="33" break="no"/>cie panis &amp; vini. Sed hac omni de re erit alibi dicendum. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e453">
+               <lb ed="#C" n="34"/>Quintus locus est Numerorum vitimo capite, vbi vulgati codices sic 
+      <lb ed="#C" n="35"/>habent: Omnes viri ducent uxores de tribu &amp; cognatione sua, &amp; cunctae 
+      foe<lb ed="#C" n="36" break="no"/>minae. de eadem tribu maritos accipient. Hanc esse vitiosam 
+      interpretatio<lb ed="#C" n="37" break="no"/>nem, multis modis facile intelliget, qui illam cum Hebraico textu 
+      com<lb ed="#C" n="38" break="no"/>parabit. His enimi verbis simpliciter prohibetur, ne vir duc at vxorem, aut 
+      <!--131.xml-->
+      <pb ed="#L" n="122"/>
+               <lb ed="#C" n="1"/>foemina viro nubat extra tribum suam. At multa in Scripturis occurrunt. 
+      <lb ed="#C" n="2"/>exempla earum nuptiarum, quae inter personas diversarum tribuum 
+      ex<lb ed="#C" n="3" break="no"/>titerint. Non igitur ea fuit legis sententia, quemlibet virum &amp; foeminam 
+      <lb ed="#C" n="4"/>oportere in sua tribu matrimonium contrahere, sed tantum haeredes, 
+      ne<lb ed="#C" n="5" break="no"/>singularum tribuum possessiones ac fundi permiscerentur, aut in alienas 
+      <lb ed="#C" n="6"/>ribus transferrentur. Quicquid ergo Bellarminus attulerit ad excusandum 
+      <lb ed="#C" n="7"/>huius interpretationis vitium, tamen quicunque vel leviter locum 
+      inspexe<lb ed="#C" n="8" break="no"/>rit, ermorem statim invenerit. Sed quia Bellarminus ait, non aliter 
+      haberi<lb ed="#C" n="9" break="no"/>in Hebraeo, quam in Latino (quod illum mitor tam confidenter &amp; 
+      falso<lb ed="#C" n="10" break="no"/>dicere voluisse) eum non alio, quam Caletani, testimonio confutabo. 
+      Sic<lb ed="#C" n="11" break="no"/>enim in illum locum Caletanus: Non habetur haec clausula in textu 
+      Hebra<lb ed="#C" n="12" break="no"/>co. Cardinalis iste negat haberi in Hebraeo, quod in Hebraeo haberi 
+      Bel<lb ed="#C" n="13" break="no"/>larminus affirmat. Sed Bellarminum Cardinalis &amp; authoritate, &amp; 
+      veri<lb ed="#C" n="14" break="no"/>tate superat. Deinde mox idem Cardinalis subiungit, vide quot &amp; quales 
+      <lb ed="#C" n="15"/>additiones legis siluit interpres. Non traditur Lex de qualibet filia, sed de filia 
+      <lb ed="#C" n="16"/>haerede, &amp;c. Itaque multa sunt vulgatae versionis in hoc loco errata, si 
+      credi<lb ed="#C" n="17" break="no"/>mus Caletano: &amp; tamen nullum Bellarminus videre potuit, ne forte 
+      er<lb ed="#C" n="18" break="no"/>rorem aliquem in vulgata editione agnosceret, quod nimirum esset 
+      mag<lb ed="#C" n="19" break="no"/>nopere deplorandum. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e512">
+               <lb ed="#C" n="20"/>Sextus locus est Esdrae 9. 8. vbi par illius legitur, cum legi debeat 
+      pax<lb ed="#C" n="21" break="no"/>illus: &amp; Bellarminus hoc loco agnoscit errorem librariorum. Vox enim 
+      <lb ed="#C" n="22"/>Hebraea pax illum significat, vt minime dubium sit, ira omnino legendum 
+      <lb ed="#C" n="23"/>esse. Quod vero ait Bellarminus, multos codices Latinos habere, 
+      paxii<lb ed="#C" n="24" break="no"/>lus, non opinor esse verisimile, cum Lovanienses Bibliorum correctores. 
+      <lb ed="#C" n="25"/>veterem hanc pravamque lectionem in textu retineant, quod (credo) non 
+      <lb ed="#C" n="26"/>fecissent, si librorum authoritate freti locum emendare potuissent. Et 
+      ve<lb ed="#C" n="27" break="no"/>ro quamobrem non emendarunt? estene enim dubia res, aut obscura: 
+      <lb ed="#C" n="28"/>Bellarminus fatetur veram lectionem esse, quam illi e textu excluserunt, 
+      <lb ed="#C" n="29"/>falsam, quam in textu retinent. Tamen Theologi Lovanienses, qui se 
+      <lb ed="#C" n="30"/>errores vulgatae editionis velle corrigere profitentur, hunc tam certum 
+      <lb ed="#C" n="31"/>foedumque erorem notarunt, sed non sustulerunt. Atque huiusmodi 
+      ali<lb ed="#C" n="32" break="no"/>is erroribus librariorum notis, manifestis, agnitis, illa editio abundat.  
+      <lb ed="#C" n="33"/>Eam nos pro authentica Scriptura recipiamus, quam ipsi etiam 
+      correcto<lb ed="#C" n="34" break="no"/>res tam mendosam reliquerunt? 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e547">
+               <lb ed="#C" n="35"/>Septimus locus est, lob. 5. 1. Voca, si quis est qui tibi respondeat, &amp; 
+      adali<lb ed="#C" n="36" break="no"/>quem sanctorum convertere. Hunc locum vult Remnitius depravatum (
+      in<lb ed="#C" n="37" break="no"/>quit Bellarminus) ad invocationem sanctorum comprobandam: 
+      eum<lb ed="#C" n="38" break="no"/>que propterea, satis immodeste, ebrium fuisse dicit. Verum Remnitius 
+      <!--132.xml-->
+      <pb ed="#L" n="123"/>
+               <lb ed="#C" n="1"/>non versionem loci improbat, sed Papistarum ex hac versione 
+      argumen<lb ed="#C" n="2" break="no"/>tationem, Sanctos esse invoc andos, quia ad aliquem sanctorum nosmet 
+      <lb ed="#C" n="3"/>convertere subemur: quando tamen sancti in Scripturis dicantur ij, qui  
+      <lb ed="#C" n="4"/>sanctitatem in vita colunt. Et sic isti saepe Latina versione ad sua 
+      dog<lb ed="#C" n="5" break="no"/>mata stabilienda abutuntur, &amp; vix satis sobrie argumentantur.  
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e573">
+               <lb ed="#C" n="6"/>Octavus locus est, Proverb. 16. v. 11. vbi lapides seculi legunt, pro 
+      sapi<lb ed="#C" n="7" break="no"/>des saccul: de quo loco mentio facta est prius: &amp; Bellarminus eam 
+      lecti<lb ed="#C" n="8" break="no"/>onem esse veram dicit, quae habet sacculi: vulgata vero falsa est, etiam 
+      il<lb ed="#C" n="9" break="no"/>la recentissima Lovaniensium, quae habet seculi. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e584">
+               <lb ed="#C" n="10"/>Nonus locus est, Ecclesiastae cap. 9. 2. Nescit homo, vtrum odio vel 
+      amo<lb ed="#C" n="11" break="no"/>re dignus sit: sed omnia in futurum servantur incerta. Bellarminus ait, 
+      inter<lb ed="#C" n="12" break="no"/>pretem vulgatum optime vertisse, non numerando verba Hebraica, sed  
+      <lb ed="#C" n="13"/>expendendo ea, eorumque sensum exprimendo. Respondeo, interpretem 
+      <lb ed="#C" n="14"/>vulgatum in hoc loco verba nec numerasse, nec expendisse, sed pessime 
+      <lb ed="#C" n="15"/>vertisse: quod facsse constabit, si verba Hebraica cum hac 
+      interpretati<lb ed="#C" n="16" break="no"/>one comparentur. Nam illi interpretes, qui Scripturas ex Hebraeo 
+      sum<lb ed="#C" n="17" break="no"/>ma fide &amp; cautione transtulerunt, aliter omnino haec verba 
+      interpretan<lb ed="#C" n="18" break="no"/>da esse intellexerunt. Sic locum Vatablus transtulit: Quodque pariter 
+      amo<lb ed="#C" n="19" break="no"/>ren &amp; odium ignorat homo, ipsi autem (Deo) sunt omnia proposita. Pagninus 
+      <lb ed="#C" n="20"/>sic: Etiam amorem, etiam odium nescit homo: quae omnia ante eos sunt, 
+      Ca<lb ed="#C" n="21" break="no"/>ietanus sic: Etiam amorem, etiam odium non sciens homo: omnia in facie 
+      eo<lb ed="#C" n="22" break="no"/>rum. Ipse etiam Hieronymus longe aliter hunc locum vertit, vt constat 
+      <lb ed="#C" n="23"/>ex illa altera huius libri interpretatione, quae inter illius opera habetur  
+      <lb ed="#C" n="24"/>hoc modo: Et quidem charitatem, &amp; quidem odium, non est cognoscens 
+      ho<lb ed="#C" n="25" break="no"/>mo: omnia in facie eorum. Haec &amp; verbis &amp; sensu differt a vestra, quam 
+      ta<lb ed="#C" n="26" break="no"/>men esse Hieronymianam dicitis. Nam quod ad sensum attinet, non ille 
+      <lb ed="#C" n="27"/>est verborum sensus, quem vos dicitis, omnia hic incerta dubiaque esse, 
+      <lb ed="#C" n="28"/>vt nemo intelligat, vtrum amore Dei, an odio fruatur, quousque in hac 
+      <lb ed="#C" n="29"/>vita permaneat. Falsissima est sententia haec, &amp; omnium Scripturarum 
+      <lb ed="#C" n="30"/>doctrinae contraria. Nam Scripturae passim docent, eos qui credunt, esse 
+      <lb ed="#C" n="31"/>de favore Dei suaque salute certos: quod verissimum sanctissimumque 
+      <lb ed="#C" n="32"/>dogma non debet propter vestrae versionis errorem rejici. De ipsa re 
+      ali<lb ed="#C" n="33" break="no"/>bi dicendum: nunc huius loci non eum esse sensum, Caletanus 
+      Car<lb ed="#C" n="34" break="no"/>dinalis Bellarminum doceat. Sic enim ille Cardinalis non male locum, 
+      <lb ed="#C" n="35"/>hunc exponit: Coramnobis sunt ea, quae circa nos geruntur, sive prospera, 
+      si<lb ed="#C" n="36" break="no"/>ve adversa: &amp; cum hoc nescimus, causam adversitatis vel prosperitatis, an sit 
+      <lb ed="#C" n="37"/>odium vel amor Dei, hoc est, an Deus, tanquam amans aliquem, gubernet 
+      e<lb ed="#C" n="38" break="no"/>um per adversa; &amp; similiter, an tanquam odio habens aliquem, gubernet eum. 
+      <!--133.xml-->
+      <pb ed="#L" n="124"/>
+               <lb ed="#C" n="1"/>per adversa: idemque dicito de prosperis. Similiter Metcerus locum 
+      interpre<lb ed="#C" n="2" break="no"/>tatur atque exponit, vit Hebraicae linguae Scripturaeque peritissimus: nec 
+      <lb ed="#C" n="3"/>aliam fuisse veteris vestri interpretis mentem existimat, quam hanc, non 
+      <lb ed="#C" n="4"/>posse ex rebus externis indicari, certoque statui, vtrum aliquis a Deo 
+      a<lb ed="#C" n="5" break="no"/>metur, necne, cum omnia omnibus fimiliter eveniant, iustis, impiis; 
+      pu<lb ed="#C" n="6" break="no"/>ris, impuris, bonis, iniquis; iis qui sacrificant, iis qui non sacrificant, iis 
+      <lb ed="#C" n="7"/>qui iurant, quique iuramentum metuunt, quemadmodum deinceps 
+      <lb ed="#C" n="8"/>proximis verbis sequitur.  
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e672">
+               <lb ed="#C" n="9"/>Decimus locus est Ecclesiastici 5. 5. De propiciato peccato noli esse 
+      sine<lb ed="#C" n="10" break="no"/>metis. Locus inale versus est, cum in Graeco sit, ωeι εζιλασυη μι ἀαρλοος γνι 
+      <lb ed="#C" n="11"/>quae verba prohibent, ne quisquam de assequenda peccatorum 
+      remissi<lb ed="#C" n="12" break="no"/>one securus, peccet confidentius. Sequitur enim, neque adicias peccatum, 
+      <lb ed="#C" n="13"/>super peccatum. Multi enim peccata peccatis cumulant, quia 
+      cer<lb ed="#C" n="14" break="no"/>tam sibi remissionem pollicentur: quos Ecclesiasticus gravissima 
+      admo<lb ed="#C" n="15" break="no"/>nitione deterret. Quod vero Bellarminus ait, nos dicere, hominem 
+      de<lb ed="#C" n="16" break="no"/>bere esse securum de venia obtinenda, ideoque his verbis nostram 
+      sen<lb ed="#C" n="17" break="no"/>tentiam confutan; male nostram sententiam intelligere videtur. Neque 
+      <lb ed="#C" n="18"/>enim in vllo homine securitatem probamus, quod ille calumniatur.  
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e696">
+               <lb ed="#C" n="19"/>Undecimus locus est Ecclesiastici16. 15. Misericordia faciet locum 
+      vni<lb ed="#C" n="20" break="no"/>cuique secundum meritum operum suoram. In paucis verbis multa errata. 
+      Sic<lb ed="#C" n="21" break="no"/>enim Graecus textus habet: Ταση ἔλεημωσθθη τοιησον τυπον: ικαςος ρα χγειτα 
+      <lb ed="#C" n="22"/>ερνααο ενήσει. Omni eleemosinae fac locum: unusquisque enim secundum 
+      opera<lb ed="#C" n="23" break="no"/>sua inveniet: nec verba eadem, &amp; sententia diversa. Illud vero Aderiti 
+      no<lb ed="#C" n="24" break="no"/>men vulgatus interpres vnde habuit? In Graeco sane non reperit. Nam 
+      <lb ed="#C" n="25"/>quod Bellarminus ait, χεαρνα idem esse, quod pro nieritis operum, idque 
+      <lb ed="#C" n="26"/>neminem linguae Graecae tenuissime peritum nescire; velim ab illo 
+      intel<lb ed="#C" n="27" break="no"/>ligere, qui tam peritus est linguae Graecae, in quo Lexico aut libro hoc 
+      in<lb ed="#C" n="28" break="no"/>venerit. χι ἐgια, quid aliud est, quam secundum opera? Inter opera vero, &amp; 
+      <lb ed="#C" n="29"/>meritum operum, si nullum discrimen Bellarmiaus statuere potuit, nihile 
+      <lb ed="#C" n="30"/>est quamobrem sibi magnam, aut linguae Graecae, aut Theologiae 
+      periti<lb ed="#C" n="31" break="no"/>am scientiamque tribuat, Operibus merces promissa est in Scripturis, 
+      <lb ed="#C" n="32"/>meritis operum nulla, nisi mortis. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e729">
+               <lb ed="#C" n="33"/>Duodecimus locus est loelis 2. 13. Praestabilis super malitia. Quid hoc  
+      <lb ed="#C" n="34"/>est? Bellarminum audiamus interpretem: Significat (inquit) praestabilis 
+      su<lb ed="#C" n="35" break="no"/>per malitia, excellens in miserando: quasi aut idem esset praestabilis super,  
+      <lb ed="#C" n="36"/>quod excellens; aut malitia, quod miserando. Vel aliter: Praestabilis 
+      <lb ed="#C" n="37"/>super malitia, est idem quod melior quam vt a malitia vinci queat. At ille non 
+      <lb ed="#C" n="38"/>est Prophetae sensus. Dei enim clementiam &amp; bonitatem Propheta prae¬ 
+      <!--134.xml-->
+      <pb ed="#L" n="125"/>
+               <lb ed="#C" n="1"/>dicat, eamque tantam esse dicit, vt Deummali poeniteat, quo populum 
+      <lb ed="#C" n="2"/>afflictare decreverat. Hoc quid sit, facile intelligitur: Illud non 
+      obscu<lb ed="#C" n="3" break="no"/>rum modo est, sed plane barbarum. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e755">
+               <lb ed="#C" n="4"/>Decimustertius locus est Michaeae 5. 2. quem Osiandet male versum 
+      <lb ed="#C" n="5"/>esse a vetere interprete scribit. Non enim vertendum fuisset, Parvulaes 
+      <lb ed="#C" n="6"/>in millibus Iudab, sed, Parum est, vt sis in millibus Iudah. Pro Osiandro 
+      ni<lb ed="#C" n="7" break="no"/>hil est quod respondeam. Non videtur eius contemnenda correctio esse, 
+      <lb ed="#C" n="8"/>cum Matthaeus, cap. 2. 6. hunc locum recitans, non habeat, parvula es, 
+      <lb ed="#C" n="9"/>sed, αδαμως ελαχιση ει, nequaquam parvula es: &amp; locus sine dubio melius, 
+      <lb ed="#C" n="10"/>verti potuit, quam est a vulgato versus. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e773">
+               <lb ed="#C" n="11"/>Atque hoc modo Bellarminus vitia quaedam excusavit vetetis Latinae; 
+      <lb ed="#C" n="12"/>versionis: quam scite, quam docte, quam vere, alij judicent. Credo esse 
+      <lb ed="#C" n="13"/>neminem, nisi partium nimis studiosum, qui praeclare a Bellarmino 
+      de<lb ed="#C" n="14" break="no"/>fensam esse vulgatam versionem praedicet. Si nullum aliud esset 
+      vulga<lb ed="#C" n="15" break="no"/>tae versionis erratum, ex his tamen satis intelligi animadvertique posset, 
+      <lb ed="#C" n="16"/>eam nequaquam esse tam puram atque perfectam, vt pro 
+      authentica<lb ed="#C" n="17" break="no"/>Dei Scriptura haberi debeat. Sed praeter haec, sunt &amp; alia, eaque tam  
+      <lb ed="#C" n="18"/>multa, vt percenseri numerarique nequeant. Quod ne quisquam a me 
+      di<lb ed="#C" n="19" break="no"/>citemere arbitretur, exemplis alijs infinitam illius versionis 
+      perversita<lb ed="#C" n="20" break="no"/>tem paulo luculentius demonstrabo. 
+      </p>
+            <p xml:id="wWpoi1-e11073-d1e797">
+               <lb ed="#C" n="21"/>Exordiar a Genesi, cuius in primo Cap. v. 30. haec verba 
+      desideran<lb ed="#C" n="22" break="no"/>tur in vulgata vestra editione, Omnes virides herbas. Neque supervacanea 
+      <lb ed="#C" n="23"/>videri debent. Dominus enim hominis cibum a pabulo bestiarum hoc  
+      <lb ed="#C" n="24"/>loco aperte distinguit. Homini Deus herbas, &amp; arbores fructiferas; 
+      besti<lb ed="#C" n="25" break="no"/>is virides herbas omnes pro cibo dedit. Vulgatus interpres, ijs verbis 
+      o<lb ed="#C" n="26" break="no"/>missis, idem brutis ac homini tributum a Deo alimentum esse dicit. Gen. 
+      <lb ed="#C" n="27"/>2. 8. vulgata habet, Plantaverat deus Paradisum voluptatis a principio, pro, 
+      <lb ed="#C" n="28"/>Plantaverat Deus hortum in Heden aboriente. Nam Heden locum 
+      propri<lb ed="#C" n="29" break="no"/>lumsignificat, quemadmodum ex Gen. 4. 16. vbi Cainum ad Orientem. 
+      <lb ed="#C" n="30"/>huius loci assedisse legimus, &amp; illum hortum non a principio Dominus 
+      <lb ed="#C" n="31"/>condiderat, cum herbas arboresque frugiferas tertio demum die crearet,  
+      <lb ed="#C" n="32"/>vt primo Cap. 12. manifestum est. Rectius verterunt septuaginta, &amp;ε ἀν
+      a<lb ed="#C" n="33" break="no"/>λdeν &amp; Matablus, Pagninus, Tremellius, ab oriente. Gen. 2. 23. Hoc nunc 
+      <lb ed="#C" n="34"/>os, exossibus meis, pro, hac vice os ex ossibus meis: &amp; esse in his verbis 
+      empha<lb ed="#C" n="35" break="no"/>sim Hebraeis vsitatam scribit Caletanus. Gen. 3. 6. aspectuque delectabile, 
+      <lb ed="#C" n="36"/>pro, desiderabile ad consequendam intelligentiam. vers. 8. in medio ligni 
+      Para<lb ed="#C" n="37" break="no"/>disi, pro, inter arbores Paradisi. ver. 17. Maledicta terra in opere tuo, pro, 
+      ma<lb ed="#C" n="38" break="no"/>ledicta terra propterte. Gen. 4. 13. Maior est iniquitas mea, quam utvemam. 
+      <!--135.xml-->
+      <pb ed="#L" n="126"/>
+               <lb ed="#C" n="1"/>merear. In Hebraeo nihil est, quod vel levissimam meriti significationem: 
+      <lb ed="#C" n="2"/>habeat. Vertendum erat, vt feram, vel sustineam, vel remissionem 
+      conse<lb ed="#C" n="3" break="no"/>quar, vt septuaginta, το αρεθεναίμε. V.15. Nequaquam ita fiet, redundat.  
+      <lb ed="#C" n="4"/>Neque enim Caino Dominus promittit, fore vtnemo illum occidat. V. 
+      <lb ed="#C" n="5"/>16. Profugus in terra, pro, in terra Nod, vel Naid, vt Septuaginta, vel 
+      erro<lb ed="#C" n="6" break="no"/>ris. V. 26. Iste caepit invocare, pro, tunc caeptum est. Non enim personam, 
+      <lb ed="#C" n="7"/>sed tempus explicat Moses. Oen. 5. 22. Illa verba, &amp; vixit Enoch, 
+      su<lb ed="#C" n="8" break="no"/>perflua sunt. Gen. 6. 3. non permanebit Spiritus meus in homine in aeternum. 
+      <lb ed="#C" n="9"/>Pro, non contendet spiritus meus. v. 6. &amp; praecavens in futurum, delenda sunt,  
+      <lb ed="#C" n="10"/>Gen. 8. 4. vice simo septimo die mensit, pro, decimo septimo die mensis. vbi 
+      vul<lb ed="#C" n="11" break="no"/>gata editio non fontes Hebraeos, sed Septuaginta interpretes sequuta 
+      <lb ed="#C" n="12"/>est: quod etiam fecit, v. 7. quando sic transtulit: qui egredicbatur &amp; 
+      <lb ed="#C" n="13"/>non revertebatur. Nam corvus ibat &amp; redibat in arcam, quemadmodum 
+      <lb ed="#C" n="14"/>ex Hebraeo constat, quousque aquae exaruerunt. Itaque huius loci 
+      versi<lb ed="#C" n="15" break="no"/>onem vulgatam Eugubinus Papista merito reprehendit in scholiis suis. 
+      <lb ed="#C" n="16"/>Gen. 11. 12. Arphaxad dicitur vixisse, postquam genuit Salethum, 
+      tre<lb ed="#C" n="17" break="no"/>centos tres annos, in vulgata editione: Hebraicus vero textus illum non 
+      <lb ed="#C" n="18"/>nisi quadringentos &amp; tres annos vixisse arguit. Gen. 13. 2. Dives valde 
+      <lb ed="#C" n="19"/>in possessione auri &amp; argenti, pro, dives valde in pecore, in argento, &amp; in auros: 
+      <lb ed="#C" n="20"/>&amp; versu 11. Divisique sunt alterutrum a fratre suo, quod quid sibi velit, 
+      in<lb ed="#C" n="21" break="no"/>telligi non potest: textus Hebraicus apertus est, illos a se invicem 
+      sepa<lb ed="#C" n="22" break="no"/>ratos fuisse. Gen. 14. 3. Dallis sylvestris dicitur, quae Siddim, vel 
+      campe<lb ed="#C" n="23" break="no"/>stris dicenda erat. Nam nisi nomen proprium sit, locum aratum, non 
+      <lb ed="#C" n="24"/>sylvestrem, significat. Gen. 17.16. Orientur ex eo, pro, ex ea. Gen. 19. 
+      <lb ed="#C" n="25"/>18. quaeso Domine mi, pro, non, quae so Domine mi. Gen. 21. 9. nimis leve est, 
+      <lb ed="#C" n="26"/>quod in vulgata legitur, Ismaelem Iusisse cum Isaaco. Lusit Isaacum 
+      po<lb ed="#C" n="27" break="no"/>tius, quam cum illo lusit: &amp; ita fuisse vertendum constat ex Apostolo ad 
+      <lb ed="#C" n="28"/>Galatas qao qui hanc irtisionem non aliud, quam infestam 
+      persecutio<lb ed="#C" n="29" break="no"/>nem interpretatur. At vero si nihil Ismael fecisset, quam cum fratre 
+      lusis<lb ed="#C" n="30" break="no"/>set, nec id Sara tam inique tulisset, nec Apostolus hoc nomine 
+      Ismae<lb ed="#C" n="31" break="no"/>lem tanti criminis reum damnasset. Gen. 24. 22. Duo sicli 
+      ponunturpro<lb ed="#C" n="32" break="no"/>dimidio sicli: &amp; ver. 32. quid est, distravit camelos? vertendum erat, Solvit.  
+      <lb ed="#C" n="33"/>camelos, vel clitellas camelo detraxit: quod non est, vtego existimo, 
+      distra<lb ed="#C" n="34" break="no"/>vit: &amp; in hoc etiamversu, aqua dicitur allata ad camelorum pedes 
+      lavan<lb ed="#C" n="35" break="no"/>dos, quae lavandis, non camelorum, sed illius servi pedibus erat parata, &amp;. 
+      <lb ed="#C" n="36"/>ver. 6. vulgara habet, qui festinus revertebatur ad Dominum suum, pro his, 
+      <lb ed="#C" n="37"/>verbis, &amp; tulit servus ille Rebeccam, &amp; abiit. Gen. cap. 28. v. vltimo, in 
+      vul<lb ed="#C" n="38" break="no"/>gata Esau dicitur parvipendisse quod primogenita vendidisset. At textus He¬ 
+      <!--136.xml-->
+      <pb ed="#L" n="127"/>
+               <lb ed="#C" n="1"/>braicus ait illum contempsisse ipsam primogenituram. Potuit autem 
+      E<lb ed="#C" n="2" break="no"/>sau primogeniturae venditionem perparvi facere, &amp; tamen ipsum ius 
+      pri<lb ed="#C" n="3" break="no"/>mogeniti magni aestimare. Itaque vulgatus interpres verborum 
+      senten<lb ed="#C" n="4" break="no"/>tiam, vimque illius peccati minime assequutus est. Gen. 27. 5. vt iussionem 
+      <lb ed="#C" n="5"/>patris impleret, pro, vt caperet venationem, quam afferret, ver. 33. illa verba, 
+      <lb ed="#C" n="6"/>vitra quam credi potest, admirans, redundant. Similiter Gen. 31. 32. illa, 
+      <lb ed="#C" n="7"/>quod autem furti me argus. Gen. 34. 29. illa desiderantur, &amp; diripuerunt. 
+      <lb ed="#C" n="8"/>denique quicquid in domo qualibet erat: illa vero redundant, quibus 
+      perpetra<lb ed="#C" n="9" break="no"/>tis audacter. Gen. 36. 24. vulgatus interpres ait Anam invenisse aquas 
+      ca<lb ed="#C" n="10" break="no"/>lidas in solitudine: quam versionem omnes, qui Hebraice aliquid 
+      intelli<lb ed="#C" n="11" break="no"/>gunt, falsam esse norunt. Invenit enim iste Ana non aquas calidas, 
+      qua<lb ed="#C" n="12" break="no"/>tum hic nulla mentio inveniri potest, sed mulos. Locum igitur hunc 
+      sep<lb ed="#C" n="13" break="no"/>tua ginta male verterunt, eosque vulgatus interpres sequutus, a veritate 
+      <lb ed="#C" n="14"/>Hebraica aberravit. Gen. 37. 2. Ioseph dicitur in vulgata fuisse annorum 
+      <lb ed="#C" n="15"/>sedecim, cum gregem patris sui pasceret, vnam cum fratribus suis: in 
+      He<lb ed="#C" n="16" break="no"/>braico vero textu, annorum septendecia: &amp; in eodem versu, vulgatus 
+      in<lb ed="#C" n="17" break="no"/>terpres ait Iosephum accusavisse fratres suos apud patrem suum 
+      crimine<lb ed="#C" n="18" break="no"/>pessimo, quasi certum aliquod foedumque scelus designaretur: at 
+      Hebrai<lb ed="#C" n="19" break="no"/>cus textus sic habet, retulitqe Ioseph malam illorum famam ad patrem 
+      ipse<lb ed="#C" n="20" break="no"/>rum, hoc est, illorum mores improbos ad patrem detulit, eumque de 
+      illo<lb ed="#C" n="21" break="no"/>rum cunctis vitijs certiorem fecit. Gen. 38. 5. vetus interpres legit, Quo 
+      <lb ed="#C" n="22"/>nato, parere vitra cessavit: quod a sensu Hebraici textus alicnum est. 
+      Ita<lb ed="#C" n="23" break="no"/>enim vertendum est, &amp; erat in Chexib, cum ea pareret istum. Est autem 
+      <lb ed="#C" n="24"/>Chezib vrbis apud Philistaeos nomen. &amp; ver. 12. Hiras vocatur 
+      opiliogre<lb ed="#C" n="25" break="no"/>gis a vulgato interprete, quemadmodum a Septuaginta ἐ πεμὸν αντ8. Sed 
+      <lb ed="#C" n="26"/>Hieronymus hanc versionem improbat, &amp; verbo Hebraico non 
+      Pasto<lb ed="#C" n="27" break="no"/>rem, sed amicum significari docet. Ita iste Hiras, qui cum Iuda in villam 
+      <lb ed="#C" n="28"/>profectus est, amicus eius, non pastor fuit. v. 23. vetus habet, Certe 
+      men<lb ed="#C" n="29" break="no"/>dacij arguere nos non potest. At Hebraice verborum hic sensus est, ne simus 
+      <lb ed="#C" n="30"/>contemptui. Gen. 39. ver. 6. Desiderantur haec verba, Quapropter reliquit  
+      <lb ed="#C" n="31"/>omnia sua in manis Ioseph. ver. 10. aliquid deest, sine quo sensus perfectus 
+      <lb ed="#C" n="32"/>nonest. Sic enim legimus in vulgata, Huiusmodi verbis per singulos dies: 
+      <lb ed="#C" n="33"/>addendum erat ex Hebraico sonte, alloquuta ea est Iosephum. Illa vero 
+      <lb ed="#C" n="34"/>quae sequuntur verba, superflua sunt, &amp; mulier molesta erat adolescenti. 
+      <lb ed="#C" n="35"/>Gen. 49. 5. haec omnia verba desiderantur, Pincerna ille, &amp; 
+      <lb ed="#C" n="36"/>pistor ille, quierant regis eEgyptii, &amp; qui vincti in turri carceris. ver16. tria 
+      <lb ed="#C" n="37"/>canistrafarine, pro, tria canistra alba, vel viminea. Sed hic vetus interpres 
+      <lb ed="#C" n="38"/>sequutus est septuaginta, non fontem ipsum Hebraicum. Gen. 41. 45. 
+      <lb ed="#C" n="39"/>vulgatus interpres in eo nomine, quod Pharao Iosepho imposuit, expo¬ 
+      <!--137.xml-->
+      <pb ed="#L" n="128"/>
+               <lb ed="#C" n="1"/>nendo, conjecturam potius, quam s2E23ex vertam, sequitus est. 
+      Pri<lb ed="#C" n="2" break="no"/>mum enim ait, illa nomina esse At gyptiaca: deinde interpretatur, 
+      Salva<lb ed="#C" n="3" break="no"/>torem mundi: Sic enim in textu vulgatae editionis legimus, Et vocabit eum 
+      <lb ed="#C" n="4"/>lingua Egyptiaca Salvatoremmundi. Septuaginta duas has dictiones 
+      sine<lb ed="#C" n="5" break="no"/>interpretatione posuerunt: Et Hebraei dubitant Acgyptiaene, an 
+      Chaldai<lb ed="#C" n="6" break="no"/>cae sint: Iosephus voces eas interpretatus est, inventorem occultorum, 
+      <lb ed="#C" n="7"/>itidemque Hebraei recentiores, &amp; Chaldaeus Paraphrastes. Unde vero 
+      <lb ed="#C" n="8"/>Hieronymus didicerit voces has esse Atgyptiacas, eisque mundi 
+      salva<lb ed="#C" n="9" break="no"/>torem significari, mirum videri potest. Gen. 49. 11. lacob de Iuda ait, 
+      l<lb ed="#C" n="10" break="no"/>gans ad vitem pullum asinae suae; Vulgatus autem interpres ea verba sici 
+      <lb ed="#C" n="11"/>transtulit, Ligans ad vitem, O filimi, asinam suam. Et v. 22. losephus 
+      com<lb ed="#C" n="12" break="no"/>paratur ramo faecundo iuxta fontem: quae verba sic vulgatus transtulit,  
+      <lb ed="#C" n="13"/>accrescens &amp; decorus aspectus. &amp; ver. 24. Iacob ait de Iosepho, &amp; roborata 
+      <lb ed="#C" n="14"/>sunt brachia manuum eius: quod in vestra editione, sententiam plane 
+      <lb ed="#C" n="15"/>contrariam habet, dissoluta sunt vincula brachiorum &amp; manuum eius. 
+      Se<lb ed="#C" n="16" break="no"/>quutus hoc loco interpres est versionem Septuaginta, non Hebraicum 
+      <lb ed="#C" n="17"/>textum. In fine vero istius capitis, post versum 32ον, desunt haec 
+      om<lb ed="#C" n="18" break="no"/>nia, Emptus vero ager est, &amp; spelunca quae in eo est, a filiis Cheth. Ita hoc 
+      ca<lb ed="#C" n="19" break="no"/>put in vulgata editione vno versu diminutum est. Atque hactenus 
+      v<lb ed="#C" n="20" break="no"/>num librum percurrimus, in quo non tam vel curiosi, vel maligni fuimus, 
+      <lb ed="#C" n="21"/>vt nihil manus nostras effugerit, quod merito reprehendi posset, 
+      Multa<lb ed="#C" n="22" break="no"/>enim prudens sciensque praetermisi, quae tamen huiusmodisunt, vt pro 
+      er<lb ed="#C" n="23" break="no"/>ratis haberi debeant, quia cum fontium veritate pugnant. Si reliquos 
+      ve<lb ed="#C" n="24" break="no"/>teris Testamenti libros ista ratione excuterem, erratorum quidem satis 
+      <lb ed="#C" n="25"/>magnam copiam invenirem, multasque paginas complerem. Neque enim 
+      <lb ed="#C" n="26"/>est vestrae editionis in reliquis libris maior integritas, quam esse in hoc  
+      <lb ed="#C" n="27"/>perspeximus: vnde quam ea sit passim vitiosissima, facile existimari 
+      po<lb ed="#C" n="28" break="no"/>test. Et vero, cum multi Scripturas e sontibus in varias linguas 
+      transtule<lb ed="#C" n="29" break="no"/>rint, huiusque vulgatae editionis errores in suis versionibus correxerint, 
+      ij<lb ed="#C" n="30" break="no"/>mihi laborem sane perutilem suscipere ac praestare viderentur, qui 
+      li<lb ed="#C" n="31" break="no"/>brum de huius vulgatae editionis ertoribus separatum, diligenter, 
+      accu<lb ed="#C" n="32" break="no"/>rateque conscriberent. Ex hoc enim labore omnes id commodiperee 
+      <lb ed="#C" n="33"/>perent, vt quantum inter Hebraicae veritatis purissimos fontes, &amp; huius 
+      <lb ed="#C" n="34"/>versionis, quam vulgatam vocant, coenosos turbidosque rivulos 
+      interese<lb ed="#C" n="35" break="no"/>set, videre atque intelligere possent. Ego si reliquos libros ingrederet, 
+      <lb ed="#C" n="36"/>facerem quod instituti mei ratio minime postulat, &amp; disputationis 
+      no<lb ed="#C" n="37" break="no"/>strae cursum interrumperem. Satis, vt spero, docui, Latinam hanc 
+      editi<lb ed="#C" n="38" break="no"/>onem multis erratis &amp; mendis scatere, cuiusmodi Adversarij nostri in¬ 
+      <!--138.xml-->
+      <pb ed="#L" n="129"/>
+               <lb ed="#C" n="1"/>fontibus non vnum hactenus invenerunt. Quod nonnos soli 
+      affirma<lb ed="#C" n="2" break="no"/>mus, sed aliqui etiam Papisticae sectae principes defendunt. Nihil ergo 
+      <lb ed="#C" n="3"/>afferri potest, quo minus editio Hebraica in vetere Testamento, &amp; 
+      <lb ed="#C" n="4"/>Graeca innovo, Latinae vulgatae multum &amp; merito praeferatur. Nunc ad 
+      <lb ed="#C" n="5"/>Bellarminum revertat, eiusque reliquam defensionem excutiam. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

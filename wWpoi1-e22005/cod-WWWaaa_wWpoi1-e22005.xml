@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="238"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e22005"><!-- con1q3c10 -->
+            <head xml:id="wWpoi1-e22005-Hd1e106">Caput 10</head>
+            <p xml:id="wWpoi1-e22005-d1e109">
+               <lb ed="#C" n="22"/>CAPUTTI 
+      <lb ed="#C" n="23"/>Zyeuωυρagaautu adeosaiuua 
+      <lb ed="#C" n="24"/>VEnio nunc ad octavum &amp; vltimum argumentum, quod 
+      <name xml:id="wWpoi1-e22005-Nd1e117">Staple<lb ed="#C" n="25" break="no"/>tono</name> gravissimum &amp; augustissimum videtur. Habetur vero 
+      TI<lb ed="#C" n="26" break="no"/>cap. 9. lib. &amp; a regula fidei sumitur, hoc modo: Regula fidei, quae penes 
+      <lb ed="#C" n="27"/>Ecclesiam est, quaeque ab Ecclesia traditur, est medium quo magistri &amp; 
+      <lb ed="#C" n="28"/>Pastores Ecclesiarum veras Scripturas a falsis discernunt: Ergo Ecclesia 
+      <lb ed="#C" n="29"/>sola de Canonicis Scripturae libris statuere debet.
+    </p>
+            <p xml:id="wWpoi1-e22005-d1e132">
+      Respondeo. Si per 
+      regu<lb ed="#C" n="30" break="no"/>lam fidei intelligat articulos fidei, tum non sufficit haec Adversarij ratio 
+      <lb ed="#C" n="31"/>ad causae suae confirmationem, nec sequitur omnino argumentum. 
+      Nul<lb ed="#C" n="32" break="no"/>la enim haec ratio est, Iste liber ea docet, quae cum articulis fidei 
+      consen<lb ed="#C" n="33" break="no"/>tiant, ergo est Canonicus. Multi enim libri eam sanam doctrinam 
+      ex<lb ed="#C" n="34" break="no"/>plicant, quae cum articulis fidei praeclare conveniat, qui tamen non sint 
+      <lb ed="#C" n="35"/>in Canonem recipiendi. Valet quidem ratio in alteram partem 
+      nega<lb ed="#C" n="36" break="no"/>tive, Iste liber tradit aliquid quod articulis fidei repugnet: ergo non est?
+    </p>
+            <p xml:id="wWpoi1-e22005-d1e150">
+      <!--248.xml-->
+               <pb ed="#L" n="239"/>
+               <lb ed="#C" n="1"/>CAPUTTTTTTII 
+      <lb ed="#C" n="2"/>Certe regula fiderest ipsa Scriptura. Si ergo per regulam fidei 
+      consigne<lb ed="#C" n="3" break="no"/>tur Canon Scripturae, tum Scriptura per Scripturam confirmatur, quod  
+      <lb ed="#C" n="4"/>nos volumus. Sed ille longe aliter. Regula fidei (inquit) non est 
+      Scriptu<lb ed="#C" n="5" break="no"/>ta, sed praevia quaedam, &amp; praesupposita, &amp; praeexistens Ecclesiae fides, 
+      <lb ed="#C" n="6"/>quae cum prior sit Scripturis, nec includitur in Scriptura, nec convertitur 
+      <lb ed="#C" n="7"/>cum Scriptura. Hoc certe impie ac blaspheme a Stapletono fingitur.  
+      <lb ed="#C" n="8"/>Certo enim tenendum est, vepost cumulate docebimus, verbum Dei 
+      re<lb ed="#C" n="9" break="no"/>velatum &amp; scriptum, esse vnicam regulam fidei, quod quidem fide 
+      Eccle<lb ed="#C" n="10" break="no"/>siae prius est. Nam fides omnis ex auditu, auditus vero per verbum Dei, 
+      <lb ed="#C" n="11"/>Rom. 10. 17. hoc est, auditus noster respicit Dei verbum, tanquam suum 
+      <lb ed="#C" n="12"/>Jobjectum, &amp; obiecta sunt priora sensibus, ergo verbum prius fide. Si 
+      ali<lb ed="#C" n="13" break="no"/>am fidei regulam, praeter verbum Dei scriptum, fingat, nos eam 
+      rejici<lb ed="#C" n="14" break="no"/>mus, repudiamus, &amp; talem nullam agnoscimus, totamque regulam 
+      Ca<lb ed="#C" n="15" break="no"/>tholicae fidei ad vnicam Scripturam revocamus. Sed quaero vtrum 
+      Ec<lb ed="#C" n="16" break="no"/>clesia sinc hac regula fidei, an per hanc regulam discernat veras 
+      Scriptu<lb ed="#C" n="17" break="no"/>ras a falsis? Respondet Stapletonus in fine capitis in hunc modum: 
+      Regu<lb ed="#C" n="18" break="no"/>la fidei( inquit) ab Ecclesiatradita &amp; accepta, est vnum idemque 
+      certissi<lb ed="#C" n="19" break="no"/>mum medium, quo pastores &amp; magistri Ecclesiae discemunt veras 
+      Scri<lb ed="#C" n="20" break="no"/>pturas a falsis; ergo sine hac regula genuinae Scripturae ab adulterinis 
+      dis<lb ed="#C" n="21" break="no"/>cerni non possunt. Ex his ego quatuor propono observanda:
+  </p>
+            <p xml:id="wWpoi1-e22005-d1e202">
+    Primum: Si
+      <lb ed="#C" n="22"/>per regulam fidei Scripturae verae a falsis discernuntur, tum non minus 
+      per<lb ed="#C" n="23" break="no"/>tinet ad totum Ecclesiae corpus Scripturae Canonem consignare, quam 
+      <lb ed="#C" n="24"/>ad ipsos pastores &amp; magistros Ecclesiarum. Omnes enim fideles habent  
+      <lb ed="#C" n="25"/>hanc regulam fidei, non tantum Pastores, Praepositi, &amp; Praelati: quia fides 
+      <lb ed="#C" n="26"/>tam Laicis, quam ministris, communis est. Hoc vero contra 
+      Stapleto<lb ed="#C" n="27" break="no"/>num facit, qui non tribuit hanc potestatem toti corpori Ecclesiae, sed 
+      so<lb ed="#C" n="28" break="no"/>lummodo Praelatis &amp; Pastoribus.
+  </p>
+            <p xml:id="wWpoi1-e22005-d1e221">
+    Secundum: Si Ecclesia non sua 
+      autho<lb ed="#C" n="29" break="no"/>ritate, sed perregulam fidei discernat veras Scripturas a falsis, tum 
+      superi<lb ed="#C" n="30" break="no"/>pora illa omnia Stapletoni argumenta, ab authoritate Ecclesiae ducta, 
+      ni<lb ed="#C" n="31" break="no"/>hil valent: quia Ecclesia non simpliciter nititur sua authoritate, sed certa 
+      <lb ed="#C" n="32"/>quadam regula fidei, quando Scripturas dijudicat ac distinguit. Sic 
+      supe<lb ed="#C" n="33" break="no"/>riora argumenta, quae posita sunt in nuda authoritate Ecclesiae, prorsus 
+      <lb ed="#C" n="34"/>abiudicantur, atque omne Ecclesiae iudicium ad fidei regulam alligatur.
+    </p>
+            <p xml:id="wWpoi1-e22005-d1e237">
+               <lb ed="#C" n="35"/>Tertium: Quomodo haec inter se convenire, aut omnino stare possunt? 
+      <lb ed="#C" n="36"/>Ait pastores &amp; magistros Ecclesiarum, per regulam fideitraditam &amp; 
+      ac<lb ed="#C" n="37" break="no"/>ceptam ab Ecclesia, discernere veras Scripturas a falsis, &amp; hoc Ecclesiae 
+      <lb ed="#C" n="38"/>nomine intelligit pastores tantum, &amp; praepositos, &amp; magistros (vevocat)  
+      <!--249.xml-->
+      <pb ed="#L" n="240"/>
+               <lb ed="#C" n="1"/>Ecclesuatum: Ergo nifilasud dicit: Guasm pallores per regusam fidcii 
+      <lb ed="#C" n="2"/>pastoribus traditam &amp; acceptam, Scripturas discernere. Sed primo, 
+      pa<lb ed="#C" n="3" break="no"/>stores non semper idem sentiunt de Canonicis Scripturis, si per pastores 
+      <lb ed="#C" n="4"/>Episcopos &amp; doctores intelligat, vt ex antiquitate probari potest: si 
+      er<lb ed="#C" n="5" break="no"/>go haec regula a pastoribus tradatur, varia erit ac incerta. Immone 
+      pa<lb ed="#C" n="6" break="no"/>stores quidem huius temporis de libris Canonicis idem sentiunt. 
+      Ne<lb ed="#C" n="7" break="no"/>cesse est ergo vt tandem ad vnicum Panam, tanquam ad summum (ut 
+      illi<lb ed="#C" n="8" break="no"/>vocant) pastorem, sese referant, eum Ecclesiam faciant, atque ex illius 
+      <lb ed="#C" n="9"/>arbitrio omnia suspendant Deinde, quam absurdum est, pastores 
+      accipe<lb ed="#C" n="10" break="no"/>re a pastoribus, hoc est, a seipsis, certissimum medium discernendi 
+      Scrip<lb ed="#C" n="11" break="no"/>turas? Haec eiusmodi sunt, vt certe nullo modo conciliari possint.
+    </p>
+            <p xml:id="wWpoi1-e22005-d1e276">
+      Quar<lb ed="#C" n="12" break="no"/>tum, Quaero quaenam tandem haec regula sit? &amp; vbi eam inveniamus, 
+      <lb ed="#C" n="13"/>quae certum &amp; definitum numerum librorum habeat? utrum scripta sit,  
+      <lb ed="#C" n="14"/>an non scripta? Si scriptam dixerit, quaero vbi sit scripta? si non scripta sit, 
+      <lb ed="#C" n="15"/>eam facile contemnemus, vt rem nullius fidei vel momenti: Neque enim 
+      <lb ed="#C" n="16"/>Traditiunculas non scriptas moramur. Sed dicit scriptam esse in 
+      cordi<lb ed="#C" n="17" break="no"/>bus fidelium, &amp; huc adducit testimonia Ieremiae, Esaiae, &amp; aliorum, 
+      ubi<lb ed="#C" n="18" break="no"/>Dominus dicit, se legem suam in cordibus fidelium scripturum. Haec 
+      <lb ed="#C" n="19"/>probamus quidem. Sed ille interimnon animadvertit se id evertere, quod  
+      <lb ed="#C" n="20"/>prius statuerat. Dixit enim supra, testimonium Spiritus sancti ideo esse 
+      <lb ed="#C" n="21"/>rejiciendum, quia non fuit externum, sed internum. At si haec regula fidei 
+      <lb ed="#C" n="22"/>in cordibus fidelium scripta sit, quomodo quaeso certior erit testimonio
+      <lb ed="#C" n="23"/>Spiritus? Et quid quaeso differet a testimonio Spiritus? quando fides sit 
+      o<lb ed="#C" n="24" break="no"/>pus &amp; effectum Spiritus sancti, in cordibus fidelium, ex verbo Dei 
+      conce<lb ed="#C" n="25" break="no"/>ptum, quo omnis salutifera veritas nobis persuadetur &amp; confirmatur. 
+      Er<lb ed="#C" n="26" break="no"/>go sua sponte <name xml:id="wWpoi1-e22005-Nd1e310">Stapletonus</name> tandem in nostram sententiam totus transiit. 
+      </p>
+            <p xml:id="wWpoi1-e22005-d1e314">
+               <lb ed="#C" n="27"/>Duas res deinceps ad finem huius libri tractat <name xml:id="wWpoi1-e22005-Nd1e318">Stapletonus</name>. Prima 
+      <lb ed="#C" n="28"/>est, non modo Apostolicam antiquam, sed &amp; hanc praesentem 
+      Eccle<lb ed="#C" n="29" break="no"/>siam posse Scripturae Canonem consignare &amp; constituere. Qua 
+      qui<lb ed="#C" n="30" break="no"/>dem in re habet Adversarios <name xml:id="wWpoi1-e22005-Nd1e328">Durandum</name> &amp; <name xml:id="wWpoi1-e22005-Nd1e331">Driedonem</name> doctissimos 
+      Pa<lb ed="#C" n="31" break="no"/>pistas, qui hoc ad Apostolicam tantum Ecclesiam spectavisse 
+      conten<lb ed="#C" n="32" break="no"/>dunt: huius vero Ecclesiae hoc tantum officium esse dicunt, vt 
+      Cano<lb ed="#C" n="33" break="no"/>nem ab illa antiquiore Ecclesia consignatum recipiat: cum his gravem: 
+      <lb ed="#C" n="34"/>admodum contentionem dimicationemque instituit, cuius ego non par¬¬ 
+      <lb ed="#C" n="35"/>ticeps, sed spectator ero. Secunda est, posse etiam nunc Ecclesiam 
+      ho<lb ed="#C" n="36" break="no"/>diernam alios libros ad Scripturae Canonem addere, vt librum 
+      Pasto<lb ed="#C" n="37" break="no"/>ris, &amp; Constitutiones Apostolicas a <name xml:id="wWpoi1-e22005-Nd1e349">Clemente</name> scriptas, &amp; alios 
+      eti<lb ed="#C" n="38" break="no"/>am libros dubios olim, sed nunquam reprobatos: quod quidem 
+      ab<lb ed="#C" n="39" break="no"/>surde ab eo dici ac disputari constat. Sed eo scilicet impudentiae isti pro¬ 
+      <!--250.xml-->
+      <pb ed="#L" n="241"/>
+               <lb ed="#C" n="1"/>gressi sunt, ve nihil tam dictu tetrum sit, quod illos pude at affirmare. 
+      <lb ed="#C" n="2"/>Liber certe Pastoris indignus prorsus est tanta authoritate. Clementis: 
+      <lb ed="#C" n="3"/>Conssitutiones Apostolicae nullam habent Apostolici spiritus micam: 
+      <lb ed="#C" n="4"/>Ecclesia ergo nec potest, nec debet hos libros in Canonem recipere. 
+      Sta<lb ed="#C" n="5" break="no"/>pletonus vero, dum posse statuit, pugnat &amp; cum plurimis Papistis (
+      exem<lb ed="#C" n="6" break="no"/>pli gratia, cum <name xml:id="wWpoi1-e22005-Nd1e374">Thoma Valdensi</name>, &amp; alijs) atque etiam secum; quippe qui  
+      <lb ed="#C" n="7"/>ante a testimonium ex Augustino adduxerit, ex quo constabat, Scripturae 
+      <lb ed="#C" n="8"/>Canonem ab Apostolis consignatum fuisse, qui hunc librum e Canone 
+      <lb ed="#C" n="9"/>excluserunt. Sed velim vtrespondeat, vtrum Scripturae Canon fuerit 
+      an<lb ed="#C" n="10" break="no"/>tea constitutus, necne. Constitutum fuisse, negare non potest: nam &amp; 
+      pri<lb ed="#C" n="11" break="no"/>us confessus est ex Augustino, &amp; Concilia etiam quae dam obiiciunt nobis 
+      <lb ed="#C" n="12"/>Papistae, in quibus aiunt Scripturae Canonem consignatum fuisse. Si ergo 
+      <lb ed="#C" n="13"/>fuerit Scripturae Canon antea consignatus, certe nec mutari Canon, tanta. 
+      <lb ed="#C" n="14"/>authoritate stabilitus ac constitutus, nec iste, aut alius liber quispiam in 
+      <lb ed="#C" n="15"/>Canonem introduci potest. Quam enim absurdum esset, aut librum in 
+      se<lb ed="#C" n="16" break="no"/>Canonicum tammultis seculis non esse in Canonem receptum, aut posse 
+      <lb ed="#C" n="17"/>iam eundem, hac vltima mundi aetate, tamque sero recipi? Clementis 
+      ve<lb ed="#C" n="18" break="no"/>ro constitutiones quorundam etiam Conciliorum iudicio damnatae sunt,  
+      <lb ed="#C" n="19"/>ut supra patet. Indignae ergo prorsus visae sunt, quae numerum vllum ine 
+      <lb ed="#C" n="20"/>Canonicis Scripturis aut locum obtinerent: imo recipi certe ab 
+      Eccle<lb ed="#C" n="21" break="no"/>sia in Canonem nunquam possunt. Non enim potest Ecclesia ex libris 
+      <lb ed="#C" n="22"/>non Canonicis Canonicos facere, sed efficit tantum, vtij libri pro 
+      Cano<lb ed="#C" n="23" break="no"/>nicis recipiantur, qui revera, &amp; in se sunt Canonici. Augustinus certe 
+      a<lb ed="#C" n="24" break="no"/>deo non est opinatus posse hunc augustissimum Canonem mutari, aut 
+      no<lb ed="#C" n="25" break="no"/>va aliqua librorum accessione augeri, vt in sermone 129. de tempore, non 
+      <lb ed="#C" n="26"/>dubitaret illis omnibus Anathema denunciare, qui Scripturas aliquas in 
+      <lb ed="#C" n="27"/>authoritate habendas crederent, aut veneratentur, praeterquam eas, quas 
+      <lb ed="#C" n="28"/>Ecclesia receperat. Ergo Ecclesia si novos aliquos libros in Canonem 
+      <lb ed="#C" n="29"/>reciperet, contra fidem ipsam faceret, &amp; maximam reprehensionem, 
+      <lb ed="#C" n="30"/>imo execrationem mereretur: posse vero, Stapletonus audacter disputat: 
+      <lb ed="#C" n="31"/>vnde quantam Ecclesiae iniuriam faciat, satis liquet. Sed de Stapletoni 
+      ar<lb ed="#C" n="32" break="no"/>gumentis iam satis multa respondimus. 
+      </p>
+            <p xml:id="wWpoi1-e22005-d1e434">
+               <lb ed="#C" n="33"/>Restat iam aliud vnicum argumentum, quo Stapletonus quidem non 
+      <lb ed="#C" n="34"/>estvsus: sed video alios Papistas eo magnopere delectari. Est vero illud 
+      <lb ed="#C" n="35"/>huiusmodia Ecclesia est antiquior quam Scriptura: Ergo maiorem 
+      erga<lb ed="#C" n="36" break="no"/>nos authontatemhabere debet, quam Scriptura. Sic Eclius, in 
+      Enchiri<lb ed="#C" n="37" break="no"/>dio: sic Hosius, in Lib. 32. de authoritate Scripturae: sic Lindanus, in 
+      Pa<lb ed="#C" n="38" break="no"/>noplia sua in mulis locis: sic Andradius, in 3P. Lib. de defensione Con¬ 
+      <!--251.xml-->
+      <pb ed="#L" n="242"/>
+               <lb ed="#C" n="1"/>cilij Tridentini: sic Schrechius Iesuita in Thesi 13i &amp; alij praeterea 
+      non<lb ed="#C" n="2" break="no"/>nulli. Respondeo primo, &amp; fateor fuisse tempus, quando Dei verbum non 
+      <lb ed="#C" n="3"/>fuit scriptum, &amp; tum fuisse Ecclesiam: sed non ideo sequitur, Ecclesiam 
+      <lb ed="#C" n="4"/>fuisse verbo antiquiorem. Eadem enim fuit doctrina non scripta cum ea 
+      <lb ed="#C" n="5"/>quae iam scripta est, atque ea quidem omnibus Ecclesiis antiquior fuit.  
+      <lb ed="#C" n="6"/>Est etenim verbum Dei Ecclesiae semen: at semen semper sobole illa, 
+      cu<lb ed="#C" n="7" break="no"/>ius est semen, antiquius esse necesse est: verbum autem Dei cum dico, non 
+      <lb ed="#C" n="8"/>aliud intelligo, quam quod iam scriptum est. Idem enim fuit verbum non 
+      <lb ed="#C" n="9"/>scriptum cum eo quod iam scriptum est. Secuado, Praetere a, nec illud 
+      ve<lb ed="#C" n="10" break="no"/>rum est, omnia recentiora minoris authoritatis esse. Christus enim fuit. 
+      <lb ed="#C" n="11"/>lohanne recentior tempore: num ergo maior nobis erit lohannis, quam 
+      <lb ed="#C" n="12"/>Christi, authoritas? nemo sanus affirmabit. Leve ergo est hoc 
+      argumen<lb ed="#C" n="13" break="no"/>tum, &amp; nullius plane momenti, etsi splendide satis a quibusdam 
+      tracte<lb ed="#C" n="14" break="no"/>tur. In eo enim quidam Papistae, tanquam Chronographi, elaboratunt,  
+      <lb ed="#C" n="15"/>vt ostenderent verbum non scriptum fuisse per annos plusquam bis mille, 
+      <lb ed="#C" n="16"/>Evangelium vero annis circiter triginta praedicatum fuisse, priusquam  
+      <lb ed="#C" n="17"/>scriptum fuerit. Sed non est quod de hoc argumento plura 
+      respondea<lb ed="#C" n="18" break="no"/>mus hoc loco. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

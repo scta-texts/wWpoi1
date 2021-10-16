@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="139"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e12980"><!-- con1q2c12 -->
+            <head xml:id="wWpoi1-e12980-Hd1e106">Caput 12</head>
+            <p xml:id="wWpoi1-e12980-d1e109">
+      <!--148.xml-->
+               <pb ed="#L" n="139"/>
+               <lb ed="#C" n="1"/>CAPVT DVOBECIUV 
+      <lb ed="#C" n="2"/>CAPTTTI 
+      <lb ed="#C" n="3"/>DOsiremo, nunc Bellarminus Latinam veterem novi Testamenti 
+      <lb ed="#C" n="4"/>Teditionem defendit, &amp; Remnitio, Calvinoque respondet ad ea 
+      lo<lb ed="#C" n="5" break="no"/>ca, quae illi a Latino interprete corrupta esse scripserunt. Nos hanc 
+      <lb ed="#C" n="6"/>quoque Bellarmini defensionem diluemus, &amp; Graecos fontes in 
+      novo<lb ed="#C" n="7" break="no"/>Testamento puriores esse Latina illa editione ostendemus. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e131">
+               <lb ed="#C" n="8"/>Primus locus est Matth. 9. v. 13. Non veni vocare iustos, sed peccatores. 
+      <lb ed="#C" n="9"/>Remnitius ait sententiam pulchetrimam esse mutilatam, quia deest 
+      in<lb ed="#C" n="10" break="no"/>Latino, ad poenitentiam. Tria sunt capita defensionis Bellarminianae: 
+      pri<lb ed="#C" n="11" break="no"/>mum, in quibusdam Latinis inveniri illam particulam. Respondeo: at in 
+      <lb ed="#C" n="12"/>ijgnmon invenitur, quibus illi tanquam emendatissimis &amp; authenticis 
+      v<lb ed="#C" n="13" break="no"/>tuntur, hoc est, quos Theologi Lovanienses ediderunt. Et in eorum 
+      Mis<lb ed="#C" n="14" break="no"/>sali recentissimo, quando haec pers Evangelij in Festo Divi 
+      Mattheireci<lb ed="#C" n="15" break="no"/>tatur, ea particula non habetur. Secundum, verisimilius esse illam 
+      parti<lb ed="#C" n="16" break="no"/>culam in Graeco esse superstuam, &amp; in emendatis codicibus non fuisse: 
+      <lb ed="#C" n="17"/>Res pondeo: Imo hoc verisimile non est, quia Chrysostomus eam 
+      particu<lb ed="#C" n="18" break="no"/>lam legit, vtex illius commentarus constat: &amp; verisimile est 
+      Chrysosto<lb ed="#C" n="19" break="no"/>mum codices emendatissimos habuisse. Similiter invenit 
+      Theophyla<lb ed="#C" n="20" break="no"/>ctus eandem particulam in suis codicibus, &amp; Robertus Stephanus in 
+      plu<lb ed="#C" n="21" break="no"/>rimis &amp; verissimis exemplaribus, ex quibus suam novi Testamenti 
+      Grae<lb ed="#C" n="22" break="no"/>cam editionem emendavit, quorum etiamynum est Complutense. 
+      Ter<lb ed="#C" n="23" break="no"/>tium, particulam hanc non esse necessariam: nam vocare peccatores, 
+      <lb ed="#C" n="24"/>non justos, est hortari ad poenitentiam eos, qui egent. Respondeo: esse 
+      ne<lb ed="#C" n="25" break="no"/>cessarium perspicuum est, quia Lucas eam sine vlla controversia habet,  
+      <lb ed="#C" n="26"/>Cap. 5. v. 32. Sic enim apud Lucam legimus, &amp; omnia exemplaria 
+      con<lb ed="#C" n="27" break="no"/>veniunt, ὕκ ἐληλυθα καλέσται διμαοις, αλλ αρετθλός εισ μετόνοιαν. Tum hoc 
+      eti<lb ed="#C" n="28" break="no"/>am ratio docet. Nam aliud est vocare peccatores, aliud 
+      adpoenitenti<lb ed="#C" n="29" break="no"/>am vocare peccatores, quemadmodum Theophylactus in hunc locum,: 
+      <lb ed="#C" n="30"/>Mattl. aei verissime scripsit, εκίνα μεινωυστν ακρτθλοι, αλι ἵνα μογοήσοσιν: non 
+      <lb ed="#C" n="31"/>ve peccatores maneant, sed vi resipiscant. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e186">
+               <lb ed="#C" n="32"/>Secundus locus est, lohan. 14. 26. Spiritus sanctus suggeret vobis omnia, 
+      <lb ed="#C" n="33"/>quacunque dixero vobis. Hoc loco Papistae abutintur ad probandum, 
+      quae<lb ed="#C" n="34" break="no"/>cunque in Conciliis definiuntur, accipienda esse pro oraculis Spiritus 
+      san<lb ed="#C" n="35" break="no"/>cti. In Graeco est, non divero, sed diri: ἀ εἰπονυμίν. Bellarminus ait sensum. 
+      <lb ed="#C" n="36"/>esse eundem cum Graeco: intelligendum enim esse, non quae tunc 
+      dixe<lb ed="#C" n="37" break="no"/>to, sed quae nunc dixero. Respondeo: Papistae occasiones omnes, quan 
+      <!--149.xml-->
+      <pb ed="#L" n="140"/>
+               <lb ed="#C" n="1"/>tumvis futiles &amp; absurdas, avide artipiunt ad sua dogmata 
+      comproban<lb ed="#C" n="2" break="no"/>da, easque non raro, quae in transsationis ermore positae sunt. Ita ex hoc 
+      lo<lb ed="#C" n="3" break="no"/>co, Spiritum sanctum colligunt authorem esse omnium dogmatum, quae 
+      <lb ed="#C" n="4"/>ipsi in suis Concilijs excogitaverint atque stabilierint, etiamsi ea 
+      neque<lb ed="#C" n="5" break="no"/>ant Scripturarum authoritate confirmani. Sed Christus non promisit 
+      ali<lb ed="#C" n="6" break="no"/>quid se dicturum in posterum, quod ipsos Spiritus sanctus doceret, sed  
+      <lb ed="#C" n="7"/>quod jam dixisset, id illis esse a Spiritu sancto in mentem memoriamque 
+      <lb ed="#C" n="8"/>revocandum. Non enim Christus ait, ταντα α ἀνεἰπουμίν, sed ἀεἰπον υμίν.  
+      <lb ed="#C" n="9"/>Itaque jam illis Christus omnia dixerat, sed illi ea non satis accurate 
+      didi<lb ed="#C" n="10" break="no"/>cerant, memoriaeque mandaverant. Ex quo falsam esse Bellarmini 
+      ex<lb ed="#C" n="11" break="no"/>positionem constat: non enim Christus hoc ait, quod ille putat, Spiritus 
+      <lb ed="#C" n="12"/>Sanctus vobis suggeret, quae nunc dixero vobis, sed quae jam ante dixi 
+      <lb ed="#C" n="13"/>vobis. Nam, α εἰπον, non significat, quae nunc dixero, sed quae prius 
+      ame<lb ed="#C" n="14" break="no"/>dicta sunt. Sic &amp; versio Latina hujus loci falsa est, &amp; Bellarmini etiam 
+      ex<lb ed="#C" n="15" break="no"/>positio eam esse falsam arguit.  
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e238">
+               <lb ed="#C" n="16"/>Tertius locus est Rom. 1. 4. Qui praedestinatus est filius Dei. In Graeco 
+      <lb ed="#C" n="17"/>est δριθεννος, id est, qui declavatus, sive manifestatus est. Bellarminus sic ait,  
+      <lb ed="#C" n="18"/>lειζειν nunquam in Scripturis significat declarare, &amp; omnes Latini sic 
+      le<lb ed="#C" n="19" break="no"/>gerunt, Qui praedestinatus est. Respondeo: primo, oeζειν in hoc loco 
+      sig<lb ed="#C" n="20" break="no"/>nificare declarare, quemadmodum Chrysostomus interpretatur, cui  
+      <lb ed="#C" n="21"/>non ignota fuit hujus vocabuli vis &amp; significatio. Sic ait Homil. 11,. in 
+      <lb ed="#C" n="22"/>Rom. τι ἐν ἐστιν δοιδενιος, subjungit, δεκθενιος, ἀπορανθενιος, χριθενίος. vbi  
+      <lb ed="#C" n="23"/>docet, δριζειν hoc loco nihil aliud significare, quam declarare, 
+      demon<lb ed="#C" n="24" break="no"/>strare, iudicare. Similiter Oecumenius, το ρειώενίος ait esse το θοδεκθενλος, 
+      <lb ed="#C" n="25"/>&amp; ἐπγνωώενιος. Nec verbum aliter hoc loco Theodoritus &amp; 
+      Theophy<lb ed="#C" n="26" break="no"/>lactus explicant. Ergo falsissimum esse constat, quod Bellarminus 
+      tam<lb ed="#C" n="27" break="no"/>confidenter dixit. Id vere quidem dici potest, δeιζειν nunquam, aut 
+      in<lb ed="#C" n="28" break="no"/>Scripturis, aut alibi, significare idem quod praedestinare. Secundo, 
+      Lati<lb ed="#C" n="29" break="no"/>ni patres sequuti sunt vulgatum interpretem, a quo vocabulum hoc 
+      im<lb ed="#C" n="30" break="no"/>perite, inepteque versum esse, &amp; Erasmus, &amp; Faber, &amp; Cajetanus docent, 
+      <lb ed="#C" n="31"/>&amp; quicunque Graece aliquid intelligunt, confiteri debent. Quod vero 
+      <lb ed="#C" n="32"/>hic Bellarminus ait, definitus, idem esse, quod praedestinatus, id non 
+      dubi<lb ed="#C" n="33" break="no"/>tem ad Doctorum hominum vniversum senatum referre. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e281">
+               <lb ed="#C" n="34"/>Quartus locus est Rom. 1. in fine, vbi in vulgata editione habetur, Qui  
+      <lb ed="#C" n="35"/>cum iustitiam Dei cognovissent, non intellexerunt, quoniam qui talia agunt, 
+      <lb ed="#C" n="36"/>digni sunt morte, non solum qui ea faciunt, sed etiam qui consentiunt 
+      facienti<lb ed="#C" n="37" break="no"/>bus, Hunc locum Remnitius, Valla, Erasmus, Faber, &amp; alij cormuptum 
+      <lb ed="#C" n="38"/>esse dicunt. Nam in Graeco textu sic habemus: ὅιπυες τό δικαιωμα το Sεο 
+      <!--150.xml-->
+      <pb ed="#L" n="141"/>
+               <lb ed="#C" n="1"/>στθγρογτος, Xοηκη τα τοιαθ τα ωροοσοντες, αζενσ σανακ εισιν) αμόνον αυτα τόσ, αλλα 
+      <lb ed="#C" n="2"/>συθδδοκισε τοι ωραοοοσι. Bellarminus tamen non veretur affirmare, 
+      La<lb ed="#C" n="3" break="no"/>tinam lectionem esse veriorem. Nam secundum Graecam, inquit, sensus 
+      <lb ed="#C" n="4"/>est, pejus esse consentire male agenti, quam malum agere, cum tamen 
+      <lb ed="#C" n="5"/>absolute pejus sit male agere, quam male agenti consentire. Respondeo, 
+      <lb ed="#C" n="6"/>De peccatorum magnitudine non satis accurate disputat Bellarminus. 
+      <lb ed="#C" n="7"/>Nam improbis συυδδοκείν, vnum est ex gravissimis peccatis, quae non nisi 
+      <lb ed="#C" n="8"/>in perditissimos homines cadunt. Peccare per se impium est, poenaque 
+      <lb ed="#C" n="9"/>sempiterna dignum, quantumvis id fiat conscientia reclamante: at 
+      pec<lb ed="#C" n="10" break="no"/>cata &amp; sua &amp; aliorum approbare, ac defendere, eaque recte facta judicare, 
+      <lb ed="#C" n="11"/>ijsque animo &amp; judicio suo applaudere, &amp; peccatis delectari, hoc est, ζ
+      uva<lb ed="#C" n="12" break="no"/>δεκειν, vt Apostolus loquitur, summum pene peccati cumulum habet. 
+      At<lb ed="#C" n="13" break="no"/>que hic ille est assensus, quem Paulus hoc loco damnat, qui fere summus 
+      <lb ed="#C" n="14"/>est in peccato gradus. Itaque sensus est in Graeco textuverissimus: cumque 
+      <lb ed="#C" n="15"/>Graeci interpretes, Chrysostomus, Theodoritus, Oecumenius, 
+      Theophy<lb ed="#C" n="16" break="no"/>lactus, exponunt. Atque in Graecis libris, quos Stephanus sequutus est, 
+      <lb ed="#C" n="17"/>id est, omnibus, quos aliquo modo comparare potuit, nullam hic locus 
+      <lb ed="#C" n="18"/>varietatem habet. Quod vero Latini Patres locum aliter legerunt, id 
+      mi<lb ed="#C" n="19" break="no"/>nime mirum est. Non enim fontes adierunt, sed ex rivulis vulgati huius 
+      <lb ed="#C" n="20"/>interpretis hauscrunt. Quod autem Bellarminus ait, Latinum textum. 
+      <lb ed="#C" n="21"/>Graeco esse omnino meliorem, hoc omnino aliter visum est aliis 
+      Papi<lb ed="#C" n="22" break="no"/>stis. Sic enim Catharinus in primum cap. Rom. Ne quid autem dissimulem, 
+      <lb ed="#C" n="23"/>inquit, longe magis mi placet Graecalectio: facile procedit litera, &amp; sine vllo 
+      <lb ed="#C" n="24"/>scrupulo. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e351">
+               <lb ed="#C" n="25"/>Quintus locus est Rom. 4. 2. Ubi Abraham dicitur non esse iustificatus 
+      <lb ed="#C" n="26"/>ex operibus. In illorum autem Latina editione additum est, legis, 
+      quasi<lb ed="#C" n="27" break="no"/>Apostolus de ceremoniis legis loqueretur. Bellarminus vero ait, 
+      codi<lb ed="#C" n="28" break="no"/>ces Latinos vel omnes, vel fere omnes, non habere illud legis. Quod 
+      qui<lb ed="#C" n="29" break="no"/>dem fateor esse verum, si de iis codicibus loquatur, qui hodie in 
+      homi<lb ed="#C" n="30" break="no"/>num manibus versantur. Nam ante aliquot secula, aut omnes 
+      Latini<lb ed="#C" n="31" break="no"/>codices, aut fere omnes habebant illud legis, vt ex quibusdam antiquis 
+      <lb ed="#C" n="32"/>Patribus, &amp; Scholasticis Theologis, Lyrano, Aquinate, Carthusiano, 
+      <lb ed="#C" n="33"/>reliquisqueconstat. Quemadmodum vero locus ille sit intelligendus, 
+      <lb ed="#C" n="34"/>&amp; quae operum genera Apostolus a lustificatione excludat, postea suo 
+      <lb ed="#C" n="35"/>loco dicetur.  
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e377">
+               <lb ed="#C" n="36"/>Sextus locus est Rom. 11. 6. Ubi haec verba desiderantur, Sin ex 
+      operi<lb ed="#C" n="37" break="no"/>bus, iam non exgratia: alioquin opus iam non est opus. Quam sententiam 
+      <lb ed="#C" n="38"/>Bellarminus esse quidem in Graecis editionibus fatetur, sed a nullis hu¬ 
+      <!--151.xml-->
+      <pb ed="#L" n="142"/>
+               <lb ed="#C" n="1"/>jus loci explanatoribus, praeterquam a Theophylacto, agnosci: quod  
+      <lb ed="#C" n="2"/>falsissimum est, cum eandem Oecumenius habeat atque explicet, &amp; 
+      <lb ed="#C" n="3"/>Theodoretus, &amp; Chrysostomus, de quo tamen nominatim affirmavit,  
+      <lb ed="#C" n="4"/>eum huius sententiae non meminisse. Bellarminus Chrysostomum hoc  
+      <lb ed="#C" n="5"/>loco non inspexit, sed nimiam Erasmo fidem habuit, qui hanc in 
+      Chry<lb ed="#C" n="6" break="no"/>sostomo sententiam falso negat reperiri. Sic enim Chrysostomus legit, 
+      <lb ed="#C" n="7"/>ει δο αζ ἐργον, ἵκ εη δει χαρι: ἐτειτό ἐργον, ὕκ ετιστι ἐργον. Sed quid si in horum 
+      <lb ed="#C" n="8"/>commentarijs ea clausula non haberetur? num eam propterea esse 
+      alie<lb ed="#C" n="9" break="no"/>nam opinari deberemus? nequaquam: cum Graeci codices, &amp; 
+      exempla<lb ed="#C" n="10" break="no"/>tia plurima &amp; verissima, ipseque Syrus antiquissimus interpres esse hanc 
+      <lb ed="#C" n="11"/>Apostolicam sententiam comprobet. Quod etiam sententiae antithesis 
+      <lb ed="#C" n="12"/>&amp; argumenti consecutio persuadet. Nam quemadmodum Apostolus. 
+      <lb ed="#C" n="13"/>ait, Si ex gratia, non exoperibus, quia tum gratia non esset gratia: sic 
+      vi<lb ed="#C" n="14" break="no"/>cissim dicendum est, Si ex operibus, non ex gratia, quia tum opus, non 
+      <lb ed="#C" n="15"/>esset opus. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e423">
+               <lb ed="#C" n="16"/>Septimus locus est Ephes. 5. 32. Sacramentum hoc magnum est: vbi nihil: 
+      <lb ed="#C" n="17"/>aliud nostri reprehendunt, quam quod vocabuli ambiguitate Papistae 
+      <lb ed="#C" n="18"/>abutuntur, ad confirmandum Matrimonij Sacramentum. Nam est 
+      in<lb ed="#C" n="19" break="no"/>Graeco μυσηριον, quod nusquam in Scripturis ita sumitur, vt significet  
+      <lb ed="#C" n="20"/>eam rem, quam nos proprie Sacramentum dicimus. Quare Scholastici: 
+      <lb ed="#C" n="21"/>ex hoc verbo absurde concludunt, Matrimonium esse Sacramentum. 
+      <lb ed="#C" n="22"/>Caletani haec verba sunt: Non habet ex hoc loco prudens lector a Paulo, 
+      <lb ed="#C" n="23"/>coniugium esse Sacramentum. Non enim dicit Sacramentum, sed mysterium 
+      <lb ed="#C" n="24"/>hoc magnum est. Ob hanc veram vocem vapulat Cardinalis 
+      Ambrosio<lb ed="#C" n="25" break="no"/>Catharino, in quarto Lib. annotat.  
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e447">
+               <lb ed="#C" n="26"/>Octavus locus est Ephes. 6. 13. Dt possitis resistere in die malo, &amp; in 
+      om<lb ed="#C" n="27" break="no"/>nibus perfecti stare. Est in Graeco, ἀπαντα κατρργισαμιοι, quod non 
+      signifi<lb ed="#C" n="28" break="no"/>cat, in omnibus perfecti: Aliqui interpretantur, omnibus perfectis, id est, 
+      <lb ed="#C" n="29"/>cum omnia arma, quaevobis sunt ad hanc militiam necessaria, 
+      compa<lb ed="#C" n="30" break="no"/>raveritis, atque indueritis: sed vim verbi κατερράσαθει Chrysostomus 
+      me<lb ed="#C" n="31" break="no"/>lius intellexit, eumque sequutus Oecumenius. Est enim κατεργισαδιν, 
+      <lb ed="#C" n="32"/>devincere, &amp; debellare, adversariasque vires omnes superate. Homia illa 
+      <lb ed="#C" n="33"/>facit, vt non modo in die malo resistere possimus, sed etiam ἀπαντα κατερ¬ 
+      <lb ed="#C" n="34"/>νασαμηνοι, hoc est, quicquid adversatur, χσπολεμήσαντες, debellantes, &amp; 
+      <lb ed="#C" n="35"/>ἄνιλόντες, de medio tollentes (sic enim illud Apostoli verbum 
+      Chrysosto<lb ed="#C" n="36" break="no"/>mus, &amp; Oecumenius interpretantur) nos invicti persistamus. Hoc 
+      au<lb ed="#C" n="37" break="no"/>tem longe aliud est, quam quod in veteribus libris legitur, In omnibus 
+      per<lb ed="#C" n="38" break="no"/>fecti: &amp; ex falsa versione falsae expositiones natae sunt. Thomas illud, in¬ 
+      <!--152.xml-->
+      <pb ed="#L" n="143"/>
+               <lb ed="#C" n="1"/>omnibus, interpretatur, in prosperis, &amp; in adversis: &amp; hic perfectionem 
+      <lb ed="#C" n="2"/>duplicem facit, vnam viae, alteram patriae: quae quanquam vera sunt, 
+      ta<lb ed="#C" n="3" break="no"/>men ad istum locum non pertinent. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e489">
+               <lb ed="#C" n="4"/>Nonus locus est Heb. 9. 28. e Admultorum exhaurienda peccata: in 
+      Grae<lb ed="#C" n="5" break="no"/>co est, εἰς τό ποκ ὃν ἀνενεγκειν αυοτιας: quod significat, ad tollenda 
+      multo<lb ed="#C" n="6" break="no"/>tum peccata. Tolluntur vero peccata, quando remittuntur, quod in hac 
+      <lb ed="#C" n="7"/>vita sit: exhauriuntur, quandototi puri sumus, &amp; nullae peccatorum 
+      reli<lb ed="#C" n="8" break="no"/>quiae remanent, quod huius vitae non est. Quando enim Adversarij 
+      tenu<lb ed="#C" n="9" break="no"/>issimas quasque occasiones arripiunt, quibus fucum aliquem veritati 
+      fa<lb ed="#C" n="10" break="no"/>ciant, ubique Spiritus sanctus est ab illorum calumniis vindicandus. 
+      <lb ed="#C" n="11"/>Quod autem Bellarminus ait, interpretem propriissime hoc loco vertisse, 
+      <lb ed="#C" n="12"/>proferat exemplum aliquod, vbi ἀνενείκειν significet exhaurire. 
+      Quan<lb ed="#C" n="13" break="no"/>quam enim ἀναριρω est sursum fero, tamen &amp; sursum ferre, &amp; haurire 
+      <lb ed="#C" n="14"/>non idem est, quod exhaurire. Non enim qui haurit ex fonte, proinde 
+      <lb ed="#C" n="15"/>fontem ipsum exhaurit. Sed αναριρειν saepius significat auserre, aut 
+      perfer<lb ed="#C" n="16" break="no"/>re: vt cum in hoc loco, tum in aliosimili, 1. Pet. 2. 24. Christus dicitur  
+      <lb ed="#C" n="17"/>peccata nostra ἀνενείαειν εἰς το ζυλον, id est, super lignum pertulisse, vt ibi 
+      ve<lb ed="#C" n="18" break="no"/>tus etiam interpres transtulit.  
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e525">
+               <lb ed="#C" n="19"/>Decimus locus est Hebr. 13. 16. Talibus hostus oromeretur Deus. Est in 
+      <lb ed="#C" n="20"/>Graeco, τοιαυτς θυσιαισ ευαρεσειτυκὀ θεός: talibus hostus delectatur Deus. 
+      Bel<lb ed="#C" n="21" break="no"/>larminum non pudet &amp; huius etiam loci defensionem qualemcunque 
+      <lb ed="#C" n="22"/>suam adhibere. Latine, inquit, recte dicitur, bene mereri de aliquo eum, 
+      <lb ed="#C" n="23"/>qui facit rem illi gratam. Respondeo primum, esse inter homines meritis 
+      <lb ed="#C" n="24"/>locum: neque enim omnibus omnia debentur. Recte ergo dici potest, 
+      <lb ed="#C" n="25"/>nos de illis bene meritos fuisse, quos aliquo beneficio affecimus, quod 
+      <lb ed="#C" n="26"/>a nostri arbitrij voluntate fluxit. Sed quando nobis cum Deo res est, 
+      me<lb ed="#C" n="27" break="no"/>ritum valeat: quia quicquid facimus, quod illi gratum est, tamen nihile 
+      <lb ed="#C" n="28"/>facimus, quod illi non ante debuimus. Quare cum fecerimus 
+      quaecun<lb ed="#C" n="29" break="no"/>que fieri a nobis aliquo modo possunt, sumus adhuc tamen ἀχεειον δοσλοι, 
+      <lb ed="#C" n="30"/>vt Christus ait. Deinde, quaero a Bellarmino, num in illorum Theologia 
+      <lb ed="#C" n="31"/>meteri nihil aliud sit, quam facere quod gratum sit. Vellem id quidem: 
+      <lb ed="#C" n="32"/>tum enim de meritis operum minus errarent. Nam &amp; nos sanctorum 
+      <lb ed="#C" n="33"/>bona opera Deo grata esse, Deoque placere dicimus: sed omnis est de 
+      <lb ed="#C" n="34"/>meritis operum contentio. Postremo, quam hoc putidum est, Talibus 
+      <lb ed="#C" n="35"/>hostus promeretur Deus: 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e564">
+               <lb ed="#C" n="36"/>Undecimus locus est Iacob. 5. 15. Et alleviabit eum Dominus. In 
+      Graeco<lb ed="#C" n="37" break="no"/>est, Laι ἐχρει αυτόνὸ κυειος, &amp; eriget illum Dominus. Hic Bellarminus de 
+      es<lb ed="#C" n="38" break="no"/>fectis extremae vactionis disputat τρipos contra Remnitium. Etsi in 
+      <!--153.xml-->
+      <pb ed="#L" n="144"/>
+               <lb ed="#C" n="1"/>versione nullum est capitale vitium, tamen locus rectias verti potuit,  
+      <lb ed="#C" n="2"/>quam est ab interprete Latino versus. Quod vero ad vnctionem illam, 
+      <lb ed="#C" n="3"/>Papisticam attinet, de ea hic lacobus non meminit: quod ipse etiam 
+      <lb ed="#C" n="4"/>Caletanus abunde docet, in commentaniis suis in hunc locum. Sic 
+      au<lb ed="#C" n="5" break="no"/>tem ait: Nec ex verbis, nec ex effectis, verba haec loquuntur de sacramentali 
+      <lb ed="#C" n="6"/>unctione extremae υnctionis: idque tribus verissimis argumentis, ex ipso 
+      lo<lb ed="#C" n="7" break="no"/>co sumptis, probat. Sed nunc locus non est de vnctione sacramentali 
+      di<lb ed="#C" n="8" break="no"/>sputandi. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e595">
+               <lb ed="#C" n="9"/>Vltimus locus est, 1. Iohan. 5. 13. Haec scribo vobis, vi sciatis quoniam 
+      <lb ed="#C" n="10"/>vitam habetis aeternam, qui creditis in nomine Filij Dei: &amp; sic quidem 
+      ali<lb ed="#C" n="11" break="no"/>qui codices Graeci habent, quemadmodum Robertus Stephanus 
+      testa<lb ed="#C" n="12" break="no"/>tur in suo Graeco Testamento. Sed plerique aliter, etiam Complutensis, 
+      <lb ed="#C" n="13"/>hoc modo: τυθτα ἔγραλα υιίν, τοις πσευεσεν εἰς τό ὀνομα το κξ το θεη ἵνα ειδητε, 
+      <lb ed="#C" n="14"/>Sη ζωνναιώνον εχετε, κιινα τσεθτε εἰς τό ὀνομα τόυς το Sες. Sed de huius loci 
+      le<lb ed="#C" n="15" break="no"/>ctione nolumus magnopere cum Adversario litigare, cum in sensu 
+      nul<lb ed="#C" n="16" break="no"/>lum sit discrimen. Nam quod Bellarminus eo argumento probat, in 
+      La<lb ed="#C" n="17" break="no"/>tino melius esse, quam in Graeco, quia non erat opus monere vt facerent, 
+      <lb ed="#C" n="18"/>quod iam fecerant; indigna haec quidem fuit ratio tanto Theologo. Nam 
+      <lb ed="#C" n="19"/>&amp; nos saepe eos, qui faciunt, monemus vt faciant, quod faciunt, juxta 
+      il<lb ed="#C" n="20" break="no"/>lud, Qui monet vi facias, quod iam facis: &amp; hoc in Scripturis tritissimum 
+      <lb ed="#C" n="21"/>est. Ita qui credunt in Christum, monendi perpetuo sunt, vt in illa 
+      fide<lb ed="#C" n="22" break="no"/>crescant, constantesque permaneant. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e628">
+               <lb ed="#C" n="23"/>Et iam se nobis Bellarminus de novi Testamenti vetere versione 
+      re<lb ed="#C" n="24" break="no"/>spondisse, &amp; satisfecisse arbitratur. Sed quota haec pars fuit eorum 
+      errato<lb ed="#C" n="25" break="no"/>rum, quae in illa versione inveniri notarique possunt. Eam igitur placet 
+      <lb ed="#C" n="26"/>paulisper excutere, eiusque alios errores, etsi non omnes (id enim esset. 
+      <lb ed="#C" n="27"/>longum &amp; difficilejtamen nimium multos in medium proferre, unde 
+      <lb ed="#C" n="28"/>quam ea minime pura atque authentica sit, melius iudicari possit. Matt. 
+      <lb ed="#C" n="29"/>3. 2. Vetus habet, appropinquabit regnum coelorum: est in Graeco ὕτνικα, ap¬¬ 
+      <lb ed="#C" n="30"/>propinquavit. Ita etiam in capit. 4. 17. Matth. 4. 4. in vetere versione de 
+      <lb ed="#C" n="31"/>sunt, In propatulo: Graecus enim textus habet, ἐτοδυτι συιἐν τι ρανερῳ, &amp; 
+      <lb ed="#C" n="32"/>vers. 7. μη ἐατολογὸσκτο, vetus interpres transtulit, nolite multum loqui. 
+      A<lb ed="#C" n="33" break="no"/>liud autem est multum loqui, aliud ζατολσειν: non enim Christus 
+      prohi<lb ed="#C" n="34" break="no"/>bet longas preces, sed verborum eorundem molestam &amp; hypocriticam, 
+      <lb ed="#C" n="35"/>re petitionem. &amp; vers. 11. ἀpτον ἐποσεον, transtulit, panem supersubstantialem. 
+      <lb ed="#C" n="36"/>&amp; vers. 25. in Latino est, ne solliciti sitis anime vestrae quid manducetis: in 
+      <lb ed="#C" n="37"/>Graeco, n ραγητε, καί τι τιητε, quid comedatis, &amp; quid bibatis. &amp; vers. 32. in 
+      <lb ed="#C" n="38"/>Latino, Scit pater vester: in Graeco, ἐ πατῆρ υμόνὀ ἐρανιος. Cap. 7. vers.  
+      <!--154.xml-->
+      <pb ed="#L" n="145"/>
+               <lb ed="#C" n="1"/>πποτ 
+      <lb ed="#C" n="2"/>I4 in Latino, quam angusta porta? in Graeco, ἐn σενί ἡ τπυλη, quoniam 
+      angusta<lb ed="#C" n="3" break="no"/>porta. Ca. 9. 8. Timuerunt, in Latino positum est, pro, admiratae sunt, cum sit 
+      <lb ed="#C" n="4"/>in Graeco, θαυμασαν. Ca. 9. 15. fils sponsi, in Latino, pro, filij thalami, in 
+      Grae<lb ed="#C" n="5" break="no"/>co est, α μοι τόνυμρονος: similiter Luc. 5. 34. Ca. 14. 3. Philippi nomen deest. 
+      <lb ed="#C" n="6"/>in Latino, quod Graeci libri habent, is enim fuit Herodis frater, ejusque 
+      vx<lb ed="#C" n="7" break="no"/>orem Herodiademimpius Herodes incesto matrimonio sibi coniunxerat.  
+      <lb ed="#C" n="8"/>V. 21. in Latino est, quinque millia: in Graeco, ώσει ποθτακιγιλιοι, circiter 
+      quin<lb ed="#C" n="9" break="no"/>quies mille. Ver. 26. deest nomen, discipuli: nam in Graeco est, iδοντες ἀυτὸν,  
+      <lb ed="#C" n="10"/>όι μαθκrαι, cum sit in Latino tantum, videntes eum. C. 15. 8. in Latino est, 
+      <lb ed="#C" n="11"/>populus hic labiis me honorat: cum sit in Graeco sic, εγνιζει μοιὀ λαός οα τῳ σο¬ 
+      <lb ed="#C" n="12"/>ματη θίστον, μι τωις χειλεσι με τιμα: appropinquat mi populus hic ore suo, &amp; labiis me 
+      <lb ed="#C" n="13"/>honorat. V. 31: deest, mancos sanos, cum in Graeco sit, μλες vιός. C. 17. 19. 
+      <lb ed="#C" n="14"/>in Latino est, quare nos non potuimus eucere illum, pro, illud, scilicet, 
+      dae<lb ed="#C" n="15" break="no"/>monium: in Graeco est, ἐκζαλείν αυτῳ. Cap. 18. vers. vlt. deest in Latino, 
+      <lb ed="#C" n="16"/>offensas eorum, τα παργπτυματα ρυτόν. Cap. 19. 17. in Latino sic est, quid 
+      <lb ed="#C" n="17"/>me interregas de bono? unus est bonus, Deus: in Graecis vero plerisque &amp; 
+      <lb ed="#C" n="18"/>commendatissimis codicibus, τ με λόγες αγαθεν, ἀδεις αγαθες, ei μη εις, o 
+      <lb ed="#C" n="19"/>θeos: hoc est, cur me dicis bonum? nullus est bonus, nisi vnus, Deus. Capit.  
+      <lb ed="#C" n="20"/>20. 9. in Latino est, acceperunt singulos denarios, pro, singuli denarium, 
+      <lb ed="#C" n="21"/>cum sit in Graeco, ἑλαζον ανα δεναειον: &amp; similiter vers. sequente. Vers. 15. 
+      <lb ed="#C" n="22"/>in Latino est, aut non licet mi, quod volo facere? pro, annon licet mi faceret 
+      <lb ed="#C" n="23"/>quod volo in meis rebus? est in Graeco, ἑ ἐκ εζεσι μοι ποιήσαι, ὀ θελα κ τοις εμσις, 
+      <lb ed="#C" n="24"/>Cap. 21. 30. Eo Domine, in Latino, pro, ego Domine:: ἐγῳ υριe. Cap. 24. 6. 
+      <lb ed="#C" n="25"/>Opiniones praeliorum, in Latino ponitur, pro, rumores bellorum, ακοώς πολ
+      i<lb ed="#C" n="26" break="no"/>μον. Cap. 26. 61. διἀ τριον ἡμαρον, quod est, triduo, vetus transtulit, post 
+      tri<lb ed="#C" n="27" break="no"/>duum: &amp; vers. 71. in Latino est, exeunte illo ianuam, pro, exeuntem eum in 
+      <lb ed="#C" n="28"/>vestibulum, cum in Graeco sit, iξξθεντα ἀυτὸν εἰς τὸν τυλόνα. Capit. 28. 2. in 
+      <lb ed="#C" n="29"/>Latino, post, revolvit lapidem, deest, ab ostio, &amp;ο δυεας, Marc. 2. 7. in 
+      Latino<lb ed="#C" n="30" break="no"/>est, quid hic sic loquitur? blasphemat, pro, quid iste ita loquitur blasphemias: 
+      <lb ed="#C" n="31"/>aδι ττολαλεί ιλασῳημιαςς Marc. 3. 29. in Latino, reus erit aeterns 
+      deli<lb ed="#C" n="32" break="no"/>cti, pro, aeterni iudicij, αlονiν κρισεως, Mar. 14. 14. in Latino est, ubi est 
+      refe<lb ed="#C" n="33" break="no"/>ctio mea? pro, vbi est diversorium? το ἐσι το κατυλυμα, Luc. 1. 28. in 
+      Latino<lb ed="#C" n="34" break="no"/>est, ave, gratia plena: sed κεχαριτωιλον, est gratiosa, vel gratis dilecta, non 
+      <lb ed="#C" n="35"/>plena gratiae. Luc. 2. 40. in Latino est, puer crescebat &amp; confortabatur, 
+      vbi<lb ed="#C" n="36" break="no"/>deest, spiritu. Luc. 3. 13. in Latino est, nihil amplius quam quod constitutum 
+      <lb ed="#C" n="37"/>est vobis, faciatis. At hoc loco, ωροωειν non facere, sed exigere significat.  
+      <lb ed="#C" n="38"/>Publicanos enim Baptista alloquitur. Luc. 6. 11. in Latino est, ipsi repletis 
+      <lb ed="#C" n="39"/>sunt insipientia, pro, amentia. ηδεσανανoίας. Luc. 1 1. 53. ἐπσοματιζειν αυτὸν,  
+      <!--155.xml-->
+      <pb ed="#L" n="146"/>
+               <lb ed="#C" n="1"/>ωει πειονον, vetus interpres transtulit, os eius opprimere de mults: inepte: 
+      <lb ed="#C" n="2"/>est enim eum vrgere ad loquendum de multis. Luc. 13. 3. &amp; 4. in 
+      Latino<lb ed="#C" n="3" break="no"/>est, nisi poenitentiam habueritis, omnes similiter peribitis: sicut illi decem &amp; 
+      <lb ed="#C" n="4"/>octo, pro, aut illi decem &amp; octo, &amp;c. Luc. 15. 8. Evertit domum, pro, evegrit 
+      <lb ed="#C" n="5"/>domum, σαρσι τυν οικιαν. Ertatum turpe &amp; manifestum, quod 
+      Lovanien<lb ed="#C" n="6" break="no"/>ses quidem viderunt, tamen corrigere noluerunt, credo, propter 
+      vetusta<lb ed="#C" n="7" break="no"/>tem. Sic enim multis seculis locus iste fuit in illorum Ecclesiis lectitatus. 
+      <lb ed="#C" n="8"/>Glossa ordinaria hanc faeminam interpretatur Ecclesiam: ea vero tum 
+      <lb ed="#C" n="9"/>evertit domum suam, quando conscientias hominum de reatu suo 
+      per<lb ed="#C" n="10" break="no"/>turbat. Dionysius vero Carthusianus paulo adhuc melius docet, 
+      quem<lb ed="#C" n="11" break="no"/>admodum domus evertatur, quando nimirum contenta in 
+      domotrans<lb ed="#C" n="12" break="no"/>feruntur de loco in locum, vtij solent facere, qui aliquid 
+      diligenterquae<lb ed="#C" n="13" break="no"/>runt. Imo quod mitere magis, Gregorius Romanus ante mille annos 
+      <lb ed="#C" n="14"/>legit &amp; exponit, Homil. 34. in Evangel. evertit domum: tam antiqui  
+      <lb ed="#C" n="15"/>sunt multi huius transsationis emores. In eodem Cap. vers. 14. Posiquam  
+      <lb ed="#C" n="16"/>omnia consummasset, pro, consumpsisset, &amp;απονήσαινος. Cap. 10. 22. in 
+      Lati<lb ed="#C" n="17" break="no"/>no sic legitur, Sepultus est in inferno. Elevans autem coulos, rc. Atque hic 
+      <lb ed="#C" n="18"/>multa Latini doctores aliqui &amp; interpretes de hac sepultura huius 
+      divi<lb ed="#C" n="19" break="no"/>tis apud inferos philosophantur, quae omnia ex vitiosa loci versione 
+      flu<lb ed="#C" n="20" break="no"/>xerunt. Sic enim legendum erat, vt Graeci libri constantissime legunt, 
+      <lb ed="#C" n="21"/>Aortuus est etiam dives, ac sepultus est: quod Euthymius recte 
+      interpre<lb ed="#C" n="22" break="no"/>tatur, factam esse non in paupere, sed in divite, mentionem sepulturae: 
+      <lb ed="#C" n="23"/>quia erat vile pauperis sepulchrum: dives vero splendide &amp; magnifice 
+      <lb ed="#C" n="24"/>sepultus est. Tum in textu nova sententia incipit: Et in inferno elevans 
+      ocu<lb ed="#C" n="25" break="no"/>los, &amp;c. Cap. 19. vers. vit. Omnis populus susper sus erat audiens illum, pro, 
+      <lb ed="#C" n="26"/>populus omnis ab illo pendebat, cum eum audiret: ὅλαυς ἀπας ἔζεκριματὸ κτο 
+      <lb ed="#C" n="27"/>ἀκεον Iohan. Cap. 5.16. post haec verba, persequebntur Iudaei Iesum, 
+      de<lb ed="#C" n="28" break="no"/>sunt illa, &amp; studebant eum interficere καl εζη τευν αυτ ἀτεκτείνι. Cap. 12. 35. 
+      <lb ed="#C" n="29"/>Adhuc modicum lumen in vobis, pro, adhuc parto tempore lumen est 
+      vobis<lb ed="#C" n="30" break="no"/>cum, ἐτ μικρον χζνον το ρὼς μιι υμον οει. Cap. 21. 22. Sic eum volo manere 
+      do<lb ed="#C" n="31" break="no"/>nec veniam. Quid adte? vnde nonnulli adhuc vivere Iohannem suspieati 
+      <lb ed="#C" n="32"/>sunt, huius versionis errore delusi. Sic autem legendum erat, Si velim; 
+      <lb ed="#C" n="33"/>eum manere donec veniam, quid ad te? in Graeco, ααν αυτ θελω μινειν ἔασξργε¬ 
+      <lb ed="#C" n="34"/>μαν, τι ωροςσε; Act. 2. 42. Et communicatione fractionis panis pro, &amp; 
+      com<lb ed="#C" n="35" break="no"/>municatione, &amp; fractione panis, κ, τῆ κοινονίο, κα τη λεσει τοῦ αρτe &amp; versevit. 
+      <lb ed="#C" n="36"/>In idipsum pro, Ecclesio, τῆ ἐκκληηί. Cap. 3. 18. Qui praenunciavit, pro: quae 
+      <lb ed="#C" n="37"/>praenunciavit, a ωροαατνειλε. Cap. 10. 30. Psque ad hanc horam, oranteram 
+      <lb ed="#C" n="38"/>hora nona, pro, usque ad hanc horam eram ieiunans, &amp; hora nona precabar, 
+      <!--156.xml-->
+      <pb ed="#L" n="147"/>
+               <lb ed="#C" n="1"/>μιχζι τοθτης τῆς ωρογσ ημιιν θκσεθον, και τυγ εγνατμν ωρον ωροσεθχιαιος &amp; in 
+      <lb ed="#C" n="2"/>sine vers. 32. haec desunt, Qui cum adfuerit, loquetur tibi, is δζαγινίμι, ο 
+      <lb ed="#C" n="3"/>λaλήσεν σει. Cap. 12. 8. Calcea te caligas tuas, pro, subliga sandalia tua ὅ
+      ne<lb ed="#C" n="4" break="no"/>δήσιτα σανοολια σοῦ. Cap. 16. 13. Obi videbatur oratio esse, pro, vbi 
+      sole<lb ed="#C" n="5" break="no"/>bat oratio esse, ἔενοριζετ ωροσδχι ειναι. Cap. 18. 5. Instabat verbo Paulis, pro, 
+      <lb ed="#C" n="6"/>astringebatur spiritu Paulus, συυειχετο τῶ πνευμαη. Cap. eodem, v.16. 
+      Adi<lb ed="#C" n="7" break="no"/>navit eos a tribunali, pro, abegit eos a tribunali, ἀπιλασιν. &amp; vers. 21. haec. 
+      <lb ed="#C" n="8"/>desunt, oportet omnino me festum, quod instat, agere Hierosolymis: αsi με ταν¬ 
+      <lb ed="#C" n="9"/> τ ρχρυλ ποιησαι εις Ιεροσολνμα. Cap. 19. v. vlt. Cum 
+      nul<lb ed="#C" n="10" break="no"/>lus obnoxius sit, pro, cum causa nulla sit, μηδενός αιτιη ταρχενιος. Cap. 22. 
+      <lb ed="#C" n="11"/>12. Dir secundum legem, pro, vir pius secundum legem, ἀνης ἐυσεοῆς. Cap. 
+      <lb ed="#C" n="12"/>24. 14. quod secundum sectam, quam dicunt haeresin, sic deservio 
+      patri<lb ed="#C" n="13" break="no"/>Deo meo, pro, quod secundum viam, quam dicunt haeresn, ita servio 
+      pa<lb ed="#C" n="14" break="no"/>trio deo, ὕτι χῶ τυν δδσον, κν λόγεσεν αιρεσιν, ὕτῳ λατρεν τ πατραῳ γι. Cap. 27. 
+      <lb ed="#C" n="15"/>42. Ot custodias occiderent, pro, vi vinctos occiderent, ἵνα τῶς δεσμώτας ἀπο¬ 
+      <lb ed="#C" n="16"/>Xleivon. Rom. 2. 3. quod iudicas, pro, qui iudicas, ô χρινον. Cap. 5. 6. Vt quid 
+      <lb ed="#C" n="17"/>enim Christus, cum adhuc infirmi essemus, pro, Christus enim, cum adhuc 
+      in<lb ed="#C" n="18" break="no"/>firmi essemus, En jP Xεισος ὀντον ἡμον αδενον. &amp; vers. 13. Peccatum non 
+      im<lb ed="#C" n="19" break="no"/>putabatur, cum lex non esset, pro, peccatum non imputatur, cum nulla est lex, 
+      <lb ed="#C" n="20"/>ἄυθηα iκ ελλγειτιμη οντας νόμν. Cap. 7. 25. Quis me liber abit de corpore 
+      <lb ed="#C" n="21"/>mortis huius? Gratia Dei per Iesum Christum, pro, gratias ago Deo, per 
+      Ie<lb ed="#C" n="22" break="no"/>sum Christum: ἐυχαρισοας τῶ διγ δια Ιήσοῦ Xρισοῦ. Cap. 8. 18. Existimo quod  
+      <lb ed="#C" n="23"/>non sunt dignae passiones, &amp;c. pro, certo statuo, λοριζομαν. Cap. 12. 19. Non 
+      <lb ed="#C" n="24"/>vosmetipsos defendentes, pro, vlciscentes, exδικομντες. Cap. 13. 1. Quae autem 
+      <lb ed="#C" n="25"/>sunt a deo, ordinata sunt, pro, quae sunt potestates, a deo ordinatae sunt, ai δε ἐσα 
+      <lb ed="#C" n="26"/>ζισιαι, υτο τοΘεκ τεταγιθυνεισιν. Cap. 14. 5. Unusquisque in suo 
+      sen<lb ed="#C" n="27" break="no"/>su abundet, pro, unusquisque in animo suo plene certus esto, ἐκασοσ ἐν τῶ ιδιῳ 
+      <lb ed="#C" n="28"/>vώι τκγρει. &amp; vers. 6. desunt, &amp; qui non curat diem, domino non 
+      cu<lb ed="#C" n="29" break="no"/>rat, μαιομι φρονον τυν ημεραν, Xυει α φρονι. Cap. 16. 23. Salutat vos Gaius 
+      <lb ed="#C" n="30"/>hospes meus, &amp; universa Ecclesia, pro, &amp; universa Ecclesiae, α τῆς εκελησίας 
+      <lb ed="#C" n="31"/>δλης. 1. Cor. 3. 5. Ministri eius, cui credidistis, pro, ministri, per quos 
+      credi<lb ed="#C" n="32" break="no"/>distis, διώκονοι, δι ἀνἐπεσευσατε. vers. 9. Dei adiutores, pro, administri, vel 
+      coc<lb ed="#C" n="33" break="no"/>perarij, suneργoι. Cap. 6. v. vit. post, in corpore vestro, desiderantur, &amp; inspiritus 
+      <lb ed="#C" n="34"/>vestro, quae sunt Dei, και ἐν τῶ τπνευμαηρμον, ἀτναεσί το Oες. Cap. 9. 22. Ot. 
+      <lb ed="#C" n="35"/>omnes salvos facerem, pro, vt omnino aliquos salvos facerem, ἵνα ταγτως τενας 
+      <lb ed="#C" n="36"/>σσνζ. 15. 23. Deinde i, qui sunt Christi, qui in adventum eius crediderunt, 
+      <lb ed="#C" n="37"/>pro, deinde qui sunt Christi, in adventu ipsius, ἐπειτα ἐι Xρισοκσ τό ἐν τη παρασια 
+      <lb ed="#C" n="38"/>φισ8. v. 34. Adreverentiam vobis loquor, pro, loquor, vi vobis pudorem iucuti¬ 
+      <!--157.xml-->
+      <pb ed="#L" n="148"/>
+               <lb ed="#C" n="1"/>am, ωρος ενθοτον υειν λόγῳ. vers. 51. Omnes quidem resurgemus, sed non omnes. 
+      <lb ed="#C" n="2"/>immutabimur, pro, non omnes quidem dormiemus, sed omnes immutabimur,  
+      <lb ed="#C" n="3"/>ταντες μιν α κοιμηθεσονλα, τανες ι αλλαlισονλα. vers. 54. desunt, cum 
+      corrupti<lb ed="#C" n="4" break="no"/>bile induerit incorruptibilitatem, ὅταν τό φθαρτὸν τοτο ἐνδυσηται αφγαρσιαν. vers.  
+      <lb ed="#C" n="5"/>5S. Ubi est mors stimulus tuus? pro, ubi tua est, o sepulchrim, vel infernum, 
+      vi<lb ed="#C" n="6" break="no"/>ctoria? τοῶ εοδ ἀδη τό νίκoςς 2. Cor. 1. 11. Vt ex multarum personis facierum 
+      <lb ed="#C" n="7"/>eius quae in nobis est donationis, per multos gratiae agantur pro nobis, verba in 
+      <lb ed="#C" n="8"/>Graeco sunt, ἵνα κκ τολ λόν ωροσυπον τό εἰς ημας χαεισμα δια τολλόνενχαρισηηηm 
+      <lb ed="#C" n="9"/>χρ ημον id est, vt donum ex multis personis in nos collatum per multos 
+      celebre<lb ed="#C" n="10" break="no"/>tur gratiarum actione pro nobis. C. 7. 8. Non me poenitet, &amp; si poeniteret, pro, non 
+      <lb ed="#C" n="11"/>me poenitet, etsi me poenitebat, α μετυμιλομαι, εικμετεμελημlν. C.9. 1. Ex 
+      abun<lb ed="#C" n="12" break="no"/>danti est mi scribere vobis, pro, super fluum est mi: ωριοσὸν μόι δει. Cap. 12. 11. 
+      <lb ed="#C" n="13"/>Factus sum insipiens, deest, in gloriando, χονχυμδος Galat. 3. 24. Lex 
+      paeda<lb ed="#C" n="14" break="no"/>gogus noster fuit in Christo, pro, in Christum, eis Xeισeν. C4. 18. Eonum 
+      aemu<lb ed="#C" n="15" break="no"/>lamini in bono semper, pro, bonum aemulari in bono semper, καλόν τό ζηλοδο εν 
+      <lb ed="#C" n="16"/>xaλῶ παντὸτε. In fine hujus capitis illa verba, Qua libertate Christus nos 
+      <lb ed="#C" n="17"/>liberavit, sunt cum initio capitis sequentis conjungenda, In libertate, qua 
+      <lb ed="#C" n="18"/>Christus nos liberavit, &amp;c. τπ ἐλδθεεια ς Xρισὸς ημας ιλδθερωσε, σηκετe. 
+      E<lb ed="#C" n="19" break="no"/>phe. 1. 22. Super omnem Ecclesia, pro, super omnia ipsi Ecclesiae, ὑγ ποντα τῳ  
+      <lb ed="#C" n="20"/>εκκλήσιαᾳ. Cap. 2. 10. Creati in Christo Iesu in operibus bonis, pro, ad opera 
+      bo<lb ed="#C" n="21" break="no"/>na, δτι ἐργόις αγαθόις. Cap. 5. 4. Quaead rem non pertinent, pro, quae non 
+      conve<lb ed="#C" n="22" break="no"/>niunt, τα μή αυῆκον τα. Coloss. 2. 14. Chirographum decreti, pro, in decretis, mis 
+      <lb ed="#C" n="23"/>δογμαστν. 2. Thess. 2. 13. Elegit vos Deus primitias in salutem, pro, ab 
+      initio<lb ed="#C" n="24" break="no"/>ad salutem, ἀπ ἀρχις. 1. Tim. 6. 5. Deest, secede ab eis qui eiusmodi sunt, 
+      agi<lb ed="#C" n="25" break="no"/>σuσο τοεκτον. 2. Tim. 2. 4. Ot ei placeat, cui se probavit, pro, vt ei 
+      pla<lb ed="#C" n="26" break="no"/>ceat, a quo delectus est miles, ἵνα τ σρατρλογήισονη αριση. Phile. 9. Cum sis 
+      ta<lb ed="#C" n="27" break="no"/>lis, vt Paulus senex, pro, cum sim talis, nempe Paulus senex. Heb. 1. 3. 
+      Pur<lb ed="#C" n="28" break="no"/>gationem peccatorum faciens, deest, per seipsum, δi ἐουτ8ῦ. Heb. 3. 3. 
+      Quan<lb ed="#C" n="29" break="no"/>to ampliorem honorem habet domus, pro, quanto ampliorem habet, quam 
+      do<lb ed="#C" n="30" break="no"/>mus, is qui construxit, &amp;c. Heb. 12. 8. Ergo adulteri, &amp; non filij estis, 
+      <lb ed="#C" n="31"/>pro, spurij &amp; adulterini, non filij estis, αcα vοθοι ἐσε, κι ἐχ oι. Ibidem. 
+      <lb ed="#C" n="32"/>vers. 18. Accessibilem ignem, pro, incensum ignem, ϰεκνρθεῳ τeι. Iacob. 
+      <lb ed="#C" n="33"/>1. 19. Scitis fratres mei dilectissimi, pro, itaque fratres mei dilectissimi, dce dδ
+      e<lb ed="#C" n="34" break="no"/>λοι μον αγτητοι. 1. Pet. 2. 5. Super aedificamini, domos spirituales, pro, domus 
+      <lb ed="#C" n="35"/>spiritualis, ώικος τδματηκός. Ibidem, v. 23. Tradebat autem iudicanti se 
+      in<lb ed="#C" n="36" break="no"/>iuste, pro, judicanti iuste, τῳ κρινονη δικαιoς. 1. Pet. 4. 14. desunt, quod ad illos 
+      <lb ed="#C" n="37"/>quidem attinet, blasphematur, quod ad vos autem, glorificatur, &amp;ς μδα ρυτός 
+      <lb ed="#C" n="38"/>λασρημσιτ, γ σε ας ζαζετι. 2. Pet. 1. 3. Quomodo omnia nobis 
+      divi<lb ed="#C" n="39" break="no"/>navixtutis sua, quae advitam &amp; petatem, donata sunt, pro, vipote cumdiuma 
+      <!--158.xml-->
+      <pb ed="#L" n="149"/>
+               <lb ed="#C" n="1"/>virtus eius omnia, quae ad vitam &amp; pietatem requiruntur, donavit, ώc τarm 
+      <lb ed="#C" n="2"/>ημιν τῆς θειασ δυναωι αυτο τα ωρος ζωον δευσεξραν δεσοημδοης. ver. 16 indoctas 
+      <lb ed="#C" n="3"/>fabulas sequuii, pro, doctas, σεσορισμηεωισ μυθεισ εζ ακοληθεσαντες, &amp; ibidem, 
+      <lb ed="#C" n="4"/>Christi virtutem &amp; praescientiam, pro, virtutem &amp; praesentiam, δυυιμον κ 
+      <lb ed="#C" n="5"/>τορσίον. 2. Pet. 2. 8. Aspectu enim &amp; auditu iustus erai, habitans apud eos, 
+      <lb ed="#C" n="6"/>qui de die in diem animam iustam iniquis operibus excruciabant, pro, Aspectu 
+      <lb ed="#C" n="7"/>enim &amp; auditu iustus ide habitans inter eos, de die indiem animam iustam 
+      in<lb ed="#C" n="8" break="no"/>iquis factis cruciabat: Eλιμιαη ιο αακοσ ο δικαος εικατοικῶν ἐν αυτεiς, ηuιραν,  
+      <lb ed="#C" n="9"/>aήμιρας δυχεσ δικαιαν ανόμοις ἐργοις εζασανιζεν. 1. Ioan. 5. 17. Et est 
+      pecca<lb ed="#C" n="10" break="no"/>tum ad mortem, pro, &amp; est peccatum non ad mortem: κι ἐστιν αυθτια κ ωρος Sυ¬ 
+      <lb ed="#C" n="11"/>νaτον. 3. Ioan. 4. Matorem horum non habeo gratiam, pro, maius istis 
+      gan<lb ed="#C" n="12" break="no"/>dium non habeo: μεζετερον τοτν ικεχῳ χαcον. Id. 5. Scientes semel omnia, 
+      <lb ed="#C" n="13"/>pro, vt qui semel hoc sciatis: ειδοταςἀπας τοτ. Apocalyps. 2. 14. Edere &amp; 
+      <lb ed="#C" n="14"/>fornicari, pro, edere quae idolis immolantur, &amp; scortari, μαρεῦν ειδαλοθθτα, α 
+      <lb ed="#C" n="15"/>πορνευσα. 
+      </p>
+            <p xml:id="wWpoi1-e12980-d1e1053">
+               <lb ed="#C" n="16"/>Selegi e multis pauca: si omnia vellem confectari, volumen facerem. 
+      <lb ed="#C" n="17"/>Sed haec satis arguunt infinitam atque inveteratam Latinae veteris 
+      in<lb ed="#C" n="18" break="no"/>novo Testamento editionis vitiositatem. Itaque Erasmus quando 
+      no<lb ed="#C" n="19" break="no"/>vum Testamentum recognosci voluit, illud potius de integro 
+      transfe<lb ed="#C" n="20" break="no"/>rendum esse censuit ad Graecam veritatem, quam in emendenda 
+      <lb ed="#C" n="21"/>hac vetere Latina editione elaborandum. Similiter Isidorus Clarius 
+      Bri<lb ed="#C" n="22" break="no"/>xianus miserum deplorat &amp; squallidum illius editionis in vtroque 
+      Te<lb ed="#C" n="23" break="no"/>stamento habitum, hominumque doctorum negligentiam mitatur, 
+      qui<lb ed="#C" n="24" break="no"/>nondum ei errores, quibus eam innumeris scatere dicit, adimendos 
+      <lb ed="#C" n="25"/>curaverint, seque ait loc a octo millia annotasse, atque emendasse. Talis 
+      <lb ed="#C" n="26"/>illa editio est, vel ipsorum confessione, quam nunc scilicet, si Patribus 
+      <lb ed="#C" n="27"/>Tridentinis placet, nos pro Scriptura Authentica suscipere jubemur. Sed  
+      <lb ed="#C" n="28"/>illi sibi sumant hanc suam veterem editionem, nos ad sacros Scripturae 
+      <lb ed="#C" n="29"/>fontes redeamus, quemadmodum &amp; ratio cogit, &amp; Augustinus, 
+      Hiero<lb ed="#C" n="30" break="no"/>nymus, alijque illustres Theologi persuadent, &amp; ipsa etiam Pontificum 
+      <lb ed="#C" n="31"/>Romanorum vetera decreta monent. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

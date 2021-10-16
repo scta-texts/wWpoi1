@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="356"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e32862"><!-- con1q5c11 -->
+            <head xml:id="wWpoi1-e32862-Hd1e106">Caput 11</head>
+            <p xml:id="wWpoi1-e32862-d1e109">
+               <lb ed="#C" n="8"/>CAPTTTIIII 
+      <lb ed="#C" n="9"/>Eζαufagια 
+      <lb ed="#C" n="10"/>RJUnc de singulis sigillatim respondeamus. Sunt praecipue 
+      quatu<lb ed="#C" n="11" break="no"/>tor, contra quae disputat. Primum, Consideratio antecedentium 
+      <lb ed="#C" n="12"/>&amp; consequentium. Secundum, Observatio phrasis &amp; styli. Tertium, 
+      Colla<lb ed="#C" n="13" break="no"/>tio locorum. Quartum, Inspectio fontium. Contra primum objicit, illam 
+      <lb ed="#C" n="14"/>considerationem esse incertam, quia contextus Scripturae est varius &amp; 
+      mis<lb ed="#C" n="15" break="no"/>cellaneus, ordo dicendi in Scripturis est saepe interruptus: &amp; Paulus 
+      sae<lb ed="#C" n="16" break="no"/>pe sensim ac furtim, ex vna materia in aliam transit: in eadem sententia 
+      <lb ed="#C" n="17"/>aliqua dicuntur proprie, aliqua improprie, immo eadem dictio in eadem 
+      <lb ed="#C" n="18"/>sententia diverse ac cipitur: ergo est incerta haec consideratio, &amp; multis 
+      mo<lb ed="#C" n="19" break="no"/>dis (ut eius verbis vtar) seorsim sumpta lectorem fallit. Respondeo, ipsum 
+      si<lb ed="#C" n="20" break="no"/>bi respondisse Stapletonum. Non enim dicimus, haec mediasingula, 
+      si<lb ed="#C" n="21" break="no"/>per se sumuntur &amp; adhibentur seorsim, semper sufficere ad Scripturae 
+      <lb ed="#C" n="22"/>verum sensum investigandum; sed ea coniunctim vuiversa, si legitime 
+      <lb ed="#C" n="23"/>tractantur, satis valere. Et vero praeclare nobiscum actum existimare 
+      de<lb ed="#C" n="24" break="no"/>bemus, si postquam omnibus mediis diu multumque vsi sumus, 
+      tan<lb ed="#C" n="25" break="no"/>dem aliquando verum difficilis Scripturae sensum: invenire potuimus. 
+      <lb ed="#C" n="26"/>Quod ergo exempla affert Stapletonus, quibus doceat, non posse nos 
+      per<lb ed="#C" n="27" break="no"/>hanc solam considerationem invenite quod quaerimus, ludit operam &amp; 
+      <lb ed="#C" n="28"/>lectorem suum. Sed si cum hoc reliqua conjunget, tum facile 
+      intelli<lb ed="#C" n="29" break="no"/>get, quanta vis sit in his medijs ad aperiendam illustrandamque 
+      Scri<lb ed="#C" n="30" break="no"/>pturam. Exempli gratia, Genes. 3. legimus Adamum &amp; Evamvidisse 
+      <lb ed="#C" n="31"/>fructum ligni, pulchrum visu, &amp;c. &amp; tamen statim postquam comedissent, 
+      <lb ed="#C" n="32"/>oculos eorum apertos fuisse. Oculi hic primum proprie, deinde improprie 
+      <lb ed="#C" n="33"/>sumuntur. Quis hoc nescit, aut quorsum huius exempli 
+      appositiospe<lb ed="#C" n="34" break="no"/>ctavit? Nimirum hinc Stapletonus colligit, Ante cedentium &amp; 
+      conse<lb ed="#C" n="35" break="no"/>quentium considerationem non esse firmam &amp; infallibilem 
+      regulamin<lb ed="#C" n="36" break="no"/>telligendae Scripturae. Quasi vero nos id dicamus, aut hac vna regula ni¬ 
+      <!--366.xml-->
+      <pb ed="#L" n="357"/>
+               <lb ed="#C" n="1"/>tamur. Quando enim ad difficiles Scripturas interpretandas accedimus, 
+      <lb ed="#C" n="2"/>non haec media a scinvicem seiungimus ac divellimus, quasi singula 
+      lo<lb ed="#C" n="3" break="no"/>cis singulis separatim ac per sesufficerent; sed ubique ea dicimus 
+      adhi<lb ed="#C" n="4" break="no"/>hibenda esse, quae apta sunt &amp; necessaria: &amp; sivnum non satis in se 
+      adiu<lb ed="#C" n="5" break="no"/>menti habeat, reliqua assumere debemus, vt qui non potest ostium 
+      ape<lb ed="#C" n="6" break="no"/>rire vna clave, alteram adhibet, multasque experitur, nec tentandi finem 
+      <lb ed="#C" n="7"/>facit, quousqueveram claveminuenerit. Sic quando non sufficit 
+      an<lb ed="#C" n="8" break="no"/>tecedentia ac consequentia considerate, opus est hunc locum, cum ar 
+      <lb ed="#C" n="9"/>lijs comparate, aut stylum phrasinque excutere, aut fontes inspicere. Sed. 
+      <lb ed="#C" n="10"/>vt de hoc ipso exemplo Stapletoni respondeamus, quis, non videt 
+      an<lb ed="#C" n="11" break="no"/>tecedentium &amp; consequentium confiderationem inprimis, vtilem 
+      at<lb ed="#C" n="12" break="no"/>que acrem esse ad veram loci sententiam assequendam? Namsiquis 
+      ar<lb ed="#C" n="13" break="no"/>gueret Adamum ante coecumfuisse, aut vam, quiapost gustatum 
+      frus<lb ed="#C" n="14" break="no"/>ctum oculi illorum aperti esse dicuntur, excijs quaemoxi praecedunt, 
+      fa<lb ed="#C" n="15" break="no"/>cile refelleretur. Nam mulier vidit fructum, fuitque ille fructus aspectu 
+      <lb ed="#C" n="16"/>gratus atque delectabilis: quod necessario sic intelligendum est, vt 
+      E<lb ed="#C" n="17" break="no"/>vam fuisse veris oculis visuque praeditam fateamur. Hoc enim aspectu sice 
+      <lb ed="#C" n="18"/>incensa fuit, vt tenere se non posset, quin mox suo desiderio satisfaceret: 
+      <lb ed="#C" n="19"/>ergo quod post sequitur, de oculis apertis, non potest nisiimproprie 
+      ac<lb ed="#C" n="20" break="no"/>cipi. Ita locus ipse indicat hoc secundum de alio quodamgenere 
+      viden<lb ed="#C" n="21" break="no"/>di intelligendum esse. Aliud exemplum Stapletonus affert ex Psalmo 22. 
+      <lb ed="#C" n="22"/>Deus, Deus meus, respice in me, quare me dereliquisti? Longe a salute mea 
+      ver<lb ed="#C" n="23" break="no"/>ba delictorum meorum. Haec dicuntur (inquit) in persona corporis totiusque  
+      <lb ed="#C" n="24"/>Ecclesiae: in quo illum aperte duobus nostris mediis refellemus: primum 
+      <lb ed="#C" n="25"/>est, collatio locorum; alterum, inspectio fontium. Namprimo, 
+      Matthaei<lb ed="#C" n="26" break="no"/>27. 46. Christus ipse, qui caput est Ecclesiae, testatus est hanc suam esse 
+      <lb ed="#C" n="27"/>vocem ac querelam, cum sic inetute pendens exclamaret, Deus mi, 
+      De<lb ed="#C" n="28" break="no"/>us mi, quare me dereliquisti? Deinde, si fontem inspicimus Hebraicae 
+      veri<lb ed="#C" n="29" break="no"/>tatis, partem alteram huius versus hoc modo vertendam fuisse 
+      intellige<lb ed="#C" n="30" break="no"/>mus, Longe: a salute mea es, a verbis rugitus mei. Sed est in Adversarij 
+      ar<lb ed="#C" n="31" break="no"/>gumento fallacia divisionis &amp; compositionis: Singuda haec media 
+      perse<lb ed="#C" n="32" break="no"/>non sufficiunt ergo necivnirorsa: qniiueaiaeaeiueis 
+      <lb ed="#C" n="33"/> iSimile est, quod contra phrasis seu styli observationem disputat:quam  
+      <lb ed="#C" n="34"/>etsi praeclarum: ac perutile medum esse, &amp; faepiuscule non smefructu 
+      adhibe<lb ed="#C" n="35" break="no"/>ri posse concedit; tamen esse dubium nihilomnus, ambiguum, &amp; 
+      fallaxcon<lb ed="#C" n="36" break="no"/>tendit, per se &amp; solitarte sumptum. Ac cipimus; quod medium hoc laudata eo 
+      <lb ed="#C" n="37"/>igitur cum bona Stapletoni venia vtamur: quod vero per se &amp; solitatie 
+      sum<lb ed="#C" n="38" break="no"/>ptumnonsatis efficaxesse affimnat; ad authenticam Scripturanuim intelligen 
+      <!--367.xml-->
+      <pb ed="#L" n="358"/>
+               <lb ed="#C" n="1"/>tiam consequendam, idipsum &amp; nos quoque judicamus. Nequeenim 
+      sole<lb ed="#C" n="2" break="no"/>mus vim tantam singulis hisce medijs separ atim adhibitis tribuere, sed 
+      singu<lb ed="#C" n="3" break="no"/>la momentum suum habere, ac milium conferre; vmversasufficere censemus. 
+      <lb ed="#C" n="4"/>Stapletonus, cum non posset haec media infringete conjuncta ac copulata, 
+      <lb ed="#C" n="5"/>dat operam vt ea disiungat, disiuncta oppugnet, quod est, manifestum 
+      <lb ed="#C" n="6"/>diffidentiae testimonium: vrqui copias confertas atque sociatas metuunt,  
+      <lb ed="#C" n="7"/>nec stare contra audent; distractas: tamem invadunt: Sedaudiamus 
+      cu<lb ed="#C" n="8" break="no"/>insmodi argumenta Stapletonus contra hoc medium expromata Eatrias 
+      <lb ed="#C" n="9"/>sunt: Drimum: Scriptura habet non vnum, sed diversos authones; qui 
+      fin<lb ed="#C" n="10" break="no"/>guli suum habent loquendi modum. Aliter Esaias loquitur, aliter 
+      A<lb ed="#C" n="11" break="no"/>mos, aliter Paulus aliter Petrus scribunt: Respondeoc. varias esse sine 
+      du<lb ed="#C" n="12" break="no"/>bio Scripturae phrases, sed illa tamen varietas non tant aest, 
+      quimobserva<lb ed="#C" n="13" break="no"/>ri facile possit: Etst Esaias, inaula regiareducatus, multo 
+      purioremocle<lb ed="#C" n="14" break="no"/>gautiorem dictionem habet; quam Amos, qui interpasfores vinerat 
+      yta<lb ed="#C" n="15" break="no"/>imen hic Pastorsic loquitur, ve intelligi possitab ijs, qui aliquidtomnino 
+      <lb ed="#C" n="16"/>intelligerevolunt. Didicerat enim loqui a Spiritu sanctooptimo dicendi 
+      <lb ed="#C" n="17"/>magistro. Et quanquam Paulus, a Gamaliele doctissimo 
+      Pharnisaeoinsti<lb ed="#C" n="18" break="no"/>tutus, alio modo loquitur, quam Petrus aut lacobus; qui fere impiscando 
+      <lb ed="#C" n="19"/>aetatem consumpserant, tame non admodum magna dissimilitudo est; 
+      <lb ed="#C" n="20"/>cum Petrus &amp; lacobus non interpiscatores Graete loqui didieissent, sed  
+      <lb ed="#C" n="21"/>a Spiritu fancto edocti fuissent, multo meliore atqueaeloquentiore 
+      prae<lb ed="#C" n="22" break="no"/>eeptore, iquam Gamalier fuit. Seddemus esse dissimilem: Senpturae 
+      sty<lb ed="#C" n="23" break="no"/>lunmimplurimis libris: quid tamen haec res impedit, quominus aut haec 
+      <lb ed="#C" n="24"/>dissimilitudo animadverti possit, aut animadiersa: nommultiamin: 
+      Scri<lb ed="#C" n="25" break="no"/>ptura interpretandav aleat) Sane Patresunulro suminterio dissimiliores, 
+      <lb ed="#C" n="26"/>equam Prophe tae aut Aposteili: Augiistinus copinsus est,; Hieronymus 
+      fur<lb ed="#C" n="27" break="no"/>Tesrictus; Lactantius Ciceronemimitaturm; Teruillianus obsentitatem 
+      a<lb ed="#C" n="28" break="no"/>mat: Chrysostoimis ornatus &amp; apertus est, Nanjammonus pressuo &amp; 
+      acu<lb ed="#C" n="29" break="no"/>tus: denique nonvna est omnium idiae: &amp; tamemomnes sioloquumtur,  
+      <lb ed="#C" n="30"/>vt faese intelligipossint, fiattentelegantur. Sccundum: Interpretumaut  
+      <lb ed="#C" n="31"/>coriginaluim: varietas inc ertitudinem ipatit. eftespondeoi: hucerpretes sand. 
+      <lb ed="#C" n="32"/>falli saepe videmus: quare non semper tutuui estiillis acquiescere fona 
+      <lb ed="#C" n="33"/>Iees nonhabentiliamvanetatem; deqia Btapseronus loqnitist: asentium: 
+      <lb ed="#C" n="34"/>IRegul ae dephrasibus Scrinturae nun hinc generaloσin espondeolaEtsinone 
+      <lb ed="#C" n="35"/>lisint: genetalos &amp; χπιπατίςς, possunt: tameni adju vare fhidiosos BSenmptura: 
+      <lb ed="#C" n="36"/>Prum: &amp; qualescunque sint, noniad illas Scripturae, osed ad Scripumasulae 
+      <lb ed="#C" n="37"/>Faccommodandae sunt: Hic nullis: Stapletonus exumpls esus est: &amp; imir 
+      <lb ed="#C" n="38"/>rranliafferet phrusqu, quaemonexipsixpossit: Scripturis explica: Quidoopi¬ 
+      <!--368.xml-->
+      <pb ed="#L" n="359"/>
+               <lb ed="#C" n="1"/>pectandum, ne est, vt ἐδραισοαλαί vim nos Papa doceat, qui fere nihil 
+      au<lb ed="#C" n="2" break="no"/>Hebraice, aut Graece intelligiti Praeclarus 
+      styliuudexse<lb ed="#C" n="3" break="no"/>ai Contra collationemdocorum dispurat cap. 120. Nos dicishiis diligentem 
+      <lb ed="#C" n="4"/>&amp; dextram collationemdocorum esse bonum medium: ille autem affirmat. 
+      <lb ed="#C" n="5"/>hanc, per se&amp; solitarie sumpiam, non modo fallacem, sed &amp; perniciosam esse. 
+      <lb ed="#C" n="6"/>Quid tum vero postea? Nos enim non putamus aut hoc, aut omnino vllum 
+      <lb ed="#C" n="7"/>medium, solitanne tractandum atque adhibendum esse: &amp; mitor hunc non 
+      vi<lb ed="#C" n="8" break="no"/>disse, se insignem Sophistam agere, Omenim nos dicamus, his omnibus. 
+      <lb ed="#C" n="9"/>mediis, cum opus erit, utendum esse, vt involuta, Scripturae sensa explicemus, 
+      <lb ed="#C" n="10"/>non ni perse confidendum; istesic dispinat, quasi nos mum quodque 
+      medi<lb ed="#C" n="11" break="no"/>lum, per se sumptum &amp; solitane, satis firmum ac sufficiens esse staniamus. 
+      De<lb ed="#C" n="12" break="no"/>inde, nos dextram, &amp; scitam, &amp; diligentem collationem requirimus. Quare 
+      <lb ed="#C" n="13"/>quod de prauis multonum affectibus, de verbonim ambigiitate, de haeretici. 
+      <lb ed="#C" n="14"/>rum mone multis commemorat, aliena sunt. Namhaerenci,, &amp; qui  
+      <lb ed="#C" n="15"/>studia suosque affectus sequuntur,  aut negligenter, aut perverse 
+      <lb ed="#C" n="16"/>scrutantur. Sed rationes Adversarijsigillatuim, &amp; breviter diluamus,, quaes 
+      <lb ed="#C" n="17"/>quatuor. Prima: In Collatione affectus &amp; praeiudicata sententia nonninquam  
+      <lb ed="#C" n="18"/>dominatur. Respondeo: Si qui tam peruersi sunt, vt sicripturis nte &amp; 
+      accura<lb ed="#C" n="19" break="no"/>te collatis assentiri nolint, hinullam authorit atem curabunt, nisi aut metu, 
+      au<lb ed="#C" n="20" break="no"/>pudore, aut funulatione aliqua.. Num enim qui Chrissum esse Deum non 
+      <lb ed="#C" n="21"/>credet, commotus testimoniis Scriptraum pene imnins, inter se apposue &amp; 
+      <lb ed="#C" n="22"/>cum iudicio summo collatis, hic Ecclesiae authoritate aut. Rogiani Pon 
+      <lb ed="#C" n="23"/>tificis opinione persuaderi poterit? Quem Scripturae bene conatae non 
+      <lb ed="#C" n="24"/>possint in sententiam Catholicam inducere, hic, certe nunquament 
+      bo<lb ed="#C" n="25" break="no"/>nus Catholicus: &amp; tales sunt Pseudocatholici Papistici, qui non ex 
+      Scri<lb ed="#C" n="26" break="no"/>pturis, sed ex hominum commentis suos Catholicos erores hauscrunt. 
+      <lb ed="#C" n="27"/>Secunda: Nec dictio, nec phrasis eadem ybique idemsonat ac significat.  
+      <lb ed="#C" n="28"/>RespondeoaEtsiverba ac phrases invnoloco amhiguitatem aliquam 
+      ha<lb ed="#C" n="29" break="no"/>bere possunt, propterea, quod varie vsurpantur; tamen quic quid 
+      eritdif<lb ed="#C" n="30" break="no"/>ficultatis, aut ex rebus ipsis, aut ex comparatione aliorum locorum, aut 
+      <lb ed="#C" n="31"/>ex analogia fidei expediri potest. Caro &amp; Mundus vane accipitur, &amp; 
+      mul<lb ed="#C" n="32" break="no"/>ta alia:quis negat:Sed unde huius varietatis observatio manavit? 
+      Non<lb ed="#C" n="33" break="no"/>ne, ex ipsis Scripturis, &amp; logorum collatione8, Tartia: Quaedamloc a 
+      se<lb ed="#C" n="34" break="no"/>meltantum in Scripturis dicuntur, Reshonieo. Ea sunt aut aperta, aut ad 
+      <lb ed="#C" n="35"/>salutemminius ne cessaria. Nam illa apud Apostolum trita, consepelai 
+      Chri<lb ed="#C" n="36" break="no"/>sto, crucifigi cum Christo, convivere, conregnare, baptizari in eius mortem, 
+      <lb ed="#C" n="37"/>&amp; huiusmodi, &amp; aperta per se satis sunt, &amp; possunt etiam aliatum 
+      senten<lb ed="#C" n="38" break="no"/>tiarumcollatipne illustrarie. Quarte Quia, omnes haeut uti, conserefido 
+      <!--369.xml-->
+      <pb ed="#L" n="360"/>
+               <lb ed="#C" n="1"/>Scripturas diligentisfime; sertaverune tamein: Se ripturarum sensu tum 
+      <lb ed="#C" n="2"/>pissime. Respondeo: Non contulerunt Scripturas diligentissime, sedples 
+      <lb ed="#C" n="3"/>rique perfunctorie &amp; negligenter: Deinde, quod ait eos, conferendo 
+      Seri<lb ed="#C" n="4" break="no"/>pturas diligentissime, errabisse rurpissimo, inm Scripturas contimeliosissume 
+      <lb ed="#C" n="5"/>dicitur. Nam etsr conferentes erravisse dicipossunt, tamen non 
+      confe<lb ed="#C" n="6" break="no"/>rendo erra verunt. Nam ficet qui conferunt: erra returpissime possunt,  
+      <lb ed="#C" n="7"/>tamen diligens collatio non est: causa errandi. Exemplumihuiusmodi 
+      <lb ed="#C" n="8"/>collationis Stapsetonus proponit. Ariantillud Chusti 5doane10. Pater. 
+      <lb ed="#C" n="9"/>&amp; ego vnum sumus, contislerunt cum alijj Christi verbis tloan. 17. iiogo 
+      <lb ed="#C" n="10"/>Pater, vtomnes unum sint, sicut tuPater inme; &amp; egointe: tame obtinuit. 
+      <lb ed="#C" n="11"/>(inquit) interpretatio, quam regula fidet docuit. Respondeo, &amp; quaero, 
+      <lb ed="#C" n="12"/>vnde hanc interpretationem Ecclesia comprobaverit? Stapletonus ait, 
+      <lb ed="#C" n="13"/>ex regula fidei. Sed num ex Scriptura? Nequaquam, siStapletono 
+      credi<lb ed="#C" n="14" break="no"/>mus: tumem collatione testimoniisque Scripturarum confutatos fuisse 
+      <lb ed="#C" n="15"/>Arianos sequetur. At vero certum est; Ananosessetab Ecclesia sanctisque 
+      <lb ed="#C" n="16"/>Patribus ex Scripturis, &amp; praecipue collatione Scripturarum, refutatos, 
+      <lb ed="#C" n="17"/>quemadmodum est manifestum apud Hilaum, Libi 8. de Trinit. Et si 
+      <lb ed="#C" n="18"/>locus ipse Ioan. 10. diligenter expenditur; Christum esse patriμuίνoν 
+      sa<lb ed="#C" n="19" break="no"/>tis confirmabit. Christus enim promittit fore, veoves suase manusua 
+      ne<lb ed="#C" n="20" break="no"/>mo rapiat, quia nemoe aSrapere unquam poteritre manuPatris su 
+      at<lb ed="#C" n="21" break="no"/>queyt hoc nobis penitus perfuadeat; subjungit, &amp;υο &amp; πανεηρισεην θε¬ 
+      <lb ed="#C" n="22"/>mus, quod de natirae potentiaeque vnitate nec esserio intelligendomest. 
+      <lb ed="#C" n="23"/>Et cum Christus ait se ovibussuis vitam aeternam daturum; de Deum 
+      be<lb ed="#C" n="24" break="no"/>
+      Oe<lb ed="#C" n="25" break="no"/>rum esse, non obfcute testatur: Praeterea, Iudaeistacim senserunt;ve 
+      Chry<lb ed="#C" n="26" break="no"/>sostomus obseto avit, Christum se Patrigabuσro dixisse, ileoque futrore 
+      in<lb ed="#C" n="27" break="no"/>saniaque incitatos immChristum inruisse; eumcie sapidibus obrue revolus 
+      <lb ed="#C" n="28"/>isse Mox esmuu Evangelista sefjutur, Sustusεrυνi ειχογήν ςuν ἐpιdeν sα¬ 
+      </p>
+            <p xml:id="wWpoi1-e32862-d1e499">
+               <lb ed="#C" n="29"/>
+      Ii<lb ed="#C" n="30" break="no"/>de, vi lapidarenteum Atque hoc sequitur apertius: Fogatonima 
+      Chi<lb ed="#C" n="31" break="no"/>sto Iudaei, quamobremilum lapidarevellent; tespondermnερρνορεσηυια, 
+      <lb ed="#C" n="32"/>sphemiam, quod cum homo esset, se Deum faceret: Inquem locumsit.  
+      <lb ed="#C" n="33"/>Augistinus, tract: 48. in loan. Huc osque fudei tolerare potuerunt ευνσε¬ 
+      <lb ed="#C" n="34"/>
+      se<lb ed="#C" n="35" break="no"/>tunt, Ego &amp; Paper bnam sumus; &amp; nonpertulerunt; &amp; moce suodurtadapi. 
+      </p>
+            <p xml:id="wWpoi1-e32862-d1e517">
+               <lb ed="#C" n="36"/>VIE 
+      <lb ed="#C" n="37"/>det cucurterunt: Et paslo postio Ecce fudeimtellexerunt; quod 
+      nomameli<lb ed="#C" n="38" break="no"/>Igunt eAriani. Ideo enim iratrfunt, quonsam sfenserunt nοηφεssοdίει, αgωο 
+      <lb ed="#C" n="39"/>Pater vnum sumus, nistubi efridqualitas Batris &amp; Fistiata 
+      exlocorumcol<lb ed="#C" n="40" break="no"/>latione, &amp; praecedentium ac subsequentium consideratione, &amp; 
+      necessa<lb ed="#C" n="41" break="no"/>ria argumentatione, Patres concluserunt, Christum hic loqui de unitate 
+      <lb ed="#C" n="42"/>naturae, atque ita Ahanos justissuma fententia damnarunt: Recte Augusti¬ 
+      <!--370.xml-->
+      <pb ed="#L" n="361"/>
+               <lb ed="#C" n="1"/>inus ex his verbis &amp; Arianos, &amp; Sabellianos convinci docet, quando sict 
+      <lb ed="#C" n="2"/>ait, in Catena Thomae: Otrumque audi, &amp; unum, &amp; sumus; &amp; a Charibdi: 
+      <lb ed="#C" n="3"/>&amp; aScylla liberaberis. Quod dixit, unum, liberat te ab Ario: quod dixit 
+      fue<lb ed="#C" n="4" break="no"/>mus, liberat te a Sabellio. Si unum, non ergo diversum: si sumus, ergo Pater &amp; 
+      <lb ed="#C" n="5"/>Filius. Sic semper Catholici pijque patres in omni causa atque 
+      argumen<lb ed="#C" n="6" break="no"/>to haereticos verbis &amp; collatione Scripturarum jugularunt.  
+      <lb ed="#C" n="7"/>a Capite undecimo, Stapletonus vnum exemplum profert, quo doceat  
+      <lb ed="#C" n="8"/>quam perniciosa sit collatio Scripturarum. Nam, inquit, Chemnicius 
+      <lb ed="#C" n="9"/>han collatione fretus, insignem Apostoli locum, de voto coelibatus non 
+      <lb ed="#C" n="10"/>viol ando, pervertit, 1. Tim. 5. Habentes damnationem, quia primam fidem 
+      <lb ed="#C" n="11"/>irritam fecerunt. Hanc enim primam fidem Ecclesia(ait) de caelibatus &amp; 
+      vi<lb ed="#C" n="12" break="no"/>duitatis votointelligit. Atque hic multos Patres &amp; Concilia commemorat.  
+      <lb ed="#C" n="13"/>De hoc loco alibi disserendum erit, ubi Chemnicium nihil a Scripturis 
+      <lb ed="#C" n="14"/>aut pietate alienum attulisse ostendemus. Vnius equidem Scripturae 
+      pru<lb ed="#C" n="15" break="no"/>dens ac dextra collatio plus virium habet, quam Patrumimultorum 
+      nu<lb ed="#C" n="16" break="no"/>dae opiniones. Per primam fidem intelligi votum caelibatus aut viduitatis, 
+      <lb ed="#C" n="17"/>non modo cum collatione Scripturarum, sed &amp; cum fidei analogia 
+      pug<lb ed="#C" n="18" break="no"/>nat Quare si Patres omnes dicerent votum illud hoc loco sanciri, 
+      excu<lb ed="#C" n="19" break="no"/>sari melius, quam defendi possent. Sed Patres aliqui multo melius de 
+      <lb ed="#C" n="20"/>hoc loco iudicarunt, &amp; primam fidem non esse votum aliquod abstinendi. 
+      <lb ed="#C" n="21"/>a nuptijs, sed esse synceram religionem ac pietatemsenserunt. 
+      Hierony<lb ed="#C" n="22" break="no"/>mus, in Praefat. Coniment. in Tit. Athanasius, Libo 6. de Ttrin. Vincentius 
+      <lb ed="#C" n="23"/>I.Lirinensis, in Commonitorio suo, Cap. 12. Dicunt enim haereticos 
+      pri<lb ed="#C" n="24" break="no"/>mam fidem irritam facere, non quando matrimonium contrahunt post: 
+      <lb ed="#C" n="25"/>votum caelibatus, sed quando post susceptam verae fidei professionem ad 
+      <lb ed="#C" n="26"/>perfidiam aut haeresin deficiunt. Nam fides nulla priorest ea, quam in 
+      <lb ed="#C" n="27"/>baptismo praestamus, summae Trinitatr: Hanc primam fidem haereticit. 
+      <lb ed="#C" n="28"/>violant, atque iftitam faciunt, quando syncerae sanaeque professionis 
+      ob<lb ed="#C" n="29" break="no"/>liti, falsas atque impias de religione opiniones suscipiunt. Atque hoc 
+      mo<lb ed="#C" n="30" break="no"/>do viduae lascivae primam fidem abjiciunt. Nam postquam se Ecclesiae 
+      <lb ed="#C" n="31"/>ministero addixerunt, libidinum ille cebris irretitae, &amp; ministerium 
+      dese<lb ed="#C" n="32" break="no"/>funt, quod a nullis nisi castis matronis administrari potest; &amp; quia se 
+      pro<lb ed="#C" n="33" break="no"/>pterimpudicitiam infames esse inter Christianos sentiunt, ad fidei 
+      Chri<lb ed="#C" n="34" break="no"/>stianaehosses transcunt. Sic enim se Apostolus interpretatur post, vers. 15. 
+      <lb ed="#C" n="35"/>ibi, de puimsmodividuis loquens, ait, Iam enim nonnullae εζεπάησαν,  
+      <lb ed="#C" n="36"/>τιστυπο Xατανα. Quid ergo sit ωροτν τιστον ἀθετεῖν, nos statim Apostolus 
+      <lb ed="#C" n="37"/>docet, nihil sane aliud, quam ἐκ τξατίναt ἐπίσν το κατανο, id est, e via 
+      recta<lb ed="#C" n="38" break="no"/>deflectee, &amp; Satanam ducem se qui; quod ij faciunt, qui innfide data¬ 
+      <!--371.xml-->
+      <pb ed="#L" n="362"/>
+               <lb ed="#C" n="1"/>SACACAPTTI 
+      <lb ed="#C" n="2"/>inauditum est in Scripturis. Sed de hac causa suo loco fuse. 
+      </p>
+            <p xml:id="wWpoi1-e32862-d1e630">
+               <lb ed="#C" n="3"/>Capite vitimo contra fontium inspectionem disputat, eamque 
+      nune<lb ed="#C" n="4" break="no"/>non perinde necessariam esse concludit, ac olim fuerat; quia nunc est 
+      v<lb ed="#C" n="5" break="no"/>na certa &amp; authentica vtriusque Testamenti versio diserte ab Ecclesia in 
+      <lb ed="#C" n="6"/>Concilio generali approbata. Respondeo, fecisse Syna gogam 
+      Antichristi<lb ed="#C" n="7" break="no"/>in conciliabulo Tridentino, quod nunquam vera Christi Ecclesia in 
+      vllo<lb ed="#C" n="8" break="no"/>Concilio tentare vel cogitate ausa est, ut fontes Scripturae in vtroque 
+      Te<lb ed="#C" n="9" break="no"/>stamento ἀκυρις, &amp; non authenticos faceret, vulgatam Latinam 
+      versio<lb ed="#C" n="10" break="no"/>nem, quamihil fieri potest mendosius aut inquinatius, authenticam 
+      <lb ed="#C" n="11"/>Scripturam esse pronunciaret. Sed hac de re omni in prima parte 
+      secun<lb ed="#C" n="12" break="no"/>dae questionis copiose diximus, vbi Latinos libros esse ex fontibus 
+      emen<lb ed="#C" n="13" break="no"/>dandos, non tantum ratione necessaria, sed etiam Papistarum 
+      confessio<lb ed="#C" n="14" break="no"/>ne, evicimus. Nunc necesse non est hac de re plura respondere.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="232"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e21435"><!-- con1q3c8 -->
+            <head xml:id="wWpoi1-e21435-Hd1e106">Caput 8</head>
+            <p xml:id="wWpoi1-e21435-d1e109">
+               <lb ed="#C" n="23"/>CAPUIII 
+      <lb ed="#C" n="24"/>De Adversrumargumento sexto.
+    </p>
+            <p xml:id="wWpoi1-e21435-d1e116">
+               <lb ed="#C" n="25"/>SExtum eius argumentum habetur 9e. cap. 9. lib. &amp; ab Augustini 
+      <lb ed="#C" n="26"/>Oauthoritate sumitur. 57. cap. contra Epistolam Fundamenti, vbi  
+      <lb ed="#C" n="27"/>Airgustinus ait: <quote xml:id="wWpoi1-e21435-Qd1e124" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185@139-149">Ego non crederem Evangelio nisi me Ecclesiae Catholicae 
+      au<lb ed="#C" n="28" break="no"/>thoritas commoveret</quote>. Haec verba Augustini (inquit <name xml:id="wWpoi1-e21435-Nd1e129">Stapletonus</name>) torserunt 
+      <lb ed="#C" n="29"/>Protestantes. Certe scilicet: &amp; quidni? cum quosdam etiam Scholasticos 
+      <lb ed="#C" n="30"/>fefellerint, vt ibidem fatetur? Papistis quidem omnibus in ore atque 
+      in<lb ed="#C" n="31" break="no"/>deliciis sunt, vt vix tria tecum verba Papista quivis commutaverit, quim 
+      <lb ed="#C" n="32"/>hoc tibi Augustini testimonium statim obiecerit. Respondent huic 
+      ar<lb ed="#C" n="33" break="no"/>gumento, Calvinus 1. Lib. Instit. cap. 7. &amp; Musculus, &amp; P. Martyr,  
+      <lb ed="#C" n="34"/>Augustinum de se Manichaeo loquutum esse: se nempe, eum esset 
+      Mani<lb ed="#C" n="35" break="no"/>chaeus, Ecclesiae authoritate commotum fuisse, vt Evangelio crederet. 
+      <lb ed="#C" n="36"/>Musculus quidem haec verba sic interpretatur: Ego Evangelio non 
+      cre<lb ed="#C" n="37" break="no"/>derem, id est, non credidissem, nisi me Ecclesiae authoritas commoveret, id  
+      <!--242.xml-->
+      <pb ed="#L" n="233"/>
+               <lb ed="#C" n="1"/>est, commocisset: vel ego, scilicet Manichaeus existens, aut si Manichaeus 
+      <lb ed="#C" n="2"/>essem, non crederem Evangelio, &amp;c. Atque haec quidem 
+      interpretatio<lb ed="#C" n="3" break="no"/>verissima est. Loqui enim Augustinum de se Manichaeo, ex eodem capite 
+      <lb ed="#C" n="4"/>patet. Nam verbis proxime praecedentibus ait; Quid tu faceres dicenti, 
+      <lb ed="#C" n="5"/>Noncredo? tum subiungit, Ego vero non crederem Evangelio, &amp;c. 
+      Loqui<lb ed="#C" n="6" break="no"/>tur ergo de se non credente. Et eodem etiam capite verbis proxime 
+      sub<lb ed="#C" n="7" break="no"/>sequentibus ait: Quibus obtemperavi dicentibus mihi, credite Evangelio, 
+      <lb ed="#C" n="8"/>cur non iis obtemperem dicentibus mihi, Nolicredere Manichaeo. Ex 
+      <lb ed="#C" n="9"/>quibus palam est, eum de se non credente loqui, &amp; docere 
+      quemadmo<lb ed="#C" n="10" break="no"/>dum ex Manichaeo factus sit primo Catholicus, quod Ecclesiae nimirum 
+      <lb ed="#C" n="11"/>vocem audiret. At hoc negat <name xml:id="wWpoi1-e21435-Nd1e180">Stapletonus</name>, &amp; illum de se Catholico 
+      lo<lb ed="#C" n="12" break="no"/>quutum esse, multis argumentis conatur probare. Prima eius ratio est, 
+      <lb ed="#C" n="13"/>quia infidelis non tribuit aliquid authoritati Ecclesiae. Respondeo, 
+      Augu<lb ed="#C" n="14" break="no"/>stinum non fuisse omnino infidelem, Fuit quidem haereticus, sed veri 
+      cu<lb ed="#C" n="15" break="no"/>pidissimus, &amp; non pertinax haereticus. Fuit haereticus, non ex malitia, sed  
+      <lb ed="#C" n="16"/>ex opinionis errore: Nec dubitavit, cum esset haereticus, quin oporteret 
+      <lb ed="#C" n="17"/>eum cum vera Ecclesia consentire &amp; communicare, quamvis de vera 
+      <lb ed="#C" n="18"/>Ecclesia non recte iudicabat. Qui tales sunt, Ecclesiae verae authoritate 
+      <lb ed="#C" n="19"/>facile commoventur. Secunda <name xml:id="wWpoi1-e21435-Nd1e201">Stapletoni</name> ratio est, quia haereticus non 
+      <lb ed="#C" n="20"/>movetur Ecclesiae Catholicae authoritate, quam non agnoscit. 
+      Respon<lb ed="#C" n="21" break="no"/>deo, Augustinum de Ecclesia loqui, quemadmodum iam de illa 
+      Catho<lb ed="#C" n="22" break="no"/>licus sentiret, non quemadmodum antea sensit, cum esset Manichaeus. 
+      <lb ed="#C" n="23"/>Tertia eius ratio est, quia infideles non credunt praedicantibus ministris, 
+      <lb ed="#C" n="24"/>quod Augustinus se fecisse eodem capite affirmat. Respondeo, Infideles 
+      <lb ed="#C" n="25"/>revera, dum sunt infideles, non obtemperate ministris Ecclesiae 
+      praedi<lb ed="#C" n="26" break="no"/>cantibus. Possunt autem per praedicationem verbi ad fidem adduci, &amp; 
+      <lb ed="#C" n="27"/>tum obtemperabunt, Atque hoc quidem modo factum est, ut 
+      Augusti<lb ed="#C" n="28" break="no"/>nus e Manichaeo Catholicus fieret. Quarta eius ratio est, quia 
+      Augusti<lb ed="#C" n="29" break="no"/>nus hoc capite de Actis Apostolorum ait, Necesse est me huic libro credere. 
+      <lb ed="#C" n="30"/>Ergo (inquit Stapletonus) loquitur de se, qualis tum fuit, nimirum de se 
+      <lb ed="#C" n="31"/>Catholico. Respondeo, hanc nullam rationem esse. Nam sive de se 
+      Mani<lb ed="#C" n="32" break="no"/>chaeo, sive de se Catholico loquatur, necesse fuit, vt omni modo huic 
+      li<lb ed="#C" n="33" break="no"/>bro crederet, quia fuit verbum Dei. Est enim omnibus similiter necesse, 
+      <lb ed="#C" n="34"/>Evangelia atque Acta vel recipere, vel rejicere. Quinta eius ratio est, 
+      <lb ed="#C" n="35"/>quia scribit Augustinus, 4e. cap. huius libri, se etiam, cum esset 
+      Episco<lb ed="#C" n="36" break="no"/>pus, tenenin Ecclesia propter nomen Ecclesiae, &amp; consensum 
+      populo<lb ed="#C" n="37" break="no"/>rum ac gentium. Respondeo, Augustinum quidem hoc fateri. Sed tamen 
+      <lb ed="#C" n="38"/>praeter haec duo, aliud argumentum firmius eodem capite affert, nempe 
+      <!--243.xml-->
+      <pb ed="#L" n="234"/>
+               <lb ed="#C" n="1"/>constantissimam doctrinae veritatem: quam si pro se Manichaei 
+      afferre<lb ed="#C" n="2" break="no"/>possent, pollicetur se velle &amp; Ecclesiae nomen, &amp; consensum populorum 
+      <lb ed="#C" n="3"/>ac gentium deserere, atque ad illos redite. Ergo plus tribuit doctrinae 
+      ve<lb ed="#C" n="4" break="no"/>ritati, quam Ecclesiae iudicio atque authoritati. Postremo hoc tribuit 
+      <lb ed="#C" n="5"/>Ecclesiae Augustinus (inquit <name xml:id="wWpoi1-e21435-Nd1e260">Stapletonus</name>) in omnibus locis prius 
+      allega<lb ed="#C" n="6" break="no"/>tis, vt Canonem Scripturae consignet fidelibus: Ergo loquitur de se fideli 
+      <lb ed="#C" n="7"/>ac Catholico. Respondeo primo, hoc pugnare cum ipso Augustino, 
+      vtdi<lb ed="#C" n="8" break="no"/>cat se jam fidelem ac Catholicum non crediturum Evangelio, nisiobs 
+      <lb ed="#C" n="9"/>Ecclesiae tantum authoritatem. Ipse enim in 14, cap. huius libri ait, nos 
+      <lb ed="#C" n="10"/>cum credimus, &amp; fide iam valentiores facti sumus, id quod credimus 
+      in<lb ed="#C" n="11" break="no"/>telligere, non iam hominibus, sed ipso Deo intrinsecus mentem nostram 
+      <lb ed="#C" n="12"/>firmante atque illuminante. Fideles ergo non tantum propter Ecclesiae 
+      <lb ed="#C" n="13"/>authoritatem credunt. Secundo, Dico hoc etiam cum ipsa ratione pugi 
+      <lb ed="#C" n="14"/>nare. Omnes enim fideles Spiritu sancto praediti sunt: eius autem maior 
+      <lb ed="#C" n="15"/>est authoritas, quam Ecclesiae: igitur non est dubitandum, quin eius 
+      po<lb ed="#C" n="16" break="no"/>tius, quam Ecclesiae authoritate, in vera fide teneantur. Tertio Quid si 
+      fa<lb ed="#C" n="17" break="no"/>teamur fideles etiam Ecclesiae authoritate commoveri, vt Scripturas 
+      re<lb ed="#C" n="18" break="no"/>cipiant? non tamen inde sequitur, eos hoc modo penitus persuaderi, aut 
+      <lb ed="#C" n="19"/>nulla alia, fortioreque ratione induci. Quis autem Christianus est, quem 
+      <lb ed="#C" n="20"/>Ecclesia Christi, commendans Scripturam Christi, non commoveat; 
+      <lb ed="#C" n="21"/>Aliud autem est commoveri, aliud persuaderi. Foemina illa Samaritana, 
+      <lb ed="#C" n="22"/>cuius mentio fit, Iohan. 4. suo de Christo testimonio multos e civibus 
+      <lb ed="#C" n="23"/>suis commovebat &amp; excitabat, vt ad Christum confluerent, eumque 
+      do<lb ed="#C" n="24" break="no"/>centem placide libenterque audirent. At iidem postea, cum Christum 
+      <lb ed="#C" n="25"/>audivissent, dixerunt foeminae, Iam non credimus δια τυσ σοθλδεμιαν, sed quia 
+      <lb ed="#C" n="26"/>ipsi audivimus, &amp; novimus, hunc esse vere servatorem illum mundi 
+      Chri<lb ed="#C" n="27" break="no"/>stum. Sic Ecclesiae authoritas potest nos primo commovere, vt 
+      Scrip<lb ed="#C" n="28" break="no"/>turas agnoscamus: postea vero cum Scripturas ipsi legimus ac 
+      intelligi<lb ed="#C" n="29" break="no"/>mus, tum veram fidem concipimus, &amp; credimus quidem, non quia 
+      Ec<lb ed="#C" n="30" break="no"/>clesia credendum esse iudicat, sed cum ob alia multa certiora 
+      argumen<lb ed="#C" n="31" break="no"/>ta, tum propter hoc potissimum, quod Spiritus sanctus nobis intus has 
+      <lb ed="#C" n="32"/>esse Dei voces persuadeat. Sed quia hoc testimonium Augustini a 
+      Sta<lb ed="#C" n="33" break="no"/>pletono tam vehementer vrgetur, eum alij Papistae quam id parum 
+      pro<lb ed="#C" n="34" break="no"/>Ecclesiae perpetua authoritate valeat, facile aut docebunt, aut 
+      mone<lb ed="#C" n="35" break="no"/>bunt. <name xml:id="wWpoi1-e21435-Nd1e328">Driedo</name>, in Lib. 4. cap. 4. Augustinum de Ecclesia primitiva 
+      Apo<lb ed="#C" n="36" break="no"/>stolorum loqui his verbis statuit. Nam si nunc Augustinus viveret, atque 
+      <lb ed="#C" n="37"/>de Ecclesia loqueretur, qualis nunc est, sic potius diceret: Ego huius 
+      Ec<lb ed="#C" n="38" break="no"/>clesiae homines non agnoscerem esse Ecclesiam Christianam, nisi doceret me qua¬ 
+      <!--244.xml-->
+      <pb ed="#L" n="235"/>
+               <lb ed="#C" n="1"/>tuer Evangeliorum authoritas. Quare non nunc creditur Evangelio 
+      pro<lb ed="#C" n="2" break="no"/>pter Ecclesiam, sed contra Ecclesiae propter Evangelium: Unde quoque 
+      <lb ed="#C" n="3"/>esse Ecclesiae verissimam notam Evangelium sequitur. <name xml:id="wWpoi1-e21435-Nd1e349">Bellarminus</name> 
+      ip<lb ed="#C" n="4" break="no"/>se in Dictatis manuscriptis in Aquinatis secundam secundae, Quaest. 1. 
+      <lb ed="#C" n="5"/>art. 18. Dubio 17. docet Augustinum loquide Ecclesia, vi de causa 
+      proponen<lb ed="#C" n="6" break="no"/>te, nonvi de primo fundamento fidet. Non enim Evangelio crederemus, 
+      <lb ed="#C" n="7"/>nisi Ecclesia Catholica illud proponeret; quod sane verum est. Nam nisi
+      <lb ed="#C" n="8"/>Ecclesia nobis libros sacros commendaret, atque ad fontes ipsos 
+      verita<lb ed="#C" n="9" break="no"/>tis divinae nos quasi manu deduceret, nunquam ex obscurissimis tenebris 
+      <lb ed="#C" n="10"/>errorum emergeremus. Sed num proinde sequitur, non aliter libros 
+      Apo<lb ed="#C" n="11" break="no"/>ctyphos a Canonicis distingui, quam per solam Ecclesiae authoritatem: 
+      <lb ed="#C" n="12"/>Ninil verominus. Atque de sexto hoc argumento non est quod plura 
+      <lb ed="#C" n="13"/>dicamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

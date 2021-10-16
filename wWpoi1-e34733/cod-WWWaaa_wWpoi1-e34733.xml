@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="376"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e34733"><!-- con1q6c4 -->
+            <head xml:id="wWpoi1-e34733-Hd1e106">Caput 4</head>
+            <p xml:id="wWpoi1-e34733-d1e109">
+               <lb ed="#C" n="29"/>CAPUTII 
+      <lb ed="#C" n="30"/>CAPTTTTTI 
+      <lb ed="#C" n="31"/>adulterinis distinguant. 
+    </p>
+            <p xml:id="wWpoi1-e34733-d1e118">
+               <lb ed="#C" n="32"/>BEllarminus, Cap. 9. Lib. 4. quinque regulas proponit, quibus 
+      <lb ed="#C" n="33"/>Traditiones verae ac Germanae Apostolorum dijudicari possint.  
+      <lb ed="#C" n="34"/>Prima regula huiusmodi est: Quicquid Ecclesia vniversa tenet, tanquam i 
+      <lb ed="#C" n="35"/>dogmafidei, nec invenitur in sacris literis, id procul dubio est 
+      Apostoli<lb ed="#C" n="36" break="no"/>cum. Huius regulae ratio est, quia Ecclesia non potest errare. Ecclesiam 
+      <lb ed="#C" n="37"/>vero non posse errare, duplici argumento probat. Primo. Quia est sinmi¬ 
+      <!--386.xml-->
+      <pb ed="#L" n="377"/>
+               <lb ed="#C" n="1"/>mentum veritatis. Secundo. Quia portae inferorum non praevalebunt (inquit:  
+      <lb ed="#C" n="2"/>Christus) adversus illam Petram, in qua Ecclesia aedificata est. 
+      Respon<lb ed="#C" n="3" break="no"/>deo. Iste locus non patitur, vteam quaestionem tractemus, Vtrum 
+      Eccle<lb ed="#C" n="4" break="no"/>sia errate possit, necne. Erit alius proprius hac de re disserendi locus. 
+      In<lb ed="#C" n="5" break="no"/>terim respondeo duo. Primum: Quaero quid vniversae Ecclesiae 
+      nomine<lb ed="#C" n="6" break="no"/>intelligant. Nam etsi maxima hominum multitudo passim in Ecclesiis 
+      <lb ed="#C" n="7"/>consuetudinem aliquam aut opinionem amplecteretur, non tamen 
+      se<lb ed="#C" n="8" break="no"/>queretur eam esse toti Ecclesiae tribuendam: quia possunt esse multi qui  
+      <lb ed="#C" n="9"/>improbent, &amp; inter hos esse Ecclesia potest: vt quando Christus interris 
+      <lb ed="#C" n="10"/>versatus est, Traditiones multae Pharisaeorum inveteraverant, quarum 
+      <lb ed="#C" n="11"/>mentio fit, Math. 15. &amp; Marc. 7. quarum aliae ad fidem pertinebant,  
+      <lb ed="#C" n="12"/>aliae ad mores. Hae fuerunt vniversales (si vniversales dicendae sint, quae 
+      <lb ed="#C" n="13"/>a plurimis servantur) &amp; longo annorum ac temporum decursu in 
+      Eccle<lb ed="#C" n="14" break="no"/>sia valucrant: vocantur enim τον ωεσξυτίρον. Num ergo sequitur aut illas 
+      <lb ed="#C" n="15"/>fuisse divinas, aut omnes homines, qui ad Ecclesiam pertinerent, eas 
+      te<lb ed="#C" n="16" break="no"/>muisse, praesertim cum nonnullas palam impias fuisse constet? possunt  
+      <lb ed="#C" n="17"/>pergo &amp; ritus superstitiosi, &amp; opiniones pravae, &amp; Traditiones a pietate 
+      a<lb ed="#C" n="18" break="no"/>lienae inter homines, sanctam Dei religionem profitentes, invalescere. 
+      <lb ed="#C" n="19"/>Ecclesia enim non semper in maximis, aut plurimis, sed aliquando in 
+      <lb ed="#C" n="20"/>paucissunis, minimisque consistit. Secundum: Non potest Bellarminus 
+      pro<lb ed="#C" n="21" break="no"/>bare, vllam Traditionem Papisticam in omnibus Ecclesijs observatam. 
+      <lb ed="#C" n="22"/>fuisse: Nam, vt in illius exemplo insistamus, de numero Canonicorum 
+      <lb ed="#C" n="23"/>librorum multae Ecclesiae dubitatunt, vt in prima Controversia 
+      ostendi<lb ed="#C" n="24" break="no"/>mus. Ergo eam non fuisse Traditionem Apostolicam sequitur; quia non 
+      <lb ed="#C" n="25"/>suit recepta ab vniversa Ecclesia, iuxta hanc regulam Bellarminianam. 
+      <lb ed="#C" n="26"/>Quod vero hoc loco scribit, &amp; sumpsit ex Cano, Lib. 3. Cap. 4. 
+      nullo<lb ed="#C" n="27" break="no"/>modo omittendum est. Ait enim omnia, quae Ecclesia tenet, vt fidei 
+      dog<lb ed="#C" n="28" break="no"/>mata, tradita fuisse ab Apostolis vel Prophetis, aut scripto, aut verbo, nec 
+      <lb ed="#C" n="29"/>regi iam Ecclesiam revelationibus, sed permanere in illis quae ab 
+      Apo<lb ed="#C" n="30" break="no"/>stolis accepit. Quod si verum sit, tum Ecclesia non potest iam tradere 
+      a<lb ed="#C" n="31" break="no"/>liquid, vt dogma fidei, nisi quod antea semper ab ipsis Apostolorum 
+      tem<lb ed="#C" n="32" break="no"/>poribus vt fidei dogma, susceptum servatumque fuerit. At Papistae 
+      affir<lb ed="#C" n="33" break="no"/>mant, Ecclesiam iam posse novum aliquod fidei dogma: praescribere, 
+      <lb ed="#C" n="34"/>quod superioribus seculis pro necessatiofidei dogmate habitum non 
+      fu<lb ed="#C" n="35" break="no"/>isset, Mariam enim Virginem sine peccato originali conceptam fuisse, 
+      <lb ed="#C" n="36"/>olim fuit in quadam opinionis libertate posuum, non fidei necessitate: 
+      <lb ed="#C" n="37"/>qua de re multa <ref xml:id="wWpoi1-e34733-Rd1e217" target="http://scta.info/resource/Z4Yt34-d1e554"><!-- TODO: item target, more precise target not yet clear -->Canus disseruit, Lib. 6. Cap. 1</ref>. At hodie non licet inter 
+      <lb ed="#C" n="38"/>Papistas anciquam opinionum hac de re libertatem retinere, nec Catho¬ 
+      <!--387.xml-->
+      <pb ed="#L" n="378"/>
+               <lb ed="#C" n="1"/>licus fere iudicatur, qui vllam Mariae vel levissimam peccati 
+      contagio<lb ed="#C" n="2" break="no"/>nem tribuat. Parisiensis quidem Academia nullum admittit in aliquem  
+      <lb ed="#C" n="3"/>sublimiorem gradum Theologorum, nisi qui se &amp; credere Mariam fuisse 
+      <lb ed="#C" n="4"/>immaculate &amp; illibate conceptam, &amp; in asserenda Virginis pura 
+      con<lb ed="#C" n="5" break="no"/>ceptione constanter perseveraturum esse, sancte juraverit, vttestatur 
+      Ca<lb ed="#C" n="6" break="no"/>nisius, Lib. 1. Cap. 7. de Maria Deipara virgine: quod etiam apud 
+      Hi<lb ed="#C" n="7" break="no"/>spanos, &amp; in aliis Academiis Papisticis recipi, ac mordicus teneri fcribit. 
+      <lb ed="#C" n="8"/>Ergo est hoc vnum hodie magnumque dogma fidei Papisticae; at 
+      no<lb ed="#C" n="9" break="no"/>vum tamen, quia tale nullum publice fuit olim receptum. Quomodo 
+      <lb ed="#C" n="10"/>igitur perpetuo permansit? Aut quomodo non absurdus Stapletonus, 
+      <lb ed="#C" n="11"/>qui Lib.9 tribus viti nis capitibus id agit, vt probet Ecclesiam 
+      praesen<lb ed="#C" n="12" break="no"/>tem posse librum addere ad Canonem Scripturae? Est hoc fidei dogma: 
+      <lb ed="#C" n="13"/>nam hoc exemplum in regula Bellarminus posuit. Sed addit Stapletonus, 
+      <lb ed="#C" n="14"/>Si id ei Spiritus sanctus suggereret: At hoc est, quod hic Bellarminus 
+      mo<lb ed="#C" n="15" break="no"/>nuit, Ecclesiam nunc novis revelationibus minime regi, sed permanere 
+      <lb ed="#C" n="16"/>in iis, quae tradiderunt ij, qui ministri sermonis fuerunt. Sic isti pulchre 
+      <lb ed="#C" n="17"/>inter se consentiunt. Alij posse novum dogma praescribi a praesente 
+      Ec<lb ed="#C" n="18" break="no"/>clesia, quod prius eiusmodi non fuerit; alij Ecclesiam non regi novis 
+      re<lb ed="#C" n="19" break="no"/>velationibus, sed in iis, quae ab initio tradita fuerunt, permanere. Itaque 
+      <lb ed="#C" n="20"/>aut regula Bellarmini falsa est, aut haec certe fidei dogmata pro 
+      necessa<lb ed="#C" n="21" break="no"/>riis haberi non possunt, nec debent. Sed quaero a Bellarmino, Utrum 
+      ab<lb ed="#C" n="22" break="no"/>Apostolis traditum fuit, Epistolam ad Hebraeos a Paulo scriptam esse, 
+      Fa<lb ed="#C" n="23" break="no"/>tentur Papistae omnes. Lindan. 4. Lib. Panopliae suae, C100. affirmat,  
+      <lb ed="#C" n="24"/>non minus credendum a Paulo esse scriptam, quam esse Scripturam 
+      Ca<lb ed="#C" n="25" break="no"/>nonicam. Quod si verum, tum Apostolica est haec Traditio: si Apostolica, 
+      <lb ed="#C" n="26"/>tum ab vniversa semper Ecclesia recepta fuit. Sed facile ostendi potest, 
+      <lb ed="#C" n="27"/>multas Ecclesias aliter sensisse, imo &amp; ipsam etiam Romanam Ecclesiam 
+      <lb ed="#C" n="28"/>aliquando in alia opinione fuisse, vt patet in Hieronymo in Catalogo 
+      illustri<lb ed="#C" n="29" break="no"/>lum scriptorum in Calo. Vel ergo in illa, vel in hac Traditione erravit 
+      Ecclesia<lb ed="#C" n="30" break="no"/>Romana, vel prima saltem haec regula Bellarmini non est vera, certa, perpetua. 
+      </p>
+            <p xml:id="wWpoi1-e34733-d1e294">
+               <lb ed="#C" n="31"/>Secunda Bellarmini regula similis priori est, atque ita se habet: Quando 
+      <lb ed="#C" n="32"/>vniversa Ecclesia aliquid servat, quod eiusmodi sit, vt a nullo, nilra Deo 
+      <lb ed="#C" n="33"/>tantum, institui possit, &amp; tamen nusquam inveniatur scriptum, illud 
+      ne<lb ed="#C" n="34" break="no"/>cesse est ab ipso Christo, &amp; eius Apostolis traditum credamus. Ratio 
+      <lb ed="#C" n="35"/>est, quia Ecclesia non magis in operando, quam in credendo, errate 
+      po<lb ed="#C" n="36" break="no"/>test. Huius regulae vel testem, vel authorem, profert Augustinum, qui 
+      E<lb ed="#C" n="37" break="no"/>pist. 118. ait insolentissimae in saniae esse, disputare num id faciendum sit, quodi 
+      <lb ed="#C" n="38"/>tota die per orbem frequentat Ecclesia. Respondeo: Ex hac Augustini sen¬ 
+      <!--388.xml-->
+      <pb ed="#L" n="379"/>
+               <lb ed="#C" n="1"/>tentia nihil detrimenti capere potest causa nostra. Nam ille loquitur 
+      de<lb ed="#C" n="2" break="no"/>huiusmodi Traditionibus, quae ab vniversa Ecclesia receptae, &amp; 
+      frequen<lb ed="#C" n="3" break="no"/>tatae sunt. Ait enim, Quod unversa Ecclesia observat. id quinita 
+      facien<lb ed="#C" n="4" break="no"/>dum sit disputare, insolentissimae insaniae est. At nulla talis est Traditio non 
+      <lb ed="#C" n="5"/>scripta Papistarum, quam scilicet ab vniversa semper Ecclesia servatam 
+      <lb ed="#C" n="6"/>fuisse constet, Hae vero Traditiones, quae hic a Bellarmino exempli 
+      cau<lb ed="#C" n="7" break="no"/>sa proponuntur, alterius generis sunt. Prima est, De parvulis 
+      baptizan<lb ed="#C" n="8" break="no"/>dis. Secunda, De non rebaptizandis iis, quos haeretici baptizarunt. 
+      Etc<lb ed="#C" n="9" break="no"/>nim hae Traditiones, etsi non totidem verbis, tamen in ipsis Scripturis 
+      in<lb ed="#C" n="10" break="no"/>veniri, &amp; diserta certaque Scripturanim authoritate confirmari possunt.  
+      <lb ed="#C" n="11"/>Ergo scriptae Traditiones dicendae sunt, non αγζαροι, quia ex Scripturis 
+      <lb ed="#C" n="12"/>colliguntur Quod enim ad prius exemplum attinet, Augustinus quidem 
+      <lb ed="#C" n="13"/>L. 10. c. 23. de Genesi ad literam, Baptismum parvulorum 
+      confuetudi<lb ed="#C" n="14" break="no"/>nem &amp; Traditionem Apostolicam vocat; sed intelligit scriptam, Hanc 
+      e<lb ed="#C" n="15" break="no"/>ninm fuisse Angustinimentem constat, ex lib. 42, contra Donatist. de 
+      Bap<lb ed="#C" n="16" break="no"/>tisimo, c. 24. vbi ex circumcisione prioris populi, probat parvulorum 
+      Bap<lb ed="#C" n="17" break="no"/>tismum. Praeterea, ex hoc Scripturae testimonio(Ero Deus tuus, &amp; Deus 
+      se<lb ed="#C" n="18" break="no"/>minis tui, id est, liberorum tuorum sidem confirmaripotest Hoc foedus in 
+      <lb ed="#C" n="19"/>sacris literis scriptum est, Gen. 17. Ergo nititur Baptismus parvulorum 
+      scri<lb ed="#C" n="20" break="no"/>pta authoritate verbi Dei. Et certe, si non haberemus in hac causa aliam, quam 
+      <lb ed="#C" n="21"/>Traditionis non scriptae authoritatem, misere nobiscum ageretur, cum contra 
+      <lb ed="#C" n="22"/>Anabaptistas disputaremus. Illi enim de Traditionibus nonscriptis non 
+      labo<lb ed="#C" n="23" break="no"/>rant. Sed hos haereticos nostrae Ecclesiae testimoniis Scripturarum 
+      refuta<lb ed="#C" n="24" break="no"/>runt, ac damnarunt: Papistis interimaut perfide silentibus, aut impie 
+      men<lb ed="#C" n="25" break="no"/>sitientibus, eos non aliter, quam Traditione, posse refutari Quod vero ad 
+      <lb ed="#C" n="26"/>alterum illud Bellarmini exemplum attinet, De non rebaptizandis iis, quos 
+      <lb ed="#C" n="27"/>haeretici baptizarunt; etsi Cyprianus contendebat, haeretici hominis 
+      Baptis<lb ed="#C" n="28" break="no"/>mum irritum esse, (res enim agitata est inter Cyprianum &amp; alios 
+      Episco<lb ed="#C" n="29" break="no"/>pos, &amp; ille in hac causa vehemens fuit) tamen Cyprianum erravisse, 
+      Augusti<lb ed="#C" n="30" break="no"/>nus non tam Traditionis, quam Scripturae authoritate docuit. Sic enim scribit, 
+      <lb ed="#C" n="31"/>L. 12. de Bapt, contra Donatist. C. 7. Ne videar humanis argumentis id probare 
+      <lb ed="#C" n="32"/>de hac autem re loquitur) ex Evargelio profero certaargumenta. Idem etiam 
+      <lb ed="#C" n="33"/>in L.2r. de Bapt contr Donatist. C. 3. ait se non dubitare, quin 
+      correctu<lb ed="#C" n="34" break="no"/>rus fuisset Cyprianus opinionem suam, si quis ei demonstrasset, 
+      Baptis<lb ed="#C" n="35" break="no"/>mum non amitii ab haereticis cum exeunt foras, ergo posse dari ab iis 
+      <lb ed="#C" n="36"/>quando exierunt. Sed apertissime, L. 5. C. 26. de Bapt. contr. Donatist. 
+      <lb ed="#C" n="37"/>Dixerat enim Cyprianus ad Traditionis Apostolicae fontem, id est, 
+      Scriptu<lb ed="#C" n="38" break="no"/>ram, hac in re puovocandum esse. Hoc laudat Augustinus in eo capite, valde¬ 
+      <!--389.xml-->
+      <pb ed="#L" n="380"/>
+               <lb ed="#C" n="1"/>que probat, &amp; tum ex 4. Cap. ad Ephes. profert unum esse Baptismum ac 
+      <lb ed="#C" n="2"/>proinde non esse repetendum. Ergo haec duo exempla Bellarmini aliena sunt:, 
+      <lb ed="#C" n="3"/>a causa, quia sunt ἐγγραφα: at ille τ αἀρραρον Traditionum regulas tradit.  
+      </p>
+            <p xml:id="wWpoi1-e34733-d1e411">
+               <lb ed="#C" n="4"/>Tertia regula Bellarmini non admodum dissimilis est prioribus, atque in 
+      <lb ed="#C" n="5"/>hunc modum se habet: Quod vniversa Ecclesia observavit omnibus 
+      retro<lb ed="#C" n="6" break="no"/>seculis &amp; temporibus, illud est Apostolicum, etsi sit eiusmodivt ab Ecclesia 
+      <lb ed="#C" n="7"/>institui potuisset. Hanc etiam reguiam ex Augustino confirmat, Lib. 4. 
+      con<lb ed="#C" n="8" break="no"/>tra Donatist. Cap. 24. vbi in hunc modum scribit: Quod vniversatenet 
+      Ec<lb ed="#C" n="9" break="no"/>clesia, nec Conciliss institutum, sed semper retentum est, non nisi authoritate 
+      <lb ed="#C" n="10"/>eApostolica, traditum rectissime creditur. Respondeo; Vt hanc 
+      Augustini<lb ed="#C" n="11" break="no"/>sententiam regulamque admittamus, opus est duplice cautione. Primae: 
+      Si<lb ed="#C" n="12" break="no"/>ita retentum fuerit, vt similis semperratio fuerit observandi, hoc est, si 
+      simili<lb ed="#C" n="13" break="no"/>ter semper fuerit observatum. Secundi: Si vt necessarium servatum fuerit non 
+      <lb ed="#C" n="14"/>viliberunm &amp; ἀἰιαρορον. Si enim fuit varius mos &amp; diversa consuetudo 
+      servan<lb ed="#C" n="15" break="no"/>di, non est Apostolicum. Si servatum fuit vtαδιαρορον, conce dimus quidem 
+      <lb ed="#C" n="16"/>Ecclesiam habere hanc authoritatem constituendi ac praescribendiliberas 
+      <lb ed="#C" n="17"/>ceremonias. Sed affirimo nullam posse Traditionem Papisticam afferri, quae 
+      <lb ed="#C" n="18"/>similiter, &amp; necessario omnibus temporibus observata fuerit. Bellarminus 
+      pro<lb ed="#C" n="19" break="no"/>exemplo affert Quadragesimam. Sed diversissima incertissimaque olim 
+      ra<lb ed="#C" n="20" break="no"/>tio fuit Quadragesimae celebrandae. Bellarminus vero Apostolicam esse 
+      <lb ed="#C" n="21"/>Traditionem probat, quia sursum ascendentes, &amp; huius institutiorigenem: 
+      <lb ed="#C" n="22"/>quaerentes, eam non nisi Apostolorum tempore inveniunt. Orditur enim a 
+      <lb ed="#C" n="23"/>Bernatdo, ab eo ascendit ad Gregorium, a Gregorio ad Augustinum, ab 
+      Au<lb ed="#C" n="24" break="no"/>gustino ad Hieronimum, ab Hieronymo ad Chrysostomum, a Chrysostomo. 
+      <lb ed="#C" n="25"/>ad Ambrosium, ab Ambrosio ad Epiphanium, Bazilium, Nazianzenum, 
+      <lb ed="#C" n="26"/>Cyrillum, Origenem, Irenaeum, Telesphorum, Ignatium, Clementem. 
+      Vi<lb ed="#C" n="27" break="no"/>detur haec quidem praeclata esse progressio: sed res pondeoduo. Primum: Quae 
+      <lb ed="#C" n="28"/>to quam Quadragesimam intelligat? illamne, quam Ecclesia Romana nunc 
+      <lb ed="#C" n="29"/>Jobservat, an aliam? Illam intelligat necesse est, alioqui inepte disputat: At: 
+      <lb ed="#C" n="30"/>revincetur iisdem testimoniis, quibus ipse vsus est, aliter observatam 
+      olimfu<lb ed="#C" n="31" break="no"/>isse Quadragesimam, quam nunc observatur, &amp; numero dierum, &amp; modos 
+      <lb ed="#C" n="32"/>ieiunandi, &amp; genere ciborum, si non ex Bernatdo, &amp; Gregorio, atex 
+      Augu<lb ed="#C" n="33" break="no"/>stino, Hieronymo, &amp; reliquis antiquioribus Patribus. Secundum: Affirmo: 
+      <lb ed="#C" n="34"/>inveturi posse authorem Quadragesim aepost tempora Apostolorum. Nam 
+      <lb ed="#C" n="35"/>a Telesphoro institutam fuisse Quadragesimam, scribit Platina invitaeius, 
+      <lb ed="#C" n="36"/>qui quidem centum annis post Christum vixit: antiquiorem authorem non 
+      in<lb ed="#C" n="37" break="no"/>venient, quem tamen Papistae non authorem, sed instaur atorem, ac vindicem 
+      <lb ed="#C" n="38"/>huius igjunij, ab Apostolis instituti, faciunt, Sed si Christus &amp; ApostoliQua¬ 
+      <!--390.xml-->
+      <pb ed="#L" n="381"/>
+               <lb ed="#C" n="1"/>dragesimam instituissent, non ea tam cito primis illis &amp; puris temporibus 
+      <lb ed="#C" n="2"/>Jobservari desusset, vt a Telesphoro instauranda esset. Epistola vero ignatije 
+      <lb ed="#C" n="3"/>adPhilippenses, in qua Quadragesimae mentionem facit, spuria est. Item 
+      <lb ed="#C" n="4"/>liber ille Clementis est Apocryphus, fuitque in Concilio generali fexto; 
+      <lb ed="#C" n="5"/>Constantinopolitano damnatus. Canones etiam illi, qui Apostolorum 
+      <lb ed="#C" n="6"/>nomine feruntur, supposititij sunt, quemadmodum supra probavimus. 
+      <lb ed="#C" n="7"/>Aliud exemplum affert Bellarminus, de Ordinibus Ecclesiasticis, quos 
+      <lb ed="#C" n="8"/>vult etiam Apostolicae Traditionis esse, idque probat ad Apostolorum 
+      <lb ed="#C" n="9"/>tempora per gradus ascendendo, eodem modo, quo supra. Sed hic eum 
+      <lb ed="#C" n="10"/>sua regula fefellit. Nam Canones Apostolici, quibus ille multum tribuit, 
+      <lb ed="#C" n="11"/>nominant tantum quinque Ordines, Episcopum, Presbyterum, 
+      Diaco<lb ed="#C" n="12" break="no"/>num, Lectorem, &amp; Cantorem. Praetermissi sunt Exoreista, Ostiarius, &amp; 
+      <lb ed="#C" n="13"/>Acoluthus. Sic Ambros. in Comment. in 4. Cap. ad Ephesios, recenset 
+      <lb ed="#C" n="14"/>tantum quinque: Acoluthos &amp; Ostiarios omittit. Ergo non est hoc 
+      ex<lb ed="#C" n="15" break="no"/>emplum ad Bellarmini regulam satis accommodatum. 
+      </p>
+            <p xml:id="wWpoi1-e34733-d1e527">
+               <lb ed="#C" n="16"/>Quarta regula non magis certa est, quam reliquae, atque ea quidem 
+      <lb ed="#C" n="17"/>in hunc modum se habet: Cum doctores Ecclesiae affirmant aliquid 
+      ab<lb ed="#C" n="18" break="no"/>Apostolica authoritate descendisse, sive in Concilio congregati, sive 
+      <lb ed="#C" n="19"/>separatim in libris scribentes, illud est Apostolicum. Exemplum prioris 
+      <lb ed="#C" n="20"/>generis affert; Patres in secundo Concilio Niceno coactos docuisse, 
+      tan<lb ed="#C" n="21" break="no"/>quam ex Apostolica Traditione, imagines esse colendas. Respondeo, illud  
+      <lb ed="#C" n="22"/>Concilium decrevisse contra Scripturas, contra alia Concilia, vt contra 
+      <lb ed="#C" n="23"/>Constantinopolitanum quartum, quod antiquius fuit Niceno, vtpote 
+      nu<lb ed="#C" n="24" break="no"/>mero septimum, &amp; denique contra alios Doctores &amp; Patres. Nam 
+      Gre<lb ed="#C" n="25" break="no"/>gorius Magnus 7. libr. Epistolarum, 9. Epistola, ait imagines quidem 
+      <lb ed="#C" n="26"/>non esse confringendas, sed populum diligenter monendum 
+      docendum<lb ed="#C" n="27" break="no"/>que esse, ne colerent; vt multae Ecclesiae hodie retinent imagines, non 
+      <lb ed="#C" n="28"/>tamen colunt. Sed tutius multo atque consultius est, eas prorsus e medios 
+      <lb ed="#C" n="29"/>collere. Ita colere imagines non Apostolica, sed Antichristiana 
+      Traditio<lb ed="#C" n="30" break="no"/>est, si Gregorio Papae primo credimus. Exemplum nullum secundi 
+      ge<lb ed="#C" n="31" break="no"/>neris affert. Dicit enim vix aliquid eiusmodi expresse in Patribus inveniri, 
+      <lb ed="#C" n="32"/>in quo omnes consentiunt. Hac ergo de re huiusmodi regulam tradit: 
+      <lb ed="#C" n="33"/>Quod vnus aliquis Pater magni nominis scribit, id pro Apostolico 
+      am<lb ed="#C" n="34" break="no"/>plectendum est, si reliqui non dissentiant. Praeclara certe regula : Sed quo- 
+      <lb ed="#C" n="35"/>modo sciemus reliquos non dissentire? Nam multi Patrum libri 
+      perie<lb ed="#C" n="36" break="no"/>runt, &amp; multi Patres nihil scripserunt: fieri potest, vt illi dissenserint. 
+      Prae<lb ed="#C" n="37" break="no"/>terea, a Patribus etiam nonnullis multa tradita sunt, quae vel Papistarum. 
+      <lb ed="#C" n="38"/>confessione non sunt Apostolica, in quibus tamen reli quos ab illis dissen¬ 
+      <!--391.xml-->
+      <pb ed="#L" n="382"/>
+               <lb ed="#C" n="1"/>sisse non possunt ostendere. Sed quem tandem Patrem dicemus 
+      magni<lb ed="#C" n="2" break="no"/>nominis? Certe illi eum pro Magno habent, quicunque ipsis favet, vt 
+      Di<lb ed="#C" n="3" break="no"/>onysium Arcopagitam, quo nihil est levius: sic Decretales Epistolas 
+      Pon<lb ed="#C" n="4" break="no"/>tificum Romanorum illi in magno numero ac precio habent, quibus] 
+      <lb ed="#C" n="5"/>tamen nihil futilius aut ineptius esse potest. 
+      <lb ed="#C" n="6"/>Quinta Bellarmini regula est huiusmodi: Illud est sine dubio 
+      Apostoli<lb ed="#C" n="7" break="no"/>cum habendum &amp; iudicandum, quod pro tali habetur in ijs Ecclesiis, 
+      in<lb ed="#C" n="8" break="no"/>quibus est integra successio Episcoporum ab Apostolis. Respondeo: 
+      <lb ed="#C" n="9"/>Quid ergo opus fuit superioribus istis ambagibus? eas enim tandem 
+      <lb ed="#C" n="10"/>vult esse Apostolicas Traditiones, quas Ecclesia Romana asserit esse 
+      A<lb ed="#C" n="11" break="no"/>postolicas. Hoc quidem est, quod ille dicere voluit: verum nenos aegre, 
+      <lb ed="#C" n="12"/>pateremur, aliis verbis proposuit. Sed hanc fuisse mentem eius, ex eo 
+      <lb ed="#C" n="13"/>quod sequitur, apertissime patet. Subiungit enim, fuisse olim in alijs 
+      Ec<lb ed="#C" n="14" break="no"/>clesijs integras Episcoporum successiones ab Apostolis, nunc autem in 
+      <lb ed="#C" n="15"/>Romana dunt axat Ecclesia hanc successionem salvam ac integram 
+      ma<lb ed="#C" n="16" break="no"/>nere. At Lindanus aperte (ut est in omnibus apertus) Lib. 5. cap. 7. ait se 
+      <lb ed="#C" n="17"/>non videre vllam certiorem regulam, quam Ecclesiae indicium. 
+      Intelli<lb ed="#C" n="18" break="no"/>git autem Romanam Ecclesiam: Sed res pondeo: primo, Ne illius quidem 
+      <lb ed="#C" n="19"/>Ecclesiae successionem integram atque interruptam esse, id quod ex 
+      <lb ed="#C" n="20"/>Platina &amp; alijs patet. Testatur enim Platina, &amp; alij etiam historici, 
+      vacu<lb ed="#C" n="21" break="no"/>am fuisse illam sedem decies, imo vigesies, non ad diem tantum, aut 
+      heb<lb ed="#C" n="22" break="no"/>domadam, aut mensem, sed ad annum, biennium, &amp; triennium: 
+      praete<lb ed="#C" n="23" break="no"/>rea, saepe schismata fuisse, &amp; duos ac tres Papas aliquando simul extitisse. 
+      <lb ed="#C" n="24"/>In vno vero Concilio tres Papae abdicati sunt, &amp; quatus novus est 
+      ele<lb ed="#C" n="25" break="no"/>ctus, de quibus rebus alibi dicendum est. Secundo: Vt concedamus esse  
+      <lb ed="#C" n="26"/>incorruptam &amp; integram illius Ecclesiae successionem, nullius interim 
+      <lb ed="#C" n="27"/>momenti ea erit: quia nos non externam illam locorum &amp; personarum, 
+      <lb ed="#C" n="28"/>sed internam doctrinae ac fidei successionem spectamus. Tertio: Potest. 
+      <lb ed="#C" n="29"/>in alijs etiam Ecclesiis reperiri integra successio. Quibus tandem, 
+      in<lb ed="#C" n="30" break="no"/>quiet Adversarius? In Graecis. At in qua Graeca? In nobilissima 
+      omni<lb ed="#C" n="31" break="no"/>tum, Constantinopolitana scilicet, quae nova Roma olim appellata est, 
+      <lb ed="#C" n="32"/>&amp; Romae semper dignitate par fuit. Nicephorus, in historia sua, Lib. 8. 
+      <lb ed="#C" n="33"/>cap. 6. describit seriem Episcoporum Constantinopolitanorum 
+      ab<lb ed="#C" n="34" break="no"/>Andrea Apostolo ductam ad sua tempora. Et haec minus interrupta fuit, 
+      <lb ed="#C" n="35"/>quamRomana successio. Minores enim intercapedines, &amp; minora 
+      schil<lb ed="#C" n="36" break="no"/>mata in hac Ecclesia fuerunt, quam in Ecclesia Romana. Quoniam 
+      au<lb ed="#C" n="37" break="no"/>tem nullas Traditiones possunt proferre, quae superioribus regulis per 
+      <lb ed="#C" n="38"/>omnia conveniant, hanc quintam regulam adjiciunt, cui multo magis, 
+      <!--392.xml-->
+      <pb ed="#L" n="383"/>
+               <lb ed="#C" n="1"/>quam reliquis confidunt. Sed quantum falluntur, ex his quae dicta sunt:  
+      <lb ed="#C" n="2"/>breviter, apparet: nam hae tes suo loco longiorem &amp; accuratiorem 
+      tracta<lb ed="#C" n="3" break="no"/>tionem requirent. Atque de regulis, quibus veras Traditiones ab 
+      adul<lb ed="#C" n="4" break="no"/>terinis secernendas esse Bellarminus praescripsit, hactenus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="83"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de7812"><!-- con1q2c3 -->
+            <head xml:id="wWpoi1-de7812-Hd1e106">Caput 3</head>
+            <p xml:id="wWpoi1-de7812-d1e109">
+      <!--92.xml-->
+               <pb ed="#L" n="83"/>
+               <lb ed="#C" n="1"/>CAPVT THETIVῆ 
+      <lb ed="#C" n="2"/>CAPUTTTTI 
+      <lb ed="#C" n="3"/>uterpretum septuaginta.
+  </p>
+            <p xml:id="wWpoi1-de7812-d1e122">
+               <lb ed="#C" n="4"/>HAEC vero Hebraica sacrarum Scripturarum volumina in varias 
+      <lb ed="#C" n="5"/>Tolim linguas transsata sunt, inprimis Chaldaicam atque 
+      Grae<lb ed="#C" n="6" break="no"/>cam. Paraphrasis Chaldaica permagnae est apud omnes &amp; celebritatis, 
+      <lb ed="#C" n="7"/>&amp; authoritatis, praesertim illa Pentateuchi, cuius author Onuelos fuit: 
+      re<lb ed="#C" n="8" break="no"/>liqua versa Chaldaice sunt a lonathano quodam, &amp; losepho, qui paulo 
+      <lb ed="#C" n="9"/>ante Christum, aut circa Christi tempora vixerunt. Graecae vero multae 
+      <lb ed="#C" n="10"/>fuerunt versiones Scripturarum a varijs authoribus editae. Illa autem est, 
+      <lb ed="#C" n="11"/>omnium sine controversia longe nobilissima ac celebemma, cuius 
+      sep<lb ed="#C" n="12" break="no"/>tuaginta duo interpretes in Abgypto, Ptolomaei Philadelphi piae 
+      volun<lb ed="#C" n="13" break="no"/>tati morem gerentes, authores extiterunt. De hac editione Graeca 
+      le<lb ed="#C" n="14" break="no"/>guntur multa apud Epiphanium, in Libro de Mensur. &amp; Ponderibus &amp; 
+      Eu<lb ed="#C" n="15" break="no"/>sebium de Evangelica praeparat. Lib. 8. &amp; lustinum Martyrem in Dial. 
+      <lb ed="#C" n="16"/>cum Tryphone; multosque alios: &amp; extat hodie de hac omni historia liber 
+      <lb ed="#C" n="17"/>Aristaei, qui se Ptolomaei satellitem fuisse ait, quem tamen librum 
+      Ludo<lb ed="#C" n="18" break="no"/>vicus Vives in L. 18. C42. de Civit. Dei, conflictum ab aliquo recentiore 
+      <lb ed="#C" n="19"/>e sse putat. Versas quidem ab illis esse Scripturas Graece, dubium non est, 
+      <lb ed="#C" n="20"/>cum id tota antiquitas testetur. De reliquis vero, quenartantur, non 
+      per<lb ed="#C" n="21" break="no"/>inde constat, Hanc autem puto Graecarum omnium esse antiquissima 
+      at<lb ed="#C" n="22" break="no"/>que primam: quanquam Clemens Alexandrinus, L. 1. Stromat, affirmat, 
+      ve<lb ed="#C" n="23" break="no"/>videtur, longe ante haec tepora Graece conversam, atque a Platone lectam 
+      <lb ed="#C" n="24"/>fuisse Scripturam: atque illud Numenij cuiusdam Pythagorici profertur 
+      a<lb ed="#C" n="25" break="no"/>Clemente, τγιρ ἐσι Πλάτον, ἡ Μδωσῆς ἀτιϰζον, Quid Plato aliud est, quam 
+      At<lb ed="#C" n="26" break="no"/>ticus Moses? Sed si versi ante sacri Scripturarum codices in linguam, 
+      <lb ed="#C" n="27"/>Graecam fuissent, tum illam versionem Demetrius, qui Philadespho 
+      ope<lb ed="#C" n="28" break="no"/>tam in construenda Bibliotheca navavit, non ignorasset, nec novam 
+      de<lb ed="#C" n="29" break="no"/>siderasset. Plato quidem &amp; Pythagonici scire quaedam ex sermone 
+      homi<lb ed="#C" n="30" break="no"/>num &amp; familiaritate potuerunt: libros vero sacros Graece (opinor) 
+      nun<lb ed="#C" n="31" break="no"/>quam viderunt. Nam haec prima fuit Graeca versio, edita post Platonem, 
+      <lb ed="#C" n="32"/>trecentis circiter annis ante Christum, vt Theodoretus scribit his verbis, 
+      <lb ed="#C" n="33"/>ωρθτη δε αθτη η ακδυσες ἔγιενετο ωρς τρανωσοῦ ωροτο ετυς τ μιτα σαρκως ωρος ημας 
+      <lb ed="#C" n="34"/>ἐπδημιτοθεηλογα, και κρισ ημον Ιήσο Xρισκῦ. Sunt vero qui 70. interpretes 
+      <lb ed="#C" n="35"/>non totam veteris Testamenti Scripturam, sed Legem tantummodo in 
+      <lb ed="#C" n="36"/>Graecum sermonem transtulisse arbitrentur: &amp; Legi: nomine non 
+      om<lb ed="#C" n="37" break="no"/>nem veterem Scripturam, sed Pentateuchum duntaxat intelligat. In hac 
+      <!--93.xml-->
+      <pb ed="#L" n="84"/>
+               <lb ed="#C" n="1"/>opinione Iosephus fuit in proaemio Antiquit. vbi haec verba habet: Neque 
+      <lb ed="#C" n="2"/>totam Scripturam occupavit, sed legem solam tradiderunt ei interpretes: εδεγ 
+      <lb ed="#C" n="3"/>πάσταν εκειν ο εφθη λαζειν τυν αναγζαριν, αλX αυτα μόνα τα το γόμη παριδυσαν υι π¬ 
+      <lb ed="#C" n="4"/>μρθεντες οτι τυν εζηγησν. Qua re inductum se fuisse scribit, vrtotas 
+      Scriptu<lb ed="#C" n="5" break="no"/>ras in Graecia tranimitteret. Atque hoc etiam de illo Hieronymus testatur: 
+      <lb ed="#C" n="6"/>sed alij omnia esse versa scribunt, eorumque multo probabilior opinio 
+      vi<lb ed="#C" n="7" break="no"/>detur. Nam illa causa qua inducti sunt, vt quaedam verterent, versa esse ab 
+      <lb ed="#C" n="8"/>illis omnia persuadet. Nec Rex parte aliqua contentus fuisset. Et quod 
+      a<lb ed="#C" n="9" break="no"/>liqui de incredibili versionis celeritate commemorant, nullum 
+      omnino<lb ed="#C" n="10" break="no"/>locum haberet, si tam pauca vertissent. Chrysostomus contra Iudaeos 
+      <lb ed="#C" n="11"/>ait Scripturas ab illis transsatas in templum Scrapidis repositas fuisse, 
+      <lb ed="#C" n="12"/>atque ibi adhuc Prophetarum libros versos inveniri, μχρινον ἐκει τῶν Hρο¬ 
+      <lb ed="#C" n="13"/>ρκτον αι ἐρμνώθεισαι ιζλοι υνυσν. Et Theodoretus ait Iudaeos ad 
+      Ptolo<lb ed="#C" n="14" break="no"/>maeum misisse non partem Scripturarum, sed vniversam Scripturam 
+      au<lb ed="#C" n="15" break="no"/>reis literis descriptam, χρυσεις χειμμασι τυν πεσαν χραρbν ευσημεναμεσι. 
+      Si<lb ed="#C" n="16" break="no"/>vero libri Prophetarum Graece ab illis versi in Bibliotheca Regia: ad 
+      <lb ed="#C" n="17"/>Chrysostomi aetatem remanserunt, sique Iudaei totam ad Regem cum 
+      in<lb ed="#C" n="18" break="no"/>terpretibus Scripturam miserunt, nulli dubium est, quin Scriptura tota 
+      ab<lb ed="#C" n="19" break="no"/>illis in linguam Graecorum conversa fuerit.  
+      </p>
+            <p xml:id="wWpoi1-de7812-d1e244">
+               <lb ed="#C" n="20"/>Hujus autem transsationis quanta authoritas sit, incertum est. 
+      Vete<lb ed="#C" n="21" break="no"/>res illam in summo precio habebant, eamque singularem &amp; divinam 
+      ese<lb ed="#C" n="22" break="no"/>se iudicabant, Epiphanius in Lib. de Mensur. &amp; Pondetibus illos ait non 
+      <lb ed="#C" n="23"/>interpretes modo, sed ex parte etiam Prophetas fuisse: Τvυσον, inquit, τοτο¬ 
+      <lb ed="#C" n="24"/>τόiς φιλαληδος εζεταζειν εελομενοις, στι κ μόνον ἐρμλυδταιαυτυί γεγενατν, αλαης 
+      <lb ed="#C" n="25"/>ετόμρς Πρριται. Et Aug. L. 2. cap. 15. de Doctrina Christiana, hanc 
+      ver<lb ed="#C" n="26" break="no"/>sionem ait esse factam divina dispensatione, eamque apud Ecclesias 
+      <lb ed="#C" n="27"/>peritiores maximi fieri, cum tanta Spiritus Sancti praesentia hi interpretes 
+      <lb ed="#C" n="28"/>adiuti esse dicantur in interpretando, vtomniumos vnum fuerit. De 
+      qua<lb ed="#C" n="29" break="no"/>re multa etiam scripsit in L. 18. cap. 42. &amp; 43. de Civitate Dei. Similiter 
+      <lb ed="#C" n="30"/>Irenaeus, Lib. 3. cap. 25. illos Scripturam singulos separatim 
+      interpreta<lb ed="#C" n="31" break="no"/>tos esse scribit, &amp; tandem cum convenirent, suasque interpretationes 
+      <lb ed="#C" n="32"/>comparatent, omnes eandem, &amp; eisdem verbis, &amp; eisdem nominibus 
+      <lb ed="#C" n="33"/>recitasse ab initio ad finem, vei &amp; praesentes gentes cognoscerent, quea 
+      <lb ed="#C" n="34"/>niam per aspirationem Dei interpretatae sunt Scripturae. Sic August. Lib. r8 
+      <lb ed="#C" n="35"/>cap 42. de Civit. Traditur tam mirabilem ac stupendum, plancque divinum in 
+      <lb ed="#C" n="36"/>eorum verbis fuisse consensum, vt cum ad hoc opus separatim singuli sederint 
+      <lb ed="#C" n="37"/>(ita enim eorum fidem Ptolomaeo regi explorare placuit) in nullo verbo, quod  
+      <lb ed="#C" n="38"/>idem significaret, &amp; tantundem valeret, vel in verborum ordine, alter ab 
+      <!--94.xml-->
+      <pb ed="#L" n="85"/>
+               <lb ed="#C" n="1"/>altero discreparet: sed tanquam si unus esset interpres, quod interpretati sunt, 
+      <lb ed="#C" n="2"/>vnum erat, quoniam revera Spiritiis erat unus in omnibus. Fuisse quidem 
+      <lb ed="#C" n="3"/>hanc versionem in magna authoritate, &amp; merito, dubium non est: sed  
+      <lb ed="#C" n="4"/>illa miracula, quae narrantur ad amplificandam illius authoritatem, 
+      fi<lb ed="#C" n="5" break="no"/>dem non habent, &amp; pro mendaciis habentur ab Hieronymo in Praef. in 
+      <lb ed="#C" n="6"/>Pentat. Quantacunque vero tandem huius versionis authoritas fuerit,  
+      <lb ed="#C" n="7"/>non maior omnino esse potuit, quam transsationis. Illi ergo nimium 
+      <lb ed="#C" n="8"/>ei tribuunt, qui θευπιώςον eam, ipsisque authenticis Scripturis parem 
+      faci<lb ed="#C" n="9" break="no"/>unt. Non enim illorum interpretum authoritas tam illustris certaque  
+      <lb ed="#C" n="10"/>fuit, quam Prophetarum: &amp; aliud est esse interpretem, aliud Prophetam. 
+      <lb ed="#C" n="11"/>Recte igitur Hieronymus in Praefat. in Pentat. septuaginta illos vocat,  
+      <lb ed="#C" n="12"/>interpretes, non vates: &amp; in commentariis saepe improbat Graecam 
+      ver<lb ed="#C" n="13" break="no"/>sionem septuaginta interpretum, non modo vt corruptam a librarijs, 
+      <lb ed="#C" n="14"/>sed etiam in se vitiosam: quod quidem non fecisset, si illam 
+      interpreta<lb ed="#C" n="15" break="no"/>tionem tanta divinitate atque authoritate praeditam fuisse iudicasset.  
+      </p>
+            <p xml:id="wWpoi1-de7812-d1e325">
+               <lb ed="#C" n="16"/>Quae vero nunc in manibus habetur Graeca versio Scripturarum, ea 
+      sit<lb ed="#C" n="17" break="no"/>ne septuaginta seniorum, an alia, inter doctos dubitatur. Verior illorum 
+      <lb ed="#C" n="18"/>sententia videtur, qui versionem illam omnino periisse existimant, &amp; 
+      <lb ed="#C" n="19"/>Graecam hanc, quam nunc habemus, mixtam esse quandam, misereque  
+      <lb ed="#C" n="20"/>corruptam statuunt. Aristaeus illam septuaginta transsationem fuisse 
+      <lb ed="#C" n="21"/>ait Hebraeis fontibus convemenissimam, vt cum a peritis lecta esset &amp; 
+      <lb ed="#C" n="22"/>diligenter examinata, omnium iudiciis egregie probaretur. At haec 
+      no<lb ed="#C" n="23" break="no"/>stra ab Hebraeis codicibus mirifice discrepat, cum in aliis locis atque 
+      li<lb ed="#C" n="24" break="no"/>bris, tum praecipue in Psalmis Davidicis Nec est quod quisquam 
+      He<lb ed="#C" n="25" break="no"/>braea esse corrupta respondeat. Nam nec Papistae audent affirmare 
+      Grae<lb ed="#C" n="26" break="no"/>ca esse Hebraeis incorruptiora. Tum enim suam Latinam versionem. 
+      <lb ed="#C" n="27"/>damnarent, quae Hebraeis quam Graecis multo congruentior est. Et  
+      <lb ed="#C" n="28"/>sunt manifesta Graecae transsationis vitia, quae nullo modo excusari 
+      pos<lb ed="#C" n="29" break="no"/>sunt. Est inter Hebraeos Graecosque Libros in temporum &amp; annorum 
+      ra<lb ed="#C" n="30" break="no"/>tione maximum discrimen. Libri enim Graeci annos ab Adamo 
+      mundi<lb ed="#C" n="31" break="no"/>que principio ad diluvium 2242. numerant, vt apud Augustinum &amp; 
+      <lb ed="#C" n="32"/>Eusebium, &amp; Nicephorum in Chronologia legimus: In libris autem 
+      He<lb ed="#C" n="33" break="no"/>braicis non plures fuisse quam 1656. intelligimus. Ita numerum 
+      Hebrai<lb ed="#C" n="34" break="no"/>cum Graecus superat annis 586. Sic a diluvio ad Abrahamum iuxta γ
+      o<lb ed="#C" n="35" break="no"/>interpretes anni sunt 1082. Sin veritatem Hebraicam consulas, plures 
+      <lb ed="#C" n="36"/>quam 292, non invenias. Ita sunt in libris Graecis 7po, anni plures quam 
+      <lb ed="#C" n="37"/>in Hebraicis. Et numeros Hebraicos multo Graecis veriores esse omnes. 
+      <lb ed="#C" n="38"/>concedunt. Genes. 5. in libris Graecis Adamus vixisse dicitur annos 230. 
+      <!--95.xml-->
+      <pb ed="#L" n="86"/>
+               <lb ed="#C" n="1"/>aut vt est in quibusdam exemplaribus, 3 30. cum Sethum genuisset. 
+      He<lb ed="#C" n="2" break="no"/>braeus vero codex testatur Sethum esse genitum, cum iam Adamus 
+      an<lb ed="#C" n="3" break="no"/>nos 130. haberet. Et est in reliquis eiusmodi dissimilitudo term porum, 
+      vr<lb ed="#C" n="4" break="no"/>verum sit quod scripsit Hieronymus, a septuaginta ermatum esse in 
+      nu<lb ed="#C" n="5" break="no"/>meris. Illud vero ridiculum est, quod Methusaleni secundum Graecam. 
+      <lb ed="#C" n="6"/>transsationem annos 14. post diluvium superstes fuerit. Ubi enim in 
+      di<lb ed="#C" n="7" break="no"/>luvio permansit? Aut quomodo servatus est? In arca quidem non fuit: 
+      <lb ed="#C" n="8"/>in qua non plures omnino quam octo homines fuisse Scriptura: 
+      <lb ed="#C" n="9"/>testatur. Itaque hoc palam quidem falsum est in editione Graeca. 
+      He<lb ed="#C" n="10" break="no"/>braeus autem liber longe verius de Methusalemi annis aetateque scripsit: 
+      <lb ed="#C" n="11"/>vnde illum esse eodem anno, quo tota terra diluvio oppressa est, 
+      mortu<lb ed="#C" n="12" break="no"/>lum colligimus. Hac de re Augustinus disserit, lib. 15. cap. 11. de Civit.  
+      <lb ed="#C" n="13"/>Dei. Eiusmodi est, quod lonae 3. in Hebraico libro exitium Ninivitis 
+      <lb ed="#C" n="14"/>post quadragesimum diem denunciatur a lona. At in Graeca aliter 
+      legi<lb ed="#C" n="15" break="no"/>mus: Adhuc tres dies, &amp; Ninive destruetur: quam esse falsamlectionem, 
+      <lb ed="#C" n="16"/>manifestum est. Vix enim peragrare Civitatem tribus diebus potuit. 
+      Au<lb ed="#C" n="17" break="no"/>gustinus Lib. 18. c. 44. de Civit. Dei, in hac numeri mutatione 
+      nescio<lb ed="#C" n="18" break="no"/>quid mysterij confinxit, vt septuaginta interpretum authoritatem 
+      tue<lb ed="#C" n="19" break="no"/>retur, quam tamen in superiore loco de Methusalem defendere non 
+      po<lb ed="#C" n="20" break="no"/>tuit. Ex his aliisque hujusmodi innumeris concludi potest, aut hanc 
+      Grae<lb ed="#C" n="21" break="no"/>cam versionem, quae ad nostra tempora pervenit, non illam esse quam? 
+      <lb ed="#C" n="22"/>septuaginta Iudaici seniores ediderunt: aut esse tam infinite foedeque 
+      <lb ed="#C" n="23"/>depravatam, vt authoritatis perexiguae nunc sit. Nam ne ipse 
+      Hierony<lb ed="#C" n="24" break="no"/>mus puram habuit transsationem Graecam septuaginta interpretum. 
+      <lb ed="#C" n="25"/>Illam enim, quam habuit, corruptam vitiosamque esse, saere in 
+      com<lb ed="#C" n="26" break="no"/>mentariis conqueritur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

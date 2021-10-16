@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="197"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e18191"><!-- con1q3c1 -->
+            <head xml:id="wWpoi1-e18191-Hd1e106">Caput 1</head>
+            <p xml:id="wWpoi1-e18191-d1e109">
+      <!--206.xml-->
+               <pb ed="#L" n="197"/>
+               <lb ed="#C" n="1"/>CONTROVERSIAE PRIMAE 
+      <lb ed="#C" n="2"/>QVAESTIO TERTIA. DE SCRI¬ 
+      <lb ed="#C" n="3"/>pturae authoritate, 
+      <lb ed="#C" n="4"/>CAPVT PRIMVX. 
+      </p>
+            <p xml:id="wWpoi1-e18191-d1e125">
+               <lb ed="#C" n="5"/>De statu Questiou 
+      <lb ed="#C" n="6"/>Nprincipio huius Quaestionis, repetenda illa sunt:  
+      <lb ed="#C" n="7"/>Christi verba, quae habentur Iohan. 5. 39. iρdναrτς 
+      <lb ed="#C" n="8"/>τus γαρασ, Scrutamini Scripturas. His quidem verbis 
+      <lb ed="#C" n="9"/>ad Scripturas nos Christus relegavit &amp; remisit: 
+      vn<lb ed="#C" n="10" break="no"/>de maximam earum esse fidem, dignitatem, 
+      autho<lb ed="#C" n="11" break="no"/>ritatem sequitur. Igitur inter nos &amp; Papistas 
+      quaeri<lb ed="#C" n="12" break="no"/>tur, unde tantam authoritatem acceperint, &amp; quid 
+      <lb ed="#C" n="13"/>sit, ex quo totum hoc pondus tam divinae authoritatis ac majestatis 
+      <lb ed="#C" n="14"/>pendeat. Locus difficilis ac perplexus: &amp; certe nescio an vlla inter nos 
+      <lb ed="#C" n="15"/>fere gravior Controversia sit. Quod autem optabam, vt in omni 
+      quaesti<lb ed="#C" n="16" break="no"/>one sententiam Adversariorum ex Concilij Tridentini decretis 
+      hauri<lb ed="#C" n="17" break="no"/>rem, id in hac causa praestare nequeo. Concilium enim Tridentinum 
+      de<lb ed="#C" n="18" break="no"/>hac Quaestione nihil statuit aut definivit. Itaque Papistarum opinio ex 
+      <lb ed="#C" n="19"/>aliis illorum libris eruenda est. Iesuit a non tractat istam Quaestionem 
+      <lb ed="#C" n="20"/>in hoc loco, sed alibi in Controversia de Conciliis, &amp; ibi etiam paucis 
+      <lb ed="#C" n="21"/>ac tenuiter. Quia autem ad Scripturae naturam ac vim pertinet, 
+      cognos<lb ed="#C" n="22" break="no"/>cere quae sit eius authoritas, ego eam hoc locotractandam putavi. 
+      Sin<lb ed="#C" n="23" break="no"/>gulorum quidemPapistarum hac de re opiniones enumerare, &amp; quid s 
+      <lb ed="#C" n="24"/>de hac re omnes scripserunt conquitere, molestum nimis ac laboriosum. 
+      <lb ed="#C" n="25"/>esset. Negant nunc, qui peritiores &amp; doctiores habentur, se faceret 
+      <lb ed="#C" n="26"/>Scripturam Ecclesia inferiorem: sic enim Bellarminus, sic alij quidam 
+      <lb ed="#C" n="27"/>aperte profitentur, &amp; sibi fieri a nobis iniuriam conqueruintur. Sed illos 
+      <lb ed="#C" n="28"/>Scripturae authoritatem ex Ecclesia suspendere, atque ita revera 
+      Scrip<lb ed="#C" n="29" break="no"/>turam Ecclesia inferiorem facere, &amp; nos nullam illis injuriam facere, 
+      <lb ed="#C" n="30"/>quando hoc iis tribuimus, ex ipsorum non infimis Theologis patebit.  
+      <lb ed="#C" n="31"/>Echius in Enchirid. de authoritate Ecclesiae, respons. 3. ad Obiect 
+      hae<lb ed="#C" n="32" break="no"/>reticorum, ait Ecclesiam esse Scripturis antiquiorem, &amp; Scripturam non esse 
+      <lb ed="#C" n="33"/>authenticam, nisi ecclesiae authoritate. Et hanc responsionem Papissis 
+      mi<lb ed="#C" n="34" break="no"/>rifice placere, ex marginali nota apparet, ubi hoc argumentum 
+      Achis<lb ed="#C" n="35" break="no"/>les dicitur pro Catholicis. Vtrum vero Achille a haec ratio sit necne, dein¬ 
+      <!--207.xml-->
+      <pb ed="#L" n="198"/>
+               <lb ed="#C" n="1"/>ceps apparebit. Idem etiam hanc propositionem inter assertiones 
+      haere<lb ed="#C" n="2" break="no"/>tic as ponit, nempe, Maior est Scripturae, quam Ecclesiae, authoritas, &amp; 
+      con<lb ed="#C" n="3" break="no"/>trariam propositionem Catholicam esse affirmat. Nonne palam 
+      Eccle<lb ed="#C" n="4" break="no"/>siae Scripturam subjicit? Atque hoc est, quod in jure Canonico tam 
+      saepe<lb ed="#C" n="5" break="no"/>reperitur, Ecclesia est supra Scripturam. Pighius, Lib. 1. de Hieratch. 
+      Ec<lb ed="#C" n="6" break="no"/>clesiast. cap. 2. disputat contra Scripturarios (sic enim nos vocat) 
+      Scrip<lb ed="#C" n="7" break="no"/>turae authoritatem non posse defendi sine traditione Ecclesiastica: &amp; ait 
+      <lb ed="#C" n="8"/>omnem Scripturae authoritatem apud nos ex traditione Ecclesiasticat 
+      <lb ed="#C" n="9"/>pendere, nec posse nos aliter Scripturis credere, quam quia Ecclesia illis 
+      <lb ed="#C" n="10"/>testimonium pethibet. Eius haec diserta verba sunt: Omnis quae nuncapud 
+      <lb ed="#C" n="11"/>nos est Scripturarum authoritas, ab Ecclesiae authoritate dependet necessarios. 
+      <lb ed="#C" n="12"/>Hinc factum est (inquit) vt Marci Evangelium, qui non fuit Apostolus, 
+      <lb ed="#C" n="13"/>reciperetur, Thomae vero, qui fuit Apostolus, non reciperetur. Hinc 
+      eti<lb ed="#C" n="14" break="no"/>am factum (inquit) vt Lucae Evangelium, qui non vidit Christum, 
+      reti<lb ed="#C" n="15" break="no"/>neatur, Nicodemi vero Evangelium, qui Christum vidit, rejiciatur. 
+      At<lb ed="#C" n="16" break="no"/>que hoc quidem ille multis verbis disputat, Hermannus quidam, 
+      impu<lb ed="#C" n="17" break="no"/>dentissimus Papista, affirmat Scripturas tantum valere, quantum valent  
+      <lb ed="#C" n="18"/>Arsopi fabulae, nisi accederet Ecclesiae testimonium. Impudenter hoc  
+      <lb ed="#C" n="19"/>certe ab illo, ac blaspheme dictum est. Quod cum a Brentio in 
+      Confessi<lb ed="#C" n="20" break="no"/>one Vittembergica objectum esset, defenditur ab Hosio, Lib. 3. de 
+      au<lb ed="#C" n="21" break="no"/>thoritate Scripturae, vtpie dictum: vbi etiam affirmat, Scripturas non 
+      <lb ed="#C" n="22"/>magni ponderis futuras esse, nisi propter Ecclesiae testimonium. Revera 
+      <lb ed="#C" n="23"/>(inquit) nisi nos Ecclesiae doceret authoritas hanc Scripturam esse Canonicam, 
+      <lb ed="#C" n="24"/>pere xiguam apud nos pondus haberet. Ex quibus hanc esse Papistarum 
+      sen<lb ed="#C" n="25" break="no"/>tentiam quis non videt, Maiorem revera Ecclesiae, quam Scripturae, 
+      au<lb ed="#C" n="26" break="no"/>thoritatem esse. Sed alij Papistae iam cautius paulo &amp; accuratius 
+      loqui<lb ed="#C" n="27" break="no"/>incipiunt. Cocleus in Replica sua contra <name xml:id="wWpoi1-e18191-Nd1e257">Bullingerum</name>, cap. 2. 
+      distinctio<lb ed="#C" n="28" break="no"/>nequadam vtitur; Scripturas quidem ex se firmas, claras, perfectas, 
+      fide<lb ed="#C" n="29" break="no"/>quedignissimas esse, vtpote Dei opus, sed quoad nos tamen 
+      approbatio<lb ed="#C" n="30" break="no"/>ne ac commendatione Ecclesiae indigere, propter mentis nostrae 
+      pravi<lb ed="#C" n="31" break="no"/>tatem, &amp; intellectus nestri imbecillitatem. Atque illud quidem 
+      Aristote<lb ed="#C" n="32" break="no"/>lis authoritate confirmat, qui in Metaphysicis suis ait, ita se habere 
+      intel<lb ed="#C" n="33" break="no"/>lectum nostrum ad res divinas, vt se habent oculi noctuarum ad 
+      lumen<lb ed="#C" n="34" break="no"/>solis. Sic Canus in locis communibus, Lib. 2. cap. 6. ait, nobis non 
+      con<lb ed="#C" n="35" break="no"/>stare, Scripturas a Deo prodiisse, nisi ex Ecclesiae testimonio. Sic 
+      Sta<lb ed="#C" n="36" break="no"/>pletonus noster toto pene Lib. 9. Doctrinal. Princip. hanc 
+      Controverfi<lb ed="#C" n="37" break="no"/>am explicat: &amp; Cap. 19. quaestionis statum in quirit, ubi ait non quaeri, 
+      <lb ed="#C" n="38"/>ytrum Scriptura in se sacra ac divina sit, sed unde nobis constet eam sa¬ 
+      <!--208.xml-->
+      <pb ed="#L" n="199"/>
+               <lb ed="#C" n="1"/>eram ac divinam esse: ideoque Calvinum reprehendit, quod statum 
+      quae<lb ed="#C" n="2" break="no"/>stionis aliter proponeret, cum diceret Papistas affirmare, ab Ecclesia 
+      pen<lb ed="#C" n="3" break="no"/>dere, quae reverentia Scripturae debeatur. Omni enim reverentia (inquit)  
+      <lb ed="#C" n="4"/>Scripturae in se dignae sunt, non autem quoad nos in tanto honore per 
+      se<lb ed="#C" n="5" break="no"/>haberentur. Longe aliud est, inquit, quam ab Ecclesia pendere, qui libri  
+      <lb ed="#C" n="6"/>in Scripturae Catalogo censeantur. Illud enim (ait) Scripturae 
+      reverenti<lb ed="#C" n="7" break="no"/>am considerat, vt in seipsa est: hoc eandem quoad nos. Sed quid 
+      quaeso<lb ed="#C" n="8" break="no"/>interest inter has duas sententias, Ex Ecclesiae iudicio pendet, quanta 
+      re<lb ed="#C" n="9" break="no"/>verentia Scripturae debeatur, &amp;, Ex Ecclesiae iudicio pendet, qui libri sint  
+      <lb ed="#C" n="10"/>in Canonem recipiendi, cum sacra Scriptura, cui reverentia divina 
+      debe<lb ed="#C" n="11" break="no"/>tur, in libris tantum Canonicis reperiatur? Papistae posterius affirmant, 
+      <lb ed="#C" n="12"/>ergo &amp; prius. Eadem est sententia Iesuitae, vt apparet in Controversia 
+      <lb ed="#C" n="13"/>de Concilijs, quaest. 2. vbi ait Scripturas non egere approbatione 
+      Eccle<lb ed="#C" n="14" break="no"/>siae, quodque Ecclesia dicitur eas approbare, id nihil esse aliud, quam 
+      de<lb ed="#C" n="15" break="no"/>clarare has Scripturas esse Canonicas. Similiter etiam Andradius scribit, 
+      <lb ed="#C" n="16"/>in 32. Lib. Defens. Trident. Concil. Ecclesiam non tribuere Scripturae 
+      <lb ed="#C" n="17"/>suam authoritatem, sed nobis tantum declarare, quanta eius sit in se 
+      au<lb ed="#C" n="18" break="no"/>thoritas. Tolerabilis haec quidem sententia videri possit, Scripturam? 
+      <lb ed="#C" n="19"/>scilicet esse in se sacram, ac divinam, sed talem a nobis non agnosci, nisi 
+      <lb ed="#C" n="20"/>propter Ecclesiae testimonium. At in secundo Libro multo idem 
+      perver<lb ed="#C" n="21" break="no"/>sius hoc modo: Neque enim in ipsis libris, quibus sacramysteria conscripta 
+      <lb ed="#C" n="22"/>sunt, quic quam inest diuvinitatis, quae nos ad credendum, quae illis continentur,  
+      <lb ed="#C" n="23"/>religione aliqua constringat: sed Ecclesiae, quae codices illos sacros esse docet, &amp; 
+      <lb ed="#C" n="24"/>antiquorum Patrum fidem &amp; pietatem commendat, tanta est vis &amp; amplitudo, 
+      <lb ed="#C" n="25"/>vi illis nemo sine gravissima impietatis nota possit repugnare. Canisius in 
+      <lb ed="#C" n="26"/>Catechismo suo, Cap. 3. Sect.16. ait nec essariam esse nobis Ecclesiae 
+      au<lb ed="#C" n="27" break="no"/>thoritatem, primum in eo quidem, vt Scripturas veras &amp; Canonicas ab 
+      a<lb ed="#C" n="28" break="no"/>dulterinis certo discernamus. Non igitur Scripturam ab Ecclesia penderet 
+      <lb ed="#C" n="29"/>volunt quoad se, sed quoad nos. Et nunc propemodum verum 
+      causae<lb ed="#C" n="30" break="no"/>statum tenemus; in quo nonnihil profecimus. Nam sic perplexe, &amp; 
+      am<lb ed="#C" n="31" break="no"/>bigue, &amp; obscure loquuntur, vi non facile intelligas quid sibi velint. Et  
+      <lb ed="#C" n="32"/>haec videri possint non admodum improbanda, Scripturam habere in 
+      se<lb ed="#C" n="33" break="no"/>authoritatem, sed eam non constare nobis, nisi propter Ecclesiam. Sed. 
+      <lb ed="#C" n="34"/>qua in re positum sit ipsum momentum punctumque Controversiae, 
+      <lb ed="#C" n="35"/>mox ostendemus. 
+      </p>
+            <p xml:id="wWpoi1-e18191-d1e365">
+               <lb ed="#C" n="36"/>Interimquid Ecclesiae nomine significent, videamus. Ecclesiae autem 
+      <lb ed="#C" n="37"/>nomine in hac quaestione intelligunt Papistae, non eam tantum 
+      Eccle<lb ed="#C" n="38" break="no"/>siam, quae fuit temporibus Apostolorum (nam <name xml:id="wWpoi1-e18191-Nd1e373">Thomas Valdensis</name> eo 
+      <!--209.xml-->
+      <pb ed="#L" n="200"/>
+               <lb ed="#C" n="1"/>nomine reprehenditur a Cano, 2. Lib. loc. commun. Cap. 6. &amp; a 
+      <name xml:id="wWpoi1-e18191-Nd1e383">Staple<lb ed="#C" n="2" break="no"/>tono</name> etiam, Lib.9. Doctrinal. Princip. Cap. 12. &amp; 13) sed succedentem. 
+      <lb ed="#C" n="3"/>etiam atque adeo praesentem Ecclesiam, non autem vniversum 
+      popu<lb ed="#C" n="4" break="no"/>lum, sed pastores tantum. <name xml:id="wWpoi1-e18191-Nd1e392">Canus</name> quando hanc Quaestionem tractat, 
+      Ec<lb ed="#C" n="5" break="no"/>clesiae nomine aliquando Pastores, aliquando Concilia, aliquando 
+      Pon<lb ed="#C" n="6" break="no"/>tificem Romanum intelligit. <name xml:id="wWpoi1-e18191-Nd1e400">Stapletonus</name> Lib. 9. Cap. 1. hanc 
+      distin<lb ed="#C" n="7" break="no"/>ctionem adhibet: Ecclesia, vt magistros &amp; pastores populi fidelis 
+      signi<lb ed="#C" n="8" break="no"/>ficat, non modo veneratur Scripturam, sed &amp; suo testimonio commendat,  
+      <lb ed="#C" n="9"/>tradit, consignat, nimirum respective ad populum sibi subjectum: Sed 
+      <lb ed="#C" n="10"/>vt Ecclesia significat populum, aut etiam Pastores, tanquam membra 
+      <lb ed="#C" n="11"/>&amp; privatas personas, tantummodo veneratur. Et cum Ecclesia obsignat: 
+      <lb ed="#C" n="12"/>Scripturam, non ex dubia simpliciter, sed quoad nos, authenticam facit, nec 
+      <lb ed="#C" n="13"/>authenticam simpliciter, sed quoad nos. Hinc quid Ecclesiae nomine 
+      intel<lb ed="#C" n="14" break="no"/>ligant, &amp; quem admodum Scripturam ab Ecclesia consignari atque 
+      ap<lb ed="#C" n="15" break="no"/>probari statuant, perspicimus. Iam quae nostra sit hac de re sententia, 
+      <lb ed="#C" n="16"/>breviter exponemus. Non videtur magna controversia, tamen est 
+      maxi<lb ed="#C" n="17" break="no"/>ma. Primum autem non negamus ad Ecclesiam pertinere, ve Scripturas 
+      <lb ed="#C" n="18"/>approbet, agnoscat, recipiat, promulget, commendet suis omnibus: &amp; 
+      <lb ed="#C" n="19"/>hoc testimonium esse verum, atque ab omnibus suscipi oportere 
+      dici<lb ed="#C" n="20" break="no"/>mus. Non ergo Ecclesiae testimonium respuimus, vt de nobis Papistae 
+      <lb ed="#C" n="21"/>mentiuntur, sed amplectimur. Sed negamus nos tantum ob illam 
+      Eccle<lb ed="#C" n="22" break="no"/>siae commendationem Scripturis fidem adhibere. Esse enim dicimus 
+      <lb ed="#C" n="23"/>certius ac illustrius testimonium, quo nobis persuadeatur hos libros 
+      sa<lb ed="#C" n="24" break="no"/>cros esse, testimonium nempe internum Spiritus sancti, sine quo 
+      Eccle<lb ed="#C" n="25" break="no"/>siae commendatio nullius apud nos ponderis aut momenti futura esset. 
+      <lb ed="#C" n="26"/>Iniutiosi igitur nobis sunt Papistae, dum affirmant nos Ecclesiae 
+      authori<lb ed="#C" n="27" break="no"/>tatem reijcere, ac nihili aestimare. Nos enim Ecclesiae testimonium 
+      li<lb ed="#C" n="28" break="no"/>benter amplectimur, eiusque authoritatem admittimus; sed affirmamus 
+      <lb ed="#C" n="29"/>longe aliud certius, &amp; verius, &amp; augustius testimonium esse, quam 
+      Eccle<lb ed="#C" n="30" break="no"/>siae. Summa nostrae sententiae est, esse Scripturam αυτυπςον, id est, ex se 
+      su<lb ed="#C" n="31" break="no"/>am omnem authoritatem &amp; fidem habere, esse agnoscendam, esse 
+      re<lb ed="#C" n="32" break="no"/>cipiendam, non tantum quia Ecclesia sicstatuit &amp; iussit, sed quia a Deo 
+      <lb ed="#C" n="33"/>prodiit: prodiisse autem a Deo, non ab Ecclesia, sed ex Spiritu sancto, 
+      <lb ed="#C" n="34"/>certo intelligi. Ecclesiam vero intelligimus, non vtilli, Pastores, 
+      Episco<lb ed="#C" n="35" break="no"/>pos, Concilia, Papam; sed totam fidelium multitudinem. Ea 
+      enimdi<lb ed="#C" n="36" break="no"/>dicit ex Spiritu sancto, hanc Scripturam esse sacram, hos libros esse 
+      divi<lb ed="#C" n="37" break="no"/>nos. Hanc persuasionem Spiritus fanctus in omnium fidelium mentibus 
+      <lb ed="#C" n="38"/>consignavit. Status igitur Controversiae est, Utrum credendum sit, has 
+      <!--210.xml-->
+      <pb ed="#L" n="201"/>
+               <lb ed="#C" n="1"/>Scripturas, quas habemus, sacras ac Canonicas esse, tantummodo 
+      pro<lb ed="#C" n="2" break="no"/>pter Ecclesiae testimonium, an potius propter internam Spiritus Sancti 
+      <lb ed="#C" n="3"/>persuasionem: quae facit vt quemadmodum Scriptura est in se 
+      Canoni<lb ed="#C" n="4" break="no"/>ca atque authentica, sic nobis quoque videatur, &amp; sine qua testimonium 
+      <lb ed="#C" n="5"/>Ecclesiae mutum atque invalidum est. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

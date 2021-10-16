@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="305"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e28181"><!-- con1q5c3 -->
+            <head xml:id="wWpoi1-e28181-Hd1e106">Caput 3</head>
+            <p xml:id="wWpoi1-e28181-d1e109">
+               <lb ed="#C" n="6"/>CAPUTII 
+      <lb ed="#C" n="7"/>Ee; asauggaggugagguig
+    </p>
+            <p xml:id="wWpoi1-e28181-d1e116">
+               <lb ed="#C" n="8"/>FEcimus prius duas partes huius Quaestionis, quarum prior est, de 
+      <lb ed="#C" n="9"/>authoritate interpretandi Scripturas, penes quos sit; posterior 
+      ve<lb ed="#C" n="10" break="no"/>to de mediis, quibus ad verum Scripturae sensum perveniatur. De 
+      priori<lb ed="#C" n="11" break="no"/>iam primo in loco agendum est, ac deinceps de posteriori, suo loco. Quod  
+      <lb ed="#C" n="12"/>ergo ad priorem illam huius Controversiae partem attinet, Adversarij 
+      <lb ed="#C" n="13"/>quidem Ecclesiae authoritatem hanc tribuunt, de qua loquimur, &amp; 
+      pe<lb ed="#C" n="14" break="no"/>nes eam esse dicunt interpretari Scripturam. Sic enim Concil. Trident.  
+      <lb ed="#C" n="15"/>Sess. 4. cuius sententiam <name xml:id="wWpoi1-e28181-Nd1e135">Stapletonus</name> Lib. 10. cap. 11. ponit, &amp; exponit; 
+      <lb ed="#C" n="16"/>nemo vberius. Sed de hoc etiam quaerendum est. Nam &amp; nos quoque 
+      <lb ed="#C" n="17"/>dicimus Ecclesiam esse interpretem Scripturae, &amp; in Ecclesia tantum 
+      do<lb ed="#C" n="18" break="no"/>num hoc interpretandi residere, sed negamus ad certos homines 
+      pertine<lb ed="#C" n="19" break="no"/>re, aut ad certam aliquam sedem hominumque successionem alligari. 
+      Vi<lb ed="#C" n="20" break="no"/>dendum ergo est, quem sensum habeat ἀιoμα &amp; aῆμμα illud Papisticum, 
+      <lb ed="#C" n="21"/>quo tam confidenter asserunt, Ecclesiam habere authoritatem 
+      inter<lb ed="#C" n="22" break="no"/>pretandi Scripturam. Huius vero assertionis sententia videtur ex 
+      Staple<lb ed="#C" n="23" break="no"/>tono peti scirique posse, quisvt prius dictum est) concilium Tridentinum 
+      <lb ed="#C" n="24"/>copiose interpretatur. Ait autem <name xml:id="wWpoi1-e28181-Nd1e158">Stapletonus</name>, illum non esse Scripturae 
+      <lb ed="#C" n="25"/>sensum, quem quivis Episcopus aut Pastor Catholicus affert, sed certas 
+      <lb ed="#C" n="26"/>quasdam cautiones adhibendas esse monet, quae quidem sunt huiusmodi. 
+      </p>
+            <p xml:id="wWpoi1-e28181-d1e166">
+               <lb ed="#C" n="27"/>Prima cautio est, non esse audiendos Ecclesiae hostes. Hoc nos quoque 
+      con<lb ed="#C" n="28" break="no"/>cedimus, cum de Scripturae sensu quaeritur, hostes Ecclesiae non esse 
+      con<lb ed="#C" n="29" break="no"/>sulendos. Sed quae est Ecclesia? Ille pro concesso sumit, illorum Ecclesiam 
+      <lb ed="#C" n="30"/>esse veram Ecclesiam; quod nemo nostrum vnquam concedet. Secunda 
+      <lb ed="#C" n="31"/>cautio est, Non esse Catholico alicui, quantumvis docto, credendum 
+      ne<lb ed="#C" n="32" break="no"/>cessatio, si fuerit privatus. Oportet ergo personam gerere publicam, &amp; 
+      <lb ed="#C" n="33"/>magistratum esse, cui in hac re credendum sit. Tertia cautio est, Oporteres 
+      <lb ed="#C" n="34"/>nos considerate, quid Episcopi &amp; Pastores Ecclesiae de huius vel illius 
+      Scri<lb ed="#C" n="35" break="no"/>pturae interpretatione senserint, tradiderint, statuerint. Quarta cautio est, 
+      <lb ed="#C" n="36"/>Quod illi statuerint, id sine omni dubitatione recipiendum tenendumque 
+      <!--315.xml-->
+      <pb ed="#L" n="306"/>
+               <lb ed="#C" n="1"/>esse. Sed hic duas conditiones interponit. Prima est: Si modo in vnitate 
+      <lb ed="#C" n="2"/>Catholica pemnanserint, hoc est, si authoritati Pontificis se quiete 
+      placi<lb ed="#C" n="3" break="no"/>deque subjecerint, atque ab eo non defecerint. Secunda est: Si cum suis 
+      coe<lb ed="#C" n="4" break="no"/>piscopis omnibus consenserint. Sed hoc modo ne communes quidem 
+      <lb ed="#C" n="5"/>Patrum expositiones recipiendae aut probandae sunt, quia ignoramus, 
+      v<lb ed="#C" n="6" break="no"/>trum cum suis coepiscopis consenserint. Multi enim alij illorum 
+      tempo<lb ed="#C" n="7" break="no"/>ribus Episcopi fuerunt, quorum nulla omnino scripta ac 
+      monumenta<lb ed="#C" n="8" break="no"/>remanent. Unde nos scire possumus Augustinum, Ambrosium, &amp; alios 
+      su<lb ed="#C" n="9" break="no"/>is coepiscopis consensisse, quorum libri nunc in manibus non sunt? 
+      Quin<lb ed="#C" n="10" break="no"/>ta cautio est, Oportere nos sententiam istam, de qua dubitamus, ad 
+      Con<lb ed="#C" n="11" break="no"/>cilium referre. Sed non possumus semper, &amp; statim, quando de sensu 
+      ali<lb ed="#C" n="12" break="no"/>cuius loci dubitamus, Concilium congregare. Et Concilia falli possunt, 
+      <lb ed="#C" n="13"/>vt post suo loco docebimus. Sequitur ergo alia cautio, ea vero est 
+      hu<lb ed="#C" n="14" break="no"/>jusmodi: Quia difficile inprimis est Concilia congregare, &amp; ea non 
+      ha<lb ed="#C" n="15" break="no"/>bent summam authoritatem, &amp; quandoque etiam errant, oportet 
+      supre<lb ed="#C" n="16" break="no"/>mi Pastoris, vel (ut ille loquitur) supremi capitis sententiam expectare; 
+      <lb ed="#C" n="17"/>qua scilicet intellecta omnis dubitatio cessabit. Sed quid opus fuit istis 
+      <lb ed="#C" n="18"/>ambagibus? cur non tecto pede, omissis Patribus, Episcopis, Conciliis, 
+      <lb ed="#C" n="19"/>ad summum Pastorem ac Pontificem relegamur? cur non illum primo 
+      <lb ed="#C" n="20"/>adimus &amp; consulimus? cur non ad illum primo quoque tempore 
+      quaesti<lb ed="#C" n="21" break="no"/>ones nostras dubitationesque deferimus, quandoquidem tandem ad 
+      il<lb ed="#C" n="22" break="no"/>lum omnia necessario devolvenda sunt? Esset hoc forsan Pontificinimis 
+      <lb ed="#C" n="23"/>molestum, de Scripturis tam saepe respondere, praesertim aliis 
+      impedito<lb ed="#C" n="24" break="no"/>gravioribus negotiis, quibus libentius oc cupatur. Sed nunc hic (opinor)  
+      <lb ed="#C" n="25"/>consistendum est. Nam postquam ad Papam perventum est, quid 
+      am<lb ed="#C" n="26" break="no"/>plius desideremus? At nondum tamen satis factum est. Videt enim 
+      Sta<lb ed="#C" n="27" break="no"/>pletonus nec Patrum, nec Conciliorum, nec Pontificum Romanorum. 
+      <lb ed="#C" n="28"/>omnes expositiones esse veras. Ergo alijs adhuc cautionibus opus est. 
+      <lb ed="#C" n="29"/>Nani multae adhuc dubitationes occurrunt de istis cautionibus, &amp; 
+      non<lb ed="#C" n="30" break="no"/>dum ad exitum perducta res est: ac proinde septimam cautionem 
+      adiun<lb ed="#C" n="31" break="no"/>git, quae illa nimirum est, Sensum Scripturae ita amplectendum 
+      tenen<lb ed="#C" n="32" break="no"/>dumque esse, quemadmodum Ecclesia eum teneri vult, eoquegradum,j 
+      <lb ed="#C" n="33"/>quo illa: nempe, quod ex fide tenendum esse Ecclesia asserit, id nos 
+      quo<lb ed="#C" n="34" break="no"/>que ex fide tenere oportet, quod vero illa vtcommodum &amp; probabile? 
+      <lb ed="#C" n="35"/>teneri voluit ac docuit, id a nobis quoque similiter tenendum est. Sed  
+      <lb ed="#C" n="36"/>quomodo sciemus, quae Ecclesia ex fide, quae probabiliter teneat? Id 
+      <lb ed="#C" n="37"/>proxima cautione ex plicat. Octava ergo cautio est, Illud Ecclesiam ex 
+      <lb ed="#C" n="38"/>fide tenere, nobisque etiam ex fide tenendum proponere, primo, quod sub 
+      <!--316.xml-->
+      <pb ed="#L" n="307"/>
+               <lb ed="#C" n="1"/>anathemate proponit: secundo, quod contra haereticos defendit 
+      constan<lb ed="#C" n="2" break="no"/>ter: tertio, quod pro sensu orthodoxo tradit: quarto, quod denique 
+      elici<lb ed="#C" n="3" break="no"/>tur adhibitis illis medijs, quae Stapletonus postea traditurus est. Nona 
+      cau<lb ed="#C" n="4" break="no"/>tio est: Quaecunque Episcopi scripserint &amp; dixerint, aut 
+      quomodocun<lb ed="#C" n="5" break="no"/>que Scripturam exposuerint, non necessario recipiendam esse illorum 
+      <lb ed="#C" n="6"/>expositionem, ii illi obiter tantum scripserint, dixerint, aut exposuerint.  
+      <lb ed="#C" n="7"/>At hoc nos multo magis ambiguos reddit. Quomodo enim nos 
+      certo<lb ed="#C" n="8" break="no"/>intelligemus, quae obiter scripta sunt, quae serio, de industria, &amp; ex 
+      pro<lb ed="#C" n="9" break="no"/>fesso, nisi id ipsi, qui scribunt, nobis significabunt? Certe hic semper 
+      <lb ed="#C" n="10"/>haereamus necesse est. Atque isto quidem modo facile vel certissima 
+      te<lb ed="#C" n="11" break="no"/>stimonia ex Patribus desumpta eludere possunt, si semel responderint, 
+      o<lb ed="#C" n="12" break="no"/>biter, non ex professo, scripta esse. Sed quid de Scholasticis interim 
+      senti<lb ed="#C" n="13" break="no"/>endum est? Id scilicet proxima cautione explicat. Decima ergo cautio est, 
+      <lb ed="#C" n="14"/>Scholasticos non habere certam aut infallibilem authoritatem 
+      interpre<lb ed="#C" n="15" break="no"/>tandi Scripturam. Sic Scholastici in ordinem coguntur. Videte quid sit. 
+      <lb ed="#C" n="16"/>inter hos Episcopum esse. Ita quotquot ex Patribus Episcopi non erant,  
+      <lb ed="#C" n="17"/>horum authoritatem Stapletonus minuit. Tales vero sunt. Origenes, 
+      Ter<lb ed="#C" n="18" break="no"/>tullianus, Hieronymus, Bernardus, Lombardus, Monachi omnes, 
+      Aqui<lb ed="#C" n="19" break="no"/>nas, Bonaventura, Scotus, Stapletonus ipse, &amp; omnes huiusmodi 
+      scrip<lb ed="#C" n="20" break="no"/>tores, qui nondum sunt ad Episcopale munus asciti &amp; provecti. Illorum 
+      <lb ed="#C" n="21"/>ergo interpretationem non sub poena perfidiae, sed tantum sub poena 
+      cras<lb ed="#C" n="22" break="no"/>sae contumaciae sequendam esse dicit. Quid autem de Episcopis 
+      sentien<lb ed="#C" n="23" break="no"/>dum est? Id scilicet proxima cautione ostendit. Undecima ergo cautio est: 
+      <lb ed="#C" n="24"/>Quecunque ipsi etiam Episcopi dixerint, aut scripserint, si non quatenus 
+      <lb ed="#C" n="25"/>Episcopi ex Cathedra docuerint, ea non habere authoritatem certam, 
+      <lb ed="#C" n="26"/>nec esse nobis necessario recipienda. Sed nos non audivimus 
+      Augusti<lb ed="#C" n="27" break="no"/>num &amp; alios Patres e Cathedra docentes, ac proinde nescimus quae 
+      ex<lb ed="#C" n="28" break="no"/>Cathedra docuerint, quae non, &amp; an ex Cathedra omnino docuerint,  
+      <lb ed="#C" n="29"/>nec ne. Illorum duntaxat libros habemus: quid de illis tandem 
+      statue<lb ed="#C" n="30" break="no"/>mus? Eos scilicet recipiendos esse, quos Ecclesia recepit &amp; approbavit,  
+      <lb ed="#C" n="31"/>quorum catalogus a Gelasio proponitur apud Gratian. Causa 15. in tit. 
+      <lb ed="#C" n="32"/>Ecclesia Romana. Sed num illi omnes recipiendi? Nec hoc ipsi dicent: 
+      <lb ed="#C" n="33"/>non enim omnes recipiunt: imo multa in libris illis omnibus habentur,  
+      <lb ed="#C" n="34"/>quae ipsi Papistae rejicere coguntur: ideoque duodecimam addit cautionem, 
+      <lb ed="#C" n="35"/>quae est huiusmodi: Ex quavis Patrum interpretatione non statim posset 
+      <lb ed="#C" n="36"/>certum argumentum colligi. Sequitur deinceps cautio decimatertia, quae 
+      <lb ed="#C" n="37"/>prae cedenti non multum dissimilis est, nempe, Non oportere nos in verba, 
+      <lb ed="#C" n="38"/>Doctoris alicuius, vel Scholastici, vel Ecclesiastici, jurare. Quid igitur? 
+      <!--317.xml-->
+      <pb ed="#L" n="308"/>
+               <lb ed="#C" n="1"/>vbi tandem consistemus? Oltimo addit, Oportere nos ad Ecclesiam 
+      con<lb ed="#C" n="2" break="no"/>fugere, eius sententiam sequi, atque in illius iudicio ac quiescere. 
+      Longae<lb ed="#C" n="3" break="no"/>ambages. Cur non statim recta huc nos deduxit? potuit quidem nos 
+      <lb ed="#C" n="4"/>primo ad Ecclesiam remittere, &amp; totum hoc negotium paucis 
+      expedi<lb ed="#C" n="5" break="no"/>re. At quaenam tandem est haec Ecclesia, ad quam postremo confugere, 
+      <lb ed="#C" n="6"/>&amp; cuius interpretationi adhaerescere debemus? Romana scilicet: nam 
+      a<lb ed="#C" n="7" break="no"/>liam non intelligunt, quotiescunque de Ecclesia loquuntur. Ad 
+      Roma<lb ed="#C" n="8" break="no"/>nam ergo Ecclesiam Scripturae sensus referendus est. At quae tandem 
+      <lb ed="#C" n="9"/>est Romana Ecclesia? num omnes illi consulendi sunt, qui ad eam 
+      per<lb ed="#C" n="10" break="no"/>tinent? Nequaquam: hoc enim nemo vel per totam vitam praestare 
+      po<lb ed="#C" n="11" break="no"/>test. Quid ergo? nempe Episcopos tantum &amp; Pastores consulere 
+      debe<lb ed="#C" n="12" break="no"/>mus: nam per Romanam Ecclesiam illos semper intelligunt. At ne illos 
+      <lb ed="#C" n="13"/>quidem omnes vnquam possumus convenire. Ergo tandem Romana. 
+      <lb ed="#C" n="14"/>Ecclesia est summus Pontifex: ad illum recurrendum est, ex illius ore est, 
+      <lb ed="#C" n="15"/>pendendum, ab illo vera Scripturarum interpretatio petenda est. Sed 
+      <lb ed="#C" n="16"/>num aequum postulant Papistae, dum volunt vt nosmetipsos ejus judicio 
+      <lb ed="#C" n="17"/>submittamus, atque ex illius interpretatione pendeamus, quem nos 
+      ac<lb ed="#C" n="18" break="no"/>cusamus, vt falsum Scripturarum interpretem, immo quem ipsissimum 
+      <lb ed="#C" n="19"/>dicimus esse Antichristum? Certe iniqui admodum sunt, &amp; palam suam, 
+      <lb ed="#C" n="20"/>diffidentiam produnt, cum fateantur se non posse suam causam nobis 
+      <lb ed="#C" n="21"/>probare, nisi ad eum provocent, &amp; ad ejus iudicium omnia referant, 
+      <lb ed="#C" n="22"/>quem a suis semper partibus stare velle, &amp; nolle quicquam unquam 
+      con<lb ed="#C" n="23" break="no"/>tra illos aut se pronunciare sciunt. Atque hae Stapletoni cautiones sunt.  
+      </p>
+            <p xml:id="wWpoi1-e28181-d1e418">
+               <lb ed="#C" n="24"/>Iesuita vero ista paucioribus complexus est. Primo ait, Scripturae sensum 
+      <lb ed="#C" n="25"/>quaerendum esse in Patribus, quando conveniunt. Sed raro conveniunt, 
+      quo<lb ed="#C" n="26" break="no"/>modo ergo illorum inter se convenientia nobis certo constabit? Praeterea, 
+      <lb ed="#C" n="27"/>quando conveniunt, quare his convenientibus maois credendum est, quam 
+      <lb ed="#C" n="28"/>Scripturae secum consentienti? Secundo: Si adhuc dubitemus de sensu 
+      Scriptu<lb ed="#C" n="29" break="no"/>rae, vult nos eum quaerere in Concilio confirmato a summo Pastore. Tertio? 
+      Si<lb ed="#C" n="30" break="no"/>ne adhuc quidem dubitatio omnis tollatur, quaerendum est ab ipsosummo, 
+      <lb ed="#C" n="31"/>Pastore cum Concilio Pastorum. Vide quam timide &amp; titubanter 
+      desuosum<lb ed="#C" n="32" break="no"/>mo Pontifice loquatur. Sed annon Pontifex habet per se authoritateminter 
+      <lb ed="#C" n="33"/>pretandi Scripturam? Non audet affirmare: &amp; tamen hoc sensit procul 
+      du<lb ed="#C" n="34" break="no"/>bio. Puduit scilicet eum tantam authoritatem soli Pontifici tribuere. Neque 
+      <lb ed="#C" n="35"/>etiam id prorsus negare audebat. Ideoque timide &amp; perplexe Pontificem 
+      no<lb ed="#C" n="36" break="no"/>minat, cum Concilio Pastorum. Fuit semel magna quaestio, Major: ne esset. 
+      <lb ed="#C" n="37"/>Concilij, an Pontificis, in Scripturis interpretandis authoritas? Olim 
+      crede<lb ed="#C" n="38" break="no"/>Ibant maiorem esse Concilij, quam Pontificis, authoritatem: sed post Con¬
+
+      <!-- out of order 309 through 312 -->
+
+      <!--322.xml-->
+      <pb ed="#L" n="313"/> 
+               <!-- p. 309 out of order -->
+               <lb ed="#C" n="1"/>stantiense ac Basidiense Concilium, Papae maior authoritas tributa est. Hic 
+      ta<lb ed="#C" n="2" break="no"/>men, nescio quo modo, Iesuita Papae Concilium Pastorum adiungit. 
+      Alphon<lb ed="#C" n="3" break="no"/>sus, 18. libr. contra haeres. Cap. 4. veterem opinionem sequi videtur. Ait enim 
+      <lb ed="#C" n="4"/>Concilium solum hanc summam authoritatemhabere: quia Concilium solum 
+      <lb ed="#C" n="5"/>est repraesentativa Ecclesia. Et cap. 6. ait, sedem Apostolicam proximum 
+      <lb ed="#C" n="6"/>post Concilium generale in definiendo locum habere. Explicat vero se postea, 
+      <lb ed="#C" n="7"/>quid intelligat per sedem Apostolicam. Sedes Apostolica, inquit non 
+      tan<lb ed="#C" n="8" break="no"/>tum comprehendit Pontificem summum, sed &amp; Concilium illud, quo 
+      Ponti<lb ed="#C" n="9" break="no"/>fex vtitur, &amp; quo in definiendo adiuvatur: intelligit vero Collegium 
+      Cardi<lb ed="#C" n="10" break="no"/>nalium. Et hoc etiam Concilium Iesuita fortasse hoc loco intelligit, cum 
+      <lb ed="#C" n="11"/>Concilium Pastorum cum Pontifice coniungit. Sed omnes Cardinales 
+      pasto<lb ed="#C" n="12" break="no"/>res non sunt. Quidam enim sunt Presbyteri, quidam Diaconi tantum: 
+      Epis<lb ed="#C" n="13" break="no"/>copos vero tantum isti pastores dicunt. Praeterea, Cardinales cum Papa 
+      or<lb ed="#C" n="14" break="no"/>natus tantum &amp; pompae gratia adsunt; nullum enim locum in definiendo 
+      ha<lb ed="#C" n="15" break="no"/>bent. Imo, etsiomnes Cardinales negarent, quod vult tamen Papa definire 
+      <lb ed="#C" n="16"/>potest. Ergo licet Iesuita Pontifici Concilium Pastorum adiungat, tamen re 
+      <lb ed="#C" n="17"/>vera penes solum Papam est haec authoritas interpetandi: quia caeteris 
+      <lb ed="#C" n="18"/>quantumvis refragrantibus, illius tamen semper sententia stabit atque 
+      vale<lb ed="#C" n="19" break="no"/>bit. Quaeritur ergo Utrum penes Ecclesiam, hoc modo intellectam, sit 
+      au<lb ed="#C" n="20" break="no"/>thoritas interpretandi Scripturas. Papistae aiunt: nos vero negamus. 
+    </p>
+            <p xml:id="wWpoi1-e28181-d1e506">
+               <lb ed="#C" n="21"/>Illorum sententiam accepimus: Iam restat, vtquae nostra sit, videamus. 
+      <lb ed="#C" n="22"/>Nos vero statuimus, summum ius, authoritatem, &amp; indicium interpretandi 
+      <lb ed="#C" n="23"/>Scripturas, esse penes Spiritum sanctum, &amp; penes Scriptuiram ipsam. Neque 
+      <lb ed="#C" n="24"/>haec quidem pugnant inter se. Nam Spiritum sanctum esse summum 
+      Scri<lb ed="#C" n="25" break="no"/>pturae interpretem dicimus: quia vtnos certo simus persuasi de vero 
+      Scriptu<lb ed="#C" n="26" break="no"/>rae sensu, oportet nos per Spiritum sanctum illuminari: alioqui nunquam 
+      il<lb ed="#C" n="27" break="no"/>lam, quae fideliummentibus inest, πuροροειαν assequemur, etsi omnibus 
+      me<lb ed="#C" n="28" break="no"/>diis vtamur. Sed haec est intema tantum persuasio, &amp; nos ipsos tantum 
+      attin<lb ed="#C" n="29" break="no"/>git: alios enim hoc modo non cogimus. Quod vero ad extemam 
+      persuasio<lb ed="#C" n="30" break="no"/>nem attinet, dicimus ipsam Scripturam esse sui ipsius interpretem; ac proinde 
+      <lb ed="#C" n="31"/>ad externum ipsuis Scripturae iudicium veniendum esse, vt aliis persuade 
+      a<lb ed="#C" n="32" break="no"/>mus: in quo viendum est iis mediis, de quibus postea. Ipsam vero 
+      Scriptura<lb ed="#C" n="33" break="no"/>rum interpretationem ad certam sedem &amp; successionem hominum alligatam 
+      <lb ed="#C" n="34"/>esse, prorsus negamus. Hic ergo duo nobis potissimum discutienda &amp; 
+      pro<lb ed="#C" n="35" break="no"/>banda sunt: Primo, Papam sibi non posse hanc potestatem interpretandi. 
+      <lb ed="#C" n="36"/>Scripturas vendicare. Secundo, Scripturas per Scripturas interpretandas este, 
+      <lb ed="#C" n="37"/>Nunc proposito Quaestionis statu, ad certamen ac disputationem 
+      veruen<lb ed="#C" n="38" break="no"/>dum est.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

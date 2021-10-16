@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="458"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e42134"><!-- con1q6c13 -->
+            <head xml:id="wWpoi1-e42134-Hd1e106">Caput 13</head>
+            <p xml:id="wWpoi1-e42134-d1e109">
+               <lb ed="#C" n="11"/>CAPVT DECIMVM TERTIVM. 
+      <lb ed="#C" n="12"/>Euylloggu 
+    </p>
+            <p xml:id="wWpoi1-e42134-d1e116">
+               <lb ed="#C" n="13"/>IAM vero ante quam ad nostra argumenta veniam, aliis eius 
+      argu<lb ed="#C" n="14" break="no"/>mentis respondendum est. Quintum igitur argumentum est a 
+      testi<lb ed="#C" n="15" break="no"/>monio haereticorum, quod procul dubio firmum sit necesse est. Haeretiti 
+      <lb ed="#C" n="16"/>(inquit) omnium temporum, Traditiones reiecerunt: ergo qui contemnunt 
+      <lb ed="#C" n="17"/>Traditiones, sunt haeretici. Ita fecisse Valentinianum, ita etiam fecisse 
+      <lb ed="#C" n="18"/>Marcionem, probat ex Irenaeo, Lib. 3. cap. 2. &amp; Tertulliano, de 
+      Prae<lb ed="#C" n="19" break="no"/>script. Respondeo: primo, Hoc non confirmat, omnes omnium temporum! 
+      <lb ed="#C" n="20"/>haereticos Traditiones rejecisse, quod isti, quos nominat, Traditiones 
+      re<lb ed="#C" n="21" break="no"/>jecerint. Immo ijdem illi haeretici Traditiones amplexi sunt, vtex eodem 
+      <lb ed="#C" n="22"/>Irenaeo &amp; Tertulliano abunde constat. Interim non sequitur hoc 
+      argu<lb ed="#C" n="23" break="no"/>mentum; Omnes haeretici rejecerunt Traditiones; ergo omnes, 
+      quireji<lb ed="#C" n="24" break="no"/>ciunt Traditiones, sunt haeretici. Socundo: Non est mirum, si 
+      Valenti<lb ed="#C" n="25" break="no"/>nianus &amp; Marcion Traditiones huiusmodi rejicerent, quales Irenaeus 
+      <lb ed="#C" n="26"/>intelligit, ex quibus se refelli videbant. Protulit enim Irenaeus 
+      Apostoli<lb ed="#C" n="27" break="no"/>carum Ecclesiatum Traditionem. Haec vero Traditio nihil aliud fuit, quam 
+      <lb ed="#C" n="28"/>Apostolicae doctrinae conservatio &amp; propagatio, per publicum Ecclesiae 
+      <lb ed="#C" n="29"/>ministerium. Nec mirum est istos Traditiones contempsisse, qui 
+      Scrnptu<lb ed="#C" n="30" break="no"/>ras nihili faciebant, &amp; se Apostolis sapientiores esse jactabant. Quod ad 
+      <lb ed="#C" n="31"/>Cyprianum vero attinet, non ille in hoc erravit, quod 
+      consuetudinemre<lb ed="#C" n="32" break="no"/>spueret, &amp; ad Scripturam provocaret, (nam in eo laudatur ab 
+      Augusti<lb ed="#C" n="33" break="no"/>no) sed quod opinionem suam Scripturis confirmari posse existimaret, 
+      <lb ed="#C" n="34"/>quam Scripturae removent. Nam quod Cyprianus consuetudinem 
+      de<lb ed="#C" n="35" break="no"/>precatur, id etiam Gratianus, Dist 8. &amp; 9. comprobat. Subiungit 
+      Bellar<lb ed="#C" n="36" break="no"/>minus Arianos (ut alios omittam) adsolas Scripturas provocasse. Re¬ 
+      <!--468.xml-->
+      <pb ed="#L" n="459"/>
+               <lb ed="#C" n="1"/>spondeo Atiani ad sola verba Scripturae adhaerescebant: nos non ita. Non 
+      <lb ed="#C" n="2"/>enim repudiamus verba, quae non occurrunt in Scripturis, modosensus 
+      <lb ed="#C" n="3"/>&amp; vis verborum in Scripturis habeatur, quemadmodum saepe responsum. 
+      <lb ed="#C" n="4"/>est. Quare Arianos ἐμισον rejicientes damnamus. Quanquam religio &amp; 
+      <lb ed="#C" n="5"/>pietas non consistit in vocabulis: vt vere Lutherus dixerit, non fore se 
+      hae<lb ed="#C" n="6" break="no"/>reticum, si verbum ἐμυστον aspernetur, interim de Filio Dei sic sentiat, 
+      vt<lb ed="#C" n="7" break="no"/>Scripturae ti adiderunt.  
+      </p>
+            <p xml:id="wWpoi1-e42134-d1e190">
+               <lb ed="#C" n="8"/>Sextum Bellarmini argumentum sumitur a more omnium Gentium, 
+      <lb ed="#C" n="9"/>&amp; primo quidem Iudaeorum. Illos vero suas Traditiones non scriptas 
+      ha<lb ed="#C" n="10" break="no"/>buisse, testatur Origenes in 5: Homil. in Numer. &amp; Hisarius, in Psal. 2. 
+      <lb ed="#C" n="11"/>&amp; quidam Anatolius apud Eusebium, Lib. 7. cap. 28. Respondeo: primo, 
+      <lb ed="#C" n="12"/>Illud quidem Thalmudicum est &amp; mere Cabalisticum, putare legem 
+      fu<lb ed="#C" n="13" break="no"/>isse a Mose scriptis traditam, mysteria vero legis ab illo occultata fuisse, 
+      <lb ed="#C" n="14"/>&amp; sapientioribus tantum viva voce commendata. Hinc illae ineptissimae 
+      <lb ed="#C" n="15"/>δἀτορωπις extiterunt, quas tam saepe Hieronymus &amp; alij Patres imident.  
+      <lb ed="#C" n="16"/>Secundo respondeo, ipsum Iesuitam fateri, nonnullos Catholicos in alia 
+      <lb ed="#C" n="17"/>sententia esse, Iudaeos scilicet nullas habuisse huiusmodi Traditiones: 
+      <lb ed="#C" n="18"/>quanquam ille huic sententiae, non assentitur. Rationes vero cur abhis 
+      <lb ed="#C" n="19"/>dissentiat, sunt sevissimae. Prior ratio est, Quia nos supra docuimus (
+      in<lb ed="#C" n="20" break="no"/>quit) non omnia in lege contineri. Respondeo: At te supra nihil docuisse, 
+      <lb ed="#C" n="21"/>nos supra docuimus. Culusmodi enim (quaeso) illa sunt, quae non 
+      conti<lb ed="#C" n="22" break="no"/>neri in Scripturis statuebas? Expiationem originalis peccati in foeminis, 
+      <lb ed="#C" n="23"/>&amp; in masculis ante octavum diem morientibus. Sic quoque Stapletonus, 
+      <lb ed="#C" n="24"/>Lib. 12. cap. 5. cui Bellarminus congruit, vtaccepistis. Sedde his 
+      con<lb ed="#C" n="25" break="no"/>jectutis respondimus. Stapletonus vero addit, nec fidem Mediatoris 
+      Chri<lb ed="#C" n="26" break="no"/>sti usquam scribi intoto vetere Testamento. Quis hoc aequo animo ferat,  
+      <lb ed="#C" n="27"/>Christi fidem nusquam in toto vetere Testamento inveniri? Quare ergo 
+      <lb ed="#C" n="28"/>Christus Scripturas de se testari affirmat, &amp; Apostoli fidem Christianam ex 
+      <lb ed="#C" n="29"/>vetere Testamento confirmabant, &amp; Patres dixerunt novum 
+      Testamen<lb ed="#C" n="30" break="no"/>tum in vetere occultari? Bellarminum huius Stapletonianae sententiae 
+      <lb ed="#C" n="31"/>(opinor) puduit: est enim erroris &amp; blasphemiae Iudaicae plena. Alia 
+      eti<lb ed="#C" n="32" break="no"/>am ratione ductus, illam sententiam improbat: Quia (inquit) post 
+      Mosen<lb ed="#C" n="33" break="no"/>natum longo tempore populus ille vixit sine lege scripta. Respondeo. Non 
+      <lb ed="#C" n="34"/>quidem illico post Mosennatum omnia scripta sunt: sed postquam 
+      le<lb ed="#C" n="35" break="no"/>gem Moses scripsit, non esse omnia scripta doceat. Exod. 24. 3. legimus 
+      <lb ed="#C" n="36"/>Mosen enartasse populo omnia verba lehovae. Ergo mysteria illa 
+      occulta<lb ed="#C" n="37" break="no"/>non celavit. Et Christus semper atque Apostoli ad Scripturas provocant,) 
+      <lb ed="#C" n="38"/>Scripturas vrgent, Scripturas explicant: nunquam occultorum horum myste¬ 
+      <!--469.xml-->
+      <pb ed="#L" n="460"/>
+               <lb ed="#C" n="1"/>riorum mentionem aliquam faciunt. Praeterea, si huiusmodi essent 
+      my<lb ed="#C" n="2" break="no"/>steria occulta, tum potior pars divinae legis fuisset αγραρος; quod nullo 
+      <lb ed="#C" n="3"/>modo existimandum est. 
+      </p>
+            <p xml:id="wWpoi1-e42134-d1e271">
+               <lb ed="#C" n="4"/>Sed pergit Bellarminus, &amp; profanas etiam Gentes legibus non 
+      scri<lb ed="#C" n="5" break="no"/>ptis magna ex parte regi, &amp; suas non scriptas consuetudines habere 
+      pro<lb ed="#C" n="6" break="no"/>bat ex Thucydide, <name xml:id="wWpoi1-e42134-Nd1e279">Aristotele</name>, Lycurgo, Cicerone, &amp; Caesare: praeterta, 
+      <lb ed="#C" n="7"/>etiam ex jure Canonico &amp; Civili. Haec omnia testimonia profert: 
+      vepa<lb ed="#C" n="8" break="no"/>rem esse vim consuetudinum ac legum scriptarum ostendat. Respondeo: 
+      <lb ed="#C" n="9"/>primo, Ecclesia non eo modo gubernatur, quo Respublicae profanae. 
+      Le<lb ed="#C" n="10" break="no"/>ges quidem politicae non possunt de rebus singulis cavere, &amp; particulana 
+      <lb ed="#C" n="11"/>quaeque complecti: ergo consuetudines necessario requiruntur, quae vimi 
+      <lb ed="#C" n="12"/>legis habeant. At Deo facile fuit omnia ad salutem necessaria in 
+      Scri<lb ed="#C" n="13" break="no"/>pturis tradere. Nec tamen in Republica semper valet consuetudo. 
+      Cice<lb ed="#C" n="14" break="no"/>to ait in libro de claris oratoribus: Non est utendum pravissima 
+      consuetudi<lb ed="#C" n="15" break="no"/>nis regula. Et Demosthenes etiam alicubi scribit, non ita faciendum esse, 
+      <lb ed="#C" n="16"/>quemadmodum saepe fieri solet, sed quem admodum fieri oportet: &amp; at 
+      <lb ed="#C" n="17"/>γιγονε πολλακισ, αλν ως ωροσίκει γιγνε. Tertullianus rectissime, in librode 
+      <lb ed="#C" n="18"/>velandis virginibus, ait: Quodcunque contra veritatem sapit, haeresis est, etiam 
+      <lb ed="#C" n="19"/>vetus consuetudo. Ergo vetus consuetudo non valet in religione: at 
+      infe<lb ed="#C" n="20" break="no"/>publica magnum pondus habet. Et eodem loco ait: Christus se 
+      verua<lb ed="#C" n="21" break="no"/>tem, non consuetudinem, coonominavit. Quod vero ad jus Canonicum 
+      at<lb ed="#C" n="22" break="no"/>tinet, vide Gratianum, Distinct. 8. vbi ex Cypriano, &amp; Augustino, &amp; 
+      <lb ed="#C" n="23"/>Gregorio, probat consuetudini contra veritatem nihil tribuendum esse. 
+      <lb ed="#C" n="24"/>Secundo, Aliud quoque discrimen est. Nam in rebus politicis, quae ad 
+      i<lb ed="#C" n="25" break="no"/>stam vitam pertinent, homines lumen quoddam rationis habent, &amp; quid 
+      <lb ed="#C" n="26"/>facto opus sit intelligunt: at in religione, rebusque spectantibus ad 
+      fi<lb ed="#C" n="27" break="no"/>dem, caeci sunt natura, nec possunt sine legibus verbisque divinis Deum. 
+      <lb ed="#C" n="28"/>rite colere, aut ad vitam pervenire. Quare nullo modo sibi relinquendi. 
+      <lb ed="#C" n="29"/>sunt, sed ad certas descriptasque leges astringendi. 
+      </p>
+            <p xml:id="wWpoi1-e42134-d1e334">
+               <lb ed="#C" n="30"/>Septimum Iesuitae argumentum sumitur a dignitate &amp; privilegio 
+      Eccle<lb ed="#C" n="31" break="no"/>siae. Ecclesia (inquit) est columna veritatis, sponsa Christi, &amp;c. At 
+      nul<lb ed="#C" n="32" break="no"/>lum haberet tale privilegium, si omnia scripta essent, &amp; aperte scnptsqua 
+      <lb ed="#C" n="33"/>tum omnes etiam haeretici, pagani, Iudaei non minus de mustemsfidei 
+      <lb ed="#C" n="34"/>nostrae intelligerent, quam nos ipsi, &amp; tum etiam falsum esset illud Itenaei, 
+      <lb ed="#C" n="35"/>Lib. 3. Cap. 4. Apostolos in Ecclesiam, tanquam in depositoriumdives, 
+      <lb ed="#C" n="36"/>plenissime omnia contulisse, quae sunt veritatis. Respondeo primo, Fateor  
+      <lb ed="#C" n="37"/>Ecclesiam esse columnam veritatis, esse sponsam Christi, esse consciam 
+      <lb ed="#C" n="38"/>secretorum Dei: sed affirmo haec &amp; alia Ecclesiae encomia ad electos 
+      <!--470.xml-->
+      <pb ed="#L" n="461"/>
+               <lb ed="#C" n="1"/>tantum &amp; fideles pertinere, non ad totam multitudinem eorum, qui  
+      <lb ed="#C" n="2"/>Christianam religionem, &amp; externum Dei cultum profitentur: non enim 
+      <lb ed="#C" n="3"/>hi omnes aliquam habent cum Christo necessitudinem. Secundo, 
+      respon<lb ed="#C" n="4" break="no"/>deo Scripturae scientiam &amp; intelligentiam duplicem esse, alteram literae, 
+      <lb ed="#C" n="5"/>alteram Spiritus. Quod ad priorem scientiam attinet, nullum est 
+      Eccle<lb ed="#C" n="6" break="no"/>siae privilegium. Nam &amp; impij possunt hanc scientiam assequi, aeque ac 
+      <lb ed="#C" n="7"/>pij: neque Papistae ipsi dicent, omnes suos doctissimos Episcopos, &amp; 
+      <lb ed="#C" n="8"/>Pontifices, &amp; magistros Scholasticos fuisse viva Ecclesiae membra, &amp; 
+      <lb ed="#C" n="9"/>vera pietate praeditos: quos tamen, quod ad scientiam literae attinet, 
+      fuis<lb ed="#C" n="10" break="no"/>se statuunt Scripturarum peritissimos. Imo ipse quoque Diabolus, qui 
+      om<lb ed="#C" n="11" break="no"/>nes homines nequitia, omnes etiam hac scientia superat. Quod vero 
+      at<lb ed="#C" n="12" break="no"/>tinet ad alteram illam scientiam, quae est Spiritus, Ecclesia maximum 
+      <lb ed="#C" n="13"/>privilegium habet: intelligo vero coetum electorum. Illi enim soli θεοSί¬ 
+      <lb ed="#C" n="14"/>ζακτον sunt, illi soli recte Scripturas intelligunt: reliqui vero audientes non 
+      <lb ed="#C" n="15"/>audiunt, videntes non vident, legentes non intelligunt. Luc. 8. 10. 
+      Chri<lb ed="#C" n="16" break="no"/>stus Discipulis suis ait, Vobis datum est nosse mysteria regni Dei, id est 
+      fide<lb ed="#C" n="17" break="no"/>libus, reliquis autem per parabolas loquor, vi videntes non videant, &amp; 
+      audi<lb ed="#C" n="18" break="no"/>entes non intelligant. Et I. Cor. 2. 14. Paulus ait; Homo dυχικoς non 
+      per<lb ed="#C" n="19" break="no"/>cipit ea quae sunt Dei, quales pesse esse, &amp; fuisse etiam antistites multos, 
+      <lb ed="#C" n="20"/>ipsi negare non possunt.  
+      </p>
+            <p xml:id="wWpoi1-e42134-d1e404">
+               <lb ed="#C" n="21"/>Octavum Iesuitae argumentum sumitur ex dignitate multorum 
+      myste<lb ed="#C" n="22" break="no"/>riorum. Mysteria multa nostrae religionis (inquit Bellarminus) sunt 
+      eius<lb ed="#C" n="23" break="no"/>modi, vt silentium requitant: alioqui essent omnibus nota; quod fieri non 
+      <lb ed="#C" n="24"/>debet. Hoc autem fiet, si scribantur: ergo non scribuntur omnia. Sed 
+      <lb ed="#C" n="25"/>que mysteria intelligat, videamus. Primo (inquit) nos non admittimus ad 
+      <lb ed="#C" n="26"/>sacrificium Missae quenquam, nisi baptizatum. Respondeo. Quasi vero nos 
+      <lb ed="#C" n="27"/>illorum Missas moremur, vel quid ipsi faciant in Missis suis curemus. De 
+      <lb ed="#C" n="28"/>his quidem nugis fateor nihil vel Christum, vel Apostolos scripsisse. At 
+      <lb ed="#C" n="29"/>ipsa Christi Eucharistia a tribus Evangelistis conscripta est, Matthaeo, 
+      <lb ed="#C" n="30"/>Marco, Luca, &amp; a Paulo etiam Apostolo. Quid? ergone illi insipientes, 
+      <lb ed="#C" n="31"/>qui haec scripserintrimo illi sapientes, &amp; inepti Adversarij, qui aliter 
+      sen<lb ed="#C" n="32" break="no"/>tiunt. Deinde, vtitur Iesuita huiusmodi argumento: Christus parabolas 
+      <lb ed="#C" n="33"/>seorsim discipulis interpretabatur, Luc. 8. Ergo, &amp;c. Respondeo: Nos 
+      <lb ed="#C" n="34"/>quoque similiter dicimus, non intelligi ab omnibus Scripturas, sed tamen 
+      <lb ed="#C" n="35"/>proponendas esse omnibus. Sic parabolas Christus omnibus proposuit,  
+      <lb ed="#C" n="36"/>licet discipulis tantum exposuit. Vera enim Scripturae interpretatio 
+      ele<lb ed="#C" n="37" break="no"/>ctis tantum &amp; fidelibus concessa est. Tertio, argumentatur Iesuita, ex 1. 
+      <lb ed="#C" n="38"/>Cor. 2. 6. Sapientiam loquimur inter perfectos; Ergo non omnia (inquit)  
+      <!--471.xml-->
+      <pb ed="#L" n="462"/>
+               <lb ed="#C" n="1"/>sunt omnibus enarranda, sed perfectis &amp; sapientibus quaedam 
+      reser<lb ed="#C" n="2" break="no"/>vanda sunt. Respondeo: Iam Iesuita indicat aperte se cum haereticis 
+      anti<lb ed="#C" n="3" break="no"/>quis consentire, ijsque non infimae sortis, sed summis illis quidem ac 
+      ce<lb ed="#C" n="4" break="no"/>leberrimis, Valentino scilicet &amp; Marcione. Isti enim haeretici, vt constat 
+      <lb ed="#C" n="5"/>ex Irenaeo, Lib. 3. Cap. 2. hoc eodem testimonio vsi sunt, vt probarent  
+      <lb ed="#C" n="6"/>non omnia ex Scripturis petenda esse. Sic Adversarij nosti ijsdem armis 
+      <lb ed="#C" n="7"/>ytuntur, quibus olim sceleratissimi haeretici vsi sunt: atque hac in re se 
+      ni<lb ed="#C" n="8" break="no"/>hil minus, quam Catholicos, esse demonstrant. Sed respondeo 
+      Valenti<lb ed="#C" n="9" break="no"/>no, Marcioni, nostroque Bellarmino, Apostolum de rebus ijsdem loqui,  
+      <lb ed="#C" n="10"/>quae scriptae sunt, Eadem enim doctrina alijs sana &amp; sapientiae plena 
+      vi<lb ed="#C" n="11" break="no"/>detur, alijs stulta. Sic Christi Evangelium, &amp; ipse etiam Christus, Iudaeis 
+      <lb ed="#C" n="12"/>scandalo &amp; offendiculo fuit, Graecis vero stultitiae: at ijs qui electi sunt:  
+      <lb ed="#C" n="13"/>ex ludaeis &amp; Graecis (hi enim sunt perfecti &amp; sapientes) potentia Dei fuit, 
+      <lb ed="#C" n="14"/>ad salutem. Quarto, ait Bellarminus Patres fere omnes, quando verba 
+      fa<lb ed="#C" n="15" break="no"/>ciunt de Eucharistia, &amp; alijs Sacramentis, in hunc modum loqui solere; 
+      <lb ed="#C" n="16"/>Norunt fideles, norunt initiati. Respondeo: Fateor quidem haec verba 
+      <lb ed="#C" n="17"/>saepius apud Patres inveniri, atque intelligo Patres valde cautos ac 
+      solici<lb ed="#C" n="18" break="no"/>tos fuisse, ne praeberent occasionem Ethnicis &amp; profanis hominibus 
+      ti<lb ed="#C" n="19" break="no"/>dendi ista sacra mysteria. Noluerunt igitur de his interomnes loqui. Sed 
+      <lb ed="#C" n="20"/>non inde sequitur, Sacramentorum institutionem in Scripturis non 
+      repe<lb ed="#C" n="21" break="no"/>riri. Haec Bellarmini argumenta omnia sunt, iam ad nostra veniamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

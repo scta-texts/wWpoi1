@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="61"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de5793"><!-- con1q1c12 -->
+            <head xml:id="wWpoi1-de5793-Hd1e106">Caput 12</head>
+            <p xml:id="wWpoi1-de5793-d1e109">
+               <lb ed="#C" n="10"/>CAPUTI 
+      <lb ed="#C" n="11"/>De Libro Sapientiae
+    </p>
+            <p xml:id="wWpoi1-de5793-d1e116">
+               <lb ed="#C" n="12"/>NUnc disserendum est de illis duobus libris, quorum alter 
+      Sapien<lb ed="#C" n="13" break="no"/>Qtia Salomonis, alter Ecclesiasticus vocatur, quos quidem 
+      mul<lb ed="#C" n="14" break="no"/>tis refertos esse fateor pulcherrimis monitis, praeceptis, sententiis: tamen 
+      <lb ed="#C" n="15"/>affirmo a nostris Ecclesiis merito inter Apocryphas Scripturas 
+      reponi<lb ed="#C" n="16" break="no"/>Adversarij praeter argumenta communia, de quibus jam saepe 
+      respon<lb ed="#C" n="17" break="no"/>dimus, vnum hujus libri, qui sapientia Salomonis dicitur, proprium 
+      ha<lb ed="#C" n="18" break="no"/>bent. Paulum enim Apostolum huius libri testimonio vsum esse, Rom. 
+      <lb ed="#C" n="19"/>T1. 34. vbi ait, τῆς ἐγιω νουυ Xυριε, κ τῆς συμοελος υυσκ εγινετῳ; Quis novit 
+      sen<lb ed="#C" n="20" break="no"/>sum Domini, aut quis consiliarius ejus fuit? Haec verba sumpta esse ex cap. 
+      <lb ed="#C" n="21"/>9. huius libri, in quo sic loquitur Salomon: Quis hominum poterit scire 
+      <lb ed="#C" n="22"/>consilium Dei? aut quis poterit cogitare, quid velit Deus? Similiter quod  
+      <lb ed="#C" n="23"/>scribitur, Hebr. 1. 3. Qui cum sit splendor gloriae, &amp; figura substantiae eius, 
+      <lb ed="#C" n="24"/>sumptum esse ex cap. 7. huius libri. RESPONDEO de primo loco: 
+      A<lb ed="#C" n="25" break="no"/>postolus non ait se testimonium aliquod citare. Non enim sequitur,  
+      <lb ed="#C" n="26"/>similia istis verba in hoc loco reperiuntur, ergo Apostolus hunc locum, 
+      <lb ed="#C" n="27"/>citavit: Et si Apostolus Scripturae Propheticae verba recitavit, aut ad 
+      <lb ed="#C" n="28"/>Scripturam aliquam allusit, non tamen id de hoc loco Sapientiae 
+      neces<lb ed="#C" n="29" break="no"/>sario statuendum erit. Nam eadem sententia apud Esaiam invenitur: 
+      <lb ed="#C" n="30"/>cap. 40. 13. his verbis: Quis erudivit Spiritum Domini? aut quis 
+      consiliari<lb ed="#C" n="31" break="no"/>us eius fuit, aut instruxit eum? &amp;c. Sic Thomas Aquinas ait Apostolum 
+      <lb ed="#C" n="32"/>hoc loco inducere authoritatem Esaiae, in cap. 11. ad Rom. lect. 5. 
+      Simi<lb ed="#C" n="33" break="no"/>liter Cajetanus, &amp; nostri in sua Anglica versione interpretes 
+      Remen<lb ed="#C" n="34" break="no"/>ses. Huc accedit, quod cum varij testimoniorum Indices eorum 
+      quae<lb ed="#C" n="35" break="no"/>ex vetere Testamento citantur in novo, a multis confecti, in que Bibliis 
+      <!--71.xml-->
+      <pb ed="#L" n="62"/>
+               <lb ed="#C" n="1"/>positi fuerint, horum nullus vllum ex hoc libro Sapientiae testimonium. 
+      <lb ed="#C" n="2"/>sumptum fuisse indicat, &amp; nominatim hoc testimonium Esaiae omnes 
+      <lb ed="#C" n="3"/>tribuunt. De secundo vero, Apostolus non citat aliquod testimonium, 
+      <lb ed="#C" n="4"/>quod manifestum est. Quid enim si quaedam verba in illo loco Sapieniae, 
+      <lb ed="#C" n="5"/>leguntur iis non dissimilia, quibus vsus Apostolus est, quando Christi. 
+      <lb ed="#C" n="6"/>personam describit?. Neque enim dici potest verba prorsus eadem esse, 
+      <lb ed="#C" n="7"/>sed tantum similia. Itaque hoc argumentum infirmas vires habet ad 
+      <lb ed="#C" n="8"/>probandam huius libri authoritatem Canonicam. Nunc nos contra 
+      <lb ed="#C" n="9"/>quaedam afferamus, vnde esse librum Apocryphum intelligi queat. 
+      Et<lb ed="#C" n="10" break="no"/>concedimus esse quidem vtilem librum, vt Epiphanius scripsit, sed cum 
+      <lb ed="#C" n="11"/>Epiphanio adiungimus, tamen εἰσ αρεδμον φητόν εκαναριρεδ, quod de 
+      se<lb ed="#C" n="12" break="no"/>quente etiam libro affirmavit.  
+      </p>
+            <p xml:id="wWpoi1-de5793-d1e201">
+               <lb ed="#C" n="13"/>Primum, liber hic Graece conscriptus fuit, quod omnes concedunt; 
+      <lb ed="#C" n="14"/>&amp;satis est ad librum e sacro Canone removendum, quemadmodum 
+      su<lb ed="#C" n="15" break="no"/>pra demonstratum est. Secundum, Hieronymus ait de his duobus libris 
+      <lb ed="#C" n="16"/>Sapientiae &amp; Ecclesiastici, in Praefat. in Proverb. Haec duo volumina legat. 
+      <lb ed="#C" n="17"/>ad aedificationem plebis, non ad authoritatem Ecclesiasticorum dogmatum 
+      con<lb ed="#C" n="18" break="no"/>firmandam: ubi librum vocat ψδδετίχραρον, vt quanquam Salomonis 
+      es<lb ed="#C" n="19" break="no"/>se dicitur, eius tamen nequaquam esse intelligatur: aitque librum hunc 
+      <lb ed="#C" n="20"/>redolere Graecam eloquentiam. Tertium, veteres plerique librum a Philone 
+      <lb ed="#C" n="21"/>quodam scriptum esse statuunt, qui certe nec Propheta fuit, nec librum 
+      <lb ed="#C" n="22"/>Canonicum veteris Testamenti conscribere potuit. Vixit enim 
+      post<lb ed="#C" n="23" break="no"/>Christum tempore Caligulae, apud quem celebrem illam pro Iudaeis 
+      <lb ed="#C" n="24"/>legationem obiit. Sed iam veteris Testamenti tempus transierat, &amp; 
+      <lb ed="#C" n="25"/>Christus ait, Lex &amp; Prophetae ad Iohannem Baptistam. Nam quod alium 
+      <lb ed="#C" n="26"/>quendam Philonem Iudaeum fuisse aliqui suspicantur, vt Bellarminus, 
+      <lb ed="#C" n="27"/>id nullo antiquitatis testimonio nititur, &amp; a Sixto Senensi rejicitur, Lib. 
+      <lb ed="#C" n="28"/>8. haeres. 9. &amp; cum communi doctorum opinione pugnat. Sic 
+      enimBona<lb ed="#C" n="29" break="no"/>ventura scribit in Comment. in hunc librum: Prima causa efficiens per 
+      mo<lb ed="#C" n="30" break="no"/>dum compilantis fuit Philo sapientissimus Iudaeorum. Ita a Philone, non 
+      Salo<lb ed="#C" n="31" break="no"/>mone scrintum esse statuit. Sed a quo Philone? num alio quodam, quam 
+      <lb ed="#C" n="32"/>eo qui post Christum floruit, &amp; tam multa scripsit eloquentissime? 
+      de<lb ed="#C" n="33" break="no"/>quo est illud cuiusdam, ἡ Πλἀτονριλανιζει, η ριλον τπλατανιζει. Subjungit 
+      Bo<lb ed="#C" n="34" break="no"/>naventura, Qui temporibus Apostolorum fuit. Quem ergo hic Philonem 
+      <lb ed="#C" n="35"/>huius libri authorem esse senserit, perspicuum est. Nam alium Philonem 
+      <lb ed="#C" n="36"/>non agnovit: &amp; hoc idem quoque a Rabano affirmari scribit. Nam 
+      lose<lb ed="#C" n="37" break="no"/>phus Lib. 1. contra Apionem, Philonem quendam seniorem nominat,  
+      <lb ed="#C" n="38"/>sed illum Ethnicum &amp; Philosophum, non Iudaeum, aut in Scripturis 
+      <!--72.xml-->
+      <pb ed="#L" n="63"/>
+               <lb ed="#C" n="1"/>versatum fuisse affirmat. Quare cum liberhic fuerit a Philone illo 
+      Iu<lb ed="#C" n="2" break="no"/>daeo Apostolorum temporibus conscriptus, nullo modo Canonicus esse. 
+      <lb ed="#C" n="3"/>potest. Nam si Philo verus Propheta fuit, aut spiritu Prophetico 
+      imbu<lb ed="#C" n="4" break="no"/>tus, quare Christum non suscepit? quare Evangelio non credidit? 
+      qua<lb ed="#C" n="5" break="no"/>re sic fuit ab Apostolis alienus? quare eius reliqui libri non in simili 
+      ho<lb ed="#C" n="6" break="no"/>nore habentur? Christianum certe hunc Philonem fuisse nemo 
+      dixe<lb ed="#C" n="7" break="no"/>rit. Quomodo vero post Christum homo non Christianus librum 
+      <lb ed="#C" n="8"/>scribere potuit, qui in Canonicis veteris Testamenti libris censeretur; 
+      <lb ed="#C" n="9"/>A Salomone vero scriptum non fuisse librum Papistae doctissimi 
+      tradi<lb ed="#C" n="10" break="no"/>derunt, vt nostra confirmatione non indigeat. Nam si librum hunc 
+      <lb ed="#C" n="11"/>Salomon scripsisset, non Graece scriptus, sed Hebraice fuisset, vt 
+      Prover<lb ed="#C" n="12" break="no"/>bia, vt Ecclesiastes, vt Canticum. Quod autem aliqui Salomonem 
+      hu<lb ed="#C" n="13" break="no"/>ius libri authorem faciunt, propterea quod Salomon in 9. cap. 
+      induci<lb ed="#C" n="14" break="no"/>tur preces ac vota faciens, nullam argumenti vim habet. Nam id μιμ 
+      <lb ed="#C" n="15"/>τικώς per imitationem, fieri potuit a scriptore, quisquis fuerit, vt admodum 
+      <lb ed="#C" n="16"/>fallantur, qui hinc librum esse Salomonis arguunt. In quo errore atque 
+      <lb ed="#C" n="17"/>inscitia fuit <name xml:id="wWpoi1-de5793-Nd1e300">Iodocus Clitovaeus</name>, &amp; Sixtus Senensis. Iohannes autem 
+      Dri<lb ed="#C" n="18" break="no"/>edo melius, Lib. 1. cap. 4. ad qu. Difficult, hunc librum non fuisse 
+      scrip<lb ed="#C" n="19" break="no"/>tum a Salomone concludit, aitque morem esse in Scripturis, vtis qui 
+      lo<lb ed="#C" n="20" break="no"/>quitur, in alterius persona loquatur. Sic <name xml:id="wWpoi1-de5793-Nd1e310">Iohannes Capistranus</name> in 
+      Prae<lb ed="#C" n="21" break="no"/>fat. speculi Clericorum, Philonem in persona Salomonis loquutum  
+      <lb ed="#C" n="22"/>esse dicit.  
+      </p>
+            <p xml:id="wWpoi1-de5793-d1e318">
+               <lb ed="#C" n="23"/>Quartum, de hoc libro non aliter olim Ecclesia iudicavit, quam 
+      <lb ed="#C" n="24"/>Hieronymus &amp; nos, idque ex Augustino etiam colligitur, quem pro 
+      se<lb ed="#C" n="25" break="no"/>Adversarij nominant. Nam in Lib. de Praedestin. Sanctorum, cap. 24. 
+      <lb ed="#C" n="26"/>cum ex libro Sapientiae testimonium Augustinus attulisset, Raptus est, 
+      ne<lb ed="#C" n="27" break="no"/>malitia mutaret mentem, cap. 4. reclamatum est a multis piis &amp; 
+      Catho<lb ed="#C" n="28" break="no"/>licis fratribus, librum non esse Canonicum. Remnisium hoc loco &amp; 
+      <lb ed="#C" n="29"/>testimonio Augustini vtentem, <name xml:id="wWpoi1-de5793-Nd1e335">Andradius</name> in Desens. Trident. Lib. 3. 
+      <lb ed="#C" n="30"/>multis convitijs, &amp; <name xml:id="wWpoi1-de5793-Nd1e340">Bellarminus</name>, Lib. 1. cap. 12. insectatur, sed 
+      im<lb ed="#C" n="31" break="no"/>merito. Nam quicquid Augustinus ipse de hoc libro senserit, 
+      <lb ed="#C" n="32"/>alios non sensisse librum esse Canonicum, &amp; hanc receptam 
+      fuisse<lb ed="#C" n="33" break="no"/>in illis Ecclesiis opinionem, constat. Nec Augustinus omnino solicite 
+      <lb ed="#C" n="34"/>vehementerque pugnat pro libri istius authoritate: tantum ait non 
+      esse<lb ed="#C" n="35" break="no"/>contemnendum, cum fuerit tam diu in Ecclesia cum magna opinione 
+      le<lb ed="#C" n="36" break="no"/>ctus: &amp; esse omnibus tractatoribus praeponendum, quod forsan 
+      concedi<lb ed="#C" n="37" break="no"/>possit. Sed si Augustinus librum esse plane Canonicum sensisset, non 
+      <lb ed="#C" n="38"/>tam remisse ac frigide illius authoritatem defendisset, &amp; illos acerrime 
+      <!--73.xml-->
+      <pb ed="#L" n="64"/>
+               <lb ed="#C" n="1"/>rep rehendisset, qui librum vt minime Canonicum respuebant. Et quae 
+      <lb ed="#C" n="2"/>hac de rescripsit, eo potius referuntur, vta se invidiam depellat, quam 
+      <lb ed="#C" n="3"/>libri huius authoritatem communiat. Sed librum non esse Canonicum. 
+      <lb ed="#C" n="4"/>intelligimus: plura non desideramus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

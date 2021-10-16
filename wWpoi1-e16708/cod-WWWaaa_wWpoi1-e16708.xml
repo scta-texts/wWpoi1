@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="180"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e16708"><!-- con1q2c17 -->
+            <head xml:id="wWpoi1-e16708-Hd1e106">Caput 17</head>
+            <p xml:id="wWpoi1-e16708-d1e109">
+               <lb ed="#C" n="16"/>CAPUTTTTIII 
+      <lb ed="#C" n="17"/>gugagaisu BiaAPT I 
+    </p>
+            <p xml:id="wWpoi1-e16708-d1e116">
+               <lb ed="#C" n="18"/>PRimo autem in loco, vt instituti nostri ratio requirit, Papistarum 
+      <lb ed="#C" n="19"/>argumenta proponemus, quibus illi freti, preces publicas, &amp; 
+      reli<lb ed="#C" n="20" break="no"/>qua item officia Ecclesiastica, Latina tantum lingua celebrari debere. 
+      <lb ed="#C" n="21"/>contendunt. Primum vero illorum argumentum est huiusmodi: Males 
+      <lb ed="#C" n="22"/>stas divinorum officiorum linguam magis gravem ac venerandam 
+      re<lb ed="#C" n="23" break="no"/>quirit, quam sunt vulgares linguae quarumvis Gentium; Ergo Latine. 
+      <lb ed="#C" n="24"/>non vernacule peragenda sunt. Aes pondeo primo, Quae tantagravitas, 
+      <lb ed="#C" n="25"/>maiestas, sanctitas Latinae potius linguae, quam caeteratum? certe nulla. 
+      <lb ed="#C" n="26"/>Imo vulgaribus illis Latinis sacris, quibus Romana Ecclesia vtitur, nis 
+      <lb ed="#C" n="27"/>hil levius, nihil futilius, mhil ineptius esse potest. Non agnosco ego 
+      qui<lb ed="#C" n="28" break="no"/>dem majorem sanctitatem in vna lingua, quam in alia, neque maiorem 
+      <lb ed="#C" n="29"/>etiam vnius linguae dignitatem, quam alterius, nisi forte Latinam 
+      lin<lb ed="#C" n="30" break="no"/>guam tanto in honore habeant, propter phrases, propter antiquitatem, 
+      <lb ed="#C" n="31"/>&amp; propter mysteria, quae illa lingua reconduntur. Sed est in rebus 
+      gravi<lb ed="#C" n="32" break="no"/>tas. sanctitas, maiestas, non in lingua. Non potest ergo Latina lingua 
+      <lb ed="#C" n="33"/>Scripturae vllam maiestatem conciliare. Secundo, Nego rerum facrarum, 
+      <lb ed="#C" n="34"/>maiestatem linguis vernaculis, quantumvis barbaris, minui posse. 
+      Evan<lb ed="#C" n="35" break="no"/>gelio enim nihil dignius, nihil gravius, nihil sanctius. At Act. 2. 
+      omni<lb ed="#C" n="36" break="no"/>bus linguis, etiam barbaris, ab Apostolis expositum &amp; annunciatum est; 
+      <lb ed="#C" n="37"/>quod illi certe nunquam fecissent, si existimassent hoc modo futurum, 
+      <!--190.xml-->
+      <pb ed="#L" n="181"/>
+               <lb ed="#C" n="1"/>vt eius aliqua maiestas in discrimen voc aretur. Sed instat Iesuita, multa 
+      <lb ed="#C" n="2"/>mysteria esse, quae plebi non sunt communicanda: ea ergo prophanari, 
+      <lb ed="#C" n="3"/>cum in vulgares linguas transferuntur, atque ita passim divulgantur. Et  
+      <lb ed="#C" n="4"/>hoc probat Patrum quorundam testimoniis, Dionysij nempe 
+      Atcopa<lb ed="#C" n="5" break="no"/>gitae &amp; Basilij, &amp; aliorum. Quin &amp; Rhemenses etiam nostitidem 
+      con<lb ed="#C" n="6" break="no"/>tendunt in Annnotat. in 1. Cor. cap. 24. vbi conqueruntur valde 
+      lamen<lb ed="#C" n="7" break="no"/>tabiliter, profanari sacramentorum mysteria horribiliter, quae de 
+      indu<lb ed="#C" n="8" break="no"/>stria a vulgo oc cultantur. Respondeo: primo, Nec Christus, nec Apostolis 
+      <lb ed="#C" n="9"/>iusserunt vnquam, vt illa mysteria populum celarentur. Immo e contra 
+      <lb ed="#C" n="10"/>huiusmodi sacramenta instituit Christus, quibus etiam sensus nostros 
+      <lb ed="#C" n="11"/>erudiret. Hic ipsius institutionis finis fuit. Et quidem tota mysteriorum 
+      <lb ed="#C" n="12"/>ratio olim populo notissima fuit, ac proinde Apostolus sermonem 
+      ha<lb ed="#C" n="13" break="no"/>biturus de Sacramentis, 1. Cor. 10. 15. sic Corinthios affatur, ds gρoνίμωις 
+      <lb ed="#C" n="14"/>λιγα, χρινατε υμσις δ ρημι: ergo non ignorabant illi sacramenta: prudentes 
+      <lb ed="#C" n="15"/>enim appellat, &amp; vult eos iudicare de eo, quod dicturus erat. Et sane 
+      sa<lb ed="#C" n="16" break="no"/>cramentis nihil magis ludicrum aut nugatorium videri posset, nisi 
+      illo<lb ed="#C" n="17" break="no"/>rum ratio causaque cognosceretur. Quid enim commodi infanti 
+      acci<lb ed="#C" n="18" break="no"/>disse putabit Ethnicus, aut aliquis huius sacramentiignatus, si viderit  
+      <lb ed="#C" n="19"/>illum baptizari? &amp; quem quaeso fructum illius opinione homo 
+      Christia<lb ed="#C" n="20" break="no"/>nus percipit, quando frustum panis &amp; pauxillum vini sumitur? Certe nihili 
+      <lb ed="#C" n="21"/>ineptius homini videri potest, cui harum rerum ratio &amp; finis non 
+      consti<lb ed="#C" n="22" break="no"/>tent. Non celanda haec igitur, sed toti populo Dei explicanda sunt: &amp; 
+      <lb ed="#C" n="23"/>haec occultare Antichristianum est, vt populus obstupescat, &amp; 
+      admire<lb ed="#C" n="24" break="no"/>tur quod nesciat. Secundo, Respondeo ad Patrum testimonia, &amp; primo 
+      ad<lb ed="#C" n="25" break="no"/>Dionysium, cuius verba citantur ex Lib. de Ecclesiast. Hieratch. 1. cap. 
+      <lb ed="#C" n="26"/>vbi monet Timotheum, ad quem scribit, mysteria sacra αμιθεκτα χ εχραν¬ 
+      <lb ed="#C" n="27"/>τα τόῆς ἀτελισοις διατηρειν, &amp; ιεροις μόγας τιν ἐερανκοινονεῖιν, non esse ijs 
+      communi<lb ed="#C" n="28" break="no"/>canda, qui nondum initiantur, quia sancta sanctis tantum danda sunt, res 
+      pre<lb ed="#C" n="29" break="no"/>ciosa poreis non sunt tradendae. Quod ad hunc vero Dionysium attinet 
+      pri<lb ed="#C" n="30" break="no"/>mo nego fuisse Arcopagitam illum, cuius mentio fit, Act. 17. 34. Atque 
+      <lb ed="#C" n="31"/>hoc quidem facio, non quod illius testimonium pertimescam(ninil enim 
+      <lb ed="#C" n="32"/>aliud dicit, nisi quod Christus ipse diserte praecipit, Math. 7. 6) sed quod  
+      <lb ed="#C" n="33"/>certis quibusdam argumentis in hanc sententiam adducar, quae nunc 
+      <lb ed="#C" n="34"/>non necesse est attingere. Erit alius de hoc Dionysio dicendilocus. 
+      Se<lb ed="#C" n="35" break="no"/>cundo, dico sententiam eius veram ac piam esse, nec contra nos 
+      quic<lb ed="#C" n="36" break="no"/>quamfacere, vt facile patebit cuiquam, qui locum expenderit. Sensus 
+      e<lb ed="#C" n="37" break="no"/>nim verborumest, sancta non esse Ethnicis ac Gentibus &amp; profanis 
+      ho<lb ed="#C" n="38" break="no"/>minibus proponenda atque obiicienda. Quod quidem non modo in sa¬ 
+      <!--191.xml-->
+      <pb ed="#L" n="182"/>
+               <lb ed="#C" n="1"/>cramentis, verumetiam in verbo valere debet. Sed multo cautiores 
+      fue<lb ed="#C" n="2" break="no"/>runt Patres olim in sacramentis, quam in verbo: quia Ethnici ac impuri 
+      <lb ed="#C" n="3"/>homines multo magis deridebant &amp; contemnebant sacramenta, quam 
+      <lb ed="#C" n="4"/>verbi praedicationem. Atque hanc Dionysij istius mentem fuisse 
+      Maxi<lb ed="#C" n="5" break="no"/>mus Scholiastes docet, cuius haec verba sunt, ἐ δεῖ τῶ ἀγια τοις ζεθλoις εα¬ 
+      <lb ed="#C" n="6"/>ραινον τε τους ργαριτας τις χιρκς ριτ. Laici tamen porcis 
+      comparan<lb ed="#C" n="7" break="no"/>di non sunt, nec pro fani esse, nec veluti Eleusinis sacris interesse 
+      de<lb ed="#C" n="8" break="no"/>bent. Si pii, sancti, fideles esse volunt, mystetiorum rationem scire 
+      de<lb ed="#C" n="9" break="no"/>bent. Atque idem respondeo ad Basilii testimonium quod habetur in 
+      a<lb ed="#C" n="10" break="no"/>Lib. de Spirit. Sanct. cap. 27. Est certe quod populus parum illis se 
+      de<lb ed="#C" n="11" break="no"/>bere putet, de quo tam abjecte &amp; patum honorifice sentiunt, vt eos 
+      ca<lb ed="#C" n="12" break="no"/>num &amp; porcorum loco habeant. Chrysostomus vero, Hom. 24. in Matth. 
+      <lb ed="#C" n="13"/>&amp; Gregor. Lib. 4. cap. 56. Dialog. nihil habent, quod ad istam causam 
+      <lb ed="#C" n="14"/>faciat.  
+      </p>
+            <p xml:id="wWpoi1-e16708-d1e283">
+               <lb ed="#C" n="15"/>Secundum argumentum Adversariorum Scripturae authoritate nititur,  
+      <lb ed="#C" n="16"/>nempe Levit. 16. 17. vbi populus iubetur foris manere, &amp; sacerdotem 
+      <lb ed="#C" n="17"/>expectare, dum ille sanctuarium ingressus, preces solus offerat pro se &amp; 
+      <lb ed="#C" n="18"/>pro populo. Hoc illo loco praecipitur, &amp; huius praecepti exemplum 
+      ha<lb ed="#C" n="19" break="no"/>betur Luc. 1. 10 vbi legimus populum stetisse foris, dum Zacharias 
+      suf<lb ed="#C" n="20" break="no"/>situm offerret in templo. Vude manifestum est, pobulum non modo non 
+      <lb ed="#C" n="21"/>intellexisse sacerdotem, sed ne audivisse quidem. Ergo non necessarium 
+      <lb ed="#C" n="22"/>esse videtur, vepopulus intelligat preces, quae a Sacerdote Deo 
+      offerun<lb ed="#C" n="23" break="no"/>tur. Respondeo: Non sequitur hoc ex illo praecepto atque exemplo. Nam 
+      <lb ed="#C" n="24"/>primo, Disertum fuit Dei mandatum, vt populus foris staret, &amp; sacerdos 
+      <lb ed="#C" n="25"/>suffitum in sanctuario solus faceret. Proferant illi, si possunt, eiusmodi 
+      a<lb ed="#C" n="26" break="no"/>liquod mandatum pro sua Latina Liturgia sacrisque peregrinis, &amp; nos 
+      <lb ed="#C" n="27"/>pedibus in illorum sententiam ibimus: Sed non possunt. In religione 
+      au<lb ed="#C" n="28" break="no"/>tem nihil sine mandato tentandum est. Secundo, Hoc fuit typicum: ergo 
+      <lb ed="#C" n="29"/>idem nunc faciendum non est: typi enim omnes illi veteres sublati sunt.  
+      <lb ed="#C" n="30"/>Sacerdos ille Christi vices gerebat, &amp; eius personam sustinebat, qui 
+      eo<lb ed="#C" n="31" break="no"/>dem modo solus in sanctuarium, hoc est, in coelum ascendit, vbi iam 
+      <lb ed="#C" n="32"/>Deum proEcclesia rogat, etsi nunc illum minime aut videmus, aut 
+      audi<lb ed="#C" n="33" break="no"/>mus. Negohoc nobis imitandum esse: typica enim iam nullum locum: 
+      <lb ed="#C" n="34"/>habent. Tertio, Absentem Sacerdotem populus ne ex audire quidem 
+      lo<lb ed="#C" n="35" break="no"/>quentem, multo minus intelligere potuit: at quando sacerdos apud 
+      po<lb ed="#C" n="36" break="no"/>ipulum verba fecit, ea loquebatur, quae ab omnibus intellecta erant. At 
+      i<lb ed="#C" n="37" break="no"/>pstorum sacrificuli, etiam spectante &amp; audiente populo, sacra sua arieca &amp; 
+      <lb ed="#C" n="38"/>lαγτοις θυσίις sermone peregrino conficiunt atque peragunt.  
+      <!--192.xml-->
+      <pb ed="#L" n="183"/>
+               <lb ed="#C" n="1"/>Tertium argumentum est Hosi; Cardinalis, in Lib. de Sacro 
+      vernacu<lb ed="#C" n="2" break="no"/>le legendo, quod huiusmodi est: Non modo non aucta, sed diminuta 
+      re<lb ed="#C" n="3" break="no"/>ligio &amp; pietas est, postquam aliquilingus vernacula in officiis Ec 
+      clesia<lb ed="#C" n="4" break="no"/>sticis vti coeperunt: Ergo Latina lingua peragi potius ac celebram 
+      de<lb ed="#C" n="5" break="no"/>bent. Respondeo: primo. Vt verum hoc esse concedamus, quod 
+      affir<lb ed="#C" n="6" break="no"/>mat Hosius, non inde tamen sequetur, sacra Latino, non vernaculo 
+      ser<lb ed="#C" n="7" break="no"/>mone peragenda esse. Quid enim si multi deteriores fiant? num ideo 
+      se<lb ed="#C" n="8" break="no"/>quitur vernaculas preces prorsus removendas esse? Evangelij 
+      doctrina<lb ed="#C" n="9" break="no"/>multos reddit perversiores, &amp; pertinaciores, &amp; improbiores: non tamen 
+      <lb ed="#C" n="10"/>proptere a a populo celari debet. Quando Christus praedicavit, &amp; 
+      popu<lb ed="#C" n="11" break="no"/>lum docuit, Pharisaei obstinatiores facti sunt: &amp; Apostolus dicit, 
+      Evan<lb ed="#C" n="12" break="no"/>gelium esse quibusdam odorem mortis ad mortem, &amp; tamen 
+      nihilomi<lb ed="#C" n="13" break="no"/>nus Evangelium semper praedicandum est. Non est ergo illa satis 
+      iusta<lb ed="#C" n="14" break="no"/>ratio, cur officia Ecclesiastica vernacula lingua non peragantur, quia 
+      <lb ed="#C" n="15"/>multi inde fiunt deteriores; nisi probetur vernaculam linguam huius 
+      re<lb ed="#C" n="16" break="no"/>causam esse, quod probare non possunt. Secundo, Dico falsum id esse 
+      <lb ed="#C" n="17"/>quod ponitur in Antecedente. Etsi enim non tanta iam appareat in 
+      po<lb ed="#C" n="18" break="no"/>pulo superstitio, quanta olim; in Ecclesus tamen reformatis maior 
+      ho<lb ed="#C" n="19" break="no"/>die verae Religionis synceritas floret. Non tam superstitiosus revera ian 
+      <lb ed="#C" n="20"/>populus est, quam ante fuit: timebant enim omnia olim stupida quadams 
+      <lb ed="#C" n="21"/>superstitione, atque ea quidem multa scelera repressit: est tamen multe 
+      <lb ed="#C" n="22"/>quam fuit religiosus magis in Ecclesiis nostris. Falluntur enim qui in 
+      <lb ed="#C" n="23"/>caeca superstitione aut ignorantia aliquid inesse pietatis, aut virtutis, aut 
+      <lb ed="#C" n="24"/>religionis arbitrantur. Nam etsi inter nos multi profani sint, qui num 
+      <lb ed="#C" n="25"/>quam deerunt in Ecclesia Dei, sunt tamen multi vere religiosi. Atque 
+      <lb ed="#C" n="26"/>haec de Hosij argumento. 
+      </p>
+            <p xml:id="wWpoi1-e16708-d1e398">
+               <lb ed="#C" n="27"/>Quartum argumentum est Hardingi, in 3P. Artic. contra luel. Sect; 
+      <lb ed="#C" n="28"/>8. quod ita se habet: Asiae minoris magna pars Graecanica tantum 
+      lin<lb ed="#C" n="29" break="no"/>gua in sacris vsa est: At totus populus non intellexit Graece: Ergo licet in 
+      <lb ed="#C" n="30"/>sacris ignota lingua vti. Respondeo: primo, Probandum illi fuit totam 
+      A<lb ed="#C" n="31" break="no"/>siam minorem lingua Graeca in sacris vsam esse: quod cum non faciat:  
+      <lb ed="#C" n="32"/>eius syllogismus constat ex solis particularibus, atque ita nihil concludit.  
+      <lb ed="#C" n="33"/>Secundo, Minorem probet. Atqui eam quidem confirmat duplici 
+      testi<lb ed="#C" n="34" break="no"/>monio. Primum sumitur ex Act. 14. 11. vbi cum Paulus hominem 
+      sa<lb ed="#C" n="35" break="no"/>nasset, qui ab vtero matris claudus fuerat, populus dicitur λυκαονισι, 
+      Lyca<lb ed="#C" n="36" break="no"/>onice, vocem sustulisse, ac dixisse, Diu assimilati hominibus descenderunt ad 
+      <lb ed="#C" n="37"/>nos. Ex quo colligit totum populum Asiae minoris non intellexisse 
+      Grae<lb ed="#C" n="38" break="no"/>ce, quia Lystrae ac Derbae, quae duae Asiae minoris vrbes sunt, populus non 
+      <!--193.xml-->
+      <pb ed="#L" n="184"/>
+               <lb ed="#C" n="1"/>Graece, sed Lycaonice loquutus est. Respondeo: Lycaonica lingua non 
+      fu<lb ed="#C" n="2" break="no"/>it varia lingua a Graeca, sed varia tantum dialectus. Paulus enim non 
+      <lb ed="#C" n="3"/>prae dicavit Evangelium illi populo Lycaonice, sed Graece: quem tamen 
+      <lb ed="#C" n="4"/>loquentem populus procul dubio intellexit, vt ex claudo illo apparet, qui  
+      <lb ed="#C" n="5"/>a Paulo sanatus, &amp; ad fidem conversus est. Si vero Paulus Lycaonice, non 
+      <lb ed="#C" n="6"/>Graece loquutus fuisset, cur Lucas scribit illos Lycaonice exclamavisse: 
+      <lb ed="#C" n="7"/>Perinde ergo est, ac si ita ratiocinaretur: Dorice loquuti sunt: ergo non 
+      <lb ed="#C" n="8"/>Graece. Praeterea, intellexisse eos Graece, ac loquutos etiam esse, ex 
+      eo<lb ed="#C" n="9" break="no"/>constat, quod Amphilochius Lycaoniae Episcopus Graece scripsit, cuius 
+      <lb ed="#C" n="10"/>fragmenta quaedam in hunc diem extant. Secundum testimonium, quo 
+      <lb ed="#C" n="11"/>Assumptionem confirmat, ex 2. Act. sumitur, vbi Cappadocia, Pontus, 
+      <lb ed="#C" n="12"/>Asia, Phrygia, Pamphylia, &amp;c. tanquam variae regiones 
+      commemoran<lb ed="#C" n="13" break="no"/>tur, ac proinde variis linguis vsae sunt. Respondeo: Aliquae ex his linguis, 
+      <lb ed="#C" n="14"/>quibus Apostoli vsi sunt, non diversaepenitus &amp; dissonae. sed variae 
+      tan<lb ed="#C" n="15" break="no"/>tum Dialecti fuerunt. Sic lingua, qua Galilaei vsi sunt, a Iudaeorum 
+      lin<lb ed="#C" n="16" break="no"/>gua ita discrepabat, vt non varia lingua, sed varia tantum dialectus 
+      fue<lb ed="#C" n="17" break="no"/>rit. Ancilla enim Petrum hominem Galilaeum procul dubio intellexit:  
+      <lb ed="#C" n="18"/>loquentem, cum diceret, sermo te prodit. Ita Cappadox potuit 
+      intellige<lb ed="#C" n="19" break="no"/>re Phrygem loquentem, Pamphylius Cretensem, Atheniensis 
+      Sparta<lb ed="#C" n="20" break="no"/>num. Populum vero minoris Asiae Graecam linguam intellexisse 
+      con<lb ed="#C" n="21" break="no"/>stat. Ad Ephesios enim, ad Galatas, ad Colossenses Paulus Graece 
+      scri<lb ed="#C" n="22" break="no"/>ipsit: at Ephesus, Galatia, Colessae, erant vrbes minoris Asiae: ergo aut tota: 
+      <lb ed="#C" n="23"/>Asia, aut saltem magna pars huius Asiae Graece intellexit: nam aliter 
+      <lb ed="#C" n="24"/>nunquam Paulus Graece ad illos scripsisset. Praeterea, idipsum etiam 
+      con<lb ed="#C" n="25" break="no"/>stat ex Polycarpo Episcopo Smymensi, Gregono Episcopo Nysseno, 
+      <lb ed="#C" n="26"/>Basilio Episcopo Cesareae in Cappadocia, qui omnes cum Asiae minoris 
+      <lb ed="#C" n="27"/>Episcopi essent, Graece omnia scripserunt. Et Hieron. 29. 
+      Proaemio<lb ed="#C" n="28" break="no"/>Comment. in Galat. affirmat omnem Orientem Graece loquutum esse. 
+      <lb ed="#C" n="29"/>Asiam ergo minorem Graeco sermone non vsam esse, Papistae 
+      nunquam<lb ed="#C" n="30" break="no"/>possunt evincere. Aut si inter hos populos aliqui Graece nesciebant,  
+      <lb ed="#C" n="31"/>quomodo probabunt illos sacra sua in Graeca lingua habuisse? Ita 
+      nullo<lb ed="#C" n="32" break="no"/>modo sequetur argumentum. 
+      </p>
+            <p xml:id="wWpoi1-e16708-d1e501">
+               <lb ed="#C" n="33"/>Quintum argumentum, quo aliqui sane vtuntur, eiusmodi est: 
+      Tres<lb ed="#C" n="34" break="no"/>linguae sanctificatae sunt in cruce: ergo his duntaxat singuis vti debemus. 
+      <lb ed="#C" n="35"/>in publicis officiis Ecclesiae. Et Bellarminus ait nos contentos esse debere. 
+      <lb ed="#C" n="36"/>tribus illis linguis, quas Christus in sua cruce honoravit. Respondeo: 
+      pri<lb ed="#C" n="37" break="no"/>mo, Titulus ille non ideo fuit tribus linguis conscriptus, vthae linguae 
+      es<lb ed="#C" n="38" break="no"/>sent hoc modo in talem aliquem vsum consecratae; sed vt fama mortis 
+      <!--194.xml-->
+      <pb ed="#L" n="185"/>
+               <lb ed="#C" n="1"/>Christi latissime manatet. Secundo, haec argumentatio est αλληγεική, 
+      ideo<lb ed="#C" n="2" break="no"/>que nihil per se concludit. Tertio, Caletanus ait, in lentacl. 1. quaest. 
+      <lb ed="#C" n="3"/>4. Has tres linguas gessisse vices omnium linguarum, quia numerus 
+      ter<lb ed="#C" n="4" break="no"/>narius perfectionem significat. Quod si ita sit, tum omnes linguae 
+      om<lb ed="#C" n="5" break="no"/>nium gentium mortem Christi &amp; sacraomnia Christiana celebrare 
+      pos<lb ed="#C" n="6" break="no"/>sunt: &amp; Argumenta alia Adversanj in hac causa nulla habent 
+      cuius<lb ed="#C" n="7" break="no"/>quam momentia. Non committam vero vt tempus in non necessariis 
+      <lb ed="#C" n="8"/>consumpsisse videat.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="18"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de2895"><!-- con1q1c5 -->
+            <head xml:id="wWpoi1-de2895-Hd1e106">Caput 5</head>
+            <p xml:id="wWpoi1-de2895-d1e109">
+      <!--37.xml-->
+               <pb ed="#L" n="18"/>
+               <lb ed="#C" n="1"/>CAPUT QVINTVM 
+      <lb ed="#C" n="2"/>In quoramones afferuntur contra Libros 
+      <lb ed="#C" n="3"/>secuudigcutis: 
+  </p>
+            <p xml:id="wWpoi1-de2895-d1e122">
+               <lb ed="#C" n="4"/>ARGVMENTVM primum sic instituo: Hi libri de quibus 
+      contendi<lb ed="#C" n="5" break="no"/>Amus, non fuerunt conscripti a Prophetis: Ergo non sunt 
+      Cano<lb ed="#C" n="6" break="no"/>nici. Syllogismus integer eiusmodi est: Omnes Canonici Iibri veteris 
+      Te<lb ed="#C" n="7" break="no"/>stamenti scripti sunt a Prophetis: Nullus horum librorum scriptus est a 
+      Pro<lb ed="#C" n="8" break="no"/>pheta aliquo: Ergo horum Librorum nullus est Canonicus. Partes huius 
+      syl<lb ed="#C" n="9" break="no"/>logismi confirmandae sunt, Maior apertis Scripturae testimonijs nititur.  
+      <lb ed="#C" n="10"/>Scripturam veteris Testamenti Petrus vocat λόρον ωρορνlικον. 2. Pet. 1. 
+      <lb ed="#C" n="11"/>19. [Nam perλόγον scripturam intelligi, constat ex Luc. 3. 4) &amp; ωροριιειαν,  
+      <lb ed="#C" n="12"/>ibid. ver. 20. &amp; Paulus vocat χαρας ωροριτικας, Rom. 16. 26. Zacharias 
+      <lb ed="#C" n="13"/>sacerdos ait, Sicut loquutus est per os αγιον ωροριλον, qui a seculo fuerunt. 
+      <lb ed="#C" n="14"/>Luc. 1. 70. Intelligit autem Deum in Scripturis Propheticis loquutum, 
+      <lb ed="#C" n="15"/>esse. Sic epuloni Abrahamus respondit: Habent Mosen &amp; Prophetas, id  
+      <lb ed="#C" n="16"/>est, libros Scripturarum, Luc. 16. 39. &amp; alibi Lucas ait, Exorsus a AIoses 
+      <lb ed="#C" n="17"/>&amp; omnibus Prophetis interpretabatur eis in omnibus Scripturis ea quae de ipsos 
+      <lb ed="#C" n="18"/>scripta erant. Luc. 24. 27. Sic Rom. 1. 2. Hic videmus Scripturas onmes. 
+      <lb ed="#C" n="19"/>in Mosis &amp; Prophetarum libris inveniri. Apostolus ad Hebraeos ait Olin 
+      <lb ed="#C" n="20"/>Deus varie loquutus est per Prophetas, Heb. 1. 1. Erant ergo Prophetae illi, 
+      <lb ed="#C" n="21"/>omnes, per quos Deus ad populum suum loquutus est. Atque huc 
+      perti<lb ed="#C" n="22" break="no"/>net quod Apostolus ait, Ecclesiam aedificatam esse in fundameto 
+      Pro<lb ed="#C" n="23" break="no"/>phetarum &amp; Apostolorum, Ephes. 2. 20. Hoc fundamentum significat 
+      do<lb ed="#C" n="24" break="no"/>ctrinam Scripturarum a Prophetis &amp; Apostolis editam, cui Ecclesia 
+      in<lb ed="#C" n="25" break="no"/>nititur. Christus ait, Oportet impleri omnia quae scripta sunt in Lege Mosis, &amp; 
+      <lb ed="#C" n="26"/>Prophetis, &amp; Psalmis de me: &amp; statim sequitur, Iunc aperuit eis mentem, 
+      vi<lb ed="#C" n="27" break="no"/>intelligerent Scripturas. Luc. 24. 44. 45. Agrippae regi Paulus ait, edicis 
+      <lb ed="#C" n="28"/>τὸis ωρορηταις, Credis Prophetis, hoc est, Scripturis? Act. 26. 27 &amp; quando 
+      <lb ed="#C" n="29"/>cum ludaeis rem habuit Romae, eis persuadere conatus est, ex lege Mosis 
+      <lb ed="#C" n="30"/>&amp; Prophetis. Act. 28. 23. Ex his testimonis colligimus, quod in Maiore, 
+      <lb ed="#C" n="31"/>positum est, verissimum esse, Omnem veteris Testamenti Scripturam a 
+      <lb ed="#C" n="32"/>Prophetis conscriptam atque promulgatam fuisse. Atque eiusmodi 
+      <lb ed="#C" n="33"/>multa sunt, vnde concludi possit, nullam esse partem veteris Testamenti, 
+      <lb ed="#C" n="34"/>quae non ab aliquo Propheta prodierit. Animadvertendum autem est, 
+      <lb ed="#C" n="35"/>aliquando Prophetarum, aliquando Mosis vel Legis, &amp; Prophetarum, 
+      ali<lb ed="#C" n="36" break="no"/>quando Mosis, Prophetarum, &amp; Psalmorum nomine, veterem omnem. 
+      <!--38.xml-->
+      <pb ed="#L" n="19"/>
+               <lb ed="#C" n="1"/>Canonicam Scripturam declarari. Sic contra Cresconium Grammat. 
+      <lb ed="#C" n="2"/>Augustinus: Non sine causa tam salubri vigilantia Canon Ecclesiasticus 
+      con<lb ed="#C" n="3" break="no"/>stitutus est, ad quem certi Prophetarum &amp; Apostolorum libri pertineant. Lib. 
+      <lb ed="#C" n="4"/>2. cap. 31. &amp; alio in loco, Demonstrent Ecclesiam suam, non in rumoribus 
+      <lb ed="#C" n="5"/>eAfrorum, sed in praescripto Legis, in Prophetarum praedictis, in Psalmorum 
+      <lb ed="#C" n="6"/>cantibus, hoc est, in omnibus Canonicis sanctorum librorum authoritatibus De 
+      <lb ed="#C" n="7"/>Vnit. Eccles. cap. 16. Et alibi, Lege hoc in Lege, in Prophetis, in Psalmis. 
+      <lb ed="#C" n="8"/>De Majore satis multa diximus, ad Minorem accedimus. 
+      </p>
+            <p xml:id="wWpoi1-de2895-d1e218">
+               <lb ed="#C" n="9"/>Et hos quidem libros, contra quos disputamus, minime conscriptos 
+      <lb ed="#C" n="10"/>aut Ecclesiae propositos fuisse a Prophetis, nimis certum &amp; perspicuum 
+      <lb ed="#C" n="11"/>est. Primum enim omnes confitentur, Malachiam fuisse vltimum 
+      Pro<lb ed="#C" n="12" break="no"/>phetam Iudaeorum, inter quem &amp; Iohannem Baptistam nullus 
+      omnino<lb ed="#C" n="13" break="no"/>Propheta intercessit. At qui libros istos scripserunt, ij post Malachiam 
+      <lb ed="#C" n="14"/>plerique sine dubio vixerunt, quod de Ecclesiastici &amp; Machabaeorum. 
+      <lb ed="#C" n="15"/>scriptore manifestum est. Et hoc ne ipsi quidem Aduersarij inficiari 
+      <lb ed="#C" n="16"/>possunt. Deinde, libri isti scripti non fuerunt lingua Prophetica, quae 
+      fu<lb ed="#C" n="17" break="no"/>it lingua Canaan, &amp; lingua Ecclesiae propria. Si vero Prophetae, qui  
+      <lb ed="#C" n="18"/>erant Ecclesiae Israeliticae doctores ac magistri, eos libros scripsissent,  
+      <lb ed="#C" n="19"/>sermone patrio &amp; Prophetico, non peregrino &amp; Ecclesiae ignoto, vsi 
+      <lb ed="#C" n="20"/>fuissent in scribendo: quod nemo sanus negabit. At plerosque istorum 
+      <lb ed="#C" n="21"/>non Hebraica lingua, sed Graeca, scriptos fuisse, &amp; Patres affirmant, &amp; 
+      <lb ed="#C" n="22"/>Papistae concedunt, &amp; res ipsa comprobat: de reliquis deinceps 
+      videbi<lb ed="#C" n="23" break="no"/>mus. Postremo, si libri isti fuissent a Prophetis conscripti, tum iis 
+      Chri<lb ed="#C" n="24" break="no"/>stus vsus fuisset vt testibus suis. At nullo horum testimonio Christus 
+      <lb ed="#C" n="25"/>vnquam vsus est, aut ipsius Apostoli. Atque hoc est quod Augustinus 
+      <lb ed="#C" n="26"/>ait de libris Machabaeorum, Iudaei non habent hanc Scripturam sicut 
+      Le<lb ed="#C" n="27" break="no"/>cem, &amp; Prophetas, &amp; Psalmos, quibus Dominus testimonium perhibet vt 
+      te<lb ed="#C" n="28" break="no"/>stibus suis. Lib. 2. cap. 23. contra Gaudent. Epistolam. Christus nullum 
+      <lb ed="#C" n="29"/>testimonium his libris perhibet tanquam testibus suis: Ergo non sunt:  
+      <lb ed="#C" n="30"/>hi testes Christi satis idonei ac fide pleni: essent vero, si quidem 
+      Pro<lb ed="#C" n="31" break="no"/>phetici essent. Nam Scripturae omnes Canonicae ac Propheticae 
+      de<lb ed="#C" n="32" break="no"/>Christo testantur, iisque Christus vt testibus suis praeclarum 
+      testimoni<lb ed="#C" n="33" break="no"/>um perhibet, quando ait, Scrutamini Scripturas, &amp; quando tam multa. 
+      <lb ed="#C" n="34"/>horum librorum testimonia adhibuit. Sic Hieronymus; eAd Hebraeos 
+      re<lb ed="#C" n="35" break="no"/>vertendum, unde &amp; Dominus loquitur, &amp; Discipuli exempla praesumunt: 
+      <lb ed="#C" n="36"/>Praefat. in Paralip. Non esse autem Propheticos hos libros, post 
+      lucu<lb ed="#C" n="37" break="no"/>lentius disseremus. 
+      </p>
+            <p xml:id="wWpoi1-de2895-d1e283">
+               <lb ed="#C" n="38"/>ARGVMENTVM secundum: Hi libri non fuerunt recepti ab Ecclesia 
+      <!--39.xml-->
+      <pb ed="#L" n="20"/>
+               <!-- actual 20 --> 
+               <!-- repeated at 41 -->
+               <lb ed="#C" n="1"/>Israelitatum: Ergo non sunt Canonici. Syllogismus eiusmodi 
+      contexi<lb ed="#C" n="2" break="no"/>poterit: Omnes veteris Testamenti Canonicos libros vetus Ecclesia 
+      Hebra<lb ed="#C" n="3" break="no"/>orum recepit &amp; approbavit: Hos illa Ecclesia non recepit: Ergo hi non sunt 
+      Ca<lb ed="#C" n="4" break="no"/>nonici. Propositio maior certa est, &amp; facile demonstratur. Primum enim, 
+      <lb ed="#C" n="5"/>si partem aliquam Testamenti Dominici Ecclesia illa respuisset, 
+      prae<lb ed="#C" n="6" break="no"/>sertim tam magnam, maximi sceleris &amp; sacrilegij rea extitisset, atque 
+      <lb ed="#C" n="7"/>hoc illi crimen, aut Christus ipse, aut eins Apostoli obiecissent. Si enim 
+      <lb ed="#C" n="8"/>reprehensi ludaei sunt, quod male Scripturas intellexerunt. maiorem 
+      il<lb ed="#C" n="9" break="no"/>lam &amp; graviorem sublatae Scripturae reprehensionem minime effugissent. 
+      <lb ed="#C" n="10"/>Est enim multo magis improbum &amp; nefarium tollere libros Scripturae, 
+      <lb ed="#C" n="11"/>quam eosdem in quibusdam locis male interpretari. Sed Iudaeos 
+      nun<lb ed="#C" n="12" break="no"/>quam Christus, nunquam Apostoli, nunquam vlli accusarunt, quod  
+      <lb ed="#C" n="13"/>Canonem ipsum sacrorum librorum minuetint ac convulierint. Imo 
+      <lb ed="#C" n="14"/>vetus illa liraelitatum Ecclesia omnes quidem Canonicos libros 
+      rece<lb ed="#C" n="15" break="no"/>pit, &amp; summa cura fideque servavit. De quo lege quid apud 
+      Eusebi<lb ed="#C" n="16" break="no"/>tum, Lib. 3. cap. 10. Iosephus scripserit: atque hoc authoritate etiam 
+      <lb ed="#C" n="17"/>ipsius Scripturae confirmatur. Apostolus enim ait, ludaeis commissia 
+      <lb ed="#C" n="18"/>ac tradita fuisse ταλόγια το θεη, oracula Dei, hoc est, Scripturas, Rom. 3. 
+      <lb ed="#C" n="19"/>2. Unde discimus, apud Ecclesiam Iludaeorum depositum a deo suisse 
+      ex<lb ed="#C" n="20" break="no"/>iium illum sacrae Scripturae thesaurum, ab eaque esse receptum ac 
+      custo<lb ed="#C" n="21" break="no"/>ditum. Quam sane ludaeorum in conservandis sacris libris diligentiam 
+      <lb ed="#C" n="22"/>atque fidem, Augustinus Epist. 3. &amp; 59. alijque omnes praedicant Praeterca, 
+      <lb ed="#C" n="23"/>Si anonici libri tam multi a vetere Ecclesia ludaeorum non modo non 
+      <lb ed="#C" n="24"/>recepti, sed etiam rejecti fuissent, tum illud sequeretur, multos libros 
+      <lb ed="#C" n="25"/>Canonicos fuisse a nulla prorsus Ecclesia receptos. Nam nulla erat anter 
+      <lb ed="#C" n="26"/>Christum alia Ecclesia, praeterquam illa ludaeorum. Si ergo damus illam 
+      <lb ed="#C" n="27"/>Ecclesiam quae fuit tota etiam, &amp; sola Ecclesia eo quidem tempore, 
+      li<lb ed="#C" n="28" break="no"/>bros Canonicos rejicere potuisse, tum Ecclesiam errare posse 
+      manife<lb ed="#C" n="29" break="no"/>stum est, quod Papistae nisi inviti non concedent. Nonne autem insignis 
+      <lb ed="#C" n="30"/>perror est, non modo non agnoscere &amp; suscipere sacros codices. sed etiam 
+      <lb ed="#C" n="31"/>respurre atque e librorum θεοπνευσςον Canone extrunere? At ludaeorum. 
+      <lb ed="#C" n="32"/>tota Ecclesia hos reiecit, quod assumptum fuit in Minore, &amp; omnium. 
+      <lb ed="#C" n="33"/>atrum, etiam Papistarum confessione confirmari potest. Nam omnes 
+      <lb ed="#C" n="34"/>intelligunt hos libros nunquam receptos fuisse in Canonem 
+      Hebraeo<lb ed="#C" n="35" break="no"/>rum. Et quod Bellarminus ait, Lib. 1. cap 10 hos libros habere 
+      testi<lb ed="#C" n="36" break="no"/>monia Ecclesiae Apostolicae, &amp; Apostolos declaravisse hos libros esse 
+      <lb ed="#C" n="37"/>anonicos, vnde verum esse constabit? Apostoli nunquam horum 
+      li<lb ed="#C" n="38" break="no"/>brorum testimoniis vtuntur, nec aliquid proferri potest, vnde aliquam  
+      <!--40.xml-->
+      <pb ed="#L" n="21"/> 
+               <!-- actual 21 -->
+               <!-- repeated at 42 -->
+               <lb ed="#C" n="1"/>hisce libris tributam esse ab Apostolis authoritatem intelligamus. 
+      E<lb ed="#C" n="2" break="no"/>nimvero cum Caletanus in Comment. in 1. Cor. 12. affirmaret eam 
+      so<lb ed="#C" n="3" break="no"/>lam esse sacram ac divinam Scripturam, quam Apostoli aut scripserunt, 
+      <lb ed="#C" n="4"/>aut approbarunt, reprehensus est a Catharino in Lib. 1. Annotat. hoc  
+      <lb ed="#C" n="5"/>nomine, eoque in loco suae reprehensionis Catharinus asseruit 
+      Ecclesi<lb ed="#C" n="6" break="no"/>am quosdam libros recipere vt Canonicos, quos nec scriptos ab 
+      Apo<lb ed="#C" n="7" break="no"/>stolis, nec approbatos esse constet. Ridiculum vero est, quod <name xml:id="wWpoi1-de2895-Nd1e402">Canus</name> 
+      as<lb ed="#C" n="8" break="no"/>fert, non rejectos fuisse, sed non receptos. Nam certe si hos libros Iudaei 
+      <lb ed="#C" n="9"/>non receperunt, quid aliud fecerunt, quam plane reiecerunt? Deum; 
+      <lb ed="#C" n="10"/>qui non recipit, reijcit: sic Dei verbum non recipere, recusare est &amp; 
+      re<lb ed="#C" n="11" break="no"/>jicere. Qui non est mecum, contra me est: &amp; qui non colligit mecum, dissipat.  
+      <lb ed="#C" n="12"/>Luc. 11. 23. Tum quomodo illa Ecclesia aut recipere, aut non potius 
+      <lb ed="#C" n="13"/>rejicere potuit libros aliena lingua conscriptos? Summa vtriusque 
+      ar<lb ed="#C" n="14" break="no"/>gumenti haec est: Hi libri non sunt a Prophetis scripti, nec ab Ecclesia 
+      Israe<lb ed="#C" n="15" break="no"/>litica recepti: ergo non sunt Canonici. 
+      </p>
+            <p xml:id="wWpoi1-de2895-d1e424">
+               <lb ed="#C" n="16"/>ARGVMENTVM tertium: Possunt in his libris singulis quaedam 
+      in<lb ed="#C" n="17" break="no"/>veniri, quae libros ipsos minime Canonicos esse arguant: quod 
+      argu<lb ed="#C" n="18" break="no"/>mentum firmissimum est, ex librorum ipsorum natura &amp; ingenio 
+      peti<lb ed="#C" n="19" break="no"/>tum. Atque hoc ex sequente tractatione melius constabit, quando ad 
+      li<lb ed="#C" n="20" break="no"/>brorum particularem examinationem deventum fuerit, ex qua libros 
+      <lb ed="#C" n="21"/>hos omnes, qui nunc in quaestionem vocantur, non esse vere Canonicos, 
+      <lb ed="#C" n="22"/>erit satis manifestum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

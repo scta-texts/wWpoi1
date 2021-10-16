@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="383"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e35309"><!-- con1q6c5 -->
+            <head xml:id="wWpoi1-e35309-Hd1e106">Caput 5</head>
+            <p xml:id="wWpoi1-e35309-d1e109">
+               <lb ed="#C" n="5"/>CEVT CUTI 
+      <lb ed="#C" n="6"/>Quae dogmata a Papistis Traditionum authe¬ 
+      <lb ed="#C" n="7"/>ritate defendantus, 
+    </p>
+            <p xml:id="wWpoi1-e35309-d1e118">
+               <lb ed="#C" n="8"/>IAm restat vi quaeramus, quae dogmata atque instituta illa sint, quae 
+      <lb ed="#C" n="9"/>Pontificij affirmant non Scripturarum, sed Traditionum non 
+      scri<lb ed="#C" n="10" break="no"/>ptarum authoritate defendenda esse: aequum vero est, vehac de re certo 
+      <lb ed="#C" n="11"/>nobis liquidoque constet. Catalogum (quod sctiam) nemo recensuit: sed  
+      <lb ed="#C" n="12"/>in genere affirmant quicquid illi docent, aut faciunt, quod non habeatur. 
+      <lb ed="#C" n="13"/>in Scripturis, id in Traditionibus non scriptis reponendum esse. 
+      Trniden<lb ed="#C" n="14" break="no"/>tini Patres, Sess. 4 tantummodo jubet Traditiones suscipi pati pietate, 
+      <lb ed="#C" n="15"/>qua Scripturas: interim non explicant, quaenam hae Traditiones sint, 
+      <lb ed="#C" n="16"/>quod oportuit. Si numerus certus &amp; ordo extaret harum Traditionum, 
+      <lb ed="#C" n="17"/>Pontificia omnia, aut pleraque, aliunde quam ex Scripturis, sumpta esse 
+      <lb ed="#C" n="18"/>facile intelligetemus. Quamobrem vero haec tam sancta &amp; necessaria. 
+      <lb ed="#C" n="19"/>monimenta non eduntur? Petrus a Soto, Papista magni nominis, in libro 
+      <lb ed="#C" n="20"/>contra Brentium, omnes illas observationes, Traditiones Apostolicas 
+      <lb ed="#C" n="21"/>esse dicit, quarum principium, author, &amp; origo in sacris Scripturis 
+      inve<lb ed="#C" n="22" break="no"/>niti non potest. Cuiusmodi sunt (inquit) Oblatio sacrificij altatis, 
+      Un<lb ed="#C" n="23" break="no"/>ctio Chrismatis, Invocatio sanctorum, Orationes pro defunctis, 
+      Prima<lb ed="#C" n="24" break="no"/>tus Episcopi Romani, Consecratio aquae in Baptismo, totum 
+      Sacramen<lb ed="#C" n="25" break="no"/>tum Confirmationis, Ordinis, Matrimonij. Poenitentiae, Vnctionis 
+      extre<lb ed="#C" n="26" break="no"/>me, merita operum, necessitas satisfactionis, enumeratio peccatorum 
+      faci<lb ed="#C" n="27" break="no"/>enda sacerdoti. Haec ille. Sed forsan alij Papistae non tantuimdem nobis 
+      con<lb ed="#C" n="28" break="no"/>cedent. Immo omnes, si illud vnum excipias, de inerito operum. Accipimus 
+      <lb ed="#C" n="29"/>istam confessionem, &amp; nobis gratulamur, quod palam confitentes 
+      Adversari<lb ed="#C" n="30" break="no"/>os habe amus, mhil istorum certa Scripturarum authoritate niti. Hinc patet, 
+      <lb ed="#C" n="31"/>sinon omnia, tamen manima Pontificiorum dogmata ex Traditione 
+      pende<lb ed="#C" n="32" break="no"/>re, quamvis pro his Scripturas proferre, Dieis causa, soleant: sed si Scripturis 
+      <lb ed="#C" n="33"/>confiderent, Iraditionis levem atque enervatam authoritatem non vrge rent. 
+      <lb ed="#C" n="34"/>Canisius, in Catechismo suo, cap. 5. de praec eptis Ecclesiae, ait Traditiones. 
+      <lb ed="#C" n="35"/>esse, cultus imaginum, stata ieiunia, Quadragesimam, quae in Missae 
+      officio<lb ed="#C" n="36" break="no"/>peraguntur omnia, precationes &amp; ob lationes pro defunctis; propterea quod  
+      <lb ed="#C" n="37"/>ista eusmodi sunt, vt Scripturis defendi nequeant, &amp; alia; sed non ostendit, 
+      <!--393.xml-->
+      <pb ed="#L" n="384"/>
+               <lb ed="#C" n="1"/>quae illa alia sint. Omnium vero luculentissime &amp; copiosissime Lindanus, 
+      <lb ed="#C" n="2"/>L. 4. Panopliae suae, cap. 100. in quo capite farraginem traditionum 
+      comple<lb ed="#C" n="3" break="no"/>ctitur, quam inspicite: Inter reliquas vero Traditiones recenset, Petrum 
+      Ro<lb ed="#C" n="4" break="no"/>mae fuisse. Ita habemus a Traditione vtrumque, &amp; Romae Petrum fuisse, &amp; 
+      <lb ed="#C" n="5"/>Primatum Petri. Sed accurate magis &amp; distincte in fine illius libri 
+      Traditio<lb ed="#C" n="6" break="no"/>nes enumerat, tabula 6. quanquam ibi quasdam praetermisit, &amp; quaedam ex 
+      <lb ed="#C" n="7"/>illis quas proponit, scriptae sunt, vt Baptismus infantium, &amp; originale 
+      pecca<lb ed="#C" n="8" break="no"/>tum. Inter Traditiones etiam numerat septem esse Sacramenta. Haec 
+      Tradi<lb ed="#C" n="9" break="no"/>tio nititur authoritate Florentini Concilij, ante annos 1oo. Sane antiqua 
+      hu<lb ed="#C" n="10" break="no"/>ius Traditionis authoritas. Enumerat praeterea consecrationem aquae &amp; oleis 
+      <lb ed="#C" n="11"/>in Baptismo, realem praesentiam, communionem sub vna specie, 
+      Euchari<lb ed="#C" n="12" break="no"/>stiam esse sacrificium, servandam esse &amp; adorandam, missam privatam, 
+      con<lb ed="#C" n="13" break="no"/>fessionem peccatorum, &amp; satisfactionem, Indulgentias, purgatorium: 
+      ihilpe<lb ed="#C" n="14" break="no"/>ne praetermissum, quod inter illos atque nos in controversiam vocatur. 
+      Pe<lb ed="#C" n="15" break="no"/>resius praeter illas Traditiones addit caelibatum Sacerdotum, parte 3. Sed 
+      ve<lb ed="#C" n="16" break="no"/>sunt callidi Papistae, non audent certum harum Traditionum censum &amp; 
+      cata<lb ed="#C" n="17" break="no"/>logum statuere, vt in quaque Questione liberam sibi relinquant ad 
+      Traditi<lb ed="#C" n="18" break="no"/>ones confugiendi potestatem. Cum igitur Scripturas ad ista probanda 
+      profe<lb ed="#C" n="19" break="no"/>tunt, id faciunt invita conscientia, quippe qui satis intelligant, &amp; ingenue 
+      fa<lb ed="#C" n="20" break="no"/>teantur, haec eius generis esse, quae Traditione tacita, non testimoniis 
+      Scriptu<lb ed="#C" n="21" break="no"/>trarum comprobentur. Sic quod nos dicimus, ista ex Scripturis confirmati 
+      <lb ed="#C" n="22"/>non posse, Adversarij concedunt. Iam ad ad statum Quaestionis veniamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="100"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de9412"><!-- con1q2c8 -->
+            <head xml:id="wWpoi1-de9412-Hd1e106">Caput 8</head>
+            <p xml:id="wWpoi1-de9412-d1e109">
+               <lb ed="#C" n="14"/>CAPVT OCTAVUM. 
+      <lb ed="#C" n="15"/>In quo respondetum ad decem ratones inserpretam Anglo Rhemensium, 
+      <lb ed="#C" n="16"/>quibus vulgatae versionis in novo Testamento autho, 
+      <lb ed="#C" n="17"/>Hatepobare 
+    </p>
+            <p xml:id="wWpoi1-de9412-d1e120">
+               <lb ed="#C" n="18"/>THeologi quidam Anglo Papiste, in Rhemensi seminatio commo¬ 
+      <lb ed="#C" n="19" break="no"/>rantes, novum Testamentum in Anglicum sermonem ante 
+      hos<lb ed="#C" n="20" break="no"/>ce paucos annos transtulerunt, non ex Graeco textu, sed Latino vetere. 
+      <lb ed="#C" n="21"/>vulgato. Quod quo prudentius consultiusque se fecisse nobis 
+      persuade<lb ed="#C" n="22" break="no"/>ant, in praefatione sua decem rationes proferunt, quibus Latinam hanc 
+      <lb ed="#C" n="23"/>vulgatam editionem, potius quam Graecam, esse peromnia sequendam 
+      <lb ed="#C" n="24"/>comprobent. Eas nunc breviter proponemus atque refellemus. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e138">
+               <lb ed="#C" n="25"/>Prima. Tam antiqua haec Editio est, vt in Ecclesia Christi ante annos 
+      <lb ed="#C" n="26"/>1300. recepta fuerit, quemadmodum ex Patribus illorum temporum 
+      <lb ed="#C" n="27"/>constat. Respondeo: Utcunque illam antiquam faciunt, tamen esse 
+      Graeca<lb ed="#C" n="28" break="no"/>editione recentiorem, necesse est fateantur. Nam Graeca fuit non modo 
+      <lb ed="#C" n="29"/>prior quam Latina, sed quam aliae omnes versiones, quae tanquam 
+      rivu<lb ed="#C" n="30" break="no"/>li ex fontibus Graecae editionis derivantur. Quare si Latinam editionem. 
+      <lb ed="#C" n="31"/>antiquitas annorum 1300. commendat, multo magis Graec am nobis 
+      <lb ed="#C" n="32"/>commendatam esse oportet, quam ante annos 1500 publice in 
+      Eccle<lb ed="#C" n="33" break="no"/>siis Christianorum receptam esse, ex illorum temporum verissimis 
+      mo<lb ed="#C" n="34" break="no"/>nimentis colligimus. Et mirum est istos egregios interpretes, quando 
+      <lb ed="#C" n="35"/>vulgatae suae editionis vetustatem venditant, non meminisse, hoc 
+      qui<lb ed="#C" n="36" break="no"/>dem antiquitatis argumento plus esse Graecae editioni, quae sine dubios 
+      <!--110.xml-->
+      <pb ed="#L" n="101"/>
+               <lb ed="#C" n="1"/>prima &amp; antiquissima omnium fuit, quam Latinae huic vulgatae ab ipsis 
+      <lb ed="#C" n="2"/>tributum. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e175">
+               <lb ed="#C" n="3"/>Secunda, Illa eadem est (ut vulgo opinantur, &amp; omnino probabile est, 
+      <lb ed="#C" n="4"/>quam postea Hieronymus ex Graeco correxit iussu Damasi, vt scribit 
+      id<lb ed="#C" n="5" break="no"/>praefatione in Evangelistas: in Catalogo in fine: &amp; Epist. 102. 
+      Respon<lb ed="#C" n="6" break="no"/>deo: primo, fatentur minime certum atque exploratum esse, num haec 
+      vul<lb ed="#C" n="7" break="no"/>gata novi Testamenti Latina Editio, eadem omnino sit, quam 
+      Hiero<lb ed="#C" n="8" break="no"/>nymus correxit, quando hoc in communi duntaxat opinione ac 
+      proba<lb ed="#C" n="9" break="no"/>bilitate positum esse dicunt. At nos non tantum dubie &amp; probabiliter,  
+      <lb ed="#C" n="10"/>sed certissime intelligimus hanc Graecam novi Testamenti Editionem: 
+      <lb ed="#C" n="11"/>non aliam omnino esse, quam θειτιάςον &amp; αρχευπον Scripturam 
+      novi<lb ed="#C" n="12" break="no"/>Testamenti, ab Apostolis atque Evangelistis, Ecclesiae Christianorum 
+      <lb ed="#C" n="13"/>commendatam. Secundo, quod Hieronymus Latinam editionem ex 
+      <lb ed="#C" n="14"/>Graecis fontibus emendavit, id satis ostendit, maiorem esse Graecae, 
+      <lb ed="#C" n="15"/>quam Latinae editionis authoritatem. Hieronymus Latinum ex 
+      Graeco<lb ed="#C" n="16" break="no"/>correxit: at Rhemenses nostri contra Graecum ex Latino corigendum 
+      <lb ed="#C" n="17"/>esse statuunt.  
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e211">
+               <lb ed="#C" n="18"/>Tertia. Consequenter eadem est, quam Augustinus tantopere 
+      lau<lb ed="#C" n="19" break="no"/>dat ac probat in Epistola quadam ad Hieronymum, Epist. 10. 
+      Respondeo<lb ed="#C" n="20" break="no"/>primo, Haec ratio ex eadem illa opinione ac suspicione pendet, ex 
+      qua<lb ed="#C" n="21" break="no"/>superior. Secundo, Augustini laudatio non satis in se momenti habet, 
+      ve<lb ed="#C" n="22" break="no"/>editionem authenticam constituat. Laudavit etiam Italam, multasque 
+      a<lb ed="#C" n="23" break="no"/>lias, sed omnibus Graecam praeposuit, atque ex Graeca omnes 
+      emenda<lb ed="#C" n="24" break="no"/>ti aestimarique voluit. Tertio, laudavit illam editionem Augustinus, non 
+      <lb ed="#C" n="25"/>vrpenitus authenticam, sed vt alijs transsationibus fideliorem. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e231">
+               <lb ed="#C" n="26"/>Quarta. Illa est, quae exinde semper fere vsurpata fuit in Ecclesiasticis: 
+      <lb ed="#C" n="27"/>officiis, in concionibus, in commentarijs, in scriptis antiquorum 
+      Eccle<lb ed="#C" n="28" break="no"/>siae Latinae Patrum. Respondeo: primo, Ducentis &amp; ampliis post 
+      Hiero<lb ed="#C" n="29" break="no"/>nymum annis, nullam illa omnino nacta est singularem praerogativam, 
+      <lb ed="#C" n="30"/>atque authoritatem, quemadmodum antea ostendimus. Secundo, num 
+      <lb ed="#C" n="31"/>quia hac Latini Patres &amp; Scriptores praecipue vsi sunt, esse igitur illam 
+      <lb ed="#C" n="32"/>prorsus authenticam, &amp; Graeca potiorem sequitur? Tertio, multo magis 
+      <lb ed="#C" n="33"/>Graecam esse authenticam concludi debet, qua Graecorum Ecclesiae 
+      ab<lb ed="#C" n="34" break="no"/>ipsis Apostolorum temporibus semper vsae sunt in publicis Liturgiis, 
+      in<lb ed="#C" n="35" break="no"/>Homilijs, in commentarijs, in libris. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e255">
+               <lb ed="#C" n="36"/>Quinta: Sacrum Concilium Tridentinum propter has multasque alias 
+      <lb ed="#C" n="37"/>magni pondenisrationes, hanc solam ex omnibus Latinis 
+      transsationi<lb ed="#C" n="38" break="no"/>bus authentieam esse definivit. Respondeo: primo, Tridentinum illud 
+      <!--111.xml-->
+      <pb ed="#L" n="102"/>
+               <lb ed="#C" n="1"/>Concilium apud nos nullam authoritatem habet. Secundo, quo jure hoc  
+      <lb ed="#C" n="2"/>definire potuit? Tertio, rationes huius decreti nullas proposuit, praeter 
+      <lb ed="#C" n="3"/>hanc vnam, quod ea longo seculorum vsu recepta fuerit in Ecclesia: 
+      <lb ed="#C" n="4"/>quam certe rationem tantis Theologis indignam fuisse quis non 
+      intel<lb ed="#C" n="5" break="no"/>ligit? Quarto, Quaero num Tridentinum Concilium hanc Latinam 
+      <lb ed="#C" n="6"/>solummodo jusserit inter Latinas authenticam haberi, an simpliciter  
+      <lb ed="#C" n="7"/>esse authenticam decreverit? Nam si Latinis duntaxat caeteris 
+      Transsa<lb ed="#C" n="8" break="no"/>tionibus hanc vnam praetulit, nulla ea ratio fuit, quamobrem 
+      Rhemen<lb ed="#C" n="9" break="no"/>ses novum Testamentum non ex Graeco verterent: quia Concilium 
+      <lb ed="#C" n="10"/>Tridentinum non illam Graecae editioni, sed Latinis transsationibus 
+      an<lb ed="#C" n="11" break="no"/>teponit. Num ergo &amp; hanc Latinam, &amp; illam etiam Graecam editionem. 
+      <lb ed="#C" n="12"/>esse authenticam statuunt, an hanc solam Latinam? Sic nimirum 
+      lo<lb ed="#C" n="13" break="no"/>quuntur, quasi Graecam esse authenticam non negarent: quum tamen 
+      <lb ed="#C" n="14"/>nullam vel novi vel veteris Testamenti editionem, praeterquam Latinam 
+      <lb ed="#C" n="15"/>illam vulgatam, pro authentica habeant: quod &amp; isti Rhemenses 
+      iudi<lb ed="#C" n="16" break="no"/>cant, qui novum Testamentum ex Latino transtulerunt: &amp; Iesuitae 
+      a<lb ed="#C" n="17" break="no"/>cerrime defendunt, quando si Latina cum Graecis &amp; Hebraeis non 
+      con<lb ed="#C" n="18" break="no"/>veniunt, Latinis potius standum esse, quam vel Graecis, vel Hebraeis, 
+      <lb ed="#C" n="19"/>disputant. Atque hanc nunc esse receptam Pontificiorum 
+      sententi<lb ed="#C" n="20" break="no"/>am constat.  
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e312">
+               <lb ed="#C" n="21"/>Sexta: Est omnium gravissima, sincerissima, augustissima, a partium 
+      <lb ed="#C" n="22"/>studiis alienissima. Respondeo: 1e. Has omnes virtutes necesse est 
+      in<lb ed="#C" n="23" break="no"/>Graeca editione majores esse, quae est Apostolorum, &amp; Evangelistarum, 
+      <lb ed="#C" n="24"/>&amp; ipsius denique Spiritus sancti, quam in Latina, quae suae existimationis: 
+      <lb ed="#C" n="25"/>dignitatisque principium non longius aut sublimius, quam ab 
+      Hierony<lb ed="#C" n="26" break="no"/>mi tempore personaque repetit. 2. In inultis locis putida est, &amp; falsa, 
+      ve<lb ed="#C" n="27" break="no"/>post apparebit: itaque &amp; gravitatis, &amp; majestatis, &amp; sinceritatis expers. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e330">
+               <lb ed="#C" n="28"/>Septima: Graecae tam accurate &amp; penitus congruit, seu phrases, seut 
+      <lb ed="#C" n="29"/>verba spectes, vteam propterea delicati haeretici tanquam rudem &amp; 
+      im<lb ed="#C" n="30" break="no"/>peritam reprehendant. Res pondeo, 18. rudem &amp; impolitum esse, non 
+      ma<lb ed="#C" n="31" break="no"/>gna laus est. Secundo, si laudanda est, quia Graecae praeclare convenit ac 
+      <lb ed="#C" n="32"/>respondet, tum Graecam ipsam esse multo magis laudandam 
+      sequi<lb ed="#C" n="33" break="no"/>tur. Tertio, a Graeca differt in multis locis, vt post videbimus. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e346">
+               <lb ed="#C" n="34"/>Octava. Adversarij ipsi, nominatim Beza, hanc caeteris omnibus. 
+      <lb ed="#C" n="35"/>praefert, in praefat. Novi Testamenti, anno 1556. &amp; alibi ait, veterem 
+      in<lb ed="#C" n="36" break="no"/>terpretem valde religiose transtulisse: Annot. in 1. Luc. ver. 1. 
+      Respon<lb ed="#C" n="37" break="no"/>deo. Etsi Beza illam caeteris transsationibus in quorundam locorum 
+      ver<lb ed="#C" n="38" break="no"/>sione praetulit, &amp; veterem interpretem religiose sacros libros interpre¬ 
+      <!--112.xml-->
+      <pb ed="#L" n="103"/>
+               <lb ed="#C" n="1"/>tatum videri scripsit, tamen illi nunquam in mentem venit, vt Latinam 
+      <lb ed="#C" n="2"/>illam editionem aut Graecae praeponeret, aut authenticam faceret, vel  
+      <lb ed="#C" n="3"/>Latinum hunc interpretem nunquam erravisse statueret. Imo in hoc 
+      ip<lb ed="#C" n="4" break="no"/>so loco veterem interpretem reprehendit, quod non intellexerit quid.  
+      <lb ed="#C" n="5"/>inter τυροροριαν &amp; τεπρίθισιν interesset. Si illam Beza tam perfectam, 
+      <lb ed="#C" n="6"/>quam isti volunt, esse sensisset, nunquam ipse novam transsationem 
+      edi<lb ed="#C" n="7" break="no"/>disset. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e380">
+               <lb ed="#C" n="8"/>Nona: In reliquis summa est dissensio ac discrepantia. Respondeo, 1. Si 
+      <lb ed="#C" n="9"/>constaret illam esse omnibus aliis trassationibus meliorem, tamen quid 
+      <lb ed="#C" n="10"/>hoc ad rem?Non enim hinc sequitur, aut Latinam esse authenticam, aut 
+      <lb ed="#C" n="11"/>Rhemenses novum Testamentum ex Latino, non ex Graeco vertere? 
+      <lb ed="#C" n="12"/>debuisse. Secundo, Non possunt in nostris versionibus tantam 
+      dissensio<lb ed="#C" n="13" break="no"/>nem invenire, quanta omnino est inter Latinam illorum vulgatam, &amp; 
+      <lb ed="#C" n="14"/>Graecam editionem. Tertio, Etsi nostrorum aliquae interpretationes in 
+      <lb ed="#C" n="15"/>quibusdam locis differant, tamen nec in multis, nec periculose: non 
+      e<lb ed="#C" n="16" break="no"/>nim his Transiationibus, tanquam ipsis per se authenticis, standum esse 
+      <lb ed="#C" n="17"/>dicimus, sed ad fontes solos, tanquam vere authenticos, provocamus. 
+      </p>
+            <p xml:id="wWpoi1-de9412-d1e404">
+               <lb ed="#C" n="18"/>Decima: Non modo reliquis omnibus Latinis translationibus meliore 
+      <lb ed="#C" n="19"/>est, sed &amp; Graeca ipsa editione, in iis locis, in quibus differunt. Respondeo, 
+      <lb ed="#C" n="20"/>1e. Hinc manifestum esse, quantum isti homines Graecae editioni 
+      tribu<lb ed="#C" n="21" break="no"/>unt, qui ei Latinam in omnibus locis, in quibus aliqua discrepantia 
+      re<lb ed="#C" n="22" break="no"/>peritur, meliorem esse affirmant. Secundo. Quam hoc falsum sit, post 
+      <lb ed="#C" n="23"/>postendemus, &amp; alij multi jam antea saepe copioseque demonstrarunt.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="331"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e30606"><!-- con1q5c7 -->
+            <head xml:id="wWpoi1-e30606-Hd1e106">Caput 7</head>
+            <p xml:id="wWpoi1-e30606-d1e109">
+               <lb ed="#C" n="29"/>CAPTTTIII 
+      <lb ed="#C" n="30"/>De quarto Iesuitae argumento. 
+    </p>
+            <p xml:id="wWpoi1-e30606-d1e116">
+               <lb ed="#C" n="31"/>QVartum &amp; postremum eius argumentum a ratone sumitum Deus 
+      <lb ed="#C" n="32"/>Qeuim (inquit) non ignoravit, controversias ac difficiles 
+      quaesti<lb ed="#C" n="33" break="no"/>ones multas circa fidem omnibus temporibus in Ecclesia futuras esse: 
+      <lb ed="#C" n="34"/>Ergo nisi iudicem aliquem istarum controversiarum constituisset, &amp; 
+      Eccle<lb ed="#C" n="35" break="no"/>siae suae reliquisset, non bene providisset Ec clesiae de rebus neceffariis: Sed 
+      <lb ed="#C" n="36"/>optime semper Ecclesiae suae consulit Deus, de rebus praesertim 
+      necessa<lb ed="#C" n="37" break="no"/>riis: Ergo reliquit aliquem iudicem, Reffondeo. Reliquit quidem 
+      De<lb ed="#C" n="38" break="no"/>us indicem Ecclesiae suae; sed quis ille sit iam quaeritur, &amp; inter nos ac Pa¬ 
+      <!--341.xml-->
+      <pb ed="#L" n="332"/>
+               <lb ed="#C" n="1"/>pistas controvertitur. Nos dicimus hunc iudicem esse Spiritum sanctumi 
+      <lb ed="#C" n="2"/>in Scripturis loquentem. Iesuita vero hac de re tria asserit. Primo, ait  
+      <lb ed="#C" n="3"/>hunc iudicem non esse Spiritum privatum revelantem, Respondeo: Nos 
+      <lb ed="#C" n="4"/>hoc fatemur: Huiusmodi enim Spiritus authoritas occulta, arcana, ac 
+      <lb ed="#C" n="5"/>privata est: sed iste iudex publicam, apertam &amp; omnibus notam 
+      authori<lb ed="#C" n="6" break="no"/>tatem habere debet. Secundo, affirmat Iesuita, hunc iudicem non esset 
+      <lb ed="#C" n="7"/>Principem aliquem secularem.
+    </p>
+            <p xml:id="wWpoi1-e30606-d1e155">
+      Respondeo. Hoc quoque nos dicimus. 
+      <lb ed="#C" n="8"/>Summum enim iudicium soli Scripturae &amp; Spiritui sancto tribuimus, &amp; 
+      <lb ed="#C" n="9"/>tamen illam sententiam atque opinionem Papistae nobis, tanquam  
+      <lb ed="#C" n="10"/>nostram, objiciunt. Tertio, concludit Iesuita, sumimum istum iudicem: 
+      <lb ed="#C" n="11"/>debere esse Principem Ecclesiasticum, qualis est Pontifex Romanus. 
+      <lb ed="#C" n="12"/>Respondeo. Quicquid ergo de Patribus gloriose, quicquid de Conciliis 
+      <lb ed="#C" n="13"/>Papistae praedicant, ad Principem suum Ecclesiasticum, id est, ad Papam 
+      <lb ed="#C" n="14"/>omnes controversiae postremo deferuntur, &amp; penes illum Principem 
+      <lb ed="#C" n="15"/>summumque interpretem sensus omnis Scripturae ac iudicium refidet. 
+      <lb ed="#C" n="16"/>Sed nos istum principem non agnoscimus, quem Christus non 
+      constitu<lb ed="#C" n="17" break="no"/>it; &amp; Scripturam ipsam in publicis tabulis propositam dicimus esse 
+      <lb ed="#C" n="18"/>interpretem sui ipsius. Iam restat vt quibus ille rationibus nostram hanc 
+      <lb ed="#C" n="19"/>sententiam evertere conetur, videamus. Iesuita vero Scripturam non 
+      <lb ed="#C" n="20"/>posse esse Scripturae interpretem tribus rationibus probat.  
+      <lb ed="#C" n="21"/>Prima eius ratio est, quia Scriptura habeat varios sensus: ac proinde cum 
+      <lb ed="#C" n="22"/>non loquatur, non potest nos docere, quis horum verus ae genuinus 
+      sen<lb ed="#C" n="23" break="no"/>sus sit. Respondeo: Scriptura quidem, vt diximus, vnum simplicemque 
+      <lb ed="#C" n="24"/>sensum habet, qui etiam ex ipsis Scripturis aperte colligipotest: &amp; 
+      quan<lb ed="#C" n="25" break="no"/>quam Scriptura non habet vocem ac sermonem, vt homo; tamen 
+      lo<lb ed="#C" n="26" break="no"/>quitur aperte, vt lex: &amp; in Scriptura Deus ipse loquitur; ac propterea Dei 
+      <lb ed="#C" n="27"/>verbum Scriptura dicitur. Non minus certo igitur ex Scripturis possumus 
+      <lb ed="#C" n="28"/>veram sententiam elicere, quam si Deus ipse nos viva voce alloqueretur.  
+      <lb ed="#C" n="29"/>Num meliorem indicem aut interpretem desideramus, quam ipsum 
+      De<lb ed="#C" n="30" break="no"/>lum? Qui literas amici legit, num mentem eius non intelligit, quia literae 
+      <lb ed="#C" n="31"/>ipsae non loquuntur, aut quia amicum ipsum loquentem non auditi 
+      Ne<lb ed="#C" n="32" break="no"/>mo sanus id ynquam dixerit. Cum ergo Scripturae sint quasi litera nobis 
+      <lb ed="#C" n="33"/>a Deo missae, ex his Dei voluntatem possumus intelligere, etsi non 
+      loquan<lb ed="#C" n="34" break="no"/>tur. Caeli (inquit Propheta, Psal.19) gloriam Dei enarrant, &amp; tamennon: 
+      <lb ed="#C" n="35"/>loquuntur: multo illustriorem vero ac clariorem vocem Scripturae 
+      ha<lb ed="#C" n="36" break="no"/>bent. In principio creavit Deus coelum &amp; terram. Quid? nesciemus quis 
+      <lb ed="#C" n="37"/>sensus horum verborum sit, nisi Papam consulimus? Nec minus aperta sunt:  
+      <lb ed="#C" n="38"/>omnia capita religionis nostrae. Secunda ratio, qua probat Iesuita Scri¬ 
+      <!--342.xml-->
+      <pb ed="#L" n="333"/>
+               <lb ed="#C" n="1"/>pturam non posse esse Scripturae iudicem &amp; interpretem, haec est, quia 
+      ni<lb ed="#C" n="2" break="no"/>mirum, in omni Republica bene instituta distinguitur Lex &amp; iudex: 
+      ita<lb ed="#C" n="3" break="no"/>que Scriptura Lex cum sit, iudex esse nullo modo potest. Respondeo, 
+      in<lb ed="#C" n="4" break="no"/>nulla Republica talem constitui iudicem debere, qui ex arbitrio ac 
+      vo<lb ed="#C" n="5" break="no"/>luntate sua legem interpretetur: tum enim quid legibus opus erat? Debet.  
+      <lb ed="#C" n="6"/>autem iudex in omni Republicalegem ex lege interpreta: alioqui 
+      ini<lb ed="#C" n="7" break="no"/>quus iudex erit, si mentem suam, non legem ipsam sequatur. Ita in 
+      Eccle<lb ed="#C" n="8" break="no"/>sia Episcopi &amp; Pastores Scripturam interpretari, &amp; Dei voluntatem 
+      ex<lb ed="#C" n="9" break="no"/>ponere debent, sed ex ipsa Dei lege, id est, ex Scriptura, licet re vera nulli 
+      <lb ed="#C" n="10"/>homini in Scripturas tantam authoritatem concedimus, quanta rerum 
+      <lb ed="#C" n="11"/>forensium iudici in leges humanas tribui potest. Leges quidem 
+      huma<lb ed="#C" n="12" break="no"/>nae tutius multo committi possunt vni iudici, quam lex divina. Lex vero 
+      <lb ed="#C" n="13"/>divina &amp; iudicium, &amp; iudex, &amp; interpres, &amp; regula est Quam enim 
+      regu<lb ed="#C" n="14" break="no"/>lam sibi proponet iudex ille, quem ipsi Papistae fingunt, in Scripturis 
+      in<lb ed="#C" n="15" break="no"/>terpretandis? Nullamne? id, vt spero, non audent affirmare. Si vero 
+      vi<lb ed="#C" n="16" break="no"/>lam sequetur regulam, ea aut privata, aut publica sit necesse est. Si 
+      pri<lb ed="#C" n="17" break="no"/>vatam &amp; occultam aliquam regulam sequatur, illa quidem recipienda 
+      <lb ed="#C" n="18"/>non est, quia dubia est &amp; incerta, nec melior esse potest privato 
+      testimo<lb ed="#C" n="19" break="no"/>nio spiritus: regula vero omnis certa atque nota esse debet. Sin publicat 
+      <lb ed="#C" n="20"/>illa regula sit, quam sequitur, ea Scriptura erit necessario: quae enim alia 
+      <lb ed="#C" n="21"/>esse potest? Scripturam vero qui sequitur vt regulai, ad eamque exigit 
+      ac<lb ed="#C" n="22" break="no"/>conformat interpretationes suas, is fatetur suum non esse aliter 
+      interpre<lb ed="#C" n="23" break="no"/>tan Scripturas, quam prout ipsa regula Scripturarum praescribit. Ita non 
+      <lb ed="#C" n="24"/>iudicat de sensu Scripturae αυτυκραρρικώς, sed suum iudicium Scripturis 
+      <lb ed="#C" n="25"/>ipsis submittit. Tertia hac de re Iesuitae ratio huiusmodi est: Iudex 
+      ha<lb ed="#C" n="26" break="no"/>bere debet authoritatem coactivam: alioqui enim iudicium eius nullam? 
+      <lb ed="#C" n="27"/>vim habebit, nec in eius sententia quisquam ac quiescet. Respondeo: 
+      Scri<lb ed="#C" n="28" break="no"/>ptura quidem non cogit externe, vi aliqua externa, sed interne tamen 
+      <lb ed="#C" n="29"/>cogit mentem assentiri. Si quis vero esset externus huiusmodi iudex, qui  
+      <lb ed="#C" n="30"/>omnes cogeret, tum nullae forent controversiae, quae tamen semper &amp; 
+      <lb ed="#C" n="31"/>fuerunt, &amp; erunt, &amp; iam etiam sunt prope infinitae. Pontifex quidem 
+      <lb ed="#C" n="32"/>Romanus cogere potest, hoc est, terrere, &amp; metu coercere, &amp; morte 
+      <lb ed="#C" n="33"/>mulctare: sed cozere vt credamus hanc esse Dei voluntatem, &amp; 
+      Scriptu<lb ed="#C" n="34" break="no"/>ram, tanquam Dei vocem, recipiamus, non potest. Spiritus sanctus est, 
+      <lb ed="#C" n="35"/>qui persuadet vt hoc credamus, &amp; mentes nostras in veras opiniones 
+      in<lb ed="#C" n="36" break="no"/>ducit, &amp; facit vteas ad extremum vsque spiritum teneamus. Pontifex! 
+      <lb ed="#C" n="37"/>ergo non est iudex, quia non potest cogere vt credamus. Nam illa 
+      vio<lb ed="#C" n="38" break="no"/>lenta coactio est, qua ipse vtitur, quando ora nobis obstruit, &amp; fauces; 
+      <!--343.xml-->
+      <pb ed="#L" n="334"/>
+               <lb ed="#C" n="1"/>nostras comprimit, adeo vt ne hiscere quidem possimus; qua tamen 
+      ni<lb ed="#C" n="2" break="no"/>hil proficiet, nisi Spiritus sanctus intus persuaserit. Imo nisi interna ista 
+      <lb ed="#C" n="3"/>Spiritus sancti persuasio accesserit, nunquam in vlla interpretatione 
+      se<lb ed="#C" n="4" break="no"/>cure &amp; constanter animus noster acquiescet. Atque hactenus quidem 
+      <lb ed="#C" n="5"/>de Papistarum argumentis diximus, quae fere aliena sunt, cum privatum 
+      <lb ed="#C" n="6"/>spiritum oppugnent, quem nos iudicem non facimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

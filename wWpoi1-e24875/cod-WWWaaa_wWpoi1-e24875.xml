@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="269"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e24875"><!-- con1q4c2 -->
+            <head xml:id="wWpoi1-e24875-Hd1e106">Caput 2</head>
+            <p xml:id="wWpoi1-e24875-d1e109">
+               <lb ed="#C" n="18"/>CAPUTTTTTTII 
+      <lb ed="#C" n="19"/>χgρρgρρρρα 
+    </p>
+            <p xml:id="wWpoi1-e24875-d1e116">
+               <lb ed="#C" n="20"/>Vperiores illae <name xml:id="wWpoi1-e24875-Nd1e120">Lutheri</name> distinctiones diligenter a nobis memoria 
+      <lb ed="#C" n="21"/>Orenendae sunt, quippe quae ad omnia pene Papistarum in hac 
+      cau<lb ed="#C" n="22" break="no"/>sa argumenta diluenda valeant. Sed priusquam ad illorum 
+      argumenta<lb ed="#C" n="23" break="no"/>acccdamus, proponendas esse duxi causas illas, propter quas tam multa. 
+      <lb ed="#C" n="24"/>in Scripturis obscuriora paulo ac difficiliora Deus esse voluerit. Hoc 
+      e<lb ed="#C" n="25" break="no"/>nim ad rem, de qua agitur, melius intelligendam multum confest. Hac 
+      <lb ed="#C" n="26"/>de re Patres praeclare scribunt, <ref xml:id="wWpoi1-e24875-Rd1e136">
+                  <ref xml:id="wWpoi1-e24875-Rd1e138">Clemens Alexandrin.</ref> Stromat. Lib 6.</ref> 
+               <lb ed="#C" n="27"/>
+               <ref xml:id="wWpoi1-e24875-Rd1e144">
+                  <name xml:id="wWpoi1-e24875-Nd1e146">Augustin.</name> Lib. 2. de Doct. Christian. cap. 6.</ref> Gregor. 6. Homil. in 
+      E<lb ed="#C" n="28" break="no"/>zechiel. &amp; alij. Sunt autem istae causae huiusmodi: Prima: Voluit Deus 
+      <lb ed="#C" n="29"/>nos esse in precibus assiduos, ideoque multis obscuritatibus Scripturas 
+      <lb ed="#C" n="30"/>passim aspersit, vt Dei auxilium in illis interpretandis, &amp; in vero illarum 
+      <lb ed="#C" n="31"/>sensu nobis aperiendo peteremus. Secunda: Voluit nostram diligentiam 
+      <lb ed="#C" n="32"/>excitare eo modo in legendis, meditandis. perscrutandis, conferendis 
+      <lb ed="#C" n="33"/>Scripturis. Si enim facilia suissent omnia, socordes plane atque 
+      indiligen<lb ed="#C" n="34" break="no"/>tes fuissemus. Tertia: Voluit fastidium a nobis removere: facile enim 
+      fa<lb ed="#C" n="35" break="no"/>stidimus quae sunt facilia: voluit ergo Deus nos difficultatibus 
+      quibus<lb ed="#C" n="36" break="no"/>dam exerceni. Quarta: Voluit Deus veritatem istam tam sublimen, tanm 
+      <lb ed="#C" n="37"/>coelestem, tanto labore quaesitam &amp; inventam, pluris a nobis aestimari. 
+      <!--279.xml-->
+      <pb ed="#L" n="270"/>
+               <lb ed="#C" n="1"/>Quae enimfacile ac quiruntur, &amp; in promptu sunt, &amp; exiguo aut nullo 
+      la<lb ed="#C" n="2" break="no"/>bore constant, ea fere contemnimus &amp; parvi facimus, inxta Graecorum. 
+      <lb ed="#C" n="3"/>proverbium, ἐτι δυρασ τυσ θσριαν: quae vero multo labore &amp; inagno 
+      sudo<lb ed="#C" n="4" break="no"/>re a nobis inveniuntur, ea semel inventa magni ducimus, &amp; in maiore 
+      <lb ed="#C" n="5"/>semper precio habemus. Quinta: Voluit Deus nostram arrogantiam 
+      ac<lb ed="#C" n="6" break="no"/>superbiam hoc modo domare, &amp; nostram inscitiam coarguere. Nos 
+      e<lb ed="#C" n="7" break="no"/>nim honorifice nimis de nobismetipsis sentimus, &amp; magnificentius 
+      sem<lb ed="#C" n="8" break="no"/>per, quam par est, de ingenio atque acumine nostro cogitamus, &amp; de 
+      no<lb ed="#C" n="9" break="no"/>stra scientia atque cognitione nobismetipsis nimium polliceri solemus. 
+      <lb ed="#C" n="10"/>Sexta: Voluit Deus sancta mysteria verbi sui sanctis &amp; puris 
+      communi<lb ed="#C" n="11" break="no"/>cari ac patere, non canibus &amp; porcis prostitui. Atque hinc quae sanctis 
+      <lb ed="#C" n="12"/>sunt facilia, ea profanis δοαζολικα videntur: Sunt enim mysteria 
+      Scri<lb ed="#C" n="13" break="no"/>pturae instar gemmatum, quas qui novit, solus magni aestimat, reliqui  
+      <lb ed="#C" n="14"/>vero instar galli AEsopici despiciunt, &amp; res nihili rei pulcherrimae 
+      <lb ed="#C" n="15"/>ac praestantissimae anteponunt. Septima: Voluit Deus animos nostros 
+      <lb ed="#C" n="16"/>a studijs rerum externatum ac quotidianis occupationibus avocare, 
+      <lb ed="#C" n="17"/>&amp; ad studium Scripturarum traducere. Idcirco aliquid iam temporis 
+      <lb ed="#C" n="18"/>necessario est earum lectioni studioque impantiendum, quod certe non 
+      <lb ed="#C" n="19"/>faceremus, si omnia facilia &amp; aperta inveniremus. Octava: Voluit Deus 
+      <lb ed="#C" n="20"/>hoc modo nos ad internam quandam sensuum ac cogitationum 
+      sancti<lb ed="#C" n="21" break="no"/>tatem ac puritatem assuefacere. Qui enim profanas mentes ad 
+      Scriptu<lb ed="#C" n="22" break="no"/>ras legendas afferunt, ii operam &amp; oleum perdunt: illi soli cum fructu 
+      le<lb ed="#C" n="23" break="no"/>gunt, qui sanctas ac puras mentes secum afferunt. Nona: Voluit Deus 
+      <lb ed="#C" n="24"/>in Ecclesia sua alios doctores esse, alios discipulos; alios peritiores qui  
+      <lb ed="#C" n="25"/>docerent, alios imperitiores qui discerent:vt Scripturis sacris, &amp; 
+      ministe<lb ed="#C" n="26" break="no"/>rio divinitus instituto, suus honos conservetur. Haec fuit illa Spiritus 
+      san<lb ed="#C" n="27" break="no"/>cti sapientia, qua <quote xml:id="wWpoi1-e24875-Qd1e235" source="http://scta.info/resource/addc-l2-d1e176@73-82">magnifice ac salubriter Scripturas modificavit</quote>, vt ait  
+      <lb ed="#C" n="28"/>
+               <ref xml:id="wWpoi1-e24875-Rd1e240">Augustinus, 2. Lib. de Doctrina Christiana, cap. 6.</ref> Possunt aliae adhuc 
+      <lb ed="#C" n="29"/>causae afferri, sed non est necesse plures enumerare. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

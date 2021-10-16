@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="49"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de4720"><!-- con1q1c8 -->
+            <head xml:id="wWpoi1-de4720-Hd1e106">Caput 8</head>
+            <p xml:id="wWpoi1-de4720-d1e109">
+               <lb ed="#C" n="21"/>CAPUTTIII 
+      <lb ed="#C" n="22"/>Se nefieram cul&amp; 
+      agobi<lb ed="#C" n="23" break="no"/>TEsserae quantum est Hebraicum, id est Canonicum, recipimus: 
+      <lb ed="#C" n="24"/>HHideoque illa decem capita, quae in libris Hebraeis habentur, in 
+      nul<lb ed="#C" n="25" break="no"/>lam controversiam vocamus. Quaestio omnis &amp; lis est de illis septem 
+      <lb ed="#C" n="26"/>postremis capitulis, quae sunt alienae familiae ac notae, quemadmodum 
+      <lb ed="#C" n="27"/>facile ostendemus. Ista septem capita Papistae ad reliqua adiungi 
+      vo<lb ed="#C" n="28" break="no"/>lunt, vt nullum sit in authoritate discrimen, quia Tridentinum 
+      Conci<lb ed="#C" n="29" break="no"/>lium, quod apud illos plus, quam omnis ratio aut Scriptura valet, libros 
+      <lb ed="#C" n="30"/>cum suis partibus recipi subet. Argumenta fere eadem sunt, quae 
+      pro<lb ed="#C" n="31" break="no"/>libro Baruch allata fuerant. Leguntur quaedam in officio Ecclesiae ex 
+      <lb ed="#C" n="32"/>his capitibus, &amp; hinc Patres aliquando testimonia proferunt: quod 
+      ge<lb ed="#C" n="33" break="no"/>nus argumentandi quam parum valeat, iam satis ostendimus. Huc 
+      ac<lb ed="#C" n="34" break="no"/>cedit, quod Iosephus de Antiq. Lib. 10. cap. 6. duas epistolas 
+      Assueri<lb ed="#C" n="35" break="no"/>commemorat, que in his vitimis capitibus, non in illis prioribus, 
+      reperi<lb ed="#C" n="36" break="no"/>untur. Haec sunt Adversariorum argumenta. 
+      </p>
+            <p xml:id="wWpoi1-de4720-d1e146">
+               <lb ed="#C" n="37"/>Ad ea quaesupra refutata sunt, nolo iterum respondere: illud autem 
+      <!--59.xml-->
+      <pb ed="#L" n="50"/>
+               <lb ed="#C" n="1"/>argumentum, quod Iosephi authoritate nititur, nihil concludit. 
+      Pa<lb ed="#C" n="2" break="no"/>mum enim, quid si aliquid ex his capitibus losephus ad historiam 
+      au<lb ed="#C" n="3" break="no"/>gendam aut illustrandam sumpsit? num proinde ipsa capita ad 
+      Cano<lb ed="#C" n="4" break="no"/>nicam Scripturam pertinere iudicavit? Sed hac omni de re Lyvranus 
+      pro<lb ed="#C" n="5" break="no"/>me respondeat, cuius haec verba sunt in fine Commentar. in hunc 
+      li<lb ed="#C" n="6" break="no"/>brum. Caetera quae sequuntur non intendo exponere, quia non in Hebraeo sunt, 
+      <lb ed="#C" n="7"/>nec de Scriptura Canonica, sed magis videntur a Iosepho &amp; alijs scriptoribus 
+      <lb ed="#C" n="8"/>conficta, &amp; postea editioni vulgatae inserta. Non ergo Iosephus ista ex 
+      ali<lb ed="#C" n="9" break="no"/>quo Canonico libro sumpsit, sed primus scripsit: haec autem alij 
+      postea<lb ed="#C" n="10" break="no"/>in Iosepho legentes, in Biblijs descripserunt. Quanquam autem 
+      editio<lb ed="#C" n="11" break="no"/>ni vulgatae inserta, vt loquitur Lyranus, fuerant, non tamen sequitur 
+      fu<lb ed="#C" n="12" break="no"/>isse vnquam in Canonicam authoritatem recepta. Lyrani sententiam 
+      <lb ed="#C" n="13"/>Sixtus Senensis, Lib. 1. probat &amp; sequitur. Postremo, certum est 
+      Iose<lb ed="#C" n="14" break="no"/>phi non aliud fuisse de libris Canonicis indicium, quam fuit 
+      Hierony<lb ed="#C" n="15" break="no"/>mi, vt patet ex libro 1. contra Apion. Nullos enim libros esse 
+      Cano<lb ed="#C" n="16" break="no"/>nicos statuit, nisi qui a Prophetis, quorum certa authoritas fuit, 
+      conscri<lb ed="#C" n="17" break="no"/>berentur. Haec autem capita non erant a Propheta aliquo conscripta, 
+      <lb ed="#C" n="18"/>quod his argumentis evincam. 
+      </p>
+            <p xml:id="wWpoi1-de4720-d1e194">
+               <lb ed="#C" n="19"/>Primo. Quae semel narrata sunt in primis capitibus, eadem rursus in 
+      <lb ed="#C" n="20"/>illis sequentibus commemorantur: quae rerum earundem narratio 
+      re<lb ed="#C" n="21" break="no"/>petita satis arguit non ab vno omnia esse conscripta. Nulla enim 
+      causa<lb ed="#C" n="22" break="no"/>omnino fuit, quamobrem eadem bis idem narraret: nec idem homo, 
+      <lb ed="#C" n="23"/>alia lingua scripsisset postremam partem, quam qua primam. Sin fuit 
+      a<lb ed="#C" n="24" break="no"/>lius, cur tamen, si Propheta fuit, sermone non est vsus Hebraico &amp; 
+      Pro<lb ed="#C" n="25" break="no"/>phetico? Authorem huius libri fuisse aut Esdram, aut loachim 
+      sacerdo<lb ed="#C" n="26" break="no"/>tem, aut ipsum Mardochaeum, docti statuunt, alium nesciunt. 
+      </p>
+            <p xml:id="wWpoi1-de4720-d1e214">
+               <lb ed="#C" n="27"/>Secundo, Multa sunt in his capitibus ἀτυμρωνα, &amp; ἀσυςατα, &amp; αδιαλακτα: 
+      <lb ed="#C" n="28"/>cuiusmodi nonnulla proponam. Primum, in cap. 11. v. 2. Mardochaeus 
+      <lb ed="#C" n="29"/>somniasse dicitur de illis duobus Eunuchis, qui contra regem 
+      conspira<lb ed="#C" n="30" break="no"/>bant anno secundo: vide etiam cap. 12. v. 1. At in cap. 2. quod 
+      Ca<lb ed="#C" n="31" break="no"/>nonicum est, ver.16. hanc conspirationem contigisse legimus 
+      anno<lb ed="#C" n="32" break="no"/>septimo Assueri. Bellarminus respondet narrationem insidiarum, quae 
+      <lb ed="#C" n="33"/>cap. 12. habetur, ad initium libri pertinere; illa autem, quae anno 
+      secun<lb ed="#C" n="34" break="no"/>do gesta esse legimus in cap. 11. non de insidiit illis intelligi 
+      debe<lb ed="#C" n="35" break="no"/>re, sed de somnio Mardochaei: insidias enim esse factas anno septimo, 
+      <lb ed="#C" n="36"/>ut in cap. 2. narratur. Sed hoc totum sine argumento, &amp; libro 
+      reclaman<lb ed="#C" n="37" break="no"/>te dicitur. Nam in fine cap. 11. Mardochaeus dicit se, cum surrexisset, 
+      <lb ed="#C" n="38"/>multa secum animo de illo insomnio volvisse, vsque ad noctem, ἐως τῆς, 
+      <!--60.xml-->
+      <pb ed="#L" n="51"/>
+               <lb ed="#C" n="1"/>γυκτος: &amp; tum illum quiescentem in aula cum duobus illis Eunuchis, 
+      illo<lb ed="#C" n="2" break="no"/>rum coniurationem intellexisse. Non ergo fuit inter somnium 
+      Mardo<lb ed="#C" n="3" break="no"/>chaei &amp; insidias Eunuchorum intervallum quinque annorum, vt iste 
+      so<lb ed="#C" n="4" break="no"/>mniat, sed diei vnius, si qua fides ipsi libro habenda sit. Secundum, haec 
+      <lb ed="#C" n="5"/>quae in his capitibus natrantur, multis annis scripta sunt post 
+      Mardo<lb ed="#C" n="6" break="no"/>chaeum mortuum. Nam cap. 11. mentio sit Ptolemaei &amp; Cleopatrae, 
+      <lb ed="#C" n="7"/>qui sane post Mardochaei &amp; Prophetarum etiam tempora vixerunt. Nec 
+      <lb ed="#C" n="8"/>satis colligi potest, quid sibi velit, quod illo loco perscribitur. 
+      Lysi<lb ed="#C" n="9" break="no"/>machus enim filius Ptolemaei Hierosolymitanus dicitur Epistolam 
+      prae<lb ed="#C" n="10" break="no"/>sentem Phurim interpretatus quam Dositheus &amp; eius filius Ptolemaeus 
+      <lb ed="#C" n="11"/>afferebant regnante tum Ptolemaeo &amp; Cleopatra. Bellarminus ait posset 
+      <lb ed="#C" n="12"/>responderi, primum authorem huius libri, qui Hebraice historiam 
+      He<lb ed="#C" n="13" break="no"/>sterae scripsit, summam tantum historiae conscripsisse, atque hanc 
+      histo<lb ed="#C" n="14" break="no"/>riam Hebraicam ad nostras manus pervenisse: sed deinde alio tempore, 
+      <lb ed="#C" n="15"/>historiam fuisse ab alio homine conscriptam copiosius, &amp; transsatam in 
+      <lb ed="#C" n="16"/>linguam Graecam a Lysimacho, vt indicatur cap. 11. &amp; posterioris 
+      hu<lb ed="#C" n="17" break="no"/>ius authoris non ipsum librum, sed solum transsationem extare. Sed 
+      <lb ed="#C" n="18"/>primum, non hic dicitur Lysimachus librum aliquem Hebraicum in 
+      lin<lb ed="#C" n="19" break="no"/>nuam Graecam transtulisse, sed Epistolam Phurim. Deinde, quod 
+      po<lb ed="#C" n="20" break="no"/>steriorem authorem scripsisse ait historiam hanc copiosius quam 
+      prio<lb ed="#C" n="21" break="no"/>rem, id si verum est, tum haec historia, cujus duntaxat transsatio 
+      reman<lb ed="#C" n="22" break="no"/>sit, illa non est, quam posterior author edidit. Nam illa est brevior,  
+      <lb ed="#C" n="23"/>quam historia Hebraica, nec tam plene historiae seriem contexuit, quod  
+      <lb ed="#C" n="24"/>omnes perspicere possunt. Postremo, quis Lysimachi hujus 
+      transsatio<lb ed="#C" n="25" break="no"/>nem Graecam transtulit in Latinam? Hieronymus Latinam quandam 
+      <lb ed="#C" n="26"/>transsationem reperit, eamque subjecit, quae nonnulla haberet, vt ipse  
+      <lb ed="#C" n="27"/>scribit, quae nec in Hebraeo, nec apud vllum interpretem ferebantur: &amp; 
+      <lb ed="#C" n="28"/>tamen haec vulgata, quae Hieronymus nullius fidei esse iudicavit, sunt  
+      <lb ed="#C" n="29"/>prorsus authentica &amp; Canonica Papistarum. Tertium, cap. 12. vers. 5. 
+      <lb ed="#C" n="30"/>fictus author scribit Mardochaeo datum esse praemium a rege propter. 
+      <lb ed="#C" n="31"/>indicium: sed cap. 6. ver. 3. verae historiae, nihil in illum praemij collatum 
+      <lb ed="#C" n="32"/>fuisse legimus. Respondet autem Bellarminus, hoc non habere 
+      difficul<lb ed="#C" n="33" break="no"/>tatem. Nam cap. 12. significatur illa merces amplissima, quam 
+      postea<lb ed="#C" n="34" break="no"/>accepit. Sed qui locum ipsum legerit, id constare nullo modo posse 
+      per<lb ed="#C" n="35" break="no"/>spexerit. Nam in hoc 12. cap. post data Mardochaeo munera, ei 
+      Haman<lb ed="#C" n="36" break="no"/>malum machinatus esse dicitur: quod non intelligi potest de illis 
+      max<lb ed="#C" n="37" break="no"/>imis honoribus &amp; muneribus, quibus illum rex post annales inspectos 
+      <lb ed="#C" n="38"/>affecit. Nam illo ipso mane, vt in cap. 6. legimus, Haman praesto aderat,  
+      <!--61.xml-->
+      <pb ed="#L" n="52"/>
+               <lb ed="#C" n="1"/>vtregem de suspendendo Mardochaeo conveniret. At Mardochaeus 
+      <lb ed="#C" n="2"/>illo die ad summam dignitatem evectus est, &amp; donis regalibus 
+      cumula<lb ed="#C" n="3" break="no"/>tus. Nec tunc licuit Hamani aliquid in illum moliri. Nam &amp; fuit 
+      Mar<lb ed="#C" n="4" break="no"/>dochaeus in summa regis gratia, &amp; statim Haman eadem die suspensus 
+      <lb ed="#C" n="5"/>ipse fuit. Ergo hic aliquid est in altera parte falsum. Quartum, cap. 
+      <lb ed="#C" n="6"/>12. ver. 6. Haman Mardochaeo iratus esse dicitur, propter Eunuchos, 
+      <lb ed="#C" n="7"/>quos Mardochaeus accusavit, quosque laesae majestatis reos, &amp; 
+      Mardo<lb ed="#C" n="8" break="no"/>chaei indicio damnatos rex poena capitali affecit. Sed incredibile est 
+      Ha<lb ed="#C" n="9" break="no"/>manum tantis honoribus ac dignitate a rege affectum Eunuchorum 
+      <lb ed="#C" n="10"/>proditioni favisse: &amp; in vera historia nihil tale reperitur. Sed longe 
+      a<lb ed="#C" n="11" break="no"/>lia hujus offensionis iraeque causa narratur, cap. 3. Quintum, cap. 15. v. 7.  
+      <lb ed="#C" n="12"/>iste author ait, quando Hestera in regis conspectum venit, fic illam 
+      re<lb ed="#C" n="13" break="no"/>gem iracunde intuitum esse, vt ea metu conciderit: contra cap. 5. ver. 2. 
+      <lb ed="#C" n="14"/>gratissima omnino regi venisse dicitur. Sextum, cap. 16. ver. 10. 
+      Hama<lb ed="#C" n="15" break="no"/>nus iste Macedo vocatur: at cap. 8. v. 3. Agagaeum illum, id est, 
+      Amale<lb ed="#C" n="16" break="no"/>chitam fuisse intelligimus. Septimum, non modo Haman fuisse Macedo, 
+      <lb ed="#C" n="17"/>cap. 16. sed etiam sublato Mardochaeo &amp; Hestera cogitasse dicitur, 
+      ma<lb ed="#C" n="18" break="no"/>nus in regem ipsum injicere, vtregnum Petsarum ad Macedones 
+      trans<lb ed="#C" n="19" break="no"/>ferret. Sed primum, quomodo potuisset Haman regnum Petsarum 
+      ad<lb ed="#C" n="20" break="no"/>Macedones transferre, si vel maxime regem interficere licuisset? Nam 
+      <lb ed="#C" n="21"/>Macedonum hoc tempore aut nullum, aut perexiguum regnum fuit. 
+      <lb ed="#C" n="22"/>Deinde, quod in hoc 16. cap. narratur, Mardochaeo &amp; Hesterae insidias, 
+      <lb ed="#C" n="23"/>esse structas, vt illis occisis facilius in regem invaderet, &amp; sic regnum 
+      ad<lb ed="#C" n="24" break="no"/>Macedones traduceret, vera historia nihil tale commemorat. Nam 
+      re<lb ed="#C" n="25" break="no"/>ginam esse Iudaeam aut Mardochaeo affinem nescivit; &amp; 
+      Mardochaeo<lb ed="#C" n="26" break="no"/>mala omnia machinatus est, non quo ipse hoc modo aditum sibi ad 
+      re<lb ed="#C" n="27" break="no"/>gnum aperiret, sed vt malitiam suam expleret. Nam Mardochaeus 
+      ini<lb ed="#C" n="28" break="no"/>tio, quando illum Haman odisse coepit, non erat aliqua authoritate 
+      prae<lb ed="#C" n="29" break="no"/>ditus, vt posset Hamanis luminibus officere. Quod si aliquis dixerit,  
+      <lb ed="#C" n="30"/>Mardoc haei indicio esse factum, quo minus rex interficeretur, atque ita 
+      <lb ed="#C" n="31"/>obviam itum esse a Mardochaeo Hamanis ambitioni, &amp; hinc illud 
+      odi<lb ed="#C" n="32" break="no"/>um exarsisse; is se loqui ea intelligat, quae cum historia sacra pugnant. 
+      <lb ed="#C" n="33"/>Nam illa conspiratio Eunuchorum, &amp; illud Mardochaei indicium 
+      ante<lb ed="#C" n="34" break="no"/>contigit, quam Haman ad tantam gratiam &amp; potentiam in aula regis 
+      <lb ed="#C" n="35"/>pervenisset, vt constat ex secundo cap. &amp; initio tertij. Haec omnia 
+      ejus<lb ed="#C" n="36" break="no"/>modi sunt, vt nullo modo constare aut reconciliari possint: unde 
+      ho<lb ed="#C" n="37" break="no"/>rum capitum authoritatem corruere nec esse est. Et recte in Ecclesia 
+      no<lb ed="#C" n="38" break="no"/>stra haec capita non leguntur.  
+      <!--62.xml-->
+      <pb ed="#L" n="53"/>
+               <lb ed="#C" n="1"/>Tertio, haec capita non sunt Hebraice scripta. Nam Hieronymus ait, 
+      <lb ed="#C" n="2"/>se haec addidisse obelo praemisso, quo quicquid erat Apocryphum, 
+      iu<lb ed="#C" n="3" break="no"/>gulare solitus est. Nam quod fuisse olim in Hebraeo quidam fingunt, 
+      <lb ed="#C" n="4"/>nunc periisse, facile diluitur ex iis quae jam attulimus: &amp; Hieronymus 
+      <lb ed="#C" n="5"/>nihil tale suspicatur, &amp; salus rechamat, &amp; ratio convincit. 
+      Quomodo<lb ed="#C" n="6" break="no"/>enim in Graeco melius, quam in Hebraeo servari potuit? aut quid opus 
+      <lb ed="#C" n="7"/>hujusmodi commentis &amp; conjecturis fidem adhibere? 
+      </p>
+            <p xml:id="wWpoi1-de4720-d1e436">
+               <lb ed="#C" n="8"/>Quarto, praeter alios authores quos adduxi, etiam Papistas, Sixtus 
+      <lb ed="#C" n="9"/>Senensis, qui post Tridentinum Goncilium scripsit suam Bibliothecam, 
+      <lb ed="#C" n="10"/>in 18. libro illius operis asserit haec capita esse Apocrypha: quod ille sine 
+      <lb ed="#C" n="11"/>dubio, nisi vi ipsa veritatis victus, minime affirmasset, cum tanto conatu?  
+      <lb ed="#C" n="12"/>caeterorum Apocryphorum authoritatem tueri studeat. Nec illum 
+      ab<lb ed="#C" n="13" break="no"/>straxit a sententia decretum Tridentinum, de libris vnam cum partibus 
+      <lb ed="#C" n="14"/>suis suscipiendis. Nam hanc nullam esse libri Esterae partem contendit. 
+      <lb ed="#C" n="15"/>nativam ac genuinam, sed in his capitibus omnia esse supposititia: 
+      scri<lb ed="#C" n="16" break="no"/>bit autem diserte, propter has appendicum lacinias binc inde quorundam 
+      scri<lb ed="#C" n="17" break="no"/>ptorum temeritate insertas, factum esse vt liber hic sero admodum apud 
+      <lb ed="#C" n="18"/>Christianos Canonicam authoritatem receperit. Ita quidem haec piis 
+      <lb ed="#C" n="19"/>hominibus commentitia visa sunt, vt illis etiam Canonicis nonnullam 
+      <lb ed="#C" n="20"/>supicionem asperserint. Et quanquam a lesuitis iste Sixtus Papista 
+      re<lb ed="#C" n="21" break="no"/>prehenditur, non tamen refutatur. Sed illos inter se lites mutuas 
+      exerce<lb ed="#C" n="22" break="no"/>re permittamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="264"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e24381"><!-- con1q4c1 -->
+            <head xml:id="wWpoi1-e24381-Hd1e106">Caput 1</head>
+            <p xml:id="wWpoi1-e24381-d1e109">
+               <lb ed="#C" n="16"/>CONTEGVERSTAE PRIMAE 
+      <lb ed="#C" n="17"/>QVAESTIO QVARTA, DE PER 
+      <lb ed="#C" n="18"/>spicuitate Scripturarum. 
+      <lb ed="#C" n="19"/>QOLDUQUU¬ 
+      <lb ed="#C" n="20"/>De statu Questionis
+    </p>
+            <p xml:id="wWpoi1-e24381-d1e122">
+               <lb ed="#C" n="21"/>DE ista Quaestione dicturi, repetamus primo 
+      funda<lb ed="#C" n="22" break="no"/>mentum illud, quod in principio positum est. lohan. 5. 
+      <lb ed="#C" n="23"/>39. Christus ait, ἐρώνατε τάςγαρας, Scrutamini 
+      Scriptu<lb ed="#C" n="24" break="no"/>ras. Praeceptum ergo Christi manifestum est, 
+      scrutan<lb ed="#C" n="25" break="no"/>das esse Scripturas: ex quo illa Quaestio oritur, vtrum 
+      <lb ed="#C" n="26"/>sacrae Scripturae, quas scrutari praecipimur, sint tam 
+      <lb ed="#C" n="27"/>plenae obscuritatis atque difficultatis, vt a nobis 
+      intel<lb ed="#C" n="28" break="no"/>ligi nequeant; an potius sit quaedam lux, &amp; claritas, &amp; perspicuitas 
+      Scri<lb ed="#C" n="29" break="no"/>pturarum, vt non inutile sit populo, in iis legendis versari, atque occupari 
+      <lb ed="#C" n="30"/>Disputandum ergo hic est de natura Scripturae. Sed priusquam ad 
+      argu<lb ed="#C" n="31" break="no"/>menta veniamus, videndum quae sit Adversatiorum hac de re sententia, 
+      <lb ed="#C" n="32"/>quae nostra. Quod ad nostram sententiam attinet, Papistae certe aut eam 
+      <lb ed="#C" n="33"/>non intelligunt, aut si intelligant, perverse nobiscum agunt, &amp; 
+      impnden<lb ed="#C" n="34" break="no"/>ter calumniantur. Nos enim nunquam diximus, omnia esse in Scriptura 
+      <!--274.xml-->
+      <pb ed="#L" n="265"/>
+               <lb ed="#C" n="1"/>facilia, perspicua, &amp; expedita, nihil esse obscurum, nihil intellectu 
+      diffi<lb ed="#C" n="2" break="no"/>cile; sed multa loca Scripturae obscura ac difficilia esse, aperte confitemur: 
+      <lb ed="#C" n="3"/>&amp; tamenhoc illi nobis objiciunt, atque hoc nos tenere affirmant, 
+      Scrip<lb ed="#C" n="4" break="no"/>turas esse fac illimas. Concilium Tridentinum hac de re nihil definivit, ac 
+      <lb ed="#C" n="5"/>diserte statuit: ex aliis ergo Papistarum scriptis Aciversatiorum sententia. 
+      <lb ed="#C" n="6"/>investiganda est, quo verum Controversiaestatum invenite possimus. 
+      Ec<lb ed="#C" n="7" break="no"/>lius, Papistarum procacissimus, in Enchiridiosuo, in loc. 4. de Scriptura 
+      <lb ed="#C" n="8"/>scribens, hanc nobis sententiam objicit, Scripturam scilicet adeo facilem 
+      <lb ed="#C" n="9"/>esse, vt illam vel rudis populus legere possit ac debeat. Verba ejus haec 
+      <lb ed="#C" n="10"/>sunt, Lutherani contendunt Scripturas sacras esse claras, ideo laici &amp; delirae 
+      a<lb ed="#C" n="11" break="no"/>nus eas tractant imperiore. Unde intelligimus hanc esse illorum mentem 
+      <lb ed="#C" n="12"/>ac sententiam, arcendum esse populum a lectione Scripturarum, quia adeo 
+      <lb ed="#C" n="13"/>obscurae sunt, vt alaicis, &amp; soeminis, &amp; plebe intelligi non possint. Nos 
+      con<lb ed="#C" n="14" break="no"/>trariumtuemur, Scripturas non ita esse difficiles, quin a populo legi cum 
+      <lb ed="#C" n="15"/>fructu possint, &amp; debeant. <name xml:id="wWpoi1-e24381-Nd1e191">Hosius</name> etiam, in 3P. Lib. de authoritate 
+      Eccle<lb ed="#C" n="16" break="no"/>siae &amp; Scripturae contra <name xml:id="wWpoi1-e24381-Nd1e196">Brentium</name>, multus est in eo, vtsacrarum literarum 
+      <lb ed="#C" n="17"/>summam obscuritatem arguat atque evincat. Sic Censores Colonienses. 
+      <lb ed="#C" n="18"/>contra Monhemium ineandem plane sententiam sctibunt. Aiunt enim 
+      <lb ed="#C" n="19"/>in praefatione, Scripturarum difficultatem satis magno argumento esse posse, 
+      <lb ed="#C" n="20"/>non omnes passimesse ad earum lestionem admittendos. Hinc concludunt, 
+      in<lb ed="#C" n="21" break="no"/>doctos esse a Scripturarum lectione prohibendos, etiam historiae de 
+      passi<lb ed="#C" n="22" break="no"/>one Christi, in qua tam multa ambigua esse asserunt, vtea vix doctr 
+      con<lb ed="#C" n="23" break="no"/>ciliare possint. Ita nullam Scripturae partem populo concedunt, ne illam 
+      <lb ed="#C" n="24"/>quidem, quae historiam de Christi morte continet, suavissimam, 
+      facilli<lb ed="#C" n="25" break="no"/>mam, nostraque lectione ac meditatione dignissimam. <name xml:id="wWpoi1-e24381-Nd1e219">Andrad.</name> in Lib. 
+      <lb ed="#C" n="26"/>3e. Orthodoxarum explicationum, multa de Scripturarum obscuritate 
+      <lb ed="#C" n="27"/>disputat. <name xml:id="wWpoi1-e24381-Nd1e226">Lindanus</name>, in Panoplia sua, Lib. 32. cap. 6. illud de tota 
+      Scriptu<lb ed="#C" n="28" break="no"/>ta in vniversum affirmat, quod Petrus de quibusdam tantum rebus, quae 
+      <lb ed="#C" n="29"/>in Paulinis Epistolis tractantur, affirmavit. Ait enim multa esse, etiam in 
+      <lb ed="#C" n="30"/>toto corpore Scripturae, δυσvinτa, atque hanc esse concordem 
+      Theologo<lb ed="#C" n="31" break="no"/>rum sententiam. <name xml:id="wWpoi1-e24381-Nd1e238">Stapletonus</name>, Lib. 10. cap. 2. ait Ecclesiam debere 
+      Scrip<lb ed="#C" n="32" break="no"/>turas interpretari, propter illarum difficultatem passim &amp; plerisque in 
+      lo<lb ed="#C" n="33" break="no"/>cis occuntentem. <name xml:id="wWpoi1-e24381-Nd1e246">Rhemenses</name>, in Annotat. in 2. Pet. 3. 16. aiunt totam 
+      <lb ed="#C" n="34"/>Scripturam difficilem esse, praecipue vero Pauli Epistolas: cum tamen 
+      <lb ed="#C" n="35"/>Petrus neutum affirmet, ve postea patebit. Id solummodo Petrus 
+      monu<lb ed="#C" n="36" break="no"/>it, nonnulla esse in Paulinis Epistolis intellectu difficilia, quae, vt reliquas 
+      <lb ed="#C" n="37"/>Scripturas, indoctiad ipsorum exitium detorquent. Quod vero ex 
+      Augu<lb ed="#C" n="38" break="no"/>stino subiungunt, ex omnibus quae Paulus docuit, nihil esse difficilius, 
+      <!--275.xml-->
+      <pb ed="#L" n="266"/>
+               <lb ed="#C" n="1"/>quam quod de fidei institia scribit, concedi nullo modo potest. Namsii 
+      <lb ed="#C" n="2"/>aliquid vnquam aperte Paulus dixit, de hac re mentem suam perspicua 
+      <lb ed="#C" n="3"/>poratione declaravit. Iidem isti <name xml:id="wWpoi1-e24381-Nd1e271">Rhemenses</name>, in Annotat, margin. in Luc. 
+      <lb ed="#C" n="4"/>6. 1. hanc nobis sententiam tribuunt, omnia esse valde facilia. Iesuita 
+      Bel<lb ed="#C" n="5" break="no"/>larminus affirmat muita esse in Scripturis obscura, quod &amp; nos 
+      conce<lb ed="#C" n="6" break="no"/>dimus. Cum autem hunc statuit esse quaestionis statum, Utrum Scriptura: 
+      <lb ed="#C" n="7"/>per se ita aperta sit, vt sine interpretatione sufficiat ex se ad omnes 
+      Con<lb ed="#C" n="8" break="no"/>troversias fidei terminandas ac dirimendas, pugnat sine aduersario: nos 
+      <lb ed="#C" n="9"/>enim certe hac inre adversarios non habet. <name xml:id="wWpoi1-e24381-Nd1e287">Prateolus</name>, in Elencho 
+      Haere<lb ed="#C" n="10" break="no"/>ticorum, Lib. 17. cap. 20. ait communem esse aiticulum omnium 
+      secta<lb ed="#C" n="11" break="no"/>tiorum, affirmare Scripturas faciles esse per se, nec egere aliqua 
+      interpre<lb ed="#C" n="12" break="no"/>tatione. <name xml:id="wWpoi1-e24381-Nd1e296">Sixtus Senensis</name>, in Bibliotheca sua, Lib.6. Annotat. 151. objicit:  
+      <lb ed="#C" n="13"/>nobis hunc errorem, quod dicamus Scripturas totas adeo perspicuas esse 
+      <lb ed="#C" n="14"/>&amp; lucidas suapte natura, vt a quovis rudi homunculo, nisi externum 
+      ali<lb ed="#C" n="15" break="no"/>quod impedimentum obstiterit, possint intelligi. Costenis lesuita, in 
+      En<lb ed="#C" n="16" break="no"/>chiridio Controversiarum recentissime edito, fatetur multa 
+      inScriptu<lb ed="#C" n="17" break="no"/>tis perspicua esse, sed addit, non omnia esse huiusmodi, vesme labore a 
+      <lb ed="#C" n="18"/>quovis intelligi possint. Sed iniuriam nobis faciunt, &amp; palam de nobis; 
+      <lb ed="#C" n="19"/>quod falsum est, praedicant, quando aiunt nos dicere, omnia in 
+      Scri<lb ed="#C" n="20" break="no"/>pturis adeo perspicua esse, vta quovis indoctissimo intelligi possint, &amp; 
+      <lb ed="#C" n="21"/>explicatione vel interpretatione non egeant. Hinc videmus, tum quid 
+      <lb ed="#C" n="22"/>illi sentiant, nempe ita obscuras esse Scripturas, vt ab imperitis legi non 
+      <lb ed="#C" n="23"/>debeant, tum quid nos sentire dicant, sed falso, omnia esse in Scripturis 
+      <lb ed="#C" n="24"/>aperta, easque sine interpretatione ad omnes controversias 
+      dirimen<lb ed="#C" n="25" break="no"/>das sufficere. Iam quae revera sit sententia nostra, videamus. 
+      </p>
+            <p xml:id="wWpoi1-e24381-d1e329">
+               <lb ed="#C" n="26"/>
+               <name xml:id="wWpoi1-e24381-Nd1e333">Lutherus</name>, in assertione articulorum damnatorum a Leone decimo, 
+      in<lb ed="#C" n="27" break="no"/>Praefatione, ait Scripturam apertissimam esse, &amp; facillimam, &amp; 
+      certissi<lb ed="#C" n="28" break="no"/>mam sui ipsius interpretem, omnia probantem, iudicantem, 
+      illustran<lb ed="#C" n="29" break="no"/>tem. Haec ab eo verissime dicta sunt, si candide intelligantur. Idem, 
+      in<lb ed="#C" n="30" break="no"/>Lib. de servo arbitrio contra διατριουυν Erasmi, fere in principio scribit, 
+      <lb ed="#C" n="31"/>in Scripturis nihil esse abstrusum, nihil obscurum, omnia exposita: 
+      <lb ed="#C" n="32"/>quod quia ωξαδιζον videri potuit, se explicat postea, hoc modot 
+      <lb ed="#C" n="33"/>Multa Scripturae loca obscura esse fatetur, multa esse verborum &amp; 
+      sen<lb ed="#C" n="34" break="no"/>tentiarum involucra, nullum tamendogma obscurum esse: vt Deum esse 
+      <lb ed="#C" n="35"/>vnum &amp; trinum, Christum esse passum, &amp; in aeternum regnaturum, &amp; 
+      hu<lb ed="#C" n="36" break="no"/>iusmodi. Quae sane verissima sunt. Nam etsi in verbis multa obscura sint 
+      <lb ed="#C" n="37"/>locisque multis, tamen omnes articuli fidei sunt manifesti. <ref xml:id="wWpoi1-e24381-Rd1e360">
+                  <name xml:id="wWpoi1-e24381-Nd1e362">Stapletonus</name>, 
+      <lb ed="#C" n="38"/>Lib. 10. cap. 3.</ref> haec verba <name xml:id="wWpoi1-e24381-Nd1e368">Lutheri</name> ita interpretatur, quasi diceret, om¬ 
+      <!--276.xml-->
+      <pb ed="#L" n="267"/>
+               <lb ed="#C" n="1"/>nem Scripturae difficultatom orni ex ignorantia Grammatices, &amp; 
+      sche<lb ed="#C" n="2" break="no"/>matum, &amp; objicit nobis Origenem &amp; Hieronymum, quos constat tum 
+      <lb ed="#C" n="3"/>Crammatices, tum Rhetorices peritissimos fuisse, &amp; tamen ipsi se multa 
+      <lb ed="#C" n="4"/>nescivisse, &amp; inmultis locis errare potuisse, fatentur. Respondemus, 
+      veris<lb ed="#C" n="5" break="no"/>simumillud esse, quod ipse in Luthero reprehendit, si recte intelligatur.  
+      <lb ed="#C" n="6"/>Qui enim potest Grammaticum Scripturae sensumvbique assequi, is 
+      op<lb ed="#C" n="7" break="no"/>time procul dubio Scripturas explanabit atque interpretabitur. Sed ide 
+      <lb ed="#C" n="8"/>quidem adhuc ybique, &amp; in omnibus locis praestare, nemo vnquam 
+      po<lb ed="#C" n="9" break="no"/>tuit. Est certe Grammatica Scripturae sententia vt optima semper &amp; 
+      ve<lb ed="#C" n="10" break="no"/>tissima, ita etiam inventu nonnunquam difficillima, adeo vt non mirum. 
+      <lb ed="#C" n="11"/>sit, Origenem &amp; Hieronymum ipsum, quantumvis vtrumque 
+      Gramma<lb ed="#C" n="12" break="no"/>tices peritissimum, in Scripturis interpretandis errare potuisse. Addit 
+      de<lb ed="#C" n="13" break="no"/>inceps Lutherus, res ipsas esse manifestas in Scripturis, ac proinde non 
+      la<lb ed="#C" n="14" break="no"/>borandum esse, si verba quandoque in multis locis minus manifesta 
+      fue<lb ed="#C" n="15" break="no"/>rint. Eius verba sunt huiusmodi: Res ipsae sunt in luce, non curandum 
+      er<lb ed="#C" n="16" break="no"/>go, si signa quaedam rerum sint in tenebris: Sed quidam de, rerum etiam 
+      ob<lb ed="#C" n="17" break="no"/>scuritate valde conquenntur, vt haec Lutheri distinctio, de rebus &amp; 
+      sig<lb ed="#C" n="18" break="no"/>nis rerum, inanis esse videatur. Respondet Luthenis, hoc evenire, non ex 
+      re<lb ed="#C" n="19" break="no"/>rum ipsarum obscuritate ac difficultate, sed ex nostra caecitate atque 
+      ig<lb ed="#C" n="20" break="no"/>norantia: idque rectissime confirmat testimonio Pauli, 2. Cor. 3. 14. 15. 
+      <lb ed="#C" n="21"/>&amp;16. vbi Paulus ait velamen impositum: esse cordi ludaeorum ad hunc 
+      <lb ed="#C" n="22"/>vsque diem, in lectione veteris Testamenti, quod per Christum tollitur: &amp; 
+      <lb ed="#C" n="23"/>2. Cor. 4. 3. vbi idem Apostolus ait: Si obscurum sit Svangelium nostrum, 
+      <lb ed="#C" n="24"/>is, qui pereunt, obscurum est: eandemque etiam rem illustrat sumilitudine 
+      <lb ed="#C" n="25"/>solis &amp; diei, quorumverumque, etsi clarissimum, caeci tamen minime 
+      <lb ed="#C" n="26"/>vident. Sole (inquit) aut die nihil illustrius: at caecus ne solem quidem 
+      aspi<lb ed="#C" n="27" break="no"/>cit, &amp; sunt qui lucem etiam ipsam fugiant. St apletonus hanc 
+      responsio<lb ed="#C" n="28" break="no"/>nem tollere conatir. Ait enim <name xml:id="wWpoi1-e24381-Nd1e436">Lutherum</name> hoc modo omnes Patres, atque 
+      <lb ed="#C" n="29"/>adeo omnem antiquitatem, ertoris ac caecitatis damnare. Sed res pondeo, 
+      <lb ed="#C" n="30"/>Lutherum loqui de rebus, id est, de genere doctrinae, &amp; de dogmatibus 
+      <lb ed="#C" n="31"/>Christianae religionis: quorum, licet non omnium, tamen eorum, quae ad 
+      <lb ed="#C" n="32"/>salutem necessaria sunt, veritatem fuisse Patribus perspectam, ex ipsorum 
+      <lb ed="#C" n="33"/>scriptis manifestum est: non autem de verbis &amp; locis singulis, in quibus 
+      <lb ed="#C" n="34"/>aliquando errate facile potuerunt, ita tamen, vt caecitatis propterea 
+      mi<lb ed="#C" n="35" break="no"/>nime damnandi sint. At <name xml:id="wWpoi1-e24381-Nd1e455">Erasmus</name>, in diareιοο sua, etiam dogmata 
+      quae<lb ed="#C" n="36" break="no"/>dam obscura esse contendit, vt dogma de Trinitate, de Personarum 
+      di<lb ed="#C" n="37" break="no"/>stinctione, de peccato in Spiritum sanctum, &amp; huiusmodi: atque huc 
+      tor<lb ed="#C" n="38" break="no"/>quet locum illum, qui habetur Rom. 11. 33. vbi Paulus ait, Inscrutabilia; 
+      <!--277.xml-->
+      <pb ed="#L" n="268"/>
+               <lb ed="#C" n="1"/>esse iudicia Dei, &amp; vias eius impervestigabiles. Respondet <name xml:id="wWpoi1-e24381-Nd1e471">Lutherus</name>, 
+      dogma<lb ed="#C" n="2" break="no"/>ta ista esse quidem in se obscura, sed quatenus in Scriptura proponuntur,  
+      <lb ed="#C" n="3"/>manifesta esse, si velimus illa cognitione contenti esse, quam Deus 
+      Ec<lb ed="#C" n="4" break="no"/>clesiae sue in Scripturis proposuit &amp; concessit, &amp; non cunosius singula 
+      per<lb ed="#C" n="5" break="no"/>vestigare, quam par est. Quod vero ad Pauli locum attinet, respondet res 
+      <lb ed="#C" n="6"/>quidem Dei obscuras esse, sed res Scripturae esse perspicuas: iudicia Deii 
+      <lb ed="#C" n="7"/>de numero electorum, de die ac hora iudicij, &amp; huiusmodi, esse nobis 
+      ig<lb ed="#C" n="8" break="no"/>nota &amp; inscrutabilia: at quae Deus in verbo suo patefecit, ea nobis 
+      nequa<lb ed="#C" n="9" break="no"/>quam inscrutabilia esse; Paulum vero eo in loco, de rebus Dei, non de 
+      re<lb ed="#C" n="10" break="no"/>bus Scripturae, loquutum esse. Quod autem tam multi de rebus 
+      Scriptu<lb ed="#C" n="11" break="no"/>rae litigant, hoc evenire dicit hominum perversitate, pravisque studiis, 
+      <lb ed="#C" n="12"/>praesertim Sophistarum ac Scholasticorum, qui non contenti Scripturae 
+      <lb ed="#C" n="13"/>simplicitate, laqueis suis ac praestigiis omnia implicata atque obscura 
+      <lb ed="#C" n="14"/>reddiderunt: sed Scripturam non esse propter hominum abusum 
+      accu<lb ed="#C" n="15" break="no"/>sandam. Alia etiam distinctione vtitur <name xml:id="wWpoi1-e24381-Nd1e504">Lutherus</name> eodem in loco. Ait enim 
+      <lb ed="#C" n="16"/>Scripturarum sive claritatem, sive obscuritatem, vel internam, vel 
+      ex<lb ed="#C" n="17" break="no"/>ternam esse: internam, ipsius cordis scilicet; externam, in ipsis verbis 
+      posi<lb ed="#C" n="18" break="no"/>tam. Si de interna Scripturae obscuritate vel perspicuitate loquamur, ait  
+      <lb ed="#C" n="19"/>ne vnum quidem iota isto modo in Scripturis perspicuum esse, sine 
+      Spiri<lb ed="#C" n="20" break="no"/>ritus sancti interna luce: omnia enim, hac ratione &amp; hoc respectu, carnit 
+      <lb ed="#C" n="21"/>&amp; acumini hominis obscura esse, juxta illud, quod habetur Psal. 14. 
+      Di<lb ed="#C" n="22" break="no"/>xit insipiens in corde suo non esse Deum. Sin autem externam Scripturae 
+      <lb ed="#C" n="23"/>claritatem vel obscuritatem intelligamus, ait omnia dogmata 
+      istomodo<lb ed="#C" n="24" break="no"/>clara esse, &amp; in lucem producta, in verbi ministerio. Atque haec quidem 
+      <lb ed="#C" n="25"/>distinctio est valde necessaria. Etsi enim omnia religionis dogmata 
+      ex<lb ed="#C" n="26" break="no"/>terno modo perfecte teneamus, interne tamen nihil ad 
+      salutemintelli<lb ed="#C" n="27" break="no"/>gimus, nec vllum dogma recte didicimus sine Spiritus sancti 
+      magiste<lb ed="#C" n="28" break="no"/>rio. Et haec certe differentia est inter Theologiam &amp; Philosophiam, 
+      <lb ed="#C" n="29"/>quandoquidemad artes Philosophicas perdiscendas, externum tantum 
+      <lb ed="#C" n="30"/>naturae lumen requititur. Sed vt Theologiam recte teneamus, opus est; 
+      <lb ed="#C" n="31"/>interno lumine Spiritus sancti, quia quae fidei sunt, sub rationis humanae 
+      <lb ed="#C" n="32"/>disciplinam minime cadunt. Possumus aliquo modo cognita haberet 
+      <lb ed="#C" n="33"/>dogmata Scripturarum, fidemque historicam tenere per verbi 
+      ministe<lb ed="#C" n="34" break="no"/>rium, ita vt articulos omnes fidei cognoscamus, ac veros esse iudicemus, 
+      <lb ed="#C" n="35"/>idque sine interno lumine Spiritus, vt multiimpii homines &amp; daemones. 
+      <lb ed="#C" n="36"/>faciunt: at nροροριαν, hoc est, certam, solidam, salutaremque scientiam 
+      <lb ed="#C" n="37"/>habere non possumus, sine Spiritu sancto intus nostras mentes 
+      illumi<lb ed="#C" n="38" break="no"/>nante. Atque haec interna claritas est, quae tota a Spiritu sancto fluxit.  
+      <!--278.xml-->
+      <pb ed="#L" n="269"/>
+               <lb ed="#C" n="1"/>Artes reliquae prosunt externe tantum intellectae, haec vero non, nisi 
+      in<lb ed="#C" n="2" break="no"/>terne intellecta, quicquam iuvat. Longe interim abfuit Lutherus ab 
+      illa<lb ed="#C" n="3" break="no"/>insania, vt diceret nihil esse in Scripturis difficile, easque 
+      interpretatio<lb ed="#C" n="4" break="no"/>ne non egere. Imo e contra, in Comment. in Psalm. in Praefatione, 
+      <lb ed="#C" n="5"/>fatetur multa esse obscura ac difficilia in Scripturis nobis a Deo quasi 
+      <lb ed="#C" n="6"/>de industria relicta, quo nos perpetuos in schola Spiritus sancti 
+      disci<lb ed="#C" n="7" break="no"/>pulos haberet. Et in eodem etiam loco affirmat, impudentem esse eum, 
+      <lb ed="#C" n="8"/>qui ausit dicere, se vel vnum librum per omnia intelligere: eademque 
+      <lb ed="#C" n="9"/>temper omnium nostrum sententia fuit. Non est ergo ille quaestionis 
+      <lb ed="#C" n="10"/>status, quem Papistae videri volunt, sed haec nostra axiomata sunt: 
+      Pri<lb ed="#C" n="11" break="no"/>mum, Scripturas ita esse apertas, vt a populo, atque ab indoctis, cum 
+      fru<lb ed="#C" n="12" break="no"/>ctu aliquo ac vtilitate legi possint. Secundum, Omnia, quae sunt ad 
+      salu<lb ed="#C" n="13" break="no"/>tem necessaria, apertis verbis in Scripturis proponi. Interim concedimus 
+      <lb ed="#C" n="14"/>multa loca obscura esse, &amp; Scripturas egere explicatione, &amp; ob hanc 
+      <lb ed="#C" n="15"/>c ausam ministros Dei audiendos esse, cum verbum Dei explicant, &amp; 
+      <lb ed="#C" n="16"/>Scripturae peritissimos esse consulendos. Atque de statu quidem 
+      quaestio<lb ed="#C" n="17" break="no"/>nis hactenus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="220"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e20350"><!-- con1q3c5 -->
+            <head xml:id="wWpoi1-e20350-Hd1e106">Caput 5</head>
+            <p xml:id="wWpoi1-e20350-d1e109">
+               <lb ed="#C" n="30"/>CAPUTII 
+      <lb ed="#C" n="31"/>APUTTI 
+      <lb ed="#C" n="32"/>&amp; reiicitur,  
+    </p>
+            <p xml:id="wWpoi1-e20350-d1e118">
+               <lb ed="#C" n="33"/>TErtium <name xml:id="wWpoi1-e20350-Nd1e122">Stapletoni</name> argumentum habetur in cap. 6. lib. 9. atque 
+      <lb ed="#C" n="34"/>huiusmodi est: Ecclesiae authoritate ac iundicio factum est, 
+      vtA<lb ed="#C" n="35" break="no"/>pocryphi primi generis, olim non certo Canonici, sed dubii, paulatim 
+      <lb ed="#C" n="36"/>in Canonem reciperentur: Ergo, &amp;c. Libros Apocryphos primi generis 
+      <lb ed="#C" n="37"/>vocat, de quibus primo in Ecclesia dubitatum est, qui tamen postea¬ 
+      <!--230.xml-->
+      <pb ed="#L" n="221"/>
+               <lb ed="#C" n="1"/>paulatim sunt recepti. Hi sunt, quos &amp; idem, &amp; alij Papistae δἀ τεροκανον
+      i<lb ed="#C" n="2" break="no"/>xes vocant. Qui enim sunt secundi ordinis Canonici, ii sunt primi 
+      ordi<lb ed="#C" n="3" break="no"/>nis Apocryphi, cuiusmodi sunt in veteri Testamento Tobias, Iudith, 
+      <lb ed="#C" n="4"/>Ecclesiasticus, &amp; alij illi libri, de quibus in prima Quaestione copiose 
+      dis<lb ed="#C" n="5" break="no"/>putavimus: in novo vero, Epistola ad Hebraeos, Apoc alypsis, secunda 
+      <lb ed="#C" n="6"/>ac tertia Epistola lohannis, secunda Petri, historia adulterae, Epistola; 
+      <lb ed="#C" n="7"/>Iudae, &amp; Epistola lacobi. Cum istis Stapletonus 57. Cap. huius libri, 
+      li<lb ed="#C" n="8" break="no"/>brum Pastoris, Epistolam Barnabae, Acta Pauli, Evangelium secundum. 
+      <lb ed="#C" n="9"/>Hebraeos, &amp; Peregrinationem Pauli enumerat, dicitque hos etiam 
+      pri<lb ed="#C" n="10" break="no"/>mi generis Apocryphos esse, cum hi libri nondum sint, nec vnquam 
+      fu<lb ed="#C" n="11" break="no"/>erint in Canonem admissi, reliqui vero libri novi Testamenti 
+      iamdu<lb ed="#C" n="12" break="no"/>dum in Canonem recepti sunt. Et tamen ille dicit hos omnes eiusdem 
+      <lb ed="#C" n="13"/>esse ordinis, generis, &amp; naturae, &amp; quicquid discriminis inter illos sit, id  
+      <lb ed="#C" n="14"/>omne ex eo esse, quod Ecclesia illos iudicaverit Canonicos, hos non 
+      Ca<lb ed="#C" n="15" break="no"/>nonicos, illos receperit, hos vero repudiaverit. Sed multum praeterea 
+      in<lb ed="#C" n="16" break="no"/>ter illos libros interest, alioqui Ecclesia non posset hoc discrimen facere, 
+      <lb ed="#C" n="17"/>si quoad rem ipsam eadem omniumratio esset. Si enim omnes hilibri sint. 
+      <lb ed="#C" n="18"/>eiusdem generis, ordinis, &amp; naturae, quod Stapletonus ait, cur hos 
+      ma<lb ed="#C" n="19" break="no"/>gis Ecclesia, quam illos recepit? Sed iam argumento Stapletoni apposite 
+      <lb ed="#C" n="20"/>&amp; distincte responde amus. Res pondeo autem quatuor. Primum: Dico 
+      Ec<lb ed="#C" n="21" break="no"/>clesiam nunquam iudicio &amp; calculo suo in Canonem Scripturae 
+      recepis<lb ed="#C" n="22" break="no"/>se libros illos veteris Testamenti, quos illi δἀτεροκανονικως &amp; primi 
+      gene<lb ed="#C" n="23" break="no"/>ris Apocryphos vocant, quod antea in prima huius Controversiae 
+      quae<lb ed="#C" n="24" break="no"/>stione satis confirmavimus. Si recepisse dicant, doceant quando, &amp; 
+      in<lb ed="#C" n="25" break="no"/>quo Concilio. Quaecunque vero Concilia proferre possunt, recentia 
+      <lb ed="#C" n="26"/>omnino sunt. Quae vero ratio fuit, cur tamdiusine authoritate Canonica. 
+      <lb ed="#C" n="27"/>libri Canonici iacerent? Secundum: Dico Ecclesiam nec potuisse, nec 
+      <lb ed="#C" n="28"/>debuisse eos in Canonem recipere. Qui enim non sunt in se vere 
+      Cano<lb ed="#C" n="29" break="no"/>nici, sacri, ac divini, eos Ecclesia non potest Canonicos ac divinos 
+      fa<lb ed="#C" n="30" break="no"/>cere: nam ne ipsi quidem Papistae tantum Ecclesiae tribuunt, cum illud 
+      <lb ed="#C" n="31"/>solummodo Ecclesiae officium sit, vt eos libros Canonicos esse declaret,  
+      <lb ed="#C" n="32"/>&amp; populo tanquam Canonicos commendet, qui sunt revera &amp; in 
+      se<lb ed="#C" n="33" break="no"/>Canonici. Athos libros non esse huiusmodi, antea probavimus. 
+      Conci<lb ed="#C" n="34" break="no"/>lium Laodicenum eos nominatim reiicit tanquam libros non 
+      Canoni<lb ed="#C" n="35" break="no"/>cos: ιδλιαακανίνισα. Hieronymus statuit nullum dogma religionis ex 
+      il<lb ed="#C" n="36" break="no"/>lis probariposse: quod si Canonici essent, ex illis perinde ac reliquis 
+      <lb ed="#C" n="37"/>quaevis religionis dogmata confirmari possent. Tertium: Fatemur de 
+      li<lb ed="#C" n="38" break="no"/>bris quibusdam novi Testamenti, vt de Epist. ad Hebr. &amp; aliis, olim du¬ 
+      <!--231.xml-->
+      <pb ed="#L" n="222"/>
+               <lb ed="#C" n="1"/>bitatum suisse, qui tamen libri postea recepti sunt in Canonem: sed 
+      ne<lb ed="#C" n="2" break="no"/>gamus hos libros, propter Ecclesiae tantum authoritatem, aut esse, aut 
+      <lb ed="#C" n="3"/>haberi Canonicos. Quaero enim, quae ratio Ecclesiam induxerit, ac 
+      im<lb ed="#C" n="4" break="no"/>pulerit, vt eos tandemreciperet? Nulla certe alia causa fuit, nisi quod  
+      <lb ed="#C" n="5"/>doctrinam in illis sacram &amp; θεοπρώσον, ac plane divinam perspiceret 
+      at<lb ed="#C" n="6" break="no"/>que agnosceret. Et vero quidni &amp; nobis eadem ratio persuaserit, vt 
+      il<lb ed="#C" n="7" break="no"/>los recipiamus? Quicquid aliud responderint, erit incertum. Quartum 
+      <lb ed="#C" n="8"/>Etsi in quibusdam Ecclesiis de his libris novi Testamenti dubitatum est, 
+      <lb ed="#C" n="9"/>aliae tamen eos receperunt. Sic enim Eusebius scribit de his Epistolis: 
+      <lb ed="#C" n="10"/>vt de Epist. lacob. Lib. 2. c. 23. nominatim. Etsi enim illam vοθενe&amp; 
+      affir<lb ed="#C" n="11" break="no"/>mat, tamen fuisse in multis Ecclesiis δεδυμοσιώυθυλν confiretur: quod illis 
+      <lb ed="#C" n="12"/>non possint de Epistola Barnabae, aut Evangelio secundum Hebraeos, aut 
+      <lb ed="#C" n="13"/>de huiusmodi aliis commentitiis &amp; adulterinis libris dicere. Verum sit 
+      <lb ed="#C" n="14"/>fuerint isti libri aequales inter se, &amp; eiusdem ordinis, vt Stapletonus ait, 
+      <lb ed="#C" n="15"/>(intelligo hos Canonicos libros, &amp; illos supposititios, quos ipse 
+      comme<lb ed="#C" n="16" break="no"/>morat) &amp; Ecclesia fecerit, vt non essent aequalis authoritatis quoad nos, 
+      <lb ed="#C" n="17"/>tum Ecclesia graviter erravit. Neque enim Ecclesia debuit facere, vt qui  
+      <lb ed="#C" n="18"/>libri sunt in se paris authoritatis, ij non esse nobis videantur. At hos 
+      li<lb ed="#C" n="19" break="no"/>bros Stapletonus ait esse eiusdem ordinis, quoad se; sed quoad nos, 
+      Ec<lb ed="#C" n="20" break="no"/>clesiae iudicio tribuit, quod hi Canonici habeantur, non itidem illi. At 
+      <lb ed="#C" n="21"/>veto Ecclesia non potest librorum qualitatem mutare, sed quales in 
+      se<lb ed="#C" n="22" break="no"/>libri sunt, tales esse nobis pronunciare. Ergo si aequales omnes erant, 
+      ae<lb ed="#C" n="23" break="no"/>quale de omnibus iudicium ferri debuit. Hoc esse positum in arbitrio 
+      <lb ed="#C" n="24"/>Ecclesiae, nunquam efficiet: sed tamen quemadmodum conetur, 
+      vide<lb ed="#C" n="25" break="no"/>amus. 
+      </p>
+            <p xml:id="wWpoi1-e20350-d1e280">
+               <lb ed="#C" n="26"/>Citat deinceps Stapletonus multa Patrum testimonia, e quibus ego 
+      <lb ed="#C" n="27"/>tria tantum, quae sunt praecipua, ex aminabo: aliena praetermittam. 
+      Pri<lb ed="#C" n="28" break="no"/>mo igitur in loco Eusebium obijcit, qui 3P. Lib. de Histor. Ecclesiastic. 
+      <lb ed="#C" n="29"/>Cap. 19. in Graeco vero Eusebio Cap. 25. affirmat perspicuam notam 
+      <lb ed="#C" n="30"/>librorum certo Canonicorum esse Ecclesiae traditionem. Res pondeo: 
+      E<lb ed="#C" n="31" break="no"/>numerat illic Eusebius omnes libros novi Testamenti, tum qui semper 
+      <lb ed="#C" n="32"/>&amp; ab omnibus recepti sint, tum qui a quibusdam rejecti fuerint, &amp; 
+      de<lb ed="#C" n="33" break="no"/>quibus tunc a nonnullis Ecclesiis dubitaretur. Eusebij haec verba sunt,  
+      <lb ed="#C" n="34"/>ἀναγκαιως κτοτοντ καταλογον πετοιημεθα, διακρινοίλες τάς το κο τ εκκλησιασε¬ 
+      <lb ed="#C" n="35"/>κο παραδυσιν δηθεις καλλασασ κανωμολσγηηασ γεαρασ, χ τς δηως εκενώναθη¬ 
+      <lb ed="#C" n="36"/>xot: Ad quod Eusebij testimonium tria breviter respondeo. Primum, 
+      <lb ed="#C" n="37"/>Nulla nonis videri debet hac in re Eusebij authoritas, quia nullam 
+      vim<lb ed="#C" n="38" break="no"/>habet ad id probandum quod Stapletonus suscepit. Quando enim ait, se 
+      <!--232.xml-->
+      <pb ed="#L" n="223"/>
+               <lb ed="#C" n="1"/>sequi Ecclesiasticam traditionem, distinguit a libris Canonicis etiam 
+      e<lb ed="#C" n="2" break="no"/>os, quos ipsi Papistae Canonicos esse volunt, vt Lib. Tobiae, Iudith, &amp;c. 
+      <lb ed="#C" n="3"/>Epist. ad Hebraeos, Epist. lacobi, Apocalyps. &amp;c. Ergo si illa traditio,  
+      <lb ed="#C" n="4"/>quam Eusebius sequitur, sit vera, non minus contra ipsos Papistas 
+      vale<lb ed="#C" n="5" break="no"/>bit, quam contra nos. Et si illa Traditio sit tam certa nota librorum, tum 
+      <lb ed="#C" n="6"/>erit plane actum de authoritate Canonicorum aliquot librorum, vt 
+      E<lb ed="#C" n="7" break="no"/>pistolae lacobi, &amp; aliarum Epistolarum, quos libros Eusebij haec 
+      traditio<lb ed="#C" n="8" break="no"/>Ecclesiastica, cui tantum Stapletonus tribuit, iamolim e Canone sacro 
+      <lb ed="#C" n="9"/>explosit. Quare in hoc testimonio quantum pondus insit, ipse videnit. 
+      Se<lb ed="#C" n="10" break="no"/>cundum: Non nego traditionem Ecclesiasticam esse argumentum, quo 
+      ar<lb ed="#C" n="11" break="no"/>gui &amp; convinci possit, qui libri Canonici sint, qui Canonici non sint: sed 
+      ta<lb ed="#C" n="12" break="no"/>men dico, hoc externum tantum argumentum &amp; testimonium esse. Vt 
+      <lb ed="#C" n="13"/>vero de librorum Canonicorum authorit ate nobis penitus persuasum sit, 
+      <lb ed="#C" n="14"/>opus est praeterea interno Spiritus sancti testimonio. Sic enim de 
+      ipso<lb ed="#C" n="15" break="no"/>quidem Deo, &amp; de Trinitate Ecclesia docet, &amp; de reliquis articulis fidei 
+      <lb ed="#C" n="16"/>nostrae: &amp; magni argumenti vim haec traditio apud omnes habere debet.  
+      <lb ed="#C" n="17"/>Qui verohos aiticulos negarent, eos Ecclesiae authoritate premere, 
+      tan<lb ed="#C" n="18" break="no"/>quam externo argumento, deberemus, in quo ad convincendoseos 
+      ac<lb ed="#C" n="19" break="no"/>refellendos satis virium inesset. Sed nisi tamen internum Spiritus 
+      testi<lb ed="#C" n="20" break="no"/>monium accedat, amplissima Scripturarum authoritate munitum, 
+      hu<lb ed="#C" n="21" break="no"/>manus animus his articulis solide nunquam assentietur &amp; acquiescet. 
+      <lb ed="#C" n="22"/>Tertium: Eusebius scribit se recensere hos libros in Canone, non propter  
+      <lb ed="#C" n="23"/>Ec clesiasticam traditionem, sed secundum Ecclesiasticam traditionem, 
+      <lb ed="#C" n="24"/>quod longe aliud est. Verba enim eius non sunt, diα τυν παραδεσιν, sed χε 
+      <lb ed="#C" n="25"/>τυνεκκχησιασικλιν ποραδοσιν: qui ihil interesse putant, admodum 
+      fallun<lb ed="#C" n="26" break="no"/>tur. Namper Ecclesiae ministerium credimus quaecunque credimus, non 
+      <lb ed="#C" n="27"/>tamen propter Ecclesiae authoritatem, cum fides nostra multo 
+      augusti<lb ed="#C" n="28" break="no"/>ore, certiore, enuc leatiore authoritate, quam Ecclesiae, nitatur atque 
+      con<lb ed="#C" n="29" break="no"/>firmetur Atque haec de Eusebij testimonio dixisse sufficiat.  
+      </p>
+            <p xml:id="wWpoi1-e20350-d1e378">
+               <lb ed="#C" n="30"/>Secundum testimonium, quod citat Stapletonus, desumitur ex 
+      Augu<lb ed="#C" n="31" break="no"/>stin. 2. L. de Doct. Christ. cap. 6. vbi haec verba habentur: Tenebit hunc 
+      mo<lb ed="#C" n="32" break="no"/>dum fidelis in Scripturis Canonicis (inquit Augustinus) ut eas, quae ab 
+      omni<lb ed="#C" n="33" break="no"/>bus acerpiuntur Ecclesiis Catholicis pro ponat eis, quus quaedam nonaccipiunt, 
+      <lb ed="#C" n="34"/>In utveroquae non accipiunt ur ab omnibus, praeponat eae, quas plures 
+      gravio<lb ed="#C" n="35" break="no"/>resque Ecclesiae accipiunt, eis quas pauciores minorisque authonitatis Ecclesiae 
+      te<lb ed="#C" n="36" break="no"/>nent. Siautem alias invenerit a plaribus, alias a gravioribus haberi, qua 
+      <lb ed="#C" n="37"/>quam hoc invenine mon possit. aequalis tamen authoritatis eas habendas puto. 
+      <lb ed="#C" n="38"/>Haec Augustinus: ubiostendit (inquit Stapletonus, hanc totam veritatem 
+      <!--233.xml-->
+      <pb ed="#L" n="224"/>
+               <lb ed="#C" n="1"/>&amp; hoc discrimen libiorum ex vario Ecclesiae iudicio pendere. Respondeo, 
+      <lb ed="#C" n="2"/>Stapletonum parum attendere quid scribat. Quid enim? Totane veritas 
+      <lb ed="#C" n="3"/>haec, &amp; discrimen librorum, ex vario Ecclesiae iudicio pendet? Siccine 
+      <lb ed="#C" n="4"/>Canonicae Scripturae veritas &amp; authoritas ex Ecclesiae iudicio, eoque 
+      va<lb ed="#C" n="5" break="no"/>rio, suspendetur? Quid dici absurdius, aut indignius potuit? Ecclesiae 
+      <lb ed="#C" n="6"/>quidem varie atque inconstanter iudicare possunt, quemadmodum 
+      de<lb ed="#C" n="7" break="no"/>priscis Ecclesiis constat: sed Scripturae divinae semper eaedem sunt, 
+      sibi<lb ed="#C" n="8" break="no"/>que similes, &amp; nullam in se varietatem habent. Sed Augustinus eo in 
+      lo<lb ed="#C" n="9" break="no"/>co tyrones &amp; novitios instituit, eosque admonet, vt Ecclesiam primo, 
+      <lb ed="#C" n="10"/>tanquam Magistram &amp; monitricem, audiant, eiusque iudicium 
+      sequan<lb ed="#C" n="11" break="no"/>tur. Quod quidem pium rectumque consilium esse, nullus negabit. Nos 
+      <lb ed="#C" n="12"/>enim non statim omnia ipsi intelligimus: audienda igitur Ecclesia est, 
+      <lb ed="#C" n="13"/>quae iubet vt hos libros legamus. Postea tamen, cum sacros libros aut ipsi 
+      <lb ed="#C" n="14"/>legimus, aut lectos ab aliis recolimus, &amp; quid doceant perpendimus, tum 
+      <lb ed="#C" n="15"/>Canonicos eos esse credimus, non solum propter Ecclesiae testimonium 
+      <lb ed="#C" n="16"/>vel authoritatem, sed aliis certioribus inducti argimentis, nempe Spiritus 
+      <lb ed="#C" n="17"/>sancti testimonio, &amp; coelestis illius doctrinae maiestate, quae in ipsis libris 
+      <lb ed="#C" n="18"/>&amp; toto genere doctrinae manifesta est. Multum ergo Ecclesiae hac in te, 
+      <lb ed="#C" n="19"/>sed non totum tribuendum esse, vult Augustinus. Contra Papistas vero ex 
+      <lb ed="#C" n="20"/>hoc loco duo colligi possunt. Primum: Augustinus nunquam intellexit:  
+      <lb ed="#C" n="21"/>aut agnovit tale publicum &amp; certum Ecclesiae iudicium, quale Papistae 
+      <lb ed="#C" n="22"/>fingunt, externum scilicet, idque Ecclesiae Romanae, cui Christianos 
+      om<lb ed="#C" n="23" break="no"/>nes stare ac parere oporteret. Tum enim iussisset tyronemhoc iudicium 
+      se<lb ed="#C" n="24" break="no"/>qui, &amp; Ecclesiam tantummodo Romanam consulere. Secundum: Colligi 
+      <lb ed="#C" n="25"/>potest ex hoc loco, posse veras esse Ecclesias Christi, &amp; interim tamen 
+      <lb ed="#C" n="26"/>varie de libris quibusdam Canonicis iudicare. Unde constat, non omnes 
+      <lb ed="#C" n="27"/>qui Spiritum sanctum habent, de libris omnibus Scripturarum similiter 
+      <lb ed="#C" n="28"/>sentire. Vt vero breviter &amp; vno verbo respondeam, dico huius fidei, 
+      <lb ed="#C" n="29"/>qua hos libros θεοπνίυςεν ac divinos esse credimus, occasionem quandam 
+      <lb ed="#C" n="30"/>&amp; quasi rudimentum esse ipsum magisterium, &amp; vocem, &amp; 
+      commenda<lb ed="#C" n="31" break="no"/>tionem Ecclesiae, formam autem &amp; πηροροριαν ex interno Spiritus sancti 
+      <lb ed="#C" n="32"/>testimonio pendere, quod accedat necesse est, priusquam certo sciamus, 
+      <lb ed="#C" n="33"/>&amp; sine dubitatione teneamus hos libros Canonicos ac divinos esse. 
+      </p>
+            <p xml:id="wWpoi1-e20350-d1e477">
+               <lb ed="#C" n="34"/>Tertium Stapletoni testimonium, cui statui respondere, desumitur ex 
+      <lb ed="#C" n="35"/>Augustin. 117. Lib. contra Faustum Manichaeum, cap. 52. vbi in hunc 
+      <lb ed="#C" n="36"/>modum scribit Augustinus: Distincta est a posteriorum libris excellentia (
+      a<lb ed="#C" n="37" break="no"/>nonicae authoritatis veteris &amp; novi Testamenti, quae e Apostolorum 
+      confirma<lb ed="#C" n="38" break="no"/>ta temporibus, per successiones Episcoporum, &amp; propagationes Ecclesiarum,I 
+      <!--234.xml-->
+      <pb ed="#L" n="225"/>
+               <lb ed="#C" n="1"/>tanquam in sede quadam sublimiter constitata est, cui serviat omnis fidelis &amp; 
+      <lb ed="#C" n="2"/>pius intellectus. Hinc apparet (inquit Stapletonus) Scripturam in sublimi 
+      <lb ed="#C" n="3"/>sede constitutam esse per Ecclesiae approbationem atque authoritatem. 
+      <lb ed="#C" n="4"/>Respondeo. Scribit Augustinus Scripturarum Canonem fuisse ab 
+      Aposto<lb ed="#C" n="5" break="no"/>lis confirmatum, &amp; esse iam in sublimi loco constitutum per suc cessiones. 
+      <lb ed="#C" n="6"/>Episcoporum &amp; Ecclesiarum propagationes. Quid hoc contra nos 
+      <lb ed="#C" n="7"/>Quis vero tam insanus est, vt non intelligat Apostolos confirmasse 
+      Scri<lb ed="#C" n="8" break="no"/>pturam Canonicam; &amp; Episcopos pios atque Ecclesias summam eis 
+      re<lb ed="#C" n="9" break="no"/>verentiam tribuisse? Sed num hinc sequitur, nos non alio testimonio 
+      nos<lb ed="#C" n="10" break="no"/>se, qui libri Canonici sint, praeterquam Ecclesiae? aut nullam habere 
+      Scri<lb ed="#C" n="11" break="no"/>pturam apud nos authoritatem, nisi quam Ecclesia citribuit? Nequaquam  
+      <lb ed="#C" n="12"/>vero certe. Ex isto vero Augustini testimonio contra Papistas haec 
+      obser<lb ed="#C" n="13" break="no"/>vamus: Primo, Canonem Scripturae Apostolorum tempore constitutum &amp; 
+      <lb ed="#C" n="14"/>consignatum fuisse in suo certo librorum numero, ac proinde nihil contra 
+      <lb ed="#C" n="15"/>nos valere recentiora illa Concilia, quibus Papistae probant quosdam 
+      li<lb ed="#C" n="16" break="no"/>bros Apocryphos veteris Testamenti esse in Canone, cum ipsi Apostoli,  
+      <lb ed="#C" n="17"/>qui libri in Canonem veteris Testamentirecipiendi essent, suis 
+      tempori<lb ed="#C" n="18" break="no"/>bus statuissent. Secundo, Libros quidem novi Iestamenti ab Apostolis 
+      ip<lb ed="#C" n="19" break="no"/>sis scriptos &amp; confirmatos esse, certumque numerum librorum designatum. 
+      <lb ed="#C" n="20"/>Tertio, Si Canon Scripturae ab Apostolis ipsis constitutus sit, non esse iam 
+      <lb ed="#C" n="21"/>in Ecclesiae potestate librum aliquem ad hunc Canonem addere, atque 
+      <lb ed="#C" n="22"/>ita librorum Canonicorum numerum augere, quod tamen Stapletonus 
+      <lb ed="#C" n="23"/>affirmat, cap. 24. huius libri. Scribunt authores, Hieronymus nempe in 
+      <lb ed="#C" n="24"/>Catalogo, &amp; alij, lohannem omnium longissime vixisse, vt videre libros 
+      <lb ed="#C" n="25"/>omnes, &amp; confirmare posset, &amp; si qui fictitij libri ederentur, eos a sacris 
+      <lb ed="#C" n="26"/>libris &amp; vere Canonicis distinguere. Hieronymus in Catalog. in Luca, 
+      <lb ed="#C" n="27"/>narrat quendam librum de gestis Pauli Iohanni oblatum fuisse, sed 
+      au<lb ed="#C" n="28" break="no"/>thorem deprehensum esse, &amp; librum Apostoli authoritate damnatum. 
+      <lb ed="#C" n="29"/>Pertullian dicit de Praescript. ipsa Apostolorum αυτόγχζαρα suo tempore 
+      <lb ed="#C" n="30"/>in Ecclesiis integra servari. Et idem in eodem, Constituimus evangelicum 
+      <lb ed="#C" n="31"/>instrumentum e Apostolos authores habere. <ref xml:id="wWpoi1-e20350-Rd1e561">August. Epist. 19.</ref> affirmat has 
+      <lb ed="#C" n="32"/>Scripturas fuisse receptas in Canonicum authoritatis culmen ab ipsis 
+      A<lb ed="#C" n="33" break="no"/>postolis. Quod vero poste a de nonnullis partibus aliqui dubitarunt, id  
+      <lb ed="#C" n="34"/>non Scripturis, sed infirmitati nostrae tribuendum est. Sed objiciet 
+      fortas<lb ed="#C" n="35" break="no"/>se aliquis. Si Apostoli, qui Pastores Ecclesiae fuerunt, habuerunt 
+      potesta<lb ed="#C" n="36" break="no"/>tem Canonem consignandi, &amp; Scripturas Canonicas confirmandi, tum 
+      <lb ed="#C" n="37"/>idem quoque licebit aliis Ecclesiae Pastoribus, qui iis succedunt, in vnum 
+      <lb ed="#C" n="38"/>locum congregatis: Respondeo: Apostoli dupliciter considerai possunt,  
+      <!--235.xml-->
+      <pb ed="#L" n="226"/>
+               <lb ed="#C" n="1"/>Primo, vt praecipui doctores Ecclesiae: secundo, vt certa quaedam &amp; dμεσα 
+      <lb ed="#C" n="2"/>organa a Deo selecta, &amp; ad hoc munus designata, vt libros sacros scribes 
+      <lb ed="#C" n="3"/>rent, ac divulgarent. Hoc illis sic proprium, fuit, vt hoc nomine extra 
+      om<lb ed="#C" n="4" break="no"/>nem aliorum hominum conditionem positi esset. Quod vero Canonem 
+      <lb ed="#C" n="5"/>Scripturae Apostoli consignatunt, id non Ecclesiae, sed Dei authoritati 
+      <lb ed="#C" n="6"/>tribuendum est. Non enim vt Ministri Ecclesiae Canonem hunc 
+      consig<lb ed="#C" n="7" break="no"/>natunt, sed vt certissima organa Spiritus sancti, divina authoritate 
+      mu<lb ed="#C" n="8" break="no"/>niti, atque omnibus commendati. Nam si hoc fecissent vt ordinatii, 
+      mi<lb ed="#C" n="9" break="no"/>nistri, tum omnes Pastores, qui succederent Apostolis, similem 
+      potesta<lb ed="#C" n="10" break="no"/>tem haberent. Unde hanc illorum fuisse extraordinariam authoritatem: 
+      <lb ed="#C" n="11"/>manifestum est. Ergo Apostoli non vt homines aut ministri, sed ut Dei 
+      <lb ed="#C" n="12"/>persona, &amp; lingua Spiritus sancti, &amp; quoddam oraculum divinum; 
+      Scri<lb ed="#C" n="13" break="no"/>ptirae Canonem consignabant. Quare nihil hoc ad stabiliendame 
+      Ec<lb ed="#C" n="14" break="no"/>clesiae perpetuam authoritatem valere potest. Atque haec de tertio
+      Sta<lb ed="#C" n="15" break="no"/>pletoni argumento. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

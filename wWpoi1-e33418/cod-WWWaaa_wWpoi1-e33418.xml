@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="362"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e33418"><!-- con1q5c12 -->
+            <head xml:id="wWpoi1-e33418-Hd1e106">Caput 12</head>
+            <p xml:id="wWpoi1-e33418-d1e109">
+               <lb ed="#C" n="15"/>CCACCAAPUTII 
+      <lb ed="#C" n="16"/>vuune AEIPTTTIITITAIPTT 
+      <lb ed="#C" n="17"/>sua Media stabilire.
+    </p>
+            <p xml:id="wWpoi1-e33418-d1e118">
+               <lb ed="#C" n="18"/>Postquam quid contra Media nostra attulerit accepimus, 
+      dein<lb ed="#C" n="19" break="no"/>ceps quemadmodum sua defendat confirmetque, videamus. 
+      Ita<lb ed="#C" n="20" break="no"/>que Stapletonus, Lib. 11. quatuor media proponit: Primum est, 
+      Regusa<lb ed="#C" n="21" break="no"/>fidei, Cap. 1, &amp; 3. Secundum, Praxis Ecclesiae, Cap. 4. Tertiam, Patrum 
+      <lb ed="#C" n="22"/>consentiens interpretatio, Cap. 5. Quartum, Conciliorumpraescripta &amp; 
+      <lb ed="#C" n="23"/>decreta interpretatio, Cap. 6. Haec ait esse sola certa &amp; authentica media. 
+      <lb ed="#C" n="24"/>Vbi videtis nullam fieri disertam Papae mentionem: quod oblivioni, 
+      an<lb ed="#C" n="25" break="no"/>consilio tribuam, nescio. Suspicor aut hanc esse causam, quod in his 
+      om<lb ed="#C" n="26" break="no"/>nibus Medijs Paparimplicite intelligatur (Nam Regula fidei est, quami 
+      <lb ed="#C" n="27"/>Papa probat: pranis Ecclesiae est, quam Papa servat: Patrum 
+      interpreta<lb ed="#C" n="28" break="no"/>tio est, quam Papa sequitur: Conciliorum Definitio est, quam Papa 
+      con<lb ed="#C" n="29" break="no"/>firmat) aut haec non nisi Media sunt, Papa vero iundex est, &amp; per haec 
+      Me<lb ed="#C" n="30" break="no"/>dia indicat. Sic iam quod Bellarminus, &amp; ipse Stapletonus alibi, 
+      autho<lb ed="#C" n="31" break="no"/>ritatem iudicandi ac definiendi tribuunt praxi Ecclesiae, Patrum 
+      confeffi<lb ed="#C" n="32" break="no"/>oni, &amp; Conciliorum interpterationi, id hoc loco Stapletonus evertefent: 
+      <lb ed="#C" n="33"/>detur: Nam si ista sunt Media interprerandi Scripturam, tum non in eis 
+      <lb ed="#C" n="34"/>sed in Scriptura est summa authontas iudicandi: &amp; si Papa ipse imiis 
+      <lb ed="#C" n="35"/>Medijs inclusus intelligitur, tum hanc authoritatem a se removet, &amp; 
+      Seri<lb ed="#C" n="36" break="no"/>pturae tribuit. De, tribus his Staggeroni Medijs diximus, &amp; dicemus 
+      ite<lb ed="#C" n="37" break="no"/>tum alio loco. Nunc de Beglila fidei, quam Stapleronus i actat? uidea 
+      <!--372.xml-->
+      <pb ed="#L" n="363"/>
+               <lb ed="#C" n="1"/>mus. Quam ergo Regulam intelligit? Si Scripturam, nos e aminterpretem 
+      <lb ed="#C" n="2"/>libenter agnoscimus Et certe. Regula fidei aut ipsa est Scriptura, aut 
+      Scni<lb ed="#C" n="3" break="no"/>punae compendium, &amp; summa, &amp; explorata sententia, non aliquid praeter, aut 
+      <lb ed="#C" n="4"/>extra Scripturam: ficque Patres senserunt, quando de fidei Regula 
+      memi<lb ed="#C" n="5" break="no"/>nerunt. Tertullianus, in Lib. de Veland. Virgin. sic Regulam hanc 
+      interpre<lb ed="#C" n="6" break="no"/>tatur: Regula quidem fidei simquit) una omnino est, solaammopilis &amp; irrefor 
+      <lb ed="#C" n="7"/>smabdis, credendiscilicet inunum Deum omnipotentem, mundi condit orem, &amp;¬ 
+      <lb ed="#C" n="8"/>filium eius Iesum Christum, natum ex virgine Maria, crucifixum 
+      sub<lb ed="#C" n="9" break="no"/>Pontio Pilato, tertio die resuscitatum a mortuis, receptum in coelis, sedegtem, 
+      <lb ed="#C" n="10"/>nunc ad dexteram Patris, venturumiudicare vivos &amp; mortuos per carnis, 
+      eti<lb ed="#C" n="11" break="no"/>am resur rectionem: &amp; hanc legem fidei vocat. Et Augustinus, in Enchindio, 
+      <lb ed="#C" n="12"/>Cap. 56. Nisi sinquit) Spiritus sanctus Deus esset, non poneretur ante 
+      Egcle<lb ed="#C" n="13" break="no"/>siam in Regulii fidet. <name xml:id="wWpoi1-e33418-Nd1e196">Gerson</name> vero, de Commun: sub ytraque specie, per 
+      Regu<lb ed="#C" n="14" break="no"/>lam fidei Scripturam intelligit, cum ait: Scriptura sacra est Regula fidei, 
+      caors<lb ed="#C" n="15" break="no"/>tra quam beue intellectam non est admittenda authoritae honunum. Nos ad 
+      <lb ed="#C" n="16"/>hanc Regulam semper provocamus, eamque nostri Adversarij metuunt 
+      ac<lb ed="#C" n="17" break="no"/>refugiunt. Et <name xml:id="wWpoi1-e33418-Nd1e207">Stapletonus</name> eam ait, Lib. 7. Cap. 1. latius patere, quam 
+      Sym<lb ed="#C" n="18" break="no"/>bolum, &amp; significare eam doctrinam, quam Apostoli Ec lesus tradiderusnt, 
+      <lb ed="#C" n="19"/>&amp; quae puiblice ab omnibus recepta fuit, Traditionem scilicet omine m 
+      sun<lb ed="#C" n="20" break="no"/>ptam, atque non scriptam, Sed nos ista Traditionum commenta nihili 
+      faci<lb ed="#C" n="21" break="no"/>mus, &amp; regulam notam, apertam, claram, certam, immutabilem 
+      possula<lb ed="#C" n="22" break="no"/>mus, Illa non scripta Regida incerta est, paucisque cognita, de qua in 
+      pro<lb ed="#C" n="23" break="no"/>xima sequente Quaestione disseremus. Interimi aut pugnat cum Scripturis, 
+      <lb ed="#C" n="24"/>aut non: si pugnat, repudianda sine dubio est; si convenit, id ex Scripturis 
+      in<lb ed="#C" n="25" break="no"/>telligitur ac indicaum: Cum ergo Scuptira sit amussis &amp; μιον iudicandi e a, 
+      <lb ed="#C" n="26"/>cquae scripta noni sunt, unuscriptanon: possunt esse Regida interpietandi 
+      Scri<lb ed="#C" n="27" break="no"/>pgugsytaus mniio bu des onadutoidonos iaainmo igultas (apice 
+      <lb ed="#C" n="28"/>cli Sed hanc suamnonscriptam, Regulam Stapletonus ait eue uam aνα¬ 
+      <lb ed="#C" n="29"/>λοιαν, de qua Apostolus Rom. 12. &amp; μιζν τῆ καγονος, de quo 2. Cor. 10. &amp; 
+      <lb ed="#C" n="30"/>κarονα, de quo Galat. 6. &amp; Phil. 3. Sed constat non illam Papisticam 
+      Tra<lb ed="#C" n="31" break="no"/>ditionis Becdefiasticae tegulaim ab Apossolo, intelligi, sed vim ac 
+      senten<lb ed="#C" n="32" break="no"/>tiam Apostolicae praedicationis, quam illi pest literis &amp; libus aperte 
+      co<lb ed="#C" n="33" break="no"/>pioseque expositam, semimtemae memotiae seculorum omnium 
+      prodide<lb ed="#C" n="34" break="no"/>runt: Steapletonus, Libs 12. cap. 3. multa testimonia ex Augustino 
+      com<lb ed="#C" n="35" break="no"/>memorat, quibus suam fidei commentitiam Regulam commendet: sed  
+      <lb ed="#C" n="36"/>srillavelimus excutere sigillatim, manifestum erit talem Augustino 
+      re<lb ed="#C" n="37" break="no"/>gulam nunquam in mentemvenisse, qualemisti somniant. Namfegula 
+      <lb ed="#C" n="38"/>Augustminomeliaest; quam Scripturis peromnia, convenem professio¬ 
+      <!--373.xml-->
+      <pb ed="#L" n="364"/>
+               <lb ed="#C" n="1"/>religionis: nec Augustinus vllam regulam agnoscit, nisiquam 
+      Scriptura<lb ed="#C" n="2" break="no"/>rum sana &amp; Catholica doctrina complectitur: &amp; has non scriptas 
+      regu<lb ed="#C" n="3" break="no"/>las Papistarum nusquam desiderat. Sic in principio lib. de Genes. ad lit. 
+      <lb ed="#C" n="4"/>imperfect. fidem Catholicam explicat, Cap. 1. vbi (inquit Stapletonus) 
+      <lb ed="#C" n="5"/>non ea modo quae ponuntur in Symbolo, sed alia multa, quae contra 
+      Pe<lb ed="#C" n="6" break="no"/>lagianos &amp; Manichaeos Ecclesia recenter definierat, in Catholicae fidei 
+      <lb ed="#C" n="7"/>regusa complexus est. Sed Stapletonus non attendit Augustinum nihile 
+      <lb ed="#C" n="8"/>in regula fidei posuisse, quod non Scripturae complectantur. Quicquid 
+      e<lb ed="#C" n="9" break="no"/>nim Ecclesia contra Manichaeos aut Pelagianos definivit, non aliunde 
+      <lb ed="#C" n="10"/>sumpsit, quam ex Canonicis Scripturis: quae propterea Canonicae dictae 
+      <lb ed="#C" n="11"/>sunt, quod certam, necessariam, perfectam, minimeque fallacem fidei: 
+      <lb ed="#C" n="12"/>totius ac religionis Regulam continent. Et quanquam non aperte 
+      at<lb ed="#C" n="13" break="no"/>que enucleate ea omnia in Symbolo ponuntur, quae ad refutandos illos 
+      <lb ed="#C" n="14"/>haereticos valent, tamen principia eius fidei tradita sunt in Symbolo, quae 
+      <lb ed="#C" n="15"/>fusius in Scripturis invenitur, Et Manichaeos primus articulus Symboli, 
+      <lb ed="#C" n="16"/>satis refellit. Nam si in Deum credimus, coeli, terraeque, &amp; creaturarum. 
+      <lb ed="#C" n="17"/>omnium conditorem, tum vnus Deus est, qui mundum creavit, &amp; neque 
+      <lb ed="#C" n="18"/>duo dij sunt, neque mundus a malo Deo factus est, 
+      quemadmodumim<lb ed="#C" n="19" break="no"/>pie Manichaei docuerunt. Pelagianos, negantes originale peccatum, 
+      da<lb ed="#C" n="20" break="no"/>mnat articulus de Christo ex Virgine per Spiritum sanctum concepto. 
+      <lb ed="#C" n="21"/>Nam si Christus hoc modo conceptus natusque fuit, vt nulla originalis 
+      <lb ed="#C" n="22"/>peccati labe contaminaretur, tum reliquos homines vniversos 
+      eopecca<lb ed="#C" n="23" break="no"/>to infectos nasci consequitur: &amp; reliquas Pelagianorum haereses 
+      Sym<lb ed="#C" n="24" break="no"/>bolum, ex Scripturis intellectum &amp; explicatum, refellit. Sed quaenam illa 
+      <lb ed="#C" n="25"/>multa sunt, quae Augustinus recitat, non posita in 
+      Symboloiscilicetin<lb ed="#C" n="26" break="no"/>terponit quaedam de peccato, &amp; poena peccati, contra Belagianos, 
+      de<lb ed="#C" n="27" break="no"/>creatione rerum omnium contra Manichaeos. At haec etiam ex symbolo 
+      <lb ed="#C" n="28"/>disci possunt, &amp; in Scripturis apertissime traduntur. Proferat ex 
+      Augusti<lb ed="#C" n="29" break="no"/>no Stapletonus vel vnum locum, si potest, in quo sanctissimus Pater 
+      affir<lb ed="#C" n="30" break="no"/>met, regulam fidei vllum dogma coplecti, quod non sit traditum in 
+      Scri<lb ed="#C" n="31" break="no"/>pturis. Nam haec testimonia, quae ad duxit ex Augustino, nullius 
+      Regu<lb ed="#C" n="32" break="no"/>lae mentionem faciunt, nisi eius, quae sit Scripturarum: cancellia 
+      circum<lb ed="#C" n="33" break="no"/>scripta. Acerrimum omnium est, quod ex 3. lib. cap. 2. de Doctna 
+      <lb ed="#C" n="34"/>Christ. objicitur, vbi Augustinus scribit, regulam fideide Scripturarum 
+      pla<lb ed="#C" n="35" break="no"/>nioribus locis, &amp; Ecclesiae authoritate percipi: ubi (inquit Stapletonus) 
+      ob<lb ed="#C" n="36" break="no"/>serva, regulam fidei petendam esse, non ex solis Scripturis, sed praeterea 
+      <lb ed="#C" n="37"/>ex authoritate Ecclesiae. Sed Augustinus non tribuit Ecclesiae 
+      authorita<lb ed="#C" n="38" break="no"/>tem statuendi aut definiendi aliquid extra Scripturas, nec regulam fidei 
+      <!--374.xml-->
+      <pb ed="#L" n="365"/>
+               <lb ed="#C" n="1"/>dicit esse petendam ex Scripturis &amp; authoritate Ecclesiae, sed monet 
+      Scri<lb ed="#C" n="2" break="no"/>pturarum &amp; Theologiae studiosum, vtsi in locum aliquem inciderit 
+      am<lb ed="#C" n="3" break="no"/>bigue distinctum, regulam fidei consulat, quam ex planioribus locis 
+      <lb ed="#C" n="4"/>Scripturarum, &amp; Ecclesiae authoritate, ide est magisterio, didicit: Non 
+      <lb ed="#C" n="5"/>quo Ecclesiae absolutam: esse authoritatem putemus, sed vt nobis 
+      Ec<lb ed="#C" n="6" break="no"/>clesia suo ductu voceque praecat, &amp; nos ab insidijs haereticorum suae 
+      au<lb ed="#C" n="7" break="no"/>thoritate praemuniat. Habet enim authoritatem Ecclesia 
+      interpretandi<lb ed="#C" n="8" break="no"/>Scripturas, non liberam, atque indefinitam, sed certis legibus ac 
+      vincu<lb ed="#C" n="9" break="no"/>lis astrictam, vt Scripturas non ex ingenio suo, sed ex ipsis Scripturis 
+      in<lb ed="#C" n="10" break="no"/>terpretetur. Quas Ecclesiae legitimas atque authenticas 
+      interpretatio<lb ed="#C" n="11" break="no"/>nes necesse est apud omnes pios, nedum Theologiae candidatos, 
+      authori<lb ed="#C" n="12" break="no"/>tatem maximam habere. Ila verborum haeretica distinctio est, In 
+      principio<lb ed="#C" n="13" break="no"/>erat verbum, &amp; verbum erat apud Deum, &amp; Deus erat: vtsensus sit, 
+      ver<lb ed="#C" n="14" break="no"/>bum erat in principio apud Deum, sed non erat Deus. Sed hoc (inquit  
+      <lb ed="#C" n="15"/>Augustinus) regula fidei refellendum est, qua nobis de Trinitatis aequalitate. 
+      <lb ed="#C" n="16"/>praescribitur. Equidem Trinitatis aequalitatem &amp; Scriptura &amp; 
+      Ecclesia<lb ed="#C" n="17" break="no"/>praescribit, non eodem tamen aut pari pondere authoritatis. Ecclesia 
+      <lb ed="#C" n="18"/>praescribit, quia hoc totum ex Scripturis accepit: Scriptura praescribit, 
+      <lb ed="#C" n="19"/>tanquam αυτοπςος, summaque veritas: Ita extra Scripturas nihil Ecclesia 
+      <lb ed="#C" n="20"/>praescribit, &amp; quicquid Ecclesia authoritatis habet ad praescribendum, 
+      <lb ed="#C" n="21"/>inclusum est finibus Scripturarum: &amp; Stapletonus in Augustino non 
+      ali<lb ed="#C" n="22" break="no"/>am fidei regulam inveniet, quam quae ex Scripturis ipsis Catholice 
+      ex<lb ed="#C" n="23" break="no"/>positis derivetur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

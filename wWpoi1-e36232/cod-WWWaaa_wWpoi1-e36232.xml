@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="393"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e36232"><!-- con1q6c9 -->
+            <head xml:id="wWpoi1-e36232-Hd1e106">Caput 9</head>
+            <p xml:id="wWpoi1-e36232-d1e109">
+               <lb ed="#C" n="8"/>CAPUT TIIII 
+      <lb ed="#C" n="9"/>Argumenta Adversariorum, quibus probant Scripturas fine 
+      <lb ed="#C" n="10"/>Tadituuibus non esse sufficientes. 
+    </p>
+            <p xml:id="wWpoi1-e36232-d1e118">
+               <lb ed="#C" n="11"/>IAm deinde secundo loco probat, Scripturas non esse sufficientes 
+      si<lb ed="#C" n="12" break="no"/>ne Traditionibus, nec continere omnia quae ad fidem &amp; mores 
+      perti<lb ed="#C" n="13" break="no"/>nent, idque tribus argumentis. Argumentum primum est huiusmodi: Si 
+      Scri<lb ed="#C" n="14" break="no"/>ptura sit sufficiens: tum vel totus Canon sufficit, vel singuli libri in hoc  
+      <lb ed="#C" n="15"/>Canone comprehensi: at neutrum: ergo Scriptura non est sufficiens 
+      Re<lb ed="#C" n="16" break="no"/>spondeo: Fateor nos non de singulis libris loqui, cum dicimus Scripturas 
+      <lb ed="#C" n="17"/>sufficientem doctrinam continere; sed intelligimus totum Scripturae 
+      Ca<lb ed="#C" n="18" break="no"/>nonem, unde omnia necessaria peti posse dicimus. Neque hoc 
+      intelligi<lb ed="#C" n="19" break="no"/>gendum est tantum de Canone, qui nunc est copiosior &amp; locupletior,  
+      <lb ed="#C" n="20"/>quam olim fuit (nam aliquando Canon non fuit ita copiosus ac locuples, 
+      <lb ed="#C" n="21"/>ludaei enim tot libros non habuerunt, quot nos, quia libris novi 
+      Testa<lb ed="#C" n="22" break="no"/>menti caruerunt) sed dicimus illum Canonem, qui Iudaeorum 
+      tempo<lb ed="#C" n="23" break="no"/>re extabat, tum fuisse; &amp; eum qui nostro iam tempore extat, nunc esset 
+      <lb ed="#C" n="24"/>sufficientem sine Traditionibus. Quando quinque tantum libri Mosis 
+      <lb ed="#C" n="25"/>fuerunt, sufficientes fuerunt: cum vero aliorum librorum (Prophetarum! 
+      <lb ed="#C" n="26"/>scilicet) accessiones factae sunt, tum etiam sufficientes fuerunt, sed 
+      ple<lb ed="#C" n="27" break="no"/>nius sufficientes. Singulis temporibus atque aetatibus, pro statu Ecclesiae; 
+      <lb ed="#C" n="28"/>sufficientes fuerunt illi libri qui extabant. Sed Iesuita hoc infirmare 
+      co<lb ed="#C" n="29" break="no"/>natur, &amp; probat ne totum quidem Canonem esse sufficientem; quia 
+      mul<lb ed="#C" n="30" break="no"/>ti libri, qui vere erant sacri ac Canonici, iam perierunt. Quod probat ex 
+      <lb ed="#C" n="31"/>Chrysostomo, 91. Homil. in Matth. in illa verba, Nazarenus 
+      vocabi<lb ed="#C" n="32" break="no"/>tur, Respondeo: primo, Chrysostomus putavit hanc sententiam nusquam  
+      <lb ed="#C" n="33"/>inveniri inillis veteris Testamenti libris, qui nunc salvi sunt. Est &amp; alia 
+      e<lb ed="#C" n="34" break="no"/>tiam sententia eiusmodi, de qua similiter sensit; nempe, Ex AEgypto 
+      vo<lb ed="#C" n="35" break="no"/>cavi filium meum. Et revera septuaginta interpretes, quos ipse sequutus 
+      <lb ed="#C" n="36"/>est, neutram sententiam habent: Hebraei tamen libri habent; in quibus 
+      <!--403.xml-->
+      <pb ed="#L" n="394"/>
+               <lb ed="#C" n="1"/>ille non est versatus; ignorabat enim Hebraicam linguam. Et 
+      Hierony<lb ed="#C" n="2" break="no"/>mus, in libro de optimo genere interpretandi, ait vtramque sententiam; 
+      <lb ed="#C" n="3"/>reperiri in libris Hebraicis; priorem nempe Esaiae 11. 1. posteriorem verol 
+      <lb ed="#C" n="4"/>Oseae 11. 1. Secundo, Concedimus nonnulla iam desiderati, quaeolim in 
+      <lb ed="#C" n="5"/>Canone Scripturae fuerunt, sed tamen affirmamus, illum Canonem 
+      qui<lb ed="#C" n="6" break="no"/>remanet, esse sufficientem, &amp; omnia necessaria continere. Salomonis 
+      li<lb ed="#C" n="7" break="no"/>bri nonnulli perierunt, sed tamen sine jactura fidei, &amp; sine salutis nostrae 
+      <lb ed="#C" n="8"/>discrimine; vt quos de plantis, de stirpibus, &amp; de vermibus scripsit, &amp; 
+      <lb ed="#C" n="9"/>multa etiam Proverbia. Novit enim Deus haec non fuisse nobis ad 
+      salu<lb ed="#C" n="10" break="no"/>tem necessaria. Tertio, Dicimus non tam multa amissa esse, quam 
+      Papi<lb ed="#C" n="11" break="no"/>stae &amp; Iesuita suspicantur. Nam quod attinet ad libros Samuelis, Gadi, 
+      <lb ed="#C" n="12"/>Nathanis, &amp; Ahiae; Respondeo, non esse amissos, sed esse eosdem cum ijs 
+      <lb ed="#C" n="13"/>historiarum libris, quos nunc habemus, nempe cum libris Samuelis, 
+      Re<lb ed="#C" n="14" break="no"/>gum, &amp; Paralipomenon, qui ab his Prophetis scripti sunt. Deinde, ait  
+      <lb ed="#C" n="15"/>Bellarminus, Ex novo Testamento certum est periisse Epistolam Pauli ad 
+      <lb ed="#C" n="16"/>Laodicenses, cuius ipse meminit, Coloss. vit. At nihil incertius esse 
+      po<lb ed="#C" n="17" break="no"/>tuit. Nam supra evicimus, &amp; verbis ipsis, &amp; testimoniis authorum, non 
+      <lb ed="#C" n="18"/>hanc fuisse Pauli ad Laodicensees, sed Laodicensium ad Paulum; nisi 
+      for<lb ed="#C" n="19" break="no"/>te interpretemur eκ Aαοθικειας, ad Laodicenses. Nam ad Paulum alij literas 
+      <lb ed="#C" n="20"/>scripserunt, vt ex 1. Cor. 7. 1. constat, ωeι γῶν ἐγρολατομoι. Nata opinio ex 
+      <lb ed="#C" n="21"/>versione ambigua, Laodicensium, quod isti passive interpretantur. In quo 
+      <lb ed="#C" n="22"/>miror Bellarminum, hominem politum, &amp; Graecis literis eruditum, non 
+      <lb ed="#C" n="23"/>vidisse turpem multorum errorem, &amp; maluisse inertiae crimen 
+      incurrere<lb ed="#C" n="24" break="no"/>quam putidissimum argumentum omittere. 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e233">
+               <lb ed="#C" n="25"/>Argumentum secundum Iesuitae est huiusmodi: si aut Christo, aut eius 
+      <lb ed="#C" n="26"/>Apostolis in animo fuisset, verbum Dei in Scripturae compendium 
+      coar<lb ed="#C" n="27" break="no"/>ctare, tum Christus praecepisset Evangelistis &amp; Apostolis vtscriberent, &amp; 
+      <lb ed="#C" n="28"/>illi alicubi hoc significassent, se ex Domini mandato scribere: At id 
+      nus<lb ed="#C" n="29" break="no"/>quam legimus: Ergo non fuit illis propositum hoc facere. Respondeo, &amp; 
+      <lb ed="#C" n="30"/>affirmo Assumptionem esse falsissimam. Num enim existimabimus 
+      Ano<lb ed="#C" n="31" break="no"/>stolos &amp; Evangelistas sine mandato atque authoritate aggressos esse, vihige 
+      <lb ed="#C" n="32"/>scriberent? num levi occasione impulsi, illa tam multa scripserunt, nec 
+      <lb ed="#C" n="33"/>potius in eo sequuti sunt authoritatem Spintus sancti? Id certe, nisiimpi 
+      <lb ed="#C" n="34"/>cogitare non possumus. Nos credimus eos singulari quadam Christa 
+      <lb ed="#C" n="35"/>Spiritus sancti authoritate inductos ac permotos fuisse, vt 
+      scriberentixo<lb ed="#C" n="36" break="no"/>catur enim Scriptura θεότνῶςος, hoc est, tradita impulsu &amp; instinctu 
+      Spin<lb ed="#C" n="37" break="no"/>tus sancti. Et 2. Pet. 1. 21. Petrus testatur sanctos Dei homines ita loquuri 
+      <lb ed="#C" n="38"/>tos fuisse, vt a Spiritu sancto acti fuerunt: quod declarat illos sequutos 
+      <!--404.xml-->
+      <pb ed="#L" n="395"/>
+               <lb ed="#C" n="1"/>fuisse impulsum &amp; authoritatem Spiritus sancti, non arbitrium suum, 
+      Ho<lb ed="#C" n="2" break="no"/>mines fuerunt instrumenta tantum, Spiritus fuit qui dictavit. Tamen 
+      Ad<lb ed="#C" n="3" break="no"/>versarij volunt eos ex se, sine diserto aliquo mandato, scripsisse. Exod. 24. 
+      <lb ed="#C" n="4"/>4. legimus Mosen omnia Dei verba scripsisse: &amp; <name xml:id="wWpoi1-e36232-Nd1e278">Canus</name> diserte fatetur,  
+      <lb ed="#C" n="5"/>eum hoc scripsisse ex mandato Dei. Oseae 8. 12. Deus ait, Scripsi illis (
+      ve<lb ed="#C" n="6" break="no"/>Iquidam vertunt) magnalia (ui alij vero) authentica legis meae. Dicit ergo 
+      <lb ed="#C" n="7"/>se Deus ea scripsisse, quae Moses scripsit. Sed numdisertum aliquod 
+      man<lb ed="#C" n="8" break="no"/>datum Apostolihabuerunt: Sane vero. Nam Mat. 28. 19. vltimam 
+      Chri<lb ed="#C" n="9" break="no"/>sti vocem ad Apostolos hanc fuisse legimus, Ite, docete omnes Gentes. 
+      <lb ed="#C" n="10"/>Verbum vero μαθητενειν, quod eo loco vsurpatur, est tum viva voce, tum 
+      <lb ed="#C" n="11"/>scriptis docere, sicut Spiritui sancto optime visum esset. Spiritus enim 
+      <lb ed="#C" n="12"/>Sanctus illorum mentes in hoc munere gubernavit, &amp; illos ad 
+      scriben<lb ed="#C" n="13" break="no"/>dum, quod erat maxime necessarium, impulit. Non enim oportebat 
+      e<lb ed="#C" n="14" break="no"/>os ad tempus tantum docere, sed illorum etiam munus erat, relinquere 
+      <lb ed="#C" n="15"/>doctrinam scriptam, quae perpetuis seculis sufficeret, &amp; remaneretysque 
+      <lb ed="#C" n="16"/>ad finemmundi. Apocalyp. 1. 11. diserte scribitur, Eu quae vidisti, scribe 
+      <lb ed="#C" n="17"/>in libro, γραδον εἰς ἐιβλίον. Disertum mandatum. Si illi hoc praeceptum fuit, 
+      <lb ed="#C" n="18"/>dubitare non possumus, quin &amp; caeteris etiam idem eodem modo 
+      man<lb ed="#C" n="19" break="no"/>datum fuerit. Et Apocal. 14. 13. Ioannes ait, e Audivi vocem dicentem, 
+      <lb ed="#C" n="20"/>scribe. Haec satis evincunt, Apostolos &amp; Evangelistas se quutos fuisse 
+      di<lb ed="#C" n="21" break="no"/>vinam authoritatem, &amp; non fuisse levissimis quibusdam &amp; fortuitis 
+      oc<lb ed="#C" n="22" break="no"/>casionibus ad scribendum commotos, quemadmodum Papistae 
+      impie<lb ed="#C" n="23" break="no"/>fingunt, &amp; precipue Lindanus, qui putat se posse hoc probare de singulis 
+      <lb ed="#C" n="24"/>libris. Patres longissime ab hac Papistarum opinione abfuerunt, 
+      Augu<lb ed="#C" n="25" break="no"/>stinus enim, Lib. 12. de consensu Evangelistarum, cap. vlt. diserte scribit, 
+      <lb ed="#C" n="26"/>Christum scripsisse ea omnia, quae Apostoli &amp; Evangelistae scripserunt; 
+      <lb ed="#C" n="27"/>quia Apostoli manus fuerunt tantum, Christus vero caput: manus vero 
+      <lb ed="#C" n="28"/>nihil scribunt, nisi cogitante &amp; dictante capite: ergo ait, oportere nos 
+      ea<lb ed="#C" n="29" break="no"/>dem reverentia illorum libros suscipere, ac si eos Christus ipse sua manus 
+      <lb ed="#C" n="30"/>scripsisset, nosque scribentem Christum ipsi vidissemus. Verba eius haec 
+      <lb ed="#C" n="31"/>sunt: Omnibus discipulis suis, per hominem quem assumpsit, tanquam membris. 
+      <lb ed="#C" n="32"/>sui corporis, caput est, Itaque cum illi scripserunt, quae ille ostendit &amp; dixit, 
+      ne<lb ed="#C" n="33" break="no"/>quaquam dicendum est, quod ipse non scripserit, quandoquidem membra eius 
+      <lb ed="#C" n="34"/>idoperata sunt, quod dictante capite cognoverunt. Quicquid enim ille de suis 
+      <lb ed="#C" n="35"/>factis &amp; dictis nos legere voluit, hoc scribendum illis, tanquam suis manibus, 
+      <lb ed="#C" n="36"/>imperavit, Hoc unitatis consortium, &amp; in diversis officijs concordium 
+      mem<lb ed="#C" n="37" break="no"/>brorum subyno capite ministerium quisquis intellexerit, non aliter accipiet,  
+      <lb ed="#C" n="38"/>quod narrantibus discipulis Christi in Evangelio legerit, quam siipsam manum 
+      <!--405.xml-->
+      <pb ed="#L" n="396"/>
+               <lb ed="#C" n="1"/>Domini, quam in proprio corpore gestabat, scribentem conspexerit. Haec 
+      Au<lb ed="#C" n="2" break="no"/>gustinus. Irenaeus etiam, Lib. 37. cap. 1. ait Evangelium esse in Scripturis 
+      <lb ed="#C" n="3"/>traditum, sed per Dei voluntatem. Et Athanasius, in Epistola ad Liberium, 
+      <lb ed="#C" n="4"/>de Christo loquens, ait: Hic vetus &amp; novum Testamentum composuit.  
+      <lb ed="#C" n="5"/>Gregorius denique, 4. Libro Epistolarum, 84. Epistola, ait Scripturas 
+      <lb ed="#C" n="6"/>esse Epistolam Dei creatoris ad creaturam. Quod Augustinus etiam &amp; 
+      <lb ed="#C" n="7"/>Chrysostomus in nonnullis locis affirmant. Iam vero quis audet 
+      Prin<lb ed="#C" n="8" break="no"/>cipis nomine literas commentitias scribere? multo minus Prophetae vel 
+      <lb ed="#C" n="9"/>Apostoli id facere Dei nomine auderent. Ex his constat, omnes libros 
+      <lb ed="#C" n="10"/>veteris &amp; novi Testamenti, non modo volente &amp; mandante, sed &amp; 
+      di<lb ed="#C" n="11" break="no"/>ctante etiam Christo, scriptos esse, nec tantum obiter, aut ex 
+      leviocca<lb ed="#C" n="12" break="no"/>sione, sed ex instituto, vt Ecclesiae omnium temporum consulerent: vnde 
+      <lb ed="#C" n="13"/> illud Lindani falsum esse constat. At tum (inquit) Catechismum, aut 
+      li<lb ed="#C" n="14" break="no"/>brum aliquem communem scripsissent, aut singuli doctrinam 
+      Evange<lb ed="#C" n="15" break="no"/>licam scriptis edidissent. Respondeo: Nihil horum esse necessarium. Non 
+      <lb ed="#C" n="16"/>enim illos latuit, Deum velle sic illorum voluntates manusque regere, 
+      ve<lb ed="#C" n="17" break="no"/>ij scriberent, quos oporteret, &amp; tantum scriberent, quantum sufficeret, &amp; 
+      <lb ed="#C" n="18"/>in tempore omnia facerent. Sique verum est quod traditur, Symbolum: 
+      <lb ed="#C" n="19"/>ediderunt antequam in suas provincias discesserunt, quod Scripturarum 
+      <lb ed="#C" n="20"/>epitome est. Sed hoc (inquit) viva tantum voce tradiderunt, non 
+      scri<lb ed="#C" n="21" break="no"/>pserunt; de quo non laboro, nec contendo. Nihil enim ad rempertinet. 
+      <lb ed="#C" n="22"/>Et quidem in Scripturis Symbolum totum, vt Augustinus ad Catechum. 
+      <lb ed="#C" n="23"/>libro 1. de Symbolo: Illa verba sSymboli, inquit) quae audistis, per diuvinas 
+      <lb ed="#C" n="24"/>Scripturas sparsa sunt, inde collecta, &amp; ad vnum redacta; ne tardorum 
+      homi<lb ed="#C" n="25" break="no"/>num memoria labarat. Sed de Symbolo post. 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e414">
+               <lb ed="#C" n="26"/>Tertium Iesuitae argumentum, quo probat Scripturas non esse 
+      suffici<lb ed="#C" n="27" break="no"/>entes sine Traditionibus, est huiusmodi: Multa a nobis ignorari 
+      neque<lb ed="#C" n="28" break="no"/>unt, quae nusquam in Scripturis reperiuntur: Ergo non omnia necessaria. 
+      <lb ed="#C" n="29"/>in Scripturis habentur. Proponit Iesuita &amp; persequitur multa exempla, 
+      <lb ed="#C" n="30"/>quae sunt a nobis sigillatim excutienda &amp; examinanda. Primo, ait non 
+      <lb ed="#C" n="31"/>esse dubium, quin foeminae tempore veteris Testamenti habueruntase, 
+      <lb ed="#C" n="32"/>quod remedium contra peccatum originale, aeque ac viri, quod supple 
+      <lb ed="#C" n="33"/>ret vicem Circumcisionis: At de hoc nihil in Scripturis invenitur. 
+      Respon<lb ed="#C" n="34" break="no"/>deo. Circumcisionem non tantum advitos, sed etiam ad foeminas 
+      ali<lb ed="#C" n="35" break="no"/>quo modo spectavisse. Etsi enim non erant in carne circumcisae, 
+      tamen<lb ed="#C" n="36" break="no"/>vis circumcisionis ad illas pertingebat, &amp; illae in circumcisione virorum 
+      <lb ed="#C" n="37"/>consecrabantur Deo. Nam foemina tanquam pars quaedam viri 
+      habita<lb ed="#C" n="38" break="no"/>est, bonorumque omnium particeps ac socia fuit. Innuptae soeminae 
+      <!--406.xml-->
+      <pb ed="#L" n="397"/>
+               <lb ed="#C" n="1"/>ad parentes suos, nuptae vero ad matitos pertinebant: peculiare nullum 
+      <lb ed="#C" n="2"/>certe sacramentum habebant. Lombardus, 4. Lib. 1. distunct. in litera 
+      <lb ed="#C" n="3"/>O, ait eandem vim in foeminis habuisse fidem, ac piam operationem, 
+      <lb ed="#C" n="4"/>quam habuit citcumcisio in viris, atque ita instificatas fuisse, licet 
+      sa<lb ed="#C" n="5" break="no"/>cramento caruerunt. Alij vero dicuntrquemadmodum ex eodem 
+      Lom<lb ed="#C" n="6" break="no"/>bardo patet) sanctificatas ac instificatas fuisse per sacrificia &amp; 
+      oblatio<lb ed="#C" n="7" break="no"/>nes. Petuit ergo Bellarminus ex Magistro suo discere, quam frivolum hoc?: 
+      <lb ed="#C" n="8"/>eius commentum sit. Praeterea, debuit considerate, cit cumcisionem non 
+      <lb ed="#C" n="9"/>fuisse tantum remedium contra peccatum originale, verumetiam 
+      sig<lb ed="#C" n="10" break="no"/>num traductionis peccati: at per vitos potus traducitur peccatum, quam, 
+      <lb ed="#C" n="11"/>per foeminas, ac proinde illis potius hoc signum inustum fuit. 
+      Subiun<lb ed="#C" n="12" break="no"/>git Iesuita: Non est dubium parvulos, qui ante octavum diem 
+      morie<lb ed="#C" n="13" break="no"/>bantur, habuisse aliquod remedium contra peccatum originale: at hoc  
+      <lb ed="#C" n="14"/>nusquam in Scripturis reperitur. Respondeo: Futile hoc est, &amp; 
+      responsio<lb ed="#C" n="15" break="no"/>ne indignum, vt prius. (Salus enim parvulorum non pendet ex 
+      Sacra<lb ed="#C" n="16" break="no"/>mentis. )JLicet alij respondeant, potuisse circumcidi ante octavum diem, 
+      <lb ed="#C" n="17"/>si in aliquo vitae discrimine fuissent: quam vere, non dico. Non omnes. 
+      <lb ed="#C" n="18"/>participes Sacramentorum salvi fuerunt, nec omnes qui caruerunt, 
+      dam<lb ed="#C" n="19" break="no"/>nati. Si deus statuisset omnes damnandos esse, qui ante circumcisionem 
+      <lb ed="#C" n="20"/>morerentur, non distulisset procul dubio circumcisionem parvulorum: 
+      <lb ed="#C" n="21"/>Vsque ad octavum diem. Tertium Iesuitae exemplum non est magis ad 
+      tem<lb ed="#C" n="22" break="no"/>ac commodatum, quam priora. Tempore veteris Testamenti (inquit)  
+      <lb ed="#C" n="23"/>multi Gentiles servati sunt, &amp; tamen nihil in Scriptura legimus, de 
+      eo<lb ed="#C" n="24" break="no"/>rum instificatione a peccato originali, &amp; alijs peccatis. Respondeo: At 
+      le<lb ed="#C" n="25" break="no"/>gimus. Nam fide in Mediatorem iustificati &amp; sanctificati sunt sine 
+      Sa<lb ed="#C" n="26" break="no"/>cramentis. Si vero de externis medijs loquatur, in libris Mosis invenitur: 
+      <lb ed="#C" n="27"/>lex de proselytis in Rempublicam Iudaeorum asciscendis. Haec tria 
+      argu<lb ed="#C" n="28" break="no"/>menta manarunt ex illo eodem putidissimo erroris fonte, quo defendunt:  
+      <lb ed="#C" n="29"/>Papistae salutem esse Sacramentis inclusam: ergo externis Sacramentis: 
+      <lb ed="#C" n="30"/>ac remedijs opus fuisse. Fidei vim isti ignorant. Quartum Iesuitae 
+      exem<lb ed="#C" n="31" break="no"/>plum est huiusmodi: Oportet nos credere libros Canonicos esse in 
+      veteri<lb ed="#C" n="32" break="no"/>novoque Testamento, hoc tamen ex Scripturis ipsis intelligi non potest. 
+      <lb ed="#C" n="33"/>Respondeo: Hoc ex Scripturis ipsis satis sciri posse. Nam ipsa 
+      doctrina<lb ed="#C" n="34" break="no"/>seipsam confirmat, &amp; certissimum sibi ipsi testimonium perhibet. 
+      Et<lb ed="#C" n="35" break="no"/>nonne legimus totam Scripturam esse δεόπώσον? At Iesuita ait, 
+      quomo<lb ed="#C" n="36" break="no"/>do sciam hanc Scripturam, quae hoc dicit, esse divinam? Et similitudine 
+      <lb ed="#C" n="37"/>vtitur. In Acorano (inquit) scriptum est, illum librum esse missum e 
+      coe<lb ed="#C" n="38" break="no"/>lo, nequaquam tamen ideo credendum est e coelo venisse: sic oportetme! 
+      <!--407.xml-->
+      <pb ed="#L" n="398"/>
+               <lb ed="#C" n="1"/>aliunde (inquit) de huius libri authoritate confirmari. Respondeo: Sed. 
+      <lb ed="#C" n="2"/>nonne vides lesuita a te impie &amp; absurde libros Scripturae Alcorano 
+      com<lb ed="#C" n="3" break="no"/>parari? In Alcorano multa absurda &amp; manifeste falsa sunt: at omnia 
+      di<lb ed="#C" n="4" break="no"/>vina in Scripturis, &amp; tota Scriptura se esse θεόπώςον aperte indicat; quod  
+      <lb ed="#C" n="5"/>a nobis in tertia Quaestione declaratum est: vt qui Spiritu Dei 
+      praediti<lb ed="#C" n="6" break="no"/>sunt, non possint non agnoscere loquentem in Scripturis Deum. Itaque 
+      <lb ed="#C" n="7"/>conclusio Iesuitae falsa est. Si enim ea vera fides sit, quae in symbolo 
+      tradi<lb ed="#C" n="8" break="no"/>tur; fides nostra Scripturis nititur, &amp; illis solis, quia omnes articuli fidei 
+      <lb ed="#C" n="9"/>in Scripturis habentur. Et haec fides ea est, quae ad salutem sufficiat, quia 
+      <lb ed="#C" n="10"/>fides ista Christum prehendit, in quo sunt omnes aeternae vitae 
+      promissi<lb ed="#C" n="11" break="no"/>ones. At isti sic disputant, quasi fidei principium positum sit in 
+      Traditio<lb ed="#C" n="12" break="no"/>ne: quod si verum esset, tum ex Traditione fides tota penderet. Luc. 24. 
+      <lb ed="#C" n="13"/>45. Legimus Christum aperuisse mentes Apostolorum, vt Scripturas 
+      in<lb ed="#C" n="14" break="no"/>telligerent: vnde perspicimus, fidem nasci ex Scripturis recte intellectis. 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e567">
+               <lb ed="#C" n="15"/>Quinto Iesuita ait, illud esse necessarium, non modo vtcredamus esse 
+      sa<lb ed="#C" n="16" break="no"/>crorum librorum Canonem in veteri &amp; novo Testamento, sed etiam 
+      prae<lb ed="#C" n="17" break="no"/>terea, vt sciamus quinam illi sint. Exempli causa: Oportet scite Marci 
+      E<lb ed="#C" n="18" break="no"/>vangelium esse verum &amp; genuinum, &amp; sic Lucae, atque ita etiam de 
+      reli<lb ed="#C" n="19" break="no"/>quis libris vtriusque Testamenti. Sed quomodo hoc constabit? Ex 
+      Scri<lb ed="#C" n="20" break="no"/>pturis cerre haberi non potest, sicuti Bartholomaei &amp; Thomae Evangelia 
+      <lb ed="#C" n="21"/>non esse genuina, cum ratio dictet, libro potius credendum esse 
+      praefe<lb ed="#C" n="22" break="no"/>renti titulum Apostoli, quam non Apostoli. Praeterea, quomodo sciemus 
+      <lb ed="#C" n="23"/>(inquit) Epistolam ad Romanos esse Pauli, ad Laodicenses non esse, cum 
+      <lb ed="#C" n="24"/>huius mentio fiat in Epistola ad Colossenses, illius vero nusquam? 
+      Re<lb ed="#C" n="25" break="no"/>spondeo, haec ab illo praeclare ac Theologice disputari. Quasi vero ex 
+      ip<lb ed="#C" n="26" break="no"/>sa inscriptione Epistolae ad Romanos non constet eam esse Pauli. Quod  
+      <lb ed="#C" n="27"/>vero affirmat esse certum, scriptam fuisse a Paulo Epistolam ad 
+      Laodi<lb ed="#C" n="28" break="no"/>censes, de eo satis antea responsum est. Illa vero ad Colossenses Epistola; 
+      <lb ed="#C" n="29"/>nullius meminit scriptae a Paulo Epistolae ad Laodicenses, sed potius 
+      in<lb ed="#C" n="30" break="no"/>nuit (quemadmodum supra ex nonnullis Patribus ostendimus) scriptam 
+      <lb ed="#C" n="31"/>fuisse Epistolam quandam a Laodicensibus ad illum. Occasio huius 
+      er<lb ed="#C" n="32" break="no"/>roris nata est ex vitiosa versione, &amp; deinde ex deteriore interpretanones 
+      <lb ed="#C" n="33"/>Testatur quidem Hieronymus, in Catal. fuisse olim talem Epissolam, 
+      <lb ed="#C" n="34"/>sed ab omnibus explosam esse. Et adhuc quidem extat parua quaedam 
+      E<lb ed="#C" n="35" break="no"/>pistola, quae Pauli esse dicitur, ad Laodicenses, sed Apostolico nomine 
+      <lb ed="#C" n="36"/>plane indigna. Sed Iesuita ait: Oportet scire non tantum esse Canonicos 
+      <lb ed="#C" n="37"/>libros, sed etiam qui sint Canonici. XTespondeo: primo, Hoc quidem 
+      neces<lb ed="#C" n="38" break="no"/>sarium esse, sed non simpliciter &amp; similiter omnibus; quod vel ipsi Papistae 
+      <!--408.xml-->
+      <pb ed="#L" n="399"/>
+               <lb ed="#C" n="1"/>fateri cogentur. Nam multi olim dubitarunt de nonnullis Canonicis 
+      li<lb ed="#C" n="2" break="no"/>bris, quos tamen servari potuisse non audent negare. Illis igitur hoc 
+      ne<lb ed="#C" n="3" break="no"/>cessarium non fuit. Hoc vero argumentum non sequitur: Spiritus 
+      san<lb ed="#C" n="4" break="no"/>ctus agnoscit omnes Canonicos libros: ergo omnes, qui habent Spiritum 
+      <lb ed="#C" n="5"/>sanctum, agnoscunt. Nam Spiritus sanctus non idem efficit in omnibus, 
+      <lb ed="#C" n="6"/>nec est eadem mensura Spiritus in omnibus. Sic de singulis religionis 
+      <lb ed="#C" n="7"/>partibus non idem statuunt omnes, qui Spiritum sanctum habent. Alij. 
+      <lb ed="#C" n="8"/>enim magis, alij minus perfecte Christum cognoscunt, &amp; hoc Spiritui 
+      <lb ed="#C" n="9"/>sancto referendum est: nemo enim potest dicere Dominum Iesum 
+      sine<lb ed="#C" n="10" break="no"/>ISpiritu: &amp; libros illos Apoctyphos multi etiam Papistae removerunt e 
+      Ca<lb ed="#C" n="11" break="no"/>none. Secundo, Respondeo, hoc posse ex Scriptura disci, ex ipsis nimirum 
+      <lb ed="#C" n="12"/>libris, veluti Marci Evangelium verum esse, sic Lucae, sic Pauli etiam 
+      E<lb ed="#C" n="13" break="no"/>pistolam ad Romanos. Nam ipsi libri suo testimonio se comprobant.  
+      <lb ed="#C" n="14"/>Omnia tam pure, tam vere, tam mirifice scripta, testanturse θεοπνευσυσ ac 
+      <lb ed="#C" n="15"/>divinitus prodiisse, ijs profecto omnibus, qui Spiritum sanctum habent.  
+      <lb ed="#C" n="16"/>Illi enim soli, qui Spiritum sanctum acceperunt, eius vocem audire, 
+      ag<lb ed="#C" n="17" break="no"/>noscere, atque intelligere possunt. Tum secundario confirmantur hi 
+      libri<lb ed="#C" n="18" break="no"/>authoritate Ecclesiae, quae hos libros semper recepit, illos vero (nempe 
+      <lb ed="#C" n="19"/>Bartholomaei &amp; Thomae Evangelia) semper reiecit. Sed hoc est 
+      secunda<lb ed="#C" n="20" break="no"/>rium testimonium. Augustinus, I. L. de Consensu Evangelist. 1. C.
+      haereti<lb ed="#C" n="21" break="no"/>cis ad similem obiectionemrespondet, cur caeteris, qui de Christi &amp; 
+      A<lb ed="#C" n="22" break="no"/>postolorum rebus scripserunt, non ea fides haberetur; &amp; duas causas affert, 
+      <lb ed="#C" n="23"/>cur hi libri rejecti fuerint, ne quis putet Ecclesiam eos sua tantum 
+      au<lb ed="#C" n="24" break="no"/>thoritate reiecisse. Prima causa est, quia non erant tales, vt illis temporibus 
+      <lb ed="#C" n="25"/>Ecclesia ijs crederet, eosque probaret: vbi de Ecclesia illorum temporum 
+      <lb ed="#C" n="26"/>loquitur. Secunda est, quia authores horum librorum non ea fide 
+      scripse<lb ed="#C" n="27" break="no"/>runt, qua debuerant, sed quaedam fallaciter suis scriptis indiderunt, quae 
+      <lb ed="#C" n="28"/>Apostolicae fidei regula, &amp; sana doctrina condemnat. Sed unde hoc, nisit 
+      <lb ed="#C" n="29"/>ex ipsis libris, constare potuit? Bellarminus fingit, nil interesse inter illa 
+      <lb ed="#C" n="30"/>Evangelia &amp; haec, inter Epistolam ad Romanos &amp; Laodicenses, nisi quod  
+      <lb ed="#C" n="31"/>Ecclesia illa Evangelia susceperit, haec rejecerit; Epistolam ad Romanos. 
+      <lb ed="#C" n="32"/>in Canonem admiserit, Epistolam ad Laodicenses exploserit: quod 
+      pla<lb ed="#C" n="33" break="no"/>ne impium imprimis &amp; absurdum est. 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e697">
+               <lb ed="#C" n="34"/>Sexium Iesuitae exemplum est huiusmodi: Non oportet duntaxat scire, 
+      <lb ed="#C" n="35"/>qui libri in vtroque Testamento sint Canonici, sed in particulari etiam 
+      <lb ed="#C" n="36"/>scire oportethos esse illos libros; vt non tantum Marci Evangelium esse 
+      <lb ed="#C" n="37"/>verum, sed hoc esse Marci Evangelium, quod nos habemus: sed hoc 
+      ex<lb ed="#C" n="38" break="no"/>Scripturis constare non potest: Ergo, &amp;c. Respondeo. Vt nos credamus 
+      <!--409.xml-->
+      <pb ed="#L" n="400"/>
+               <lb ed="#C" n="1"/>hoc ipsum Evangelium, quod Marci nomine scriptum legimus, illius 
+      fu<lb ed="#C" n="2" break="no"/>isse, non est ad salutem simpliciter necessarium. Ne que hoc temere dico, 
+      <lb ed="#C" n="3"/>sed cum ratione ac iudicio. Est necessarium quidem, vt credam esse 
+      di<lb ed="#C" n="4" break="no"/>vinum ac verum; sed qui dubitat, num sit a Marco scriptum, non 
+      sta<lb ed="#C" n="5" break="no"/>tim excidit a salute, nec pro haeretico habendus est. Reprehensione eum 
+      <lb ed="#C" n="6"/>sane dignum esse existimamus, qui dubitet, cum causa dubitandi nulla; 
+      <lb ed="#C" n="7"/>sit; sed a vita ac salute tamen non propterea excludimus. Scriptura enim 
+      <lb ed="#C" n="8"/>non accipit authoritatem ab hominibus, sed a Spiritu sancto; nec magis 
+      <lb ed="#C" n="9"/>est necessarium, vequis credat hoc esse Marci Evangelium, quamvt quis 
+      <lb ed="#C" n="10"/>credat Epistolam ad Hebraeos esse Pauli, &amp; Apocalypsin a loanne 
+      scri<lb ed="#C" n="11" break="no"/>ptam esse. Multorum librorum authores ignorantur, vt Iosue, Ruth, 
+      Pa<lb ed="#C" n="12" break="no"/>ralipom. Hesterae, &amp;c. Alij vero libri suos authores referunt: vt 
+      Penta<lb ed="#C" n="13" break="no"/>teuchum, quod a Mose scriptum esse nemo dubitat, quia eius nomen 
+      re<lb ed="#C" n="14" break="no"/>fert, adeo vt aliquando totum Pentateuchum Mosis nomine appelletur.  
+      <lb ed="#C" n="15"/>Sic Evangelium &amp; Epistolae loannis, &amp; Pauli, &amp; Petri: non tamen 
+      perinde<lb ed="#C" n="16" break="no"/>de his omnibus constat. Idem objiciunt Papistae de Symbolo, quasi 
+      ne<lb ed="#C" n="17" break="no"/>cessarium sit, vt Symbolum esse ab ipsis Apostolis conscriptum credamus 
+      <lb ed="#C" n="18"/>Sic enim Lindan. Lib. 3e. Panopliae suae, cap. 6. Sed si dubito num 
+      Sym<lb ed="#C" n="19" break="no"/>bolum ab Apostolis scriptum sit, an propterea haereticus sum? 
+      Nequa<lb ed="#C" n="20" break="no"/>quam certe, si doctrinam Symbolo traditam suscipio ac teneo, August. 
+      in<lb ed="#C" n="21" break="no"/>Lib. 1. de Symbolo, Cap. primo, affirmat sparsa esse per Scripturas, quae 
+      <lb ed="#C" n="22"/>in Symbolo continentur. Et dicit Symbolum esse ex Scripturis 
+      colle<lb ed="#C" n="23" break="no"/>ctum. Quod si verum sit, non est ab omnibus Apostolis scriptum. Nam 
+      <lb ed="#C" n="24"/>Iacobus ante scriptum aliquem librum mortuus est, multi vero ex 
+      Apo<lb ed="#C" n="25" break="no"/>stolis ante omnes libros editos ex hac vita dec esserunt. Tum nonnulla 
+      <lb ed="#C" n="26"/>Bellarminus subiungit, ad quae in tertia quaestione responsum est. 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e771">
+               <lb ed="#C" n="27"/>Septimo loco ait Iesuita, necessarium esse, vt non legamus tantum, sed &amp; 
+      <lb ed="#C" n="28"/>intelligamus Scripturas. At multa ambigua in Scripturis esse dicit, quae 
+      <lb ed="#C" n="29"/>intelligi non possunt, nisi ab iis, qui errare non possunt, explicentur. 
+      Aite<lb ed="#C" n="30" break="no"/>nim duo esse in Scripturis consideranda, voces nempe, &amp; sensum: voces 
+      <lb ed="#C" n="31"/>esse instarvaginae, sensum esse gladium illum Spiritus; ac vocesaquonis 
+      <lb ed="#C" n="32"/>posse intelligi, sensum vero non item. Atque huc referri posse putatquod s 
+      <lb ed="#C" n="33"/>ait Basilius, lib. de Spirit. sanct. cap. 27. Evangelium sine interpretatione 
+      <lb ed="#C" n="34"/>esse purum nomen. Eiusmodi multa commemorat, quae in Scripturis 
+      ob<lb ed="#C" n="35" break="no"/>scure ponuntur, vt aequalitatem personarum deitatis, processum Spiritus 
+      <lb ed="#C" n="36"/>sancti, peccatum originale, descensum Christi ad inferos. Haec dicit non 
+      <lb ed="#C" n="37"/>nisi admodum difficulter ex Scripturis deduci posse. Respondeo: primo, Quod  
+      <lb ed="#C" n="38"/>faretur Adversarius ista posse ex Scripturis deduci, etsi admodum difficulter,  
+      <!--410.xml-->
+      <pb ed="#L" n="401"/>
+               <lb ed="#C" n="1"/>concedit non esse ἀγαρα, nec in Traditionibus numeranda. Nam quod ex 
+      <lb ed="#C" n="2"/>Scripturis deducitur, aut colligitur, quantumvis sane difficulter, totum hoc  
+      <lb ed="#C" n="3"/>scriptum esse, antiqui Patres verissime docuerunt. Secundo, Dico Iesuitam hac 
+      <lb ed="#C" n="4"/>in re cum aliis Papistis non consentire. Nam hisce de rebus alij aliter 
+      scri<lb ed="#C" n="5" break="no"/>bunt, atque haec inter Traditiones non scriptas numerant. Stapletonus, Lib. 
+      <lb ed="#C" n="6"/>12. cap. 5. dicit ἐμισον non posse ex Scripturis probari, nec Spiritum sanctum 
+      <lb ed="#C" n="7"/>esse Deum. Nazianm enus, Lib. 5. de Theologia, quorundam haereticorum 
+      <lb ed="#C" n="8"/>mentionem facit, qui dixerunt Spiritum sanctum esse ζενον χ ἀχαρον δεὸν. His 
+      <lb ed="#C" n="9"/>nos similes esse dicunt, quia nihil accipimus, nisi quod in Scripturis reperitur: 
+      <lb ed="#C" n="10"/>cum ipsi potius istis haereticis similes sint, quia negant haec esse ἐγνργρα, quae 
+      <lb ed="#C" n="11"/>sunt, quia ex Scripturis recte expositis ac intellectis necessario colliguntur.  
+      <lb ed="#C" n="12"/>Coclaeus contra <name xml:id="wWpoi1-e36232-Nd1e829">Bullingerum</name> affirmat ζμυσιον esse Traditionem, &amp; se facilius 
+      <lb ed="#C" n="13"/>probare posse sacrificium Missae ex Scripturis, quam τὸ δμισιον, aut Ttinitatem. 
+      <lb ed="#C" n="14"/>At Patres olim disertis Scripturae testimoniis ista probarunt. Etsi enim non 
+      <lb ed="#C" n="15"/>poterant vocabula ipsa ex Scripturis proferre, tamen sensum &amp; sententiam 
+      <lb ed="#C" n="16"/>vocabulorum in Scripturis invenerunt. Tertullianus, in Lib. contra Praxeam, 
+      <lb ed="#C" n="17"/>multis Scripturae testimoniis probat, Deum esse substantia vnum, personis 
+      tri<lb ed="#C" n="18" break="no"/>num. Ita Epiphanius, in haeres. 60 probat ἐμυσιον esse in Scripturis, licet  
+      <lb ed="#C" n="19"/>non quoad vocem, tamen quoad sensum: ἐςι de (nquit) χ σαρώς εγκεσταν 
+      <lb ed="#C" n="20"/>ἐν γόμα, χι παρα θτοσολοις, χτις ωρορητις. Sic contra Sabellianos. Sic in 
+      An<lb ed="#C" n="21" break="no"/>chorato Ariani illud vocabulum eo nomine improbarunt, quod non esset 
+      <lb ed="#C" n="22"/>in Scripturis. At Ambrosius, in Lib. de fide contra Arianos, cap. 4. &amp; 5. 
+      <lb ed="#C" n="23"/>multis Scripturae testimoniis probat. Quintum vero caput sic orditur: 
+      <lb ed="#C" n="24"/>Cum hanc unitatem substantiae in Patre &amp; Filio non solum Prophetica, sed &amp; 
+      <lb ed="#C" n="25"/>Evangelica authoritate cognoscas, quomodo dicis in Scripturis diuvinis δισεον,  
+      <lb ed="#C" n="26"/>non inveniri? Tum ijs testimoniis, quibus in superiori capite vsus fuerat,  
+      <lb ed="#C" n="27"/>plura addit. Augustinus, Lib. 3. cap. 24. contra Maximinum Arianum, 
+      <lb ed="#C" n="28"/>non ex Patrum testimoniis, vel ex Conciliis, sed ex Scripturis ipsis de hoc  
+      <lb ed="#C" n="29"/>dogmate disputari vult. Catholici vrgebant Concilium Nicenum, n quo 
+      <lb ed="#C" n="30"/>illud vocabulum probatum sancitumque fuit: Ariani Ariminense, in quo 
+      <lb ed="#C" n="31"/>duplo plures erant Episcopi, quorum consensu hoc voc abulum 
+      repudi<lb ed="#C" n="32" break="no"/>atum est. At Augustinus eo in loco in hunc modum scribit: Nec ego 
+      Ni<lb ed="#C" n="33" break="no"/>cenum, nec tu debes Ariminense tanquam praeiudicaturus proferre 
+      Concili<lb ed="#C" n="34" break="no"/>um: Nec egohuius authoritate, nec tu illius detineris: Scripturarum 
+      authori<lb ed="#C" n="35" break="no"/>tatibus, non quorumque propriis, sed vtrisque communibus testibus, res cumre, 
+      <lb ed="#C" n="36"/>causa eum causa, ratio cum ratione concertet. Ubi Augustinus hoc dogma 
+      <lb ed="#C" n="37"/>non Patrum, sed Scripturarum testimoniis disceptari ac definiri vult, 
+      eo<lb ed="#C" n="38" break="no"/>que a Conciliis ad Scripturas provoc at. Sic in altercatione cum Pascentio 
+      <!--411.xml-->
+      <pb ed="#L" n="402"/>
+               <lb ed="#C" n="1"/>ait hoc verbum, etsi non invenitur scriptum, tamen a loanne &amp; 
+      Paulo<lb ed="#C" n="2" break="no"/>comprobari: quod Papistas apertissime refellit, qui Arianos magis 
+      tradi<lb ed="#C" n="3" break="no"/>tione, quam Scripturis refutatos fuisse scribunt. Nam Augustinus palam&amp; 
+      <lb ed="#C" n="4"/>confidenter provocat ad Scripturas, &amp; omnes Patres Scripturas adhibent.  
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e902">
+               <lb ed="#C" n="5"/>Processum Spiritus sancti a Patre &amp; Filio, Ecclesia sempertenuit 
+      veris<lb ed="#C" n="6" break="no"/>sime contra Graecos recentiores, qui affirmarunt Spirituma Patre tantum 
+      <lb ed="#C" n="7"/>procedere. Erroriste in Concilio Lugdunensi damnatus est, tempore 
+      In<lb ed="#C" n="8" break="no"/>nocentij quarti. Ad id Concilium vocatus est Thomas Aquinas, sed is 
+      <lb ed="#C" n="9"/>obiit in itinere: cui successit <name xml:id="wWpoi1-e36232-Nd1e915">Bonaventura</name>, qui ex Scripturis processum: 
+      <lb ed="#C" n="10"/>Spiritus tam a Filio, quam a Patre, doctissime probavit. Thomas etiam 
+      <lb ed="#C" n="11"/>Aquinas hoc multis locis probat, vt in Quaestionibus Disput. quaest. 10. 
+      <lb ed="#C" n="12"/>&amp; in prima Secundae, quaest. 36. artic. 2. Et ante Thomam, Augustinus 
+      <lb ed="#C" n="13"/>99. tractat. in loan. affirmat procedere a Filio, &amp; probat ex Scripturis, 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e927">
+               <lb ed="#C" n="14"/>Quod ad tertium exemplum attinet, de peccato originali, ex 
+      Scri<lb ed="#C" n="15" break="no"/>pturis satis diserte ostendi potest, etsi vocabulum ipsum revera 
+      nus<lb ed="#C" n="16" break="no"/>quam occurrat: vt Roman. cap. 5. vers. 12. Sicuti per hominem vnum 
+      pec<lb ed="#C" n="17" break="no"/>catum in mundum introijt, ac per peccatum mors, &amp;c. &amp; Psal. 51. vers. 7. 
+      <lb ed="#C" n="18"/>In iniquitate formatus sum, &amp; in peccato concepit me mater mea. Hac 
+      qui<lb ed="#C" n="19" break="no"/>dem in re Bellarminus favet Pelagianis, dum peccatum originale 
+      diffi<lb ed="#C" n="20" break="no"/>culter asserit ex Scripturis probari posse. At Augustinus, in libris contra 
+      <lb ed="#C" n="21"/>Pelagianos, abunde hanc rem ex Scripturis confirmat. Quod attinet ad 
+      <lb ed="#C" n="22"/>quartum exemplum, de descensu Christi ad inferos, fateor certerem 
+      dif<lb ed="#C" n="23" break="no"/>ficilem aggredi, quisquis ex Scripturis hoc dogma confirmare 
+      conabi<lb ed="#C" n="24" break="no"/>tur, eo modo quo Papistae tenent. Andradius, in 2. Lib. de Defens. 
+      Tri<lb ed="#C" n="25" break="no"/>dent Concil. dicit non posse omnino ex Scripturis colligi. Bellarminus 
+      <lb ed="#C" n="26"/>dicit posse, sed difficulter. Si vero vel difficulter tantum ex Scripturis 
+      de<lb ed="#C" n="27" break="no"/>duci potest, tum aliquid hac de re Evangelistae &amp; Apostoliscripserunt. 
+      <lb ed="#C" n="28"/>Sed Andradius ingenue fatetur, nusquam posse hanc rem ex Scripturis 
+      <lb ed="#C" n="29"/>confirmari, &amp; ex eo probat aliquid esse necessarium, quod non sit in 
+      Sen<lb ed="#C" n="30" break="no"/>pturis traditum. Certum tamen est, aliquos Papistas abusos esse nona 
+      <lb ed="#C" n="31"/>nullis Scripturae locis ad hoc confirmandum, vt Psal. 16. 10, &amp; Acta 
+      <lb ed="#C" n="32"/>quo capite Petrus recitat nonnulla ex illo Psalmo; &amp; 1. Pet. 3. A.Quo 
+      <lb ed="#C" n="33"/>etiam spiritibus, qui sunt in carcere, profectus praedicavit, &amp;c. 
+      Athudta<lb ed="#C" n="34" break="no"/>dius aperte negat, posse ex Scripturis colligi: &amp; quod attinet adlocum 
+      <lb ed="#C" n="35"/>Petri, cum longe aliter interpretatur. At in Symbolo (inquit) Andradius) 
+      <lb ed="#C" n="36"/>hoc positum est apertissime. Respondeo: At Ruffinus tamen in Symbolis 
+      <lb ed="#C" n="37"/>Romanis non esse positum affirmat suo tempore, &amp; in Symbolis etiam 
+      <lb ed="#C" n="38"/>Orientalium Ecclesiarum desiderati hunc articulum suo tempore assetit, 
+      <!--412.xml-->
+      <pb ed="#L" n="403"/>
+               <lb ed="#C" n="1"/>&amp; ait nihil aliud tradi his verbis, quam quod superioribus illis verbis, 
+      <lb ed="#C" n="2"/>quae proxime in Symbolo praecesserunt, significatum fuit, in quibus 
+      <lb ed="#C" n="3"/>credimus Christum sepultum fuisse: eandem plane esse huius &amp; illius 
+      <lb ed="#C" n="4"/>articuli vim. Atque hoc certe non est a ratione alienum: vt nihil interim 
+      <lb ed="#C" n="5"/>hac de re certi statuisse videar. Nicenum Symbolum non habet hunc 
+      arti<lb ed="#C" n="6" break="no"/>culum, Athanasianum vero habet, sed hoc pro nobis potius facit, quam 
+      <lb ed="#C" n="7"/>contra nos. Nam Athanasius meminit descensus ad inferos, non 
+      sepultu<lb ed="#C" n="8" break="no"/>tae: in Niceno vero Symbolo e contra sepulturae mentio fit, non autem 
+      <lb ed="#C" n="9"/>descensus ad inferos, quod indicat, vt videtur, eundem esse articulum. 
+      <lb ed="#C" n="10"/>Praeterea, infinitae pene opiniones sunt, de causis descensus. 
+      Catechis<lb ed="#C" n="11" break="no"/>mus Romanus duas causas tradit: Prima causa est, vt Christus Patres 
+      libe<lb ed="#C" n="12" break="no"/>raret. Secunda, Vt vim &amp; potestatem suam apud inferos declararet. 
+      Cle<lb ed="#C" n="13" break="no"/>mens Alexandr. L. 62. Strom. affirmat Christum &amp; Apostolos descendisse, 
+      <lb ed="#C" n="14"/>vt Evangelium praedicarent mentibus damnatis, &amp; spem salutis afferrent 
+      <lb ed="#C" n="15"/>Philosophis, &amp; alijs qui crederent. Aquinas in Summa part. 3. q. 52. art. 
+      <lb ed="#C" n="16"/>1. causas tres commemorat, quare Christus ad inferos descenderit: 
+      <lb ed="#C" n="17"/>Prima est, Quia sicut conveniens fuit eum mori, vt nos liberaret a 
+      mor<lb ed="#C" n="18" break="no"/>te; ita conveniens fuit eum descendere ad inferos, vt nos a descensu ad inferos 
+      <lb ed="#C" n="19"/>liberaret: quasi vero qui nos a morte aeterna liberavit, minime perfecerit, 
+      <lb ed="#C" n="20"/>ut in nullo huius Descensus periculo relinqueremur. Secunda, Quia 
+      con<lb ed="#C" n="21" break="no"/>veniens erat, vi victo Diabolo, vinctos eius criperet, qui detinebantur in 
+      in<lb ed="#C" n="22" break="no"/>ferno. Tertia, Ot sicut potestatem suam ostenderat in terra vivendo &amp; 
+      mori<lb ed="#C" n="23" break="no"/>endo, ita etiam potestatem suam ostenderet in inferno, ipsum visitando &amp; 
+      illu<lb ed="#C" n="24" break="no"/>minando. In expositione Symboli addit quartam rationem, vt perfecte de 
+      <lb ed="#C" n="25"/>Diabolo triumpharet. Has egregias causas Augustinus ignoravit, quando 
+      <lb ed="#C" n="26"/>in Epist. 99. scribit, se nondum invenisse, quid descensus Christi ad 
+      infe<lb ed="#C" n="27" break="no"/>ros antiquis iustis contulerit. Sic enim habet, Illis iustis, qui in sinu erant 
+      <lb ed="#C" n="28"/>eAbrahae, cum Christus in inferna descenderet, nondum quid contulisset 
+      in<lb ed="#C" n="29" break="no"/>veni, a quibus eum secundum beatificam praesentiam suae diuvinitatis 
+      nun<lb ed="#C" n="30" break="no"/>quam video recessisse. Praeterea, de tempore morae, quam fecit Christus 
+      a<lb ed="#C" n="31" break="no"/>pud inferos, nihil certi statuitur. Romanus Catechismus affirmat, eum 
+      <lb ed="#C" n="32"/>tamdiu apud inferos fuisse, quamdiucorpus eius mansit in sepulchro: 
+      Sic<lb ed="#C" n="33" break="no"/>Thomas in Summa, p. 3. q. 52. art. 4. Simul anima eius educta est de 
+      infer<lb ed="#C" n="34" break="no"/>no, &amp; corpus de sepulchro. Quod si verumsit, quomodo praestitit 
+      promis<lb ed="#C" n="35" break="no"/>Jsumlatroni, cui dixit, Hodie mecum eris in Paradiso? nisi forte Paradisum. 
+      <lb ed="#C" n="36"/>aliquem statuant apud inferos. In terris quidem Papisiae Paradisum 
+      con<lb ed="#C" n="37" break="no"/>stituunt. At vero, vepatet 2. Cor. 12. 2. 3. 4. Paradisus ille, quem nos 
+      be<lb ed="#C" n="38" break="no"/>atarum mentium sedem iudicamus, neque in infernis, neque in terris, sed  
+      <lb ed="#C" n="39"/>in summis coelis est. Praeterea, cum latro petiit a Christo, Vt ipsius memore 
+      <!--413.xml-->
+      <pb ed="#L" n="404"/>
+               <lb ed="#C" n="1"/>esset in regno suo, procul dubio hoc infernum regnum minime cogitavit.  
+      <lb ed="#C" n="2"/>Non ergo necesse est, vt hoc modo Christum ad inferos descendisse 
+      cre<lb ed="#C" n="3" break="no"/>damus, neque potest quidem descensus Christi ad inferos vel facile, vel  
+      <lb ed="#C" n="4"/>difficulter, hac sententia ex Scripturis confirmari. 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e1086">
+               <lb ed="#C" n="5"/>Octavo loco sic objicit lesuita: Credendum est omnia Sacramenta, 
+      <lb ed="#C" n="6"/>quod attinet ad essentiam, a Christo instituta esse: At nihil tale in 
+      Scriptu<lb ed="#C" n="7" break="no"/>ris reperitur, praeterquam de duobus, aut tribus ad summum. Hoc 
+      argu<lb ed="#C" n="8" break="no"/>mentum praetermissum est m editione Sartoriana. Respondeo: Nos duo 
+      <lb ed="#C" n="9"/>tantum Sacramenta agnoscimus, quae a Christo, tum quoad materiam, ] 
+      <lb ed="#C" n="10"/>tum quoad formam, instituta esse dicimus Horum enim tota atque 
+      inte<lb ed="#C" n="11" break="no"/>gra essentia in Scripturis proponitur. Quod ad reliqua illa 
+      Sacramenta<lb ed="#C" n="12" break="no"/>Papistica attinet, mitum non est illorum essentiam non esse in 
+      Scriptu<lb ed="#C" n="13" break="no"/>ris declaratam, quia quaedam eorum non habent materiam, quaedam 
+      <lb ed="#C" n="14"/>formam non habent, quaedam neutrum habent.  
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e1111">
+               <lb ed="#C" n="15"/>Nono loco sic objicit: Necessario credendum est Mariam perpetuo. 
+      <lb ed="#C" n="16"/>virginem fuisse: At hoc ex Scripturis non constat: Ergo quaedam 
+      necessa<lb ed="#C" n="17" break="no"/>ria aliunde, quamex Scripturis cognoscuntur. Cocleus addit etiam, quod  
+      <lb ed="#C" n="18"/>θετοκος dicitur, id est Deipara, non haberi in Scripturis; in quo tamen 
+      e<lb ed="#C" n="19" break="no"/>gregie calumniatur. Nam Patres virginem esse θεόοτοκον, ex Scripturis 
+      <lb ed="#C" n="20"/>contra Nestorianos probarunt, nempe ex Matth. 1. 23. &amp; ex Luc. 1. 35. 
+      <lb ed="#C" n="21"/>multisque alijs. Respondeo: Quod ad perpetuam Mariae virginitatem 
+      at<lb ed="#C" n="22" break="no"/>tinet, meum non est, hoc disputare; tantum affirmo Patres, qui cum 
+      Hel<lb ed="#C" n="23" break="no"/>vidio rem habebant, non modo Traditiones, nescio quas, attulisse, quas 
+      <lb ed="#C" n="24"/>nemo tanti faceret, sed vsos etiam esse Scripturae testimoniis. Sic 
+      Proclus<lb ed="#C" n="25" break="no"/>Cyzicenus locum profert ex Ezcchiele de porta clausa. Sic 
+      Ambros<lb ed="#C" n="26" break="no"/>Sermon. 4. &amp; 57. Sic idem etiam Ambros. Epist. 82. &amp; Epist. 79. ea 
+      <lb ed="#C" n="27"/>loanne, ubi Christus loanni matrem suam commendavit; quod non 
+      <lb ed="#C" n="28"/>fecisset, si familiam, liberosque habuisset. Sed hoc argumentum 
+      Epi<lb ed="#C" n="29" break="no"/>phanius persequitur copiosius contra Antidicomarianitas. Hieronymus 
+      <lb ed="#C" n="30"/>contra Helvidium multis Scripturis pugnat. Similiter etiam &amp; alij Paves 
+      <lb ed="#C" n="31"/>Ergo non haec est sententia plane ἀαγραρος, si Patres illi recte statuemnt 
+      <lb ed="#C" n="32"/>Scriptura quidem diserte affirmat illam fuisse virginem: nusquamvero ait. 
+      <lb ed="#C" n="33"/>non fuisse virginem, aut alios liberos peperisse. Quod vero Iesuitaait hoc. 
+      <lb ed="#C" n="34"/>credendum esse, beatam Mariam fuisse ἀειπαρθενον, dico Basilium aliter 
+      <lb ed="#C" n="35"/>sensisse. Nam ille in Homil. de Nativitate Christi, ait non esse curiose 
+      <lb ed="#C" n="36"/>nobis hac de re litigandum, sed satis esse, si cognoscamus eam nullos 
+      an<lb ed="#C" n="37" break="no"/>te Christum liberos habuisse. 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e1163">
+               <lb ed="#C" n="38"/>Decimo loco Bellarminus huiusmodi objectione utitur: Credendum 
+      <!--414.xml-->
+      <pb ed="#L" n="405"/>
+               <lb ed="#C" n="1"/>est in novo Testamento, inquit) Pascha esse die Dominico celebrandum, 
+      <lb ed="#C" n="2"/>quia haeretici habiti sunt ab antiqua Ecclesia Quartadecimani. At hoc  
+      <lb ed="#C" n="3"/>ex Scripturis nequaquam constat. Respondeo: Magnam quidem hac de 
+      re<lb ed="#C" n="4" break="no"/>olim fuisse contentionem, sed sine causa; vtmirum sit de re tantilla, &amp; 
+      pe<lb ed="#C" n="5" break="no"/>ne nullius momenti, tantas &amp; tam graves fuisse dissensiones. Victor 
+      Papa<lb ed="#C" n="6" break="no"/>minabatur se omnes Orientales Ecclesias excommunicaturum, quod alios 
+      <lb ed="#C" n="7"/>die Pascha ccelebrarent, quamdie Dominica. Sed Victorem Irenaeus hoc  
+      <lb ed="#C" n="8"/>nomine multique alij sanctissimi Eniscopi reprehenderant, vt ex Eusebios 
+      <lb ed="#C" n="9"/>constat, Lib. 5. cap. 25. Onentales Ecclesiae dixerunt se sequi loannem &amp; 
+      <lb ed="#C" n="10"/>Philippum, Occidentales vero Paulum &amp; Petrum. Soxomenus, L. 7. 
+      hi<lb ed="#C" n="11" break="no"/>storiae suae, c. 19. ita definitam fuisse controversiam testatur a Policarpo. 
+      <lb ed="#C" n="12"/>&amp; Victore, vt quisque suam consuetudinemsuumque arbitrium 
+      sequere<lb ed="#C" n="13" break="no"/>tur. Nam esse ἐυνθες ἔθονενεκεν αξηλον χυειζες. Ex cuius verbis intelligimus 
+      <lb ed="#C" n="14"/>liberam fuisse hanc consuetudinem, non necessariam, vt Bellarminus 
+      af<lb ed="#C" n="15" break="no"/>firmat. Forsan illi Apostoli in initio, vt multorum infirmitati 
+      consule<lb ed="#C" n="16" break="no"/>rent, dies quosdam observarunt, quod postea ex hominum errore abiit in 
+      <lb ed="#C" n="17"/>legem. Si Ioannes cum Iudaeis Pascha caelebrarit, vt Paulus 
+      circumcisio<lb ed="#C" n="18" break="no"/>nem aliquando servavit, num inde sequitur, aut cum ludaeis celebrandum 
+      <lb ed="#C" n="19"/>esse Pascha, aut esse perpetuam aliquam Paschatis observationem? 
+      Re<lb ed="#C" n="20" break="no"/>spondeo ergo primo, causam fuisse nullam, cur hac de re tam graviter 
+      con<lb ed="#C" n="21" break="no"/>tenderent tamque acriter litigarent doctissimi Patres. Nulla quidem 
+      ne<lb ed="#C" n="22" break="no"/>cessitas est, sive die Dominico, sive alio, sive nullo celebretur. Sic enim Socrat.  
+      <lb ed="#C" n="23"/>L. 5. c. 22. ait Apostolos de diebus festis nihil statuisse. ακποσ μι ουσ γιγονε 
+      <lb ed="#C" n="24"/>τοις γοσολοις α ωρι ημαρον εροτασικῶν νομοθεισιν: in quo multus est, eosque Patres 
+      <lb ed="#C" n="25"/>scribit de hac re frustra contendisse. Nam Pascha fuisse Typum &amp; 
+      Caere<lb ed="#C" n="26" break="no"/>moniam, typica vero evanuisse. Secundo, Affirmo antiquissimam hanc 
+      qui<lb ed="#C" n="27" break="no"/>dem consuetudinem fuisse, sed tamenliberam. Sic enim conclusum est 
+      in<lb ed="#C" n="28" break="no"/>ter Victorem &amp; Episcopos Orientales. Tertio, Dico Quartadecimanos, hoc  
+      <lb ed="#C" n="29"/>est eos, qui Iudaeos imitati decimo quarto die primi mensis Pascha cclebrare 
+      <lb ed="#C" n="30"/>consueverunt, ex Scripturis fuisse oppugnatos, quiascilicet Christus die 
+      Domi<lb ed="#C" n="31" break="no"/>nica resurmexit, &amp; diversum esse debet Christianorum &amp; Iudaeorum Pascha¬ 
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e1239">
+               <lb ed="#C" n="32"/>Ondecimo locoobjicit Bellarminus, parvulorum baptismum a Lutheranis 
+      <lb ed="#C" n="33"/>&amp; Calvinistis non posse probari ex Scripturis; at a Catholicis posse. Sed quare 
+      <lb ed="#C" n="34"/>nona Lutheranis &amp; Caivinistis: quia Lutherani dicunt fide opus esse, 
+      Baptis<lb ed="#C" n="35" break="no"/>mum sinefide actuali propria nihil valere, qua praeditos esse infantes 
+      Scripu<lb ed="#C" n="36" break="no"/>rae non docent. Respondeo: primo, Quod ait Catholicos posse ex Scripturis 
+      <lb ed="#C" n="37"/>parvulorum Baptiimum probare, in eo secum ipse pugnat. Prius enim 
+      di<lb ed="#C" n="38" break="no"/>xit, parvulorum Bapusmum Traditionem non scriptam esse, Bellaminus in 
+      <!--415.xml-->
+      <pb ed="#L" n="406"/>
+               <lb ed="#C" n="1"/>Editione publica aliter hic loquitur, quam in dictatis manuscriptis. Nam 
+      <lb ed="#C" n="2"/>in libro typis Sartorianis excuso sic habet: Id autem ex solis Scripturis, 
+      <lb ed="#C" n="3"/>nec Catholici probant, nec Lutherani probare possunt: at in exemplam 
+      <lb ed="#C" n="4"/>manuscriptosic: Id autem etsi possint Catholici ex Scripturis probare, 
+      ta<lb ed="#C" n="5" break="no"/>men Lutherani non possunt. Ita Baptismum parvulorum posse ex 
+      Scriptu<lb ed="#C" n="6" break="no"/>ris probari concedit, etsi non solis. Secundo, Lutherani de fide infantum 
+      <lb ed="#C" n="7"/>viderint. Nec tamen dicunt (opinor) non valere Baptismum, sinon 
+      cre<lb ed="#C" n="8" break="no"/>dant infantes actualiter, sed fieri posse vt credantintantes, quanquamid 
+      <lb ed="#C" n="9"/>nobis non appareat. Sed ipsi hac de re pro se Lutherani respondeant.  
+      <lb ed="#C" n="10"/>Nobis sufficit, quod ipse Bellarminus ex Scripturis posse parvulorum 
+      Ba<lb ed="#C" n="11" break="no"/>ptismum probariconcedit.  
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e1285">
+               <lb ed="#C" n="12"/>Duodecimo locoobjicit Bellarminus aliquid de Purgatorio. Lutherus 
+      <lb ed="#C" n="13"/>(inquit) credidit Purgatorium esse, vt constat ex eius assertionibus, 
+      arti<lb ed="#C" n="14" break="no"/>cul. 17. At ipse affirmat, ex Scripturis probari non posse: ergo aliquid 
+      te<lb ed="#C" n="15" break="no"/>nendum est, quod non habetur in Scripturis. Respondeo: Fateor 
+      huius<lb ed="#C" n="16" break="no"/>modi esse verba Lutheri, se nempe credidisse Purgatorium esse. Sed quo- 
+      <lb ed="#C" n="17"/>modo credidit? Credo (inquit) non vtrem certam, sed ut 
+      temprobabi<lb ed="#C" n="18" break="no"/>lem. Praeterea, ait eodem loco, se ita credere Purgatorium esse, ac 
+      Tho<lb ed="#C" n="19" break="no"/>mam Aquinatem esse sanctum, quod eum non valde credidisse existimo. 
+      <lb ed="#C" n="20"/>Dein, librum illum in initio scripsit, quando caepit primo contra Papistas 
+      <lb ed="#C" n="21"/>aliquid scribere: postea vero sententiam mutavit, atque aliter de 
+      Purga<lb ed="#C" n="22" break="no"/>torio statuit.  
+      </p>
+            <p xml:id="wWpoi1-e36232-d1e1311">
+               <lb ed="#C" n="23"/>Decimo tertio atque postremo loco objicit Bellarminus, &amp; in eo 
+      vide<lb ed="#C" n="24" break="no"/>tur sibi acutus esse, dum nos nostris quasi laqueis constringit: Nos 
+      dici<lb ed="#C" n="25" break="no"/>mus nihil necessario credendum esse, quod non in Scripturis habeatur.  
+      <lb ed="#C" n="26"/>Ille hoc in nos retorquet, &amp; quaerit ubi hoc ipsum scriptum sit. Respondeo 
+      <lb ed="#C" n="27"/>primo, non dicimus nullum esse Dei verbumnon scriptum, sed satemur  
+      <lb ed="#C" n="28"/>Christum &amp; Apostolos multa loquutos esse, quae non in Scripturis 
+      ha<lb ed="#C" n="29" break="no"/>Ibentur. Nostra vero sententia haec est, non singula generum, sed tamen 
+      <lb ed="#C" n="30"/>genera singulorum scripta esse, omnia scilicet capita coctrinae. 
+      Quaecun<lb ed="#C" n="31" break="no"/>que sine jactura fidei &amp; salutis ignorari nequeunt, ea dicimus pleneac 
+      <lb ed="#C" n="32"/>cumulate in Scripturis inveniri atque explicari. Secundo, Hoc 
+      enamver<lb ed="#C" n="33" break="no"/>bum scriptum est, nempe omnia necessaria dogmata posse ex Scripturis 
+      <lb ed="#C" n="34"/>hauriri, quemadmodum nos postea docebimus. Tertio, Quodatillud 
+      <lb ed="#C" n="35"/>verbum de quo Moses meminit, Deut. 4. 2. (ybi ait, Non addetis ad 
+      ver<lb ed="#C" n="36" break="no"/>bam hoc quod vobis loquor, nec auferetis ex eo) non esse scriptum, aperte 
+      <lb ed="#C" n="37"/>refelli potest, ex vers. 8. &amp; 9. vbi Moses ait hoc verbum esse totam legem, 
+      <lb ed="#C" n="38"/>3e &amp; iubet parentes docere filios: at omnes parentes non potuerunt legem 
+      <!--416.xml-->
+      <pb ed="#L" n="407"/>
+               <lb ed="#C" n="1"/>non scriptam cognoscere, quam illi mysticam fuisse, &amp; a plebe 
+      occulta<lb ed="#C" n="2" break="no"/>tam opinantur. Praeterea, hanc legem dividit in Caeremo nialem, 
+      ludicia<lb ed="#C" n="3" break="no"/>lem, ac Moralem: ergo loquitur de scripta lege, vtpost luculentius 
+      osten<lb ed="#C" n="4" break="no"/>demus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

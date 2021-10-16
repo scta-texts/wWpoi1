@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="372"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e34321"><!-- con1q6c2 -->
+            <head xml:id="wWpoi1-e34321-Hd1e106">Caput 2</head>
+            <p xml:id="wWpoi1-e34321-d1e109">
+               <lb ed="#C" n="7"/>CAPUTTII 
+      <lb ed="#C" n="8"/>Quid Papistae Haditionis hoiue sigupgi 
+      <lb ed="#C" n="9"/>TRaditionis nomen generale est, &amp; doctrinam quovis modo tra¬ 
+      </p>
+            <p xml:id="wWpoi1-e34321-d1e118">
+               <lb ed="#C" n="10"/>ditam, sive verbis &amp; viva voce, sive literis &amp; scriptis, significat.  
+      <lb ed="#C" n="11"/>Act. 6. 14. vulgata versio habet Traditiones, Graeca vero editio ταοοη. 
+      In<lb ed="#C" n="12" break="no"/>telliguntur autem eo vocabulo legis ceremoniae, quas tamen omnes 
+      li<lb ed="#C" n="13" break="no"/>bris Moses complexus est. Sequitur enim, α παριζακον ημον Μωυσις, id est, 
+      <lb ed="#C" n="14"/>literis mandavit. Patres etiam hoc nomine doctrinam scriptam 
+      non<lb ed="#C" n="15" break="no"/>nunquam intelligunt. Sic Cyprian. Epist. 74. ad Pompeium his verbis: 
+      <lb ed="#C" n="16"/>Si aut in Evangelio praecipitur, aut in Apostolorum Epistolis aut eActibus 
+      <lb ed="#C" n="17"/>continetur, vt a quacunque haeresi venientes non baptizentur, sed tantum 
+      <lb ed="#C" n="18"/>manus illis imponantur in poenitentiam, observetur etiam &amp; haec sancta 
+      Tra<lb ed="#C" n="19" break="no"/>ditio. Unde Lindani inscitia notanda est, qui Lib. 2. Panopliae suae, Cap. 
+      <lb ed="#C" n="20"/>5. vult in eadem Epistola, atque adeo in eodem loco, Traditionem non 
+      <lb ed="#C" n="21"/>scriptam a Cypriano significari, &amp; magnifice commendari, cum 
+      Cypria<lb ed="#C" n="22" break="no"/>nus de Scripturis Apostolicis &amp; Evangelicis loquatur. Sic iterum: Unde 
+      <lb ed="#C" n="23"/>est ista Traditio? vtrumne de Dominica &amp; Evangelica authoritate 
+      descen<lb ed="#C" n="24" break="no"/>dens, an de Apostolorum mandatis atque Epistolis veniens? Ea enim 
+      facien<lb ed="#C" n="25" break="no"/>da esse, quae scripta sunt, Deus testatur. Sed non opus est, vt in hac re 
+      diu<lb ed="#C" n="26" break="no"/>tius immoremur, quandoquidem Papistae etiam ipsi concedunt hoc 
+      no<lb ed="#C" n="27" break="no"/>men aliquando ita vsurpari. Basil. 3 L. contra Eunomium, quando 
+      lo<lb ed="#C" n="28" break="no"/>quitur de Baptismo, sic scribit: Hoc palam adversatur Traditioni sacri 
+      Bap<lb ed="#C" n="29" break="no"/>tismatis, τῶοτο σαρῶς μαχεται τῆ ωζαδυσει το σθτηριν ζατηισματος: quod 
+      qui<lb ed="#C" n="30" break="no"/>dem de ipsa Scriptura intelligitur, vepatet postea in eodem loco. Addit 
+      <lb ed="#C" n="31"/>enim baptizandos esse infantes, in nomine Patris, &amp; Filij, &amp; Spiritus 
+      <lb ed="#C" n="32"/>sancti: χιι τυα το κυεισ δξαδυσιν: at hanc doctrinam Christus, hanc 
+      e<lb ed="#C" n="33" break="no"/>tiam Apostoli in scriptis reliquerunt. Hoc diligenter memoria 
+      tenen<lb ed="#C" n="34" break="no"/>dum est. Nam Papistae nonnunquam Traditionis nomen pro 
+      doctri<lb ed="#C" n="35" break="no"/>na non scripta objiciunt, cum re vera doctrinam non nili scriptam 
+      <lb ed="#C" n="36"/>significat.  
+      <!--382.xml-->
+      <pb ed="#L" n="373"/>
+               <lb ed="#C" n="1"/>Sumitur tamen etiam Traditio in Scripturis &amp; Patribus saepe pronon 
+      scri<lb ed="#C" n="2" break="no"/>pta doctrina, vt Matth. 15. 2. δια τ ωζαζαινοσι τυν παργδυσιν τιν ωρεσξουτόρων;, 
+      <lb ed="#C" n="3"/>Illa enim Seniorum Traditio, cuius ibi mentio fit, nusquam in Scripturis 
+      oc<lb ed="#C" n="4" break="no"/>currit. Sic etiam hoc nomen sumitur, vers. 3. &amp; vers. 6, ejusd. cap. Opponit 
+      e<lb ed="#C" n="5" break="no"/>nim ibi Christus τ ἐντολῆν τς δραιεσει. Sic 1. Cor. 11. 23. δ χπαρδυαυμιν:,  
+      <lb ed="#C" n="6"/>tradiderat illis, nondum scripserat. At nunc ea omnia scripta sunt. Hoc modo 
+      <lb ed="#C" n="7"/>Patres hoc nomine saepe vtuntur. Bellarminus ex Cypriano exemplum affert, 
+      <lb ed="#C" n="8"/>ex 63. Epist. contra Aquarios, vbi haec verba reperiuntur: Admonitos autem 
+      <lb ed="#C" n="9"/>nos scias, vt in calice offerendo Dominica traditio servetur. At Chemnicius 
+      <lb ed="#C" n="10"/>probat ex e adem Epistola, traditionem aliquando sumi pro doctrina scriptis, 
+      <lb ed="#C" n="11"/>non voce, tradita. Contendit enim Cyprianum iisdem verbis affimare in 
+      Scri<lb ed="#C" n="12" break="no"/>pturis tradi aquam cum vino miscendam esse. Deceptum fuisse ait 
+      Bellarmi<lb ed="#C" n="13" break="no"/>nus: at magis deceptus ille, vt ex ipso loco patet. Mistio enim aquae cum 
+      vi<lb ed="#C" n="14" break="no"/>no in coena etsi prooetur a Cypriano &amp; alijs Patribus, non tamen ex 
+      traditio<lb ed="#C" n="15" break="no"/>ne non scripta, sed ex Scriptuns ipsis, &amp; rationibus confirmatur. Huc enim 
+      re<lb ed="#C" n="16" break="no"/>ferebant illud, quod ex latere Christi, cum in cruce pendens, hasta 
+      transfi<lb ed="#C" n="17" break="no"/>xus esset, aqua &amp; sanguis efflueret; &amp; quod hic mos esset hominum in illis 
+      ca<lb ed="#C" n="18" break="no"/>lidis regionibus, vt vinum semper modica aqua temperatum dilutum 
+      bibe<lb ed="#C" n="19" break="no"/>rent. Sed nos concedimus sic voc abulum accipi a Patribus interdum, vt 
+      do<lb ed="#C" n="20" break="no"/>ctrinam non scriptam significet. Sic Tertullianus, in libro De corona militis, 
+      <lb ed="#C" n="21"/>Scripturam nullam invenies, Traditio tibi praetenditur auctrix. Sic Basilius, 
+      <lb ed="#C" n="22"/>etiam, de Spirit. sanct. cap. 27. Et hoc quidem sensu Papistae hoc nomen in 
+      <lb ed="#C" n="23"/>ista Controversia sumunt. Distribuunt enim Dei verbum in ἐγραρον &amp; ἀλρα¬ 
+      <lb ed="#C" n="24"/>ρον; qua quidem distinctione vsus est Dionysius Arcopagita. Priori membro 
+      <lb ed="#C" n="25"/>Scripturam, posteriore Traditiones complectuntur. Traditiones ergo 
+      vo<lb ed="#C" n="26" break="no"/>cant huiusmodi dogmata &amp; doctrinas, quae nusquam in Scripturis 
+      reperiun<lb ed="#C" n="27" break="no"/>tur. Non scriptas vero voc ant, non quod nusquam scriptae sint omnino, sed  
+      <lb ed="#C" n="28"/>quod non sint scriptae in sacris libiis a suis primis authoribus, vt Bellarminus 
+      <lb ed="#C" n="29"/>statuit: Et parvulorum quidem baptismum pro exemplo proponit. Sed nos 
+      po<lb ed="#C" n="30" break="no"/>ste a ostendemus suo loco hanc Traditionem sacris literis proditam esse, Haec 
+      <lb ed="#C" n="31"/>ergo aperta est &amp; ingenua Papist arum confessio, Non posse se suas 
+      Traditio<lb ed="#C" n="32" break="no"/>nes in Scripturis invenire, aut Scripturarum authoritate comprobare. Atque 
+      <lb ed="#C" n="33"/>Traditionis quidem nomine quid Papistae intelligant, diximus: Iam sequitur,  
+      <lb ed="#C" n="34"/>vt quomodo Traditiones partiantur, dicamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

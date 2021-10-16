@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="103"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de9729"><!-- con1q2c9 -->
+            <head xml:id="wWpoi1-de9729-Hd1e106">Caput 9</head>
+      
+            <p xml:id="wWpoi1-de9729-d1e109">
+               <lb ed="#C" n="24"/>CAPUTT TTI 
+      <lb ed="#C" n="25"/>Tu qu ognensm Cpicatm ubu CAUU I 
+      <lb ed="#C" n="26"/>non esse Scripturam Authenticam probatur,
+    </p>
+            <p xml:id="wWpoi1-de9729-d1e118">
+               <lb ed="#C" n="27"/>SVperest vtnos hanc Latinam vulgatam versionem non esse 
+      pro<lb ed="#C" n="28" break="no"/>Dauthentica Scriptura habendam, veris solidisque rationibus 
+      osten<lb ed="#C" n="29" break="no"/>damus. In quo multus esse possem &amp; verbis &amp; argumentis: sed conabor  
+      <lb ed="#C" n="30"/>ea praecidere quae minus necessaria sunt, &amp; in rebus solummodo ad 
+      ar<lb ed="#C" n="31" break="no"/>gumentum causamque accommodatis versari. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e131">
+               <lb ed="#C" n="32"/>Primum argumentum: Hieronymus, qui hanc editionem aut fecit, auti 
+      <lb ed="#C" n="33"/>correxit, ytisti statuunt, eam ipse non putavit esse authenticam, cum 
+      ta<lb ed="#C" n="34" break="no"/>men eamulto tunc purior extiterit, quam nunc est. Imo liberum reliquit  
+      <lb ed="#C" n="35"/>lectoribus, hoc aut illo modo multa interpretari: quia, num ab ipso recte 
+      <lb ed="#C" n="36"/>intellecta &amp; versa essent, dubitabat. Interdum etiam ingenue fatetur, sed 
+      <!--113.xml-->
+      <pb ed="#L" n="104"/>
+               <lb ed="#C" n="1"/>aliter ttanstulisse, quam veritas Hebraica postulabat. Vt lonae 4. 
+      Hede<lb ed="#C" n="2" break="no"/>ram transtulit, iuxta Aquilam, non cucurbitam, vt septuaginta, cum ipse 
+      <lb ed="#C" n="3"/>in Commentariis in lonam nec Hederam, nec Cucurbitam eo 
+      vocabu<lb ed="#C" n="4" break="no"/>lo significari posse doceat. Nam (inquit) Cucurbita &amp; Hedera huius 
+      na<lb ed="#C" n="5" break="no"/>turae sunt, vi per terram reptent, &amp; absque furcis vel adminiculis, quibus 
+      inni<lb ed="#C" n="6" break="no"/>tuntur, altiora non appetant. Sed illud virgultum, quod Ionae Dominus 
+      <lb ed="#C" n="7"/>praeparavit, suo se trunco sustinere, &amp; in Palestina creberrime nasci 
+      testa<lb ed="#C" n="8" break="no"/>tur. Si ergo Hieronymus editionem illam non ausus est vbique 
+      defende<lb ed="#C" n="9" break="no"/>re, &amp; aliquando eam ab Hebraica veritate longius aberrate profitetur;  
+      <lb ed="#C" n="10"/>non esse pro authentica suscipiendam sequitur. Immo hoc Hieronymo, 
+      <lb ed="#C" n="11"/>nunquam ne per somnium quidem in mentem venit, fore vt Ecclesia 
+      ip<lb ed="#C" n="12" break="no"/>sius transsationem pro authentica Scriptura vnquam susciperet. Cum 
+      <lb ed="#C" n="13"/>ergo hanc editionem Adversarij Hieronymo tribuant, eamque illius 
+      vi<lb ed="#C" n="14" break="no"/>ri authoritate commendatam esse judicent, aequum est vt hac in re 
+      ex<lb ed="#C" n="15" break="no"/>ipsius Hieronymi testimonio iudicioque pendeant, eamque non esse 
+      au<lb ed="#C" n="16" break="no"/>thenticam, ex ipso Hieronymo intelligant.  
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e183">
+               <lb ed="#C" n="17"/>Secundum argumentum: Si Latina haec editio authentica esset, tum 
+      <lb ed="#C" n="18"/>eam Latina Ecclesia mox tanquam authenticam recepisset. Id esse 
+      con<lb ed="#C" n="19" break="no"/>sequens hoc modo intelligetur. Vetus Testamentum Hieronymus 
+      tran<lb ed="#C" n="20" break="no"/>stulit, vt inquiunt; nouum correxit, rogatus a Damaso. Quare si hanc 
+      La<lb ed="#C" n="21" break="no"/>tinam editionem eo animo elaborasset, Ecclesiaeque tradidisset, vt 
+      pas<lb ed="#C" n="22" break="no"/>sim pro authentica Scriptura in Latinis Ecclesiis haberetur, tum statimi 
+      <lb ed="#C" n="23"/>Ecclesiae judicio, iussuque Damasi Pontificis recepta &amp; approbata fuisset.  
+      <lb ed="#C" n="24"/>At non fuit: nam tempore Gregorij Papae, qui ducentis &amp; amplius 
+      <lb ed="#C" n="25"/>post Hieronymum annis in Ecclesia Latina vixit, illa editio non potuit 
+      <lb ed="#C" n="26"/>sola, ne in Romana quidem Ecclesia, obtinere, aut pro authentica 
+      ha<lb ed="#C" n="27" break="no"/>beri, vt ex Gregorij praefatione in lobum, ca. 5. constat. Si ergo nec 
+      edi<lb ed="#C" n="28" break="no"/>ta fuit, vt esset authentica, nec tum authentic a fuit, cum integrior 
+      since<lb ed="#C" n="29" break="no"/>riorque esset, quam nunc est, quis a nobis nisi iniquissime requiret, 
+      vte<lb ed="#C" n="30" break="no"/>am nos tanquam authenticam colamus &amp; sequamur.  
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e217">
+               <lb ed="#C" n="31"/>Tertium argumentum: Hieronymus ipse, quem isti huius editionis vel 
+      <lb ed="#C" n="32"/>authorem, vel censorem faciunt, multa in ea reprehendit. Ergo eam esse 
+      <lb ed="#C" n="33"/>authenticam nullo modo judicavit. Antecedens quidem ante multis 
+      <lb ed="#C" n="34"/>testimoniis comprobatum est: &amp; consequens nulla probatione indiget.  
+      <lb ed="#C" n="35"/>Nam si Hiero nymus in hac editione multos errores invenit ac notavit, 
+      <lb ed="#C" n="36"/>certum est eam non esse Hieronymo visam vel authenticam, vel veram. 
+      <lb ed="#C" n="37"/>At Hieronymus in Tradit. in Genes. atque in aliis libris oste ndit multa: 
+      <lb ed="#C" n="38"/>huius editionis vitia, quae hodie etiam in illa reperiuntur. Quod vero 
+      <!--114.xml-->
+      <pb ed="#L" n="105"/>
+               <lb ed="#C" n="1"/>Adversarij respondent, Hieronymum in Commentariis iudic asse 
+      quae<lb ed="#C" n="2" break="no"/>dam esse perperam transsata, quae post, cum illam editionem Latinam? 
+      <lb ed="#C" n="3"/>vulgaret, recte omnino versa esse viderit, ideoque non mutaverit; hoc  
+      <lb ed="#C" n="4"/>facile refellemus, si commentarios illos in Prophetas, in quibus hanc 
+      <lb ed="#C" n="5"/>vulgatam versionem saepe reprehendit, illa editione posteriores fuisse 
+      <lb ed="#C" n="6"/>recordabimur: quod ex ipso Hieronymo in fine Catalogi sui 
+      mani<lb ed="#C" n="7" break="no"/>festum est. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e256">
+               <lb ed="#C" n="8"/>Quartum argumentum: Hieronymus nec Propheta fuit, nec spiritu 
+      <lb ed="#C" n="9"/>Prophetico praeditus. Aliud est Prophetam esse, aliud est esse Propheticae, 
+      <lb ed="#C" n="10"/>Scripturae interpretem. Sic Hieronymus ipse ait in praefatione in 
+      Penta<lb ed="#C" n="11" break="no"/>teuch. eAliud est vatem, aliud est esse interpretem. Ibi Spiritus ventura 
+      prae<lb ed="#C" n="12" break="no"/>dixit, hic eruditio &amp; verborum copia, ea quae intelligit, transfert. Hinc 
+      neces<lb ed="#C" n="13" break="no"/>sarium argumentum colligitur: Cum vulgata editio non aliud sit, quam 
+      <lb ed="#C" n="14"/>interpretatio, non ergo ipsa est per se Authentica, &amp; σειπνώςος 
+      Scriptu<lb ed="#C" n="15" break="no"/>ta. Nam interpretis officium est, Scripturam authenticam transferre, 
+      <lb ed="#C" n="16"/>non suam interpretationem facere authenticam Scripturam. 
+      Hierony<lb ed="#C" n="17" break="no"/>mus vero in interpretando &amp; potuit errate, &amp; erravit. Quin errare 
+      potu<lb ed="#C" n="18" break="no"/>erit, nemo dubitat, &amp; Augustinus Epist. 8, ad Hieron, pro concesso sumit.  
+      <lb ed="#C" n="19"/>Erravisse vero se ipse Hieronymus ingenue profitetur in multis locis. 
+      <lb ed="#C" n="20"/>Atque vt Hieronymum in interpretando nunquam errasse fingamus, 
+      <lb ed="#C" n="21"/>quid tamen de Latina Psalmorum vulgata versione respondebunt, quae 
+      <lb ed="#C" n="22"/>multum ab Hieronymiana Psalmorum transsatione discrepat? 
+      Deni<lb ed="#C" n="23" break="no"/>que, quid de illis Latinae editionis partibus statuent, quae ex Graeca 
+      The<lb ed="#C" n="24" break="no"/>odotionis, hominis a fide Christiana alienissimi, versione in Latinis 
+      Bi<lb ed="#C" n="25" break="no"/>bliis leguntur? Ipsumne etiam Theodotionem, a quo sua quaedam 
+      libro<lb ed="#C" n="26" break="no"/>rum fragmenta, tanquam vel interprete, vel authore, ac ceperunt, 
+      Pro<lb ed="#C" n="27" break="no"/>phetico spiritu praeditum fuisse affirmabunt? Non equidem opinor.  
+      <lb ed="#C" n="28"/>Quare haec editio Latina ab iis hominibus concinnata, qui &amp; errrare 
+      <lb ed="#C" n="29"/>potuerunt, &amp; errarunt, Dei verbum authenticum, &amp; Scriptura θεοτῶςος 
+      <lb ed="#C" n="30"/>esse non potest. Quod vero Adversarij objiciunt, Hieronymum quidem 
+      <lb ed="#C" n="31"/>perrate potuisse, sed eius versionem esse ab Ecclesia approbatam; 
+      Respor<lb ed="#C" n="32" break="no"/>deo: primo, Nos dicimus Hieronymum non modo potuisse errare, sed 
+      e<lb ed="#C" n="33" break="no"/>tiam in hac versione multum erravisse, si modo illius versio sit: idque post 
+      <lb ed="#C" n="34"/>aperte satis ostendemus. Ergo si hanc Ecclesia probavit, errores 
+      inter<lb ed="#C" n="35" break="no"/>pretationis permultos approbavit. Secundo, Ecclesia non habet 
+      autho<lb ed="#C" n="36" break="no"/>ritatem sic approbandi cuiusquam hominis interpretationem, 
+      quan<lb ed="#C" n="37" break="no"/>tumvis accuratam, vt eam solam esse authenticam Scripturam, ipsisque  
+      <lb ed="#C" n="38"/>sacris fontibus praeferendam pronunciet. Nam Scripturam authenti¬ 
+      <!--115.xml-->
+      <pb ed="#L" n="106"/>
+               <lb ed="#C" n="1"/>CAUTTTTI 
+      <lb ed="#C" n="2"/>omnem Scripturam esse σετνώσον. 2. Tim. 3.16. Interpretatio vero 
+      Hie<lb ed="#C" n="3" break="no"/>ronymi, non est θεοώςος: ergo non est Scriptura authentica. Tertio, 
+      <lb ed="#C" n="4"/>hanc Latinam editionem Ecclesia nunquam approbavit, aut recepit,  
+      <lb ed="#C" n="5"/>tanquam authenticam, ante hoc recentissimum Tridentinum 
+      Concili<lb ed="#C" n="6" break="no"/>um. Si enim illam vnquam ante Ecclesia approbasset, tum versionem. 
+      <lb ed="#C" n="7"/>hanc Latinamtam multi homines docti &amp; Catholici non 
+      reprehendis<lb ed="#C" n="8" break="no"/>sent, <name xml:id="wWpoi1-de9729-Nd1e347">Lyranus</name>, <name xml:id="wWpoi1-de9729-Nd1e350">Paulus Brugensis</name>, <name xml:id="wWpoi1-de9729-Nd1e353">Armacanus</name>, <name xml:id="wWpoi1-de9729-Nd1e356">Valla</name>, Eugubinus, Isidorus 
+      <lb ed="#C" n="9"/>Clarius, Iohannes Isaacus, <name xml:id="wWpoi1-de9729-Nd1e361">Caletanus</name>, <name xml:id="wWpoi1-de9729-Nd1e365">Erasmus</name>, <name xml:id="wWpoi1-de9729-Nd1e368">Iacobus Faber</name>, 
+      <name xml:id="wWpoi1-de9729-Nd1e371">Ludovi<lb ed="#C" n="10" break="no"/>cus Vives</name>, <name xml:id="wWpoi1-de9729-Nd1e376">Lucas Brugensis</name>, aliique sane multi. Vsa quidem est Ecclesia 
+      <lb ed="#C" n="11"/>Latina hac versione, quia fuit necesse extare in Ecclesiis Latinis, Latinam? 
+      <lb ed="#C" n="12"/>Scripturarum aliquam editionem: sed eam nunquam antea Canonicam,? 
+      <lb ed="#C" n="13"/>atque authenticam fecit. Nunc primum in Concilio Tridentino iubemur. 
+      <lb ed="#C" n="14"/>Latinam veterem Transsationem pro nostra authentica Scriptura 
+      susci<lb ed="#C" n="15" break="no"/>pere. Unde illorum Scripturam authenticam non aliam esse 
+      perspici<lb ed="#C" n="16" break="no"/>mus, quam Hieronymi &amp; aliorum, nescio quorum, qualemcunque 
+      versio<lb ed="#C" n="17" break="no"/>nem. Illorum Moses, illorum Prophetae, illorum Apostoli, illorum 
+      E<lb ed="#C" n="18" break="no"/>vangelistae, illorum denique Christus est Hieronymus. Nam cuius 
+      scri<lb ed="#C" n="19" break="no"/>pta tanquam authentica suscipiunt, ci tribuunt quod ad Mosem, 
+      Pro<lb ed="#C" n="20" break="no"/>phetas, Apostolos, Evangelistas, Christum pertinet. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e402">
+               <lb ed="#C" n="21"/>Quintum argumentum: Si Deus permisisset Scripturam perire in 
+      He<lb ed="#C" n="22" break="no"/>braicis Graecisque fontibus, in quibus edita primum fuit a viris 
+      divini<lb ed="#C" n="23" break="no"/>tus inspiratis, non ille satis cavisset Ecclesiae suae, fideique nostrae. Nam ex 
+      <lb ed="#C" n="24"/>Propheticis Apostolicisque Scripturis Ecclesia oritur, fidesque manat.  
+      <lb ed="#C" n="25"/>Unde vero constabit, has esse per omnia Propheticas &amp; Apostolicas 
+      Scri<lb ed="#C" n="26" break="no"/>pturas, nisi ipsa Prophetarum &amp; Apostolorum scripta consulantur? 
+      <lb ed="#C" n="27"/>Quae veroratio afferri potest, cur Dei verbum authenticum periret in iis 
+      <lb ed="#C" n="28"/>linguis, in quibus editum primum fuit, in nova vero lingua authenticum 
+      <lb ed="#C" n="29"/>fieret, in quam fuit ab homine non Propheta transsatum? Aut curin 
+      <lb ed="#C" n="30"/>Latina potius lingua, quam in alia quacunque 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e426">
+               <lb ed="#C" n="31"/>Sextum argumentum: Antiqui Patres Latinae Ecclesiae non vnam 
+      se<lb ed="#C" n="32" break="no"/>quuti sunt Latinam editionem: Tertullianus, Cyprianus, Arnobius, 
+      La<lb ed="#C" n="33" break="no"/>ctantius, Victorius, Hilarius, Ambrosius, Augustinus, ipse Hieronymus, 
+      <lb ed="#C" n="34"/>Leo, Gregorius, Beda: ergo non tum vna fuit editio authentica in 
+      tam<lb ed="#C" n="35" break="no"/>multis Ecclesiae aetatibus. Quod cum esse verissimum res ipsa doceat,  
+      <lb ed="#C" n="36"/>quare nunc Latini homines Latinam vnam haberent authenticam 
+      edi<lb ed="#C" n="37" break="no"/>tionem? Videri possit fuisse magis necessarium, vt tunt vna 
+      authentica<lb ed="#C" n="38" break="no"/>editio extaret, propterea quod erant tunc plures versiones Latine, quam 
+      <!--116.xml-->
+      <pb ed="#L" n="107"/>
+               <lb ed="#C" n="1"/>nunc. Nam Augustinus ait suo tempore fuisse innumerabiles. Lib. 2. ca. 
+      <lb ed="#C" n="2"/>11. de Doctr. Christ. Quae vero nunc extant, omnes numerari 
+      facile<lb ed="#C" n="3" break="no"/>possunt. Synodus autem Tridentina voluit, vnam e multis authenticam 
+      <lb ed="#C" n="4"/>haberi. Et Andrad. Lib. 4. Defensionis Trident. Synodum sapientem 
+      fu<lb ed="#C" n="5" break="no"/>isse ait, quod ex tam multis, quae hodie circumferuntur, vnam fieri 
+      ha<lb ed="#C" n="6" break="no"/>berique authenticam decreverit. Haec si iusta ratio, causaque fuit, illis 
+      <lb ed="#C" n="7"/>temporibus esse vnam authenticam multo magis oportebat, in quibus 
+      <lb ed="#C" n="8"/>multo plures, quam hodie, versiones passim in hominum manibus 
+      ver<lb ed="#C" n="9" break="no"/>sabantur.  
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e470">
+               <lb ed="#C" n="10"/>Septimum Argumentum: Quaero vtrum Synodus Tridentina Latinam 
+      <lb ed="#C" n="11"/>hanc editionem fecerit authenticam, an solummodo esse authenticam 
+      <lb ed="#C" n="12"/>declaraverit? Quaestionis haec ratio est, quod sacrae Scripturae libros 
+      ab<lb ed="#C" n="13" break="no"/>Ecclesia accipere dicunt, non vt sint Canonici &amp; sacrosancti, sed vt 
+      ta<lb ed="#C" n="14" break="no"/>les habeantur, quemadmodum postea audiemus. Num igitur haec 
+      edi<lb ed="#C" n="15" break="no"/>tio Latina nunc facta ab illis est authentica, an vero tantummodo esse 
+      <lb ed="#C" n="16"/>authentica declaratur? Si factam esse authenticam nunc dixerint, ergo 
+      <lb ed="#C" n="17"/>non ante authentica fuit. Et quo jure illi editionem non authenticam? 
+      <lb ed="#C" n="18"/>facere authenticam potuerunt? Eodem modo licebit illis e libro non 
+      <lb ed="#C" n="19"/>sacro sacrum &amp; Canonicum facere, quod se tamen sibi minime sumeret 
+      <lb ed="#C" n="20"/>profitentur. Sin vero hanc editionem esse authenticam tantummodo 
+      <lb ed="#C" n="21"/>declararunt, doceant igitur quando illa primum authentica esse caeperit.  
+      <lb ed="#C" n="22"/>Nam initio non fuit authentica, vt ostendimus. Oportetergo vt 
+      quan<lb ed="#C" n="23" break="no"/>do, &amp; a quibus illud acceperit, vt esset authentica, in medium proferant, 
+      <lb ed="#C" n="24"/>si nolunt ipsi fateri eam a se factam esse authenticam. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e505">
+               <lb ed="#C" n="25"/>Octavum Argumentum. Latina editio vulgata est in multis locis 
+      pla<lb ed="#C" n="26" break="no"/>ne barbara, &amp; plena solaecismorum: vnde eius authorem valde fuisse 
+      ne<lb ed="#C" n="27" break="no"/>gligentem colligi potest. Scripturae simplicem &amp; minime fucatam 
+      dicti<lb ed="#C" n="28" break="no"/>onem facile agnosco; nec reprehendo, sed potius vt divinam admiror.  
+      <lb ed="#C" n="29"/>Sed in authenticis fontium Scripturis nusquam invenies huiusmodi 
+      bar<lb ed="#C" n="30" break="no"/>bariem &amp; solaecismorum sordes, quales in Latina hac vulgata passim 
+      re<lb ed="#C" n="31" break="no"/>periuntur. Gen. 21. 26. Non audivi praeter hodie. Gen. 42. 13. Alius non est 
+      <lb ed="#C" n="32"/>super, pro, non superest. Psal. 67. 20. Benedictus Dominus die quotidie. 
+      <lb ed="#C" n="33"/>Psal. 125. 1. In convertendo dominus captivitatem Sion, facti sumus sicut  
+      <lb ed="#C" n="34"/>consolati, Matth. 22. Neque nubent, neque nubentur. Matth. 6. Nonne vos 
+      <lb ed="#C" n="35"/>magis pluris estis illis? Mat. 20. Filius hominis non venit ministrari. Luc. 7. 
+      <lb ed="#C" n="36"/>Lamentavimus vobis. Luc. 21. Omnis populus manicabat ad eum. Iohan. 15. 
+      <lb ed="#C" n="37"/>vi fructumplus afferat. Act. 3. Poenitemini. Iac. 1. Deus intentator est malo.  
+      <lb ed="#C" n="38"/>rum, Haec in fontibus longe aliter, &amp; satis eleganter pureque fluunt, Mat. J 
+      <!--117.xml-->
+      <pb ed="#L" n="108"/>
+               <lb ed="#C" n="1"/>CAPUTTTTTTTI 
+      <lb ed="#C" n="2"/>Mat. 20. 28. 8 φός το ανθρωτο ἐκ ιλθε διαϰοηθεαι, αλλα διακονήσαν. Luc. 7.  
+      <lb ed="#C" n="3"/>32. θρήσαμιν. Luc. 21. 38. πῶς ολαός αρθριε ωρος αυτον. Iohan. 15. 2. 
+      <lb ed="#C" n="4"/>ἵνa τειονα καρπον φιρει. Act. 3. 19. μvοήσατe. lac. 1. 13. ὑθεός ἀπειρασας δει τόν 
+      <lb ed="#C" n="5"/>καϰώον. In his Graecis, nec puritas, nec elegantia desideratur. Illa vero 
+      Lati<lb ed="#C" n="6" break="no"/>na eiusmodi sunt, vt nihil magis barbarum aut ineptum fingi possit. 
+      Spi<lb ed="#C" n="7" break="no"/>ritus sanctus nunquam certe solet tam barbate putideque loqui. Etsi 
+      e<lb ed="#C" n="8" break="no"/>nim sint in Scripturis quaedam αναντατυδυτα, &amp; υπέρρατα, &amp; σελοικορανῆ, &amp; 
+      <lb ed="#C" n="9"/>huius generis alia, tamen eadem possunt in eloquentissimis &amp; 
+      probatissi<lb ed="#C" n="10" break="no"/>mis authoribus reperiri: vt nihil in fontibus occurrat, quod attinet ad 
+      di<lb ed="#C" n="11" break="no"/>ctionem genusque dicendi, cui non aliud simile in laudato aliquo 
+      au<lb ed="#C" n="12" break="no"/>thore invenias. Sed illa Latina absona sunt, &amp; inusitata: &amp; hoc modo 
+      <lb ed="#C" n="13"/>nullus loquutus est, qui norit, aut curaret quemadmodum loqueretur.  
+      <lb ed="#C" n="14"/>Hieronymus ad Paulinum ait, hanc simplicitatem, quae in versionibus. 
+      <lb ed="#C" n="15"/>Scripturarum reperitur, partim vitio interpretum contigisse. Vitium ergo est, 
+      <lb ed="#C" n="16"/>quae commode verti possunt, ea inepte &amp; inscite convertere: quod hunc 
+      <lb ed="#C" n="17"/>interpretem fecisse, illa exempla arguunt. Nec tamen omnia, praesertim 
+      <lb ed="#C" n="18"/>sacra, sunt sub regulis Donati restringenda, vt Gregorius in praefatione 
+      <lb ed="#C" n="19"/>in lobum admonet. At Scripturae, cum nusquam superstitiosae, tum 
+      vbi<lb ed="#C" n="20" break="no"/>que sincerae puraeque sunt, addo etiam eloquentes. Sic Augustinus, Libro 
+      <lb ed="#C" n="21"/>4. cap. 6. de Doctr. Christ. egregie scribit: Hic aliquis fortasse quaerat, 
+      u<lb ed="#C" n="22" break="no"/>trum authores nostri sapientes tantummodo, an etiam eloquentes nuncupandi. 
+      <lb ed="#C" n="23"/>sint. Cui quaestioni sic respondet Augustinus: Obi eos intelligo, non solum 
+      <lb ed="#C" n="24"/>nihil eis sapientius, verumetiam nihil eloquentius videri potest. Et audeo 
+      dice<lb ed="#C" n="25" break="no"/>re, omnes qui recte intelligunt quae illi loquuntur, simul intelligere, non eos 
+      ali<lb ed="#C" n="26" break="no"/>ter loqui debuisse. Et quandam dicit esse eloquentiam, quae iuvenilem 
+      aeta<lb ed="#C" n="27" break="no"/>tem deceat, quandam quae senilem: nec dicendam esse eloquentiam, nisi 
+      <lb ed="#C" n="28"/>personae congruat eloquentis. Ita esse quandam eloquentiam, quae literis 
+      <lb ed="#C" n="29"/>divinis conveniat, eaque vsos esse sacros scriptores. Non ipsos decet alia, 
+      <lb ed="#C" n="30"/>non alios ipsa. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e608">
+               <lb ed="#C" n="31"/>Nonum argumentum: Ipsi Papistae, fontes vtiles esse contendunt, sed  
+      <lb ed="#C" n="32"/>eas vtilitates commemorant, quae fontes esse necessarios, &amp; sontium in 
+      v<lb ed="#C" n="33" break="no"/>troque Testamento Scripturam magis quam Latinae editionis 
+      authenti<lb ed="#C" n="34" break="no"/>cam esse comprobant, Bellarminus tempora quatuor assignat, quibus 
+      <lb ed="#C" n="35"/>ad fontes Hebraeos atque Graecos recurrere liceat. Primo, quando in Latinis 
+      <lb ed="#C" n="36"/>codicibus error aliquis esse libratiorum videtur, &amp; huius rei quaedam 
+      <lb ed="#C" n="37"/>exempla profert, cuiusmodi sane admodum multa enumerari possunt. 1. 
+      <lb ed="#C" n="38"/>Sam. 19. 24. vulgata multis seculis habuit, Cecint nudus tota illa die. 
+      <!--118.xml-->
+      <pb ed="#L" n="109"/>
+               <lb ed="#C" n="1"/>Si fontes Hebraeos inspicias, non cecinit, sed cecidit, legendum esse 
+      inveni<lb ed="#C" n="2" break="no"/>as: tamen illud ((ecinit) pergunt in textu retinere, &amp; inmargine (cecidit)  
+      <lb ed="#C" n="3"/>inscribunt Eccles. 24. 41. vetus editio habet, habuitque iam diu, ego 
+      quasi<lb ed="#C" n="4" break="no"/>fluvius Dorix. Quis autem ille tandem fluvius est? nimirum si Rabano 
+      <lb ed="#C" n="5"/>credimus in commentario huius loci, est quidam Armeniae fluvius, qui  
+      <lb ed="#C" n="6"/>Dorix nominetur. At Lovanienses notarunt, legendum esse vorat. 
+      Bellar<lb ed="#C" n="7" break="no"/>minus vero locum ex Graeco corrigit, ego quasifluvj Dioryx. Nam σdω¬ 
+      <lb ed="#C" n="8"/>us (inquit) fossam significat, diductam a flumine ad terram irrigandam. Esto. 
+      <lb ed="#C" n="9"/>Sed quis unquam Latinus hoc vocabulo vsus est? aut cuiusmodi haec 
+      La<lb ed="#C" n="10" break="no"/>tina versio censeatur? aut si haec vera lectio sit, curnonvetus illa 
+      emenda<lb ed="#C" n="11" break="no"/>tur, sed adhuc etiam, ermore deprehenso, in ipsorum libris remanet: 
+      Ec<lb ed="#C" n="12" break="no"/>cles. 45. 6. legitur in vulgata, &amp; sic in antiquis missalibus, Dedit ei cor ad 
+      <lb ed="#C" n="13"/>praecepta. Sed Lovanienses hunc locum sic correxerunt, coram praecepta, 
+      e<lb ed="#C" n="14" break="no"/>amque correctionem Bellarminus probat, cum in Graeco sit κγ ωρνσωπον,  
+      <lb ed="#C" n="15"/>&amp; sic emendatam nunc esse dicit in novis missalibus. Sed quare non 
+      e<lb ed="#C" n="16" break="no"/>mendatur in biblijs? Itane vobis curae fuit, vt missalia vestra essent 
+      ma<lb ed="#C" n="17" break="no"/>gis emendata, quam Biblia? Sic illud in Psal. 41. veteres libri habent,  
+      <lb ed="#C" n="18"/>ad Deum fontem vivum: tuto sic mutari posse Bellarminus ait, ad Deum 
+      <lb ed="#C" n="19"/>fortemvivum, quemadmodum ex Hebraeis &amp; Graecis exemplaribus 
+      ma<lb ed="#C" n="20" break="no"/>nifestum est. Quod quanquam ita omnino se habet, tamen in textu 
+      fon<lb ed="#C" n="21" break="no"/>tem retinent, &amp; fortem non nisi in margine constituunt. Similiter  
+      <lb ed="#C" n="22"/>Deutr. 4. 23. Latini veteres libri habent, Sulphure &amp; Solis ardore 
+      com<lb ed="#C" n="23" break="no"/>burens: cum tamen non solis, sed salis, legendum esse textus Hebraicus 
+      <lb ed="#C" n="24"/>ostendat: quem errorem non esse a Lovaniensibus animadversum, 
+      at<lb ed="#C" n="25" break="no"/>que in margine saltem correctum admitor. Eiusmodi infinita alia 
+      exem<lb ed="#C" n="26" break="no"/>pla proferri possunt, &amp; Canus Lib. 2. Cap. 15. multa adduxit, in quibus 
+      <lb ed="#C" n="27"/>Latinam editionem esse corruptam, atque ex Hebraeis Graecisque fontibus 
+      <lb ed="#C" n="28"/>emendandam, facile constat. Nonne hinc videmus ipsam fontium 
+      editi<lb ed="#C" n="29" break="no"/>onem esse &amp; synceritate &amp; authoritate praeditam maiore, quam vulgatam 
+      <lb ed="#C" n="30"/>hanc Latina? Latini libri emendandi sunt ex fontibus, non fontes ex 
+      La<lb ed="#C" n="31" break="no"/>tina: ergo Latina editio minus authentica est, quam fontium Scriptura. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e699">
+               <lb ed="#C" n="32"/>Secundo. Quando Latini codices varias lectiones habent, vt quae 
+      <lb ed="#C" n="33"/>vera sit certo statui nequeat. Exempli causa, Ios. 5. quidam codices. 
+      <lb ed="#C" n="34"/>vulgatae editionis habent: Quibus iuravit, vt ostenderet eis terram: 
+      qui<lb ed="#C" n="35" break="no"/>dam vero, vt non ostenderet, sensu contrario. Posterior dicitur esse 
+      veri<lb ed="#C" n="36" break="no"/>jor (inquit Bellarminus) quia in Hebraeo constanter additur Non. Cur 
+      i<lb ed="#C" n="37" break="no"/>gitur eorum libri priorem retinent, quem ipsi falsum esse intelligunt,  
+      <lb ed="#C" n="38"/>&amp; confitentur? Sic etiam los. 11. quidam libri habent, Non fuit Ccivi¬ 
+      <!--119.xml-->
+      <pb ed="#L" n="110"/>
+               <lb ed="#C" n="1"/>ltas, quae non se traderet: quidam contra, Quae se traderet. Et hoc esse 
+      <lb ed="#C" n="2"/>verius affirmatur, propterea quod &amp; Hebraeo congruit, &amp; ita legendum 
+      <lb ed="#C" n="3"/>esse loci circumstantia postulat. Sic Luc. 1. in vulgatis libris legitur,  
+      <lb ed="#C" n="4"/>Redemptionem plebis suae: sed plebi suae, legendum esse ex eoconstat, quod  
+      <lb ed="#C" n="5"/>in Graeco sit, τῳ λαν αν8. Ita suam Latinam editionem, quam solam 
+      au<lb ed="#C" n="6" break="no"/>thenticam esse statuunt, multa in se habere non tantum vana, sed 
+      pror<lb ed="#C" n="7" break="no"/>sus etiam vitiosa, eaque posse a fontibus &amp; dijudicari &amp; emendari, 
+      conce<lb ed="#C" n="8" break="no"/>dunt: interim in illorum bibliis eiusmodi errores non tolluntur sed 
+      servan<lb ed="#C" n="9" break="no"/>tur. Quis ergo non multo magis fontibus, quam huic vulgatae confidat: 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e741">
+               <lb ed="#C" n="10"/>Tertio: quando Latini codices habent aliquid anceps, vel in verbis, 
+      <lb ed="#C" n="11"/>velin sententia: &amp; exempla affert Bellarminus nonnulla: quorum illud 
+      <lb ed="#C" n="12"/>vnum est, Luc. 2. In terra pax hominibus bonae voluntatis, Illud bonae 
+      volun<lb ed="#C" n="13" break="no"/>tatis, posse referri ait, vel ad homines, vel ad pacem, sed melius ad 
+      pa<lb ed="#C" n="14" break="no"/>cem, vthic sit sensus, In terra pax hominibus, pax (inquam) bonae 
+      volunta<lb ed="#C" n="15" break="no"/>tis Dei erga bomines. Nam ἐυdοxίa est bona voluntas Dei erga homines. 
+      <lb ed="#C" n="16"/>Quod si verum est, vt vere judieat Bellarminus, Rhemenses nostri 
+      mag<lb ed="#C" n="17" break="no"/>nopere erratunt, qui ex hoc loco colligunt, hominem esse arbitrij 
+      liber<lb ed="#C" n="18" break="no"/>tate praeditum. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e763">
+               <lb ed="#C" n="19"/>Quarto, ad ἐεργαν &amp; proprietatem vocabulorum intelligendam, 
+      <lb ed="#C" n="20"/>quae sane admodum late patet. Nam in fontibus omnia sunt ἐμφαηκα¬ 
+      <lb ed="#C" n="21"/>τιοα, quam in quarumvis transsationum Rivulis, quod illorum 
+      excellen<lb ed="#C" n="22" break="no"/>tiam dignitatemque non parum illustrat.  
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e774">
+               <lb ed="#C" n="23"/>Melchior Canus, Lib. 2. cap. 15. Multas commoditates proponit, 
+      <lb ed="#C" n="24"/>quas fontium cognitio secum affert. Prima, quando cum Infidelibus 
+      di<lb ed="#C" n="25" break="no"/>sputamus. Secunda, quando dictionum ἐμφασιν explicare volumus. 
+      Ter<lb ed="#C" n="26" break="no"/>tia, vt plures sensus inveniamus. Quarta, vt Idiomata, phrases, &amp; 
+      pro<lb ed="#C" n="27" break="no"/>verbia linguae alienae cognoscamus. Quinta, vt menda corrigamus. 
+      <lb ed="#C" n="28"/>Sexta, vt quaedam loca intelligamus, quae sine linguarum scientia 
+      expli<lb ed="#C" n="29" break="no"/>cari nequeunt. Septima, vt Latini sermonis ambiguitatem, &amp; ἀμριλονιαν,  
+      <lb ed="#C" n="30"/>vitemus. Octava, vt quaedam vocabula recte interpretemur, quae in vsus 
+      <lb ed="#C" n="31"/>sunt, vt Anathema, Maranatha, &amp; similia. Haec omnia ex fontibus 
+      per<lb ed="#C" n="32" break="no"/>cipi posse commoda concedunt. Sic igitur ex ipsorum confessione 
+      argu<lb ed="#C" n="33" break="no"/>mentari possum. Quae Editio corrupta est, vitiosa, ambigua, vana, &amp; 
+      <lb ed="#C" n="34"/>Spiritus sancti nec sensum explicat, nec maiestatem assequitur, nec satis 
+      <lb ed="#C" n="35"/>in se lucis habet, ad Scripturae phrasin sententiamque illustrandam, sea 
+      <lb ed="#C" n="36"/>non est authentica. Latina vulgata editio talis est, idque ipsa 
+      adversario<lb ed="#C" n="37" break="no"/>rum ingenua confessione: illa igitur non est authentica: &amp; 
+      consequen<lb ed="#C" n="38" break="no"/>ter Hebraica ac Graeca est authentica, quia non modo illis vitiis &amp; in¬ 
+      <!--120.xml-->
+      <pb ed="#L" n="111"/>
+               <lb ed="#C" n="1"/>commodis caret, quibus Latina abundat; ijsque privilegiis ornatur, quae 
+      <lb ed="#C" n="2"/>Latinae nullo modo conceduntur, sed etiam qui Latinam, tanquam 
+      au<lb ed="#C" n="3" break="no"/>thenticam vrgent, ij ad Hebraicam &amp; Graecam confugere, &amp; provoc 
+      a<lb ed="#C" n="4" break="no"/>re tanquam ad ludicem superiorem, subinde coguntur. Iam illud 
+      prae<lb ed="#C" n="5" break="no"/>terea velim ab istis sciscitati: cum Lovanienses Theologitam multos 
+      er<lb ed="#C" n="6" break="no"/>rores &amp; vitia in suis Latinis Bibliis invenerint, atque in margine 
+      indica<lb ed="#C" n="7" break="no"/>runt; quam tandem lectionem authenticam esse statuunt: veteremnes 
+      <lb ed="#C" n="8"/>Textus, an novam marginis? Si veterem, curillam notarunt, &amp; in suis 
+      <lb ed="#C" n="9"/>missalibus mutarunt? Si novam, cur non illam in textunm recipiunt, sed  
+      <lb ed="#C" n="10"/>foris ante limen stare cogunt? vt interim taceam, esse illam multis 
+      secu<lb ed="#C" n="11" break="no"/>lis pro authentica habitam. Vno exemplo rem manifestam faciam. 
+      <lb ed="#C" n="12"/>Proverb. 16. 11. vetera exemplaria Latinae huius editionis sic habent: 
+      <lb ed="#C" n="13"/>Pondus &amp; statera ludicia Domini sunt, &amp; opera eius omnes lapides Seculi.  
+      <lb ed="#C" n="14"/>Nunc animadversum est legendum esse, &amp; opera eius omnes lapides 
+      sac<lb ed="#C" n="15" break="no"/>cum: nam vocabulum Hebraeum significat marsupium, vel crumenam. 
+      <lb ed="#C" n="16"/>vel sacculum. Itaque quin illud (Secuss) vitiosum sit, nulli dubium videri 
+      <lb ed="#C" n="17"/>potest. Tamen author idem, cuius inter Hieronymi opera extant in 
+      Pro<lb ed="#C" n="18" break="no"/>verbia coimentatii, secu legit: &amp; seculi lapides interpretatur iustos &amp; 
+      <lb ed="#C" n="19"/>fide fortes. Praeclare. Huinsmodi alia possunt innumerabilia exempla 
+      <lb ed="#C" n="20"/>inveniri in Latinis authoribus, qui ab annis mille, postquam haec 
+      editio<lb ed="#C" n="21" break="no"/>caepit in Ecclesiis Latinis invalescere, huius editionis erroribus vitiisque  
+      <lb ed="#C" n="22"/>illusi, ineptas opiniones atque interpretationes finxerunt. Sic illud 
+      Sapi<lb ed="#C" n="23" break="no"/>pent. 12. 15. Qui non debet puniri, condemnare exterum aestimas a virtute. 
+      <lb ed="#C" n="24"/>tua, vt nunc in suis Bibliis Lovanienses legunt, olim sic legebatur, Qui  
+      <lb ed="#C" n="25"/>non debet puniri, condemnas, &amp; exterum aestimas a tua virtute. Nam 
+      Gre<lb ed="#C" n="26" break="no"/>gorius, Lib. 3. in lob. cap. 11. hoc de Deo patre intelligit, qui Christum 
+      <lb ed="#C" n="27"/>omnium iustissimum, nullaque poena dignum, morti tradidit. Ita hoc  
+      <lb ed="#C" n="28"/>vitium in Latinis libris plusquam mille annos haesit. Quare si illa lectio 
+      <lb ed="#C" n="29"/>falsa est, vt certe est, tum Latina Ecclesia editionem in locis infinitis 
+      <lb ed="#C" n="30"/>(sunt enim loca huius generis infinita) falsam, ideoque minime 
+      authen<lb ed="#C" n="31" break="no"/>ticam secuta est. Sic Cantic. 2. in fine, veteres libri habent, super montes. 
+      <lb ed="#C" n="32"/>Bethes. Lovanienses vero illi Censores, admonent legendum esse Betheri 
+      <lb ed="#C" n="33"/>proBethet: quod &amp; Hebraica veritas confirmat. At Gregorius mille 
+      ab<lb ed="#C" n="34" break="no"/>hine annis non aliter legit, quam in ipsorum corruptis libris legebatur.  
+      <lb ed="#C" n="35"/>Undehane antiquam admodum esse corruptelam perspicimus. Nam in 
+      <lb ed="#C" n="36"/>commentaiis in Cantica, Bethe( hic interpretatur Ecclesiam, in 
+      qua<lb ed="#C" n="37" break="no"/>Dominus habitat. Similiter omnes fere Latini interpretes legunt, atque 
+      <lb ed="#C" n="38"/>exponunt illum locum, in quo tamen, nisi corrupto, nulla omnino sit 
+      <lb ed="#C" n="39"/>de Bethelmentio. 
+      <!--121.xml-->
+      <pb ed="#L" n="112"/>
+               <lb ed="#C" n="1"/>Decimum argumentum: Quae Scriptura ante Christum veteris 
+      Testa<lb ed="#C" n="2" break="no"/>menti, quaeque post Christum per annos sexcentos, &amp; veteris &amp; novi 
+      Te<lb ed="#C" n="3" break="no"/>stamenti authentica fuit, eadem nunc quoque nobis authentica viderits 
+      <lb ed="#C" n="4"/>debet. At Hebraica editio veteris Testamenti, &amp; Graeca novi, per 
+      sex<lb ed="#C" n="5" break="no"/>centos post Christum annos, authentica dei Scriptura in Ecclesiis 
+      Chri<lb ed="#C" n="6" break="no"/>stianorum habita semper fuit: Illa igitur nunc etiam a nobis tanquam  
+      <lb ed="#C" n="7"/>authentica Scriptura suscipi debet. De maiore si dubitant, interrogandi. 
+      <lb ed="#C" n="8"/>sunt, num Ecclesia suam authenticam Scripturam mutaverit, an illam 
+      <lb ed="#C" n="9"/>potius quae initio vereque authentica fuit, servaverit, suisque posteris 
+      <lb ed="#C" n="10"/>commendaverit? Si Scripturam a Prophetis atque Apostolis editam 
+      a<lb ed="#C" n="11" break="no"/>misit, quis illam negligentiam defendere, quis sacrilegium excusare 
+      po<lb ed="#C" n="12" break="no"/>test? Si non amisit, tum Prophetarum &amp; Apostolorum scripta nobis 
+      tra<lb ed="#C" n="13" break="no"/>dat, &amp; hoc esse Dei authenticum verbum suo testimonio comprobet; 
+      <lb ed="#C" n="14"/>non pro hac divinitus edita missaque Scriptura, eius quandam 
+      transsa<lb ed="#C" n="15" break="no"/>tionem Latinam, quam nec Prophete, nec Apostoli fecerunt, substituat,  
+      <lb ed="#C" n="16"/>eamque esse Dei authenticum verbum persuadeat. In quo sibi sumunt 
+      vi<lb ed="#C" n="17" break="no"/>faciant, id quod tamen se non posse facere, concedunt. Nam qui 
+      Scriptu<lb ed="#C" n="18" break="no"/>tam authenticam faciunt, ij Scripturam Canonicam faciunt: sola enim 
+      <lb ed="#C" n="19"/>authentica est Canonica, &amp; quia est authentica, est Canonica. At illis 
+      <lb ed="#C" n="20"/>hanc Scripturam authenticam fecerunt, quippe quae aliquando 
+      authen<lb ed="#C" n="21" break="no"/>tica minime fuerit: Ergo Scripturam faciunt Canonicam, quod in 
+      Ec<lb ed="#C" n="22" break="no"/>clesiae tamen potestate iudicioque nequaquam positum esse confitentur.  
+      <lb ed="#C" n="23"/>Vt ad argumentum revertat, quin Hebraica veteris Testamenti 
+      editio<lb ed="#C" n="24" break="no"/>Christi temporibus authentica fuerit, neminem esse arbitror qui 
+      dubi<lb ed="#C" n="25" break="no"/>tet. Iam vero &amp; Hebraicam veteris, &amp; Graecam novi Testamenti 
+      editi<lb ed="#C" n="26" break="no"/>onem, multis post Christum seculis authenticam per omnia esse in 
+      Ec<lb ed="#C" n="27" break="no"/>clesiis habitam, multis Patrum testimoniis demonstrari potest. 
+      Hierony<lb ed="#C" n="28" break="no"/>mus in Libro contra Helvidium sic habet: Multo purior manare 
+      creden<lb ed="#C" n="29" break="no"/>da est fontis unda, quam rivi. Idem in Epistola ad Suniam &amp; Fretell. 
+      <lb ed="#C" n="30"/>Sicut in novo Testamento recurrimus ad fontem Graeci sermonis, quo novum 
+      <lb ed="#C" n="31"/>scriptum est instrumentum: ita in veteri Testamento ad Hebraicam 
+      recurri<lb ed="#C" n="32" break="no"/>mus veritatem. Sic in Epistola ad Marcellam, in fine Tomi secundi: 
+      Ea<lb ed="#C" n="33" break="no"/>tinorum codicum vitiositatem ad Graecam originem volui revocare. Et in 
+      prae<lb ed="#C" n="34" break="no"/>fatione in Pentateuch. eorum opinionem vt absurdam reiicit, qui 
+      emen<lb ed="#C" n="35" break="no"/>datiora esse exemplaria Latina, quam Graeca, &amp; Graeca quam Hebraica. 
+      <lb ed="#C" n="36"/>dixerunt. Similiter in Commentariis in Zachariam, Cap. 6. Cogimur ad 
+      <lb ed="#C" n="37"/>Hebraeos recurrere, &amp; scientiae veritatem, de fonte magis, quam de rivulis 
+      <lb ed="#C" n="38"/>quaerere. In Epistola vero ad Vitalem scribit, se tanquam ad arcem quan¬ 
+      <!--122.xml-->
+      <pb ed="#L" n="113"/>
+               <lb ed="#C" n="1"/>dam, &amp; praesidium, sic ad Hebraicam veritatem solitum esse confugere. 
+      <lb ed="#C" n="2"/>Huc accedit, quod Hieronymum Damasus excitaverit, ad 
+      Testamen<lb ed="#C" n="3" break="no"/>tum novum ex Graeco emendandum: vtpote qui satis intellexerit 
+      Grae<lb ed="#C" n="4" break="no"/>ca exemplaria Latinis omnibus longe esse praeferenda. Eadem inveniri 
+      <lb ed="#C" n="5"/>possunt apud Ambrosium, Lib. 2. Cap. 6. de Spiritu sancto, &amp; Lib. de 
+      In<lb ed="#C" n="6" break="no"/>carnat. Dominicae sacram. Cap. 6. Similiter apud Augustinum, Lib. 2. 
+      <lb ed="#C" n="7"/>Cap. 7. de Doctrina Christiana, &amp; alibi. Aquo etiam &amp; Gratianus in 
+      su<lb ed="#C" n="8" break="no"/>tum decretum illa transcripsit, quae Dist. 9. cap. Dt veterum, legimus: 
+      <lb ed="#C" n="9"/>Ot veterum librorum fides de Hebraeis voluminibus examinanda: ita 
+      novo<lb ed="#C" n="10" break="no"/>rum veritas Graeci sermonis normam desiderat. Et Augustinus, Lib. 15. 
+      <lb ed="#C" n="11"/>cap. 13. de Civit Dei. Iudaeos multis verbis defendit, &amp; admonet, non 
+      tam<lb ed="#C" n="12" break="no"/>credendum esse transtationi, quam linguae, unde est in aliam per Interpretes 
+      fa<lb ed="#C" n="13" break="no"/>cta transtatio. Ludovicus Vives, in illud Cap. sic habet. Hoc idem 
+      responde<lb ed="#C" n="14" break="no"/>ri potest his, qui falsatos corruptosque &amp; ab Hebraeis codices veteris 
+      Testamen<lb ed="#C" n="15" break="no"/>ti, &amp; a Graecis novi, obijciunt, ne veritas sacrorum librorum ex illis fontibus 
+      <lb ed="#C" n="16"/>petatur.  
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e1026">
+               <lb ed="#C" n="17"/>Sed Adversarij, hoc quod Patres de authoritate fontium scribunt, 
+      <lb ed="#C" n="18"/>fuisse olim quidem verum concedunt, nosque ita omnino facere 
+      opor<lb ed="#C" n="19" break="no"/>tere non negarent, si fontes Hebraei &amp; Graeci puri nunc essent. Nunc 
+      e<lb ed="#C" n="20" break="no"/>nim esse fontes illos impuros affirmant, ideoque pluris nunc esse 
+      Lati<lb ed="#C" n="21" break="no"/>nos rivulos, quam fontes hosce veteres aestimandos. Atque id nunc 
+      <lb ed="#C" n="22"/>Theologi Pontificij. Synodique Tridentinae ὑέασιςαν contendunt, 
+      vt<lb ed="#C" n="23" break="no"/>corruptos esse fontes persuadeant. In quo tamen argumento alij sunt,  
+      <lb ed="#C" n="24"/>alijs multo &amp; acriores, &amp; impudentiores. Nam Lindanus, Lib. 1. cap. 11. 
+      <lb ed="#C" n="25"/>de optimo genere interpret. &amp; Canus Lib. 2. cap. 13. fontes esse 
+      pe<lb ed="#C" n="26" break="no"/>nitus corruptos calumniantur. Alij vero de fontibus multo mitius, 
+      ae<lb ed="#C" n="27" break="no"/>quiusque statuunt. Sed neutri horum aliquid pro Latinae editionis 
+      au<lb ed="#C" n="28" break="no"/>thentica authoritate attulerint, nisi fontes non modo in quibusdam 
+      lo<lb ed="#C" n="29" break="no"/>cis corruptos, sed etiam Latinis exemplaribus passim corruptiores esse 
+      <lb ed="#C" n="30"/>docuetint: quod tamen nullus unquam Papista hactenus se posse 
+      de<lb ed="#C" n="31" break="no"/>monstrare speravit. Bellarminus ex eorum numero est, qui sontibus 
+      ae<lb ed="#C" n="32" break="no"/>quiores sunt, ideoque Lindani &amp; Cani opinionem refellit: tamen 
+      ne<lb ed="#C" n="33" break="no"/>nonprobare Tridentinum decretum videatur, aliquid esse in fontibus 
+      <lb ed="#C" n="34"/>corruptum asserit: quod cuiusmodi sit, videamus. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e1069">
+               <lb ed="#C" n="35"/>Vtsontesigitur Hebraicos Bellarminus non esse omnino puros 
+      do<lb ed="#C" n="36" break="no"/>ceat, quinque loca proponit, quae sine dubio corrupta esse arbitratur.  
+      <lb ed="#C" n="37"/>Primus locusestEsa. 9.6. In quo legendum esse dicit, vocabitur 
+      admira<lb ed="#C" n="38" break="no"/>bilis, vt Calumus contendit. At Hebraeus textus non modo non habet  
+      <!--123.xml-->
+      <pb ed="#L" n="114"/>
+               <lb ed="#C" n="1"/>voc abitur jilhare, sed vocabit jilira. Respondeo: primo, quod ad sensum 
+      <lb ed="#C" n="2"/>attinet, nihil interesse, sive, vocabitur nomen eius admirabilis, legamus, 
+      si<lb ed="#C" n="3" break="no"/>ve, vocabit (nimirum Deus pater) nomen eius, admirabilem. Itaque 
+      Tre<lb ed="#C" n="4" break="no"/>mellius atque lunius verterunt, juxta Hebraicam, quae nunc est, 
+      lectio<lb ed="#C" n="5" break="no"/>nem, vocat: quod non fecissent, si in re esse tantum discriminis 
+      momen<lb ed="#C" n="6" break="no"/>tum existimassent. Secundo, hoc non probat fontes esse corruptos, quod  
+      <lb ed="#C" n="7"/>aliqui putent legendum potius esse, vocabitur, quam, vocabit. Puncta 
+      <lb ed="#C" n="8"/>quidem posteriorem lectionem postulant, sed literae vtramque patiuntur. 
+      <lb ed="#C" n="9"/>Tertio, Hebraei doctores tradunt, vt Vatablus in hunc locum, verba tertig. 
+      <lb ed="#C" n="10"/>personae poni saepe impersonaliter, apud Hebraeos, vt vocabit, pro 
+      vocabi<lb ed="#C" n="11" break="no"/>tur. Secundus locus, Ierem. 23. 6. In quo legendum est, vt etiam 
+      Calvi<lb ed="#C" n="12" break="no"/>nus putat, Hoc est nomen eius, quod vocabunt eum, Dominus lustitiae nostrae. 
+      <lb ed="#C" n="13"/>At fons Hebraicus constanter habet, vocabit eum, non vocabunt. Res 
+      pon<lb ed="#C" n="14" break="no"/>deo: primo, locum non esse cormuptum, ex eo intelligi potest, quod olim 
+      <lb ed="#C" n="15"/>tempore Hieronymi, sic omnino legebatur, quemadmodum hodie 
+      le<lb ed="#C" n="16" break="no"/>gitur. Nam Hieronymus liberum nobis fecit, vt vel vocabunt, vel vocabit,  
+      <lb ed="#C" n="17"/>in textu legamus: &amp; ante Hieronymum, septuaginta verterunt, καλίσει, 
+      <lb ed="#C" n="18"/>vocabit. Secundo, Hebraicum verbum verti potest, vocabunt, 
+      quemad<lb ed="#C" n="19" break="no"/>modum Vatablus, Pagninus, &amp; Anas Montanus verterunt. Tertio, 
+      sile<lb ed="#C" n="20" break="no"/>gamus, vocabit etiam, vt Hebraicus noster textus potius suadet, sensus 
+      <lb ed="#C" n="21"/>tamen nec impius, nec incommodus erit, vt ex Tremellij &amp; lunij 
+      anno<lb ed="#C" n="22" break="no"/>tationibus manifestum est. Tertius locus, Psal. 22. 17. Nullus 
+      Christiano<lb ed="#C" n="23" break="no"/>rum est, qui non legat, Foderunt manus meas, &amp; pedes meos. Textus vero 
+      <lb ed="#C" n="24"/>Hebraici habent, non foderunt, Caris, sed Caari, tanquam Leo. Res pondeo, 
+      <lb ed="#C" n="25"/>hoc vnum posse ab illis probabile in fontibus Hebraicis corruptelae 
+      in<lb ed="#C" n="26" break="no"/>dicium inveniri. Sed &amp; hunc quoque facile est locum ab illorum 
+      ca<lb ed="#C" n="27" break="no"/>lumnia vindicare. Nam primo viri docti testantur, multos inveniri libros 
+      <lb ed="#C" n="28"/>Hebraicos, in quibus legatur Caru. Andradius, Defens. Trid. Lib. 4. &amp; 
+      <lb ed="#C" n="29"/>Galatinus, Lib. 8. c. 17. &amp; lohannes Isaacus se librum eiusmodi vidisse 
+      <lb ed="#C" n="30"/>scribit, Lib. 2. contra Lindanum: &amp; ipsi etiam Massoritae ita fuisse in 
+      <lb ed="#C" n="31"/>nonnullis emendatis exemplaribus scriptum confirmant. Seoundo, Iniis 
+      <lb ed="#C" n="32"/>libris, qui hanc lectionem habent, Massontae eam non esse in trita 
+      suasig<lb ed="#C" n="33" break="no"/>nificatione sumendam docent: ex quo manifestum est, nihil minus 
+      il<lb ed="#C" n="34" break="no"/>lis in mente fuisse, quam vt locum corrumperent. Tertio, Locus ille non 
+      <lb ed="#C" n="35"/>aliter nunc legitur, quam olim ante Hieronymi aetatem legebatur.  
+      <lb ed="#C" n="36"/>Nam &amp; Chaldaeus Paraphrastes viramque lectionem coniunxit, &amp; 
+      Mas<lb ed="#C" n="37" break="no"/>soritae duplicem fuisse huius loci lectionem testantur. Et Hieronymus 
+      <lb ed="#C" n="38"/>in Psalterio suo Hebraice legit Caari, vt nostri libri habent, sed vertit, 
+      <!--124.xml-->
+      <pb ed="#L" n="115"/>
+               <lb ed="#C" n="1"/>Firerunt. Ita esse post Hieronymi aetatem corruptos a Iudaeis fontes 
+      He<lb ed="#C" n="2" break="no"/>braicos, ex hoc sane loco nunquam evincetur. Quartus locus, Psal. 
+      <lb ed="#C" n="3"/>19. 5. In quo libri Hebraici habent, Inomnem terram exivit Linea eorum, 
+      <lb ed="#C" n="4"/>cum tamen Septuaginta verterunt, φθεγνος αυτον, sonus eorum: &amp; hanc 
+      <lb ed="#C" n="5"/>versionem approbaverit beatus Paulus, Rom. 10. 18. Respondeo cum 
+      Ge<lb ed="#C" n="6" break="no"/>nebrardo in suis scholijs in hunc locum, nomen Hebraicum 
+      significa<lb ed="#C" n="7" break="no"/>re quidem lineam, sed septuaginta interpretes respexisse ad sensum, 
+      <lb ed="#C" n="8"/>eosque Apostolum esse sequutum. Illa enim coelorum linea, vel, vt 
+      Tre<lb ed="#C" n="9" break="no"/>mellius transtulit, delineatio, id est illa machina, structuraque orbium 
+      coele<lb ed="#C" n="10" break="no"/>stium, quodammodo ad amussim expolita, infinitam artificis potentiam, 
+      <lb ed="#C" n="11"/>sapientiamque praedicat. Quintus locus est, Exod. cap. 2. in quo deest? 
+      <lb ed="#C" n="12"/>haec integra sententia, Alium quoque genuit, &amp; vocavit nomen eius 
+      Elie<lb ed="#C" n="13" break="no"/>zer, dicens, Deus patris mei auxiliatus est mii, &amp; liberavit me de manu 
+      Pha<lb ed="#C" n="14" break="no"/>raonis. Respondeo: in hoc loco Latini potius, quam Hebraici codices 
+      cor<lb ed="#C" n="15" break="no"/>rupti sunt. Nam ille obeliscus, quem his verbis Latini codices, etiam 
+      <lb ed="#C" n="16"/>Lovanienses, inustum habent, totam sententiam etiam esse de libris 
+      La<lb ed="#C" n="17" break="no"/>tinis tollendam arguit, idque doctiores etiam, syncetioresque Papistae 
+      <lb ed="#C" n="18"/>confitentur. Sic enim Caletanus in commentariis in hunc locum 
+      scri<lb ed="#C" n="19" break="no"/>bit: Tota ista particula de secundo filio superflua est. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e1212">
+               <lb ed="#C" n="20"/>Atque haec illa sunt, quae in fontibus Hebraicis reprehendere 
+      Bellar<lb ed="#C" n="21" break="no"/>minus potuit, in quibus tamen nihil fuit, quod reprehensionem 
+      ali<lb ed="#C" n="22" break="no"/>quam, aut emendationem postularet. Verum si haec esse in fontibus 
+      viti<lb ed="#C" n="23" break="no"/>osa concederemus (quod tamen nullo modo facimus, &amp; contrarium 
+      <lb ed="#C" n="24"/>evicimus) quid tamen hinc Adversarij nostri concludent? Num 
+      fon<lb ed="#C" n="25" break="no"/>tes Hebraicos esse rivulis Latinis corruptiores, aut Latinam editionem: 
+      <lb ed="#C" n="26"/>esse authenticam sequeretur? Quo tandem modo? quasi aut libri 
+      Cano<lb ed="#C" n="27" break="no"/>nici Scripturarum non possent a librarijs vitiose interdum describi, aut 
+      <lb ed="#C" n="28"/>nobis non esset facillimum, multo plura in editione Latina invenire 
+      vi<lb ed="#C" n="29" break="no"/>tia, quae defendi nec debent, nec possunt, vt statim audiemus. Atque hic 
+      <lb ed="#C" n="30"/>quidem Iesuita causam Pontificiam prodidit. Nam vt decreti 
+      Tridentini<lb ed="#C" n="31" break="no"/>ratio constet, defendi omnino oportet, textum Hebraicum esse 
+      corrup<lb ed="#C" n="32" break="no"/>tissimum, &amp; Latinum esse purum, quod Lindanus atque Canus facere 
+      co<lb ed="#C" n="33" break="no"/>nantur, idque authoritate impulsi huius decreti Tridentini. At 
+      Bellarmi<lb ed="#C" n="34" break="no"/>nus non modo hoc minime facit, sed &amp; Lindanum, Canumque 
+      repre<lb ed="#C" n="35" break="no"/>hendit, qui fontes Hebraicos a ludaeis comuptos esse dixerint. Quod  
+      <lb ed="#C" n="36"/>quanquam isti sane vehementer contendunt, tamen ab ipso 
+      quodam<lb ed="#C" n="37" break="no"/>modo senatu doctiorum, &amp; saniorum Papistarum, iamdudum explosa 
+      il<lb ed="#C" n="38" break="no"/>la sententia fuit. Sixtus Senensis, Lib. 8. Haeres. 2. sic ait: Dici non potest, 
+      <!--125.xml-->
+      <pb ed="#L" n="116"/>
+               <lb ed="#C" n="1"/>divinas veteris Testamenti Scripturas aut Iudaeorum, aut Christianorum. 
+      <lb ed="#C" n="2"/>malignitate falsatas: quod multis statim argumentis demonstrat. Similes. 
+      <lb ed="#C" n="3"/>liceret ex alijs Papisticis authoribus proferre sententias. Itaque iam, sit 
+      <lb ed="#C" n="4"/>fontes sacrae Scripturae non tam flagitiose corrupti fuerunt, vlla ludaeorum 
+      <lb ed="#C" n="5"/>aut Adversariorum malitia, quam alij imperite suspicati sunt; sique in 
+      fon<lb ed="#C" n="6" break="no"/>tes nulli ermores irrepsennt, nisi qui possent in quemvis librum casu aliquo 
+      <lb ed="#C" n="7"/>invehi, vt Adversarij disertissime concedunt, quamobrem tandem 
+      Tu<lb ed="#C" n="8" break="no"/>dentini Patres, non fontes potius summa cura studioque purgari, quam 
+      <lb ed="#C" n="9"/>Latinae editionis coenosum rivulum fontibus praeponi, fierique authenticum 
+      <lb ed="#C" n="10"/>praeciperent? Nam qui Latinam esse authenticam Scripturam asserunt, 
+      ij<lb ed="#C" n="11" break="no"/>fontes Hebraicos Graecosque obstruunt: quod tamenisu facere videri 
+      no<lb ed="#C" n="12" break="no"/>lunt, sed faciunt tamen, dum fontes non esse authenticos definiunt. Sic 
+      i<lb ed="#C" n="13" break="no"/>gitur argumentationem instituo: Si fontes non sunt authentici, hoc ideo 
+      <lb ed="#C" n="14"/>fit, quia comupti sunt: at commupti non sunt, ergo authentici sunt De Maiore 
+      <lb ed="#C" n="15"/>nemo litigabit. Quid enim aliud proferetur, quo minus vt aliquando 
+      au<lb ed="#C" n="16" break="no"/>thentici fuerunt, ita etiam hodie authentici &amp; sint, &amp; habeantur? Quod ad 
+      <lb ed="#C" n="17"/>Minorem attinet; Si corruptos esse responderint, quero, industriane 
+      Adver<lb ed="#C" n="18" break="no"/>sariorum, an casu? si illud dicunt, quos tandem Adversarios intelligunt: 
+      <lb ed="#C" n="19"/>de vetere Testamento nullos, praeterquam Iudaeos, somniare possunt. 
+      Iu<lb ed="#C" n="20" break="no"/>daeos vero ipsi Papistae, vt audistis, &amp; ipse Bellarminus excusat: &amp; sunt,  
+      <lb ed="#C" n="21"/>omnino culpa vacui. Nam quando tandem corrumperent? Non 
+      anter<lb ed="#C" n="22" break="no"/>Christum: nec post Christum, per annos 400. Tum enim illos hoc 
+      nomi<lb ed="#C" n="23" break="no"/>ne &amp; Christus reprehendisset, &amp; Doctores Ecclesiae. Sed illorum potius in 
+      <lb ed="#C" n="24"/>fontibus conservandis fidem diligentiamque laudant, illosque Scripturarum, 
+      <lb ed="#C" n="25"/>Capsarios vocant. Deinde, si fontes Scripturarum corrumpere. Iudaei 
+      volu<lb ed="#C" n="26" break="no"/>issent, in ea loca praecipue manus sacrnilegas iniecissent, quae Christum 
+      at<lb ed="#C" n="27" break="no"/>tingunt, fidemque confirmant. At in his locis sontes tam pure fluunt, 
+      ve<lb ed="#C" n="28" break="no"/>nihil desideres: multoque etiam interdum purius, quam rivuli Latini: vt. 
+      <lb ed="#C" n="29"/>Psal. 2. Latini codices habent, eAmplectimini disciplinam: quae lectio, 
+      ni<lb ed="#C" n="30" break="no"/>hil de Christo magnificum praedicat. Hebraici vero fontes nos ad filium 
+      <lb ed="#C" n="31"/>Dei deducunt, eiusque amplissimum imperium in omnes celebrant, 
+      Os<lb ed="#C" n="32" break="no"/>culamini filium. Quod &amp; de aliis multis locis affirmari potest. Iohannes 
+      <lb ed="#C" n="33"/>Isaacus ludaeus, Lib. 2. contra Lindanum, scribit plusquam ducenta 
+      ar<lb ed="#C" n="34" break="no"/>gumenta contra ludaicas opiniones ex Hebraico textu fortius colligit 
+      <lb ed="#C" n="35"/>posse, quam Latina transsatione. Similiter Andradius, Lib. 4. Defens. Qui  
+      <lb ed="#C" n="36"/>(inquit) Hebraea pie &amp; religiore tractant, multo in illis ampliora de Christo 
+      <lb ed="#C" n="37"/>testimonia, quam in Latinis, Graecisque offendunt. Quod olimetiam 
+      Hiero<lb ed="#C" n="38" break="no"/>nymus contestanis est, Epist. 74. ad Marcell. Sin casu aliquo corruptos 
+      <!--126.xml-->
+      <pb ed="#L" n="117"/>
+               <lb ed="#C" n="1"/>esse fontes dixerint, idipsum &amp; nos quoqe, multoque iustius, de ipsorum 
+      <lb ed="#C" n="2"/>Latina versione affirmare possumus. Nam hic calus non minus ad 
+      La<lb ed="#C" n="3" break="no"/>tinos, quam Hebraeos, Graecosque libros pertinet. 
+      </p>
+            <p xml:id="wWpoi1-de9729-d1e1353">
+               <lb ed="#C" n="4"/>Oudecimum argumentum: Latina vulgata editio est certissime 
+      apertis<lb ed="#C" n="5" break="no"/>simeque corrumpta, &amp; corruptelas intelligo non fortuitas aut leves, aut 
+      <lb ed="#C" n="6"/>communes, quales Librariorum indiligentia saepe in multis libris 
+      pepe<lb ed="#C" n="7" break="no"/>rit; sed in ipsa editione penitus insitas, &amp; graves, &amp; nullo modo 
+      toleran<lb ed="#C" n="8" break="no"/>das. Unde argumentum longe maximum contra huius editionis 
+      autho<lb ed="#C" n="9" break="no"/>ritatem colligitur. Hac de re multi doctissimi viri, etiam Papistae, 
+      scripse<lb ed="#C" n="10" break="no"/>runt, <name xml:id="wWpoi1-de9729-Nd1e1370">Valla</name>, <name xml:id="wWpoi1-de9729-Nd1e1373">Isaacus</name>, <name xml:id="wWpoi1-de9729-Nd1e1376">Erasmus</name>, (si modo illum in aliquo suorum numero 
+      <lb ed="#C" n="11"/>reponunt) Clarius, quem hoc nomine Canus gravissime perstringit. Sed  
+      <lb ed="#C" n="12"/>res certa &amp; manifesta est. Tamen hic Iesuita, qui ante non erat ausus 
+      fon<lb ed="#C" n="13" break="no"/>tes Hebraicos accusare, pro Latina editione laborat, multumque &amp; 
+      Rem<lb ed="#C" n="14" break="no"/>nitio, &amp; Calvino, &amp; aliis respondet. In quo nullum habet maiorem, quam 
+      <lb ed="#C" n="15"/>se, adversarium. Nam nisi fontes Hebraici &amp; Graeci tupissime cormupti 
+      fu<lb ed="#C" n="16" break="no"/>erint, corruptam esse turpissime Latinam hanc editionem sequitur, vtpote 
+      <lb ed="#C" n="17"/>quae ab illis fontibus admodum in omnibus libris discrepet. Quis enim 
+      <lb ed="#C" n="18"/>non hinc perspiciat, aut fontes esse corruptissimos, aut Latinam vulgatam 
+      <lb ed="#C" n="19"/>editionem innumeris vitiis abundare? Non enim in tanta lectionum 
+      vari<lb ed="#C" n="20" break="no"/>etate atque repugnantia, quanta interfontes &amp; hanc Latinam editionem: 
+      <lb ed="#C" n="21"/>reperitur, dici aut fingi potest, nihil esse nisi syncerum atque incorruptum. 
+      <lb ed="#C" n="22"/>Quare vtranque hanc defensionem <name xml:id="wWpoi1-de9729-Nd1e1405">Bellarminus</name> sustinete ac probare non 
+      <lb ed="#C" n="23"/>potuit: estque illi omnino necessarium, vt vel fontes Hebraicos veteris, 
+      <lb ed="#C" n="24"/>Graecosque novi Testamenti, vel Latinam editionem in vtroque misere 
+      <lb ed="#C" n="25"/>corruptam esse fateatur. Quisquis enim hanc Latinam cum sontibus. 
+      <lb ed="#C" n="26"/>comparabit, insignem discrepantiam passim inveniet. Ego si huius 
+      e<lb ed="#C" n="27" break="no"/>ditionis errores omnes persequi vellem, finem non facerem, vestrasque 
+      <lb ed="#C" n="28"/>autes inamaena quadam prolixitate obtunderem. Quid hac de re alii 
+      scri<lb ed="#C" n="29" break="no"/>pserunt, legere vobis vacabit. Mihi sufficiet, quod etiam necesse est, 
+      vt<lb ed="#C" n="30" break="no"/>quaedam huius editionis vitia proponam, unde eam esse revera 
+      corrup<lb ed="#C" n="31" break="no"/>tam &amp; vitiosam appareat. Cumque mihi liceret multa loca in medium 
+      <lb ed="#C" n="32"/>afferre, &amp; librorum etiam, capitumque singulorum ordinem prosequi,  
+      <lb ed="#C" n="33"/>insistam potius in <name xml:id="wWpoi1-de9729-Nd1e1432">Bellarmini</name> vestigiis, eiusque quorundam locorum 
+      de<lb ed="#C" n="34" break="no"/>fensionem examinabo. Et primum quae a Remnitio notata erant vitia 
+      <lb ed="#C" n="35"/>vulgatae editionis in vetere Testamento; tum quae a Calvino in Psalmis: 
+      <lb ed="#C" n="36"/>postremo, quae ab aliis in Latina editione novi Testamenti, sigillatim 
+      <lb ed="#C" n="37"/>proponit, ac defendit, Ista nos excutiemus, atque vt occasio tulerit, 
+      non<lb ed="#C" n="38" break="no"/>nulla interponemus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

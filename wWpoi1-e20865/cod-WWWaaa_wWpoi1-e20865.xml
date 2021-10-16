@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="226"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e20865"><!-- con1q3c6 -->
+            <head xml:id="wWpoi1-e20865-Hd1e106">Caput 6</head>
+            <p xml:id="wWpoi1-e20865-d1e109">
+               <lb ed="#C" n="16"/>CAPTTTI 
+      <lb ed="#C" n="17"/>CAPUTTI 
+      </p>
+            <p xml:id="wWpoi1-e20865-d1e116">
+               <lb ed="#C" n="18"/>respondetur,  
+      <lb ed="#C" n="19"/>SEquitur iam quartum eius argumentum, quod Lib. 9. cap. 7. 
+      tra<lb ed="#C" n="20" break="no"/>Dctatur, &amp; est huiusmodi: Libri secundi generis Apoctyphi, ideo 
+      <lb ed="#C" n="21"/>non sunt pro divinis habiti, quia Ecclesia eos nunquam approbare 
+      vo<lb ed="#C" n="22" break="no"/>luit: Ergo totum hoc negotium. (de recipiendis nimirum: &amp; rejiciendis 
+      <lb ed="#C" n="23"/>libris) pendet ex authoritate &amp; iudicio Ecclesiae. Secundigeneris 
+      Apo<lb ed="#C" n="24" break="no"/>cryphos vocat, qui vel ab haereticis, vel a Philosophis, vel ab aliis, 
+      sub<lb ed="#C" n="25" break="no"/>Apostolorum nomine, editi sunt; cuiusmodi fuerunt Apoc alypsis Pauli, 
+      <lb ed="#C" n="26"/>Evangelium ludae Iscariotae, Evangelium Thomae, Evangelium Mathiae, 
+      <lb ed="#C" n="27"/>Evangelium Andreae, &amp; Evangelium, Detri, quae a Philosophis edita 
+      fuis<lb ed="#C" n="28" break="no"/>se testatur Innocent. 1. Papa, Epist. tertia. Hos libros (inquit Stapleto: 
+      <lb ed="#C" n="29"/>nus) Ecclesia rejecit, ac repudiavit: Ergo pertinet ad Ecclesiam de libris 
+      <lb ed="#C" n="30"/>Canonicis statuere, &amp; certum Scripturarum Canonem consignane. ρ 
+      <lb ed="#C" n="31"/>spondeo, hoc argumentum nihil confirmare, idque tribus de causis. H 
+      <lb ed="#C" n="32"/>ma, Quia nos supra concessimus, ad officium atque adeo ad authoritatem 
+      <lb ed="#C" n="33"/>Ecclesiae pertinere, vt libros veros &amp; genuinos ab adulterinis distinguat  
+      <lb ed="#C" n="34"/>Habet enim Spiritum Dei, quo edocta vocem sponsi sui audit, &amp; eius 
+      <lb ed="#C" n="35"/>doctrinam agnoscit. Idem enim Spiritus, quo illi libri scripti sunt, 
+      adhuc<lb ed="#C" n="36" break="no"/>in Ecclesia residet, licet non eadem semper mensura. Hoc ergo totum 
+      <lb ed="#C" n="37"/>concedimus: sed quaerimus num ergo sequatur, nos nullo alio κριmριο 
+      <!--236.xml-->
+      <pb ed="#L" n="227"/>
+               <lb ed="#C" n="1"/>iudicare posse, hos libros improbandos &amp; respuendos esse, nisi quod 
+      Ec<lb ed="#C" n="2" break="no"/>clesia eos non esse Canonicos indicaverit? Quis tam dissolute atque 
+      in<lb ed="#C" n="3" break="no"/>epte concluderet, qui se legitimis argumentis causam obtinere posse 
+      con<lb ed="#C" n="4" break="no"/>fideret? Nos quidem alia esse dicimus argumenta Doceant enim illi 
+      qui<lb ed="#C" n="5" break="no"/>bus argumentis Ecclesia inducta hos libros supposititios iudicaret, &amp; 
+      e<lb ed="#C" n="6" break="no"/>gorespondebo nos etiamiisdem argumentis induci posse vt idem 
+      iudi<lb ed="#C" n="7" break="no"/>cemus. Secunda, Nos concedimus contra haereticos, ab Ecclesiae 
+      autho<lb ed="#C" n="8" break="no"/>ritate &amp; consensu argumentum sumi posse, vt quia scilicet tota 
+      Ecclesia<lb ed="#C" n="9" break="no"/>hos libros rejecit, ideo eos merito rejiciendos esse fateamur. Quis enim 
+      <lb ed="#C" n="10"/>tam audax atque impudens est, quem non Ecclesiae Catholicae authoritas 
+      <lb ed="#C" n="11"/>magnopere permoveat? Ea hos libros vidit &amp; examinavit, &amp; melius 
+      de<lb ed="#C" n="12" break="no"/>illis iudicare potest, quam privatus quisquam, quia maiorem &amp; 
+      amplio<lb ed="#C" n="13" break="no"/>rem copiam Spiritus sancti ac iudicij habet: ea libros aliquos tanto 
+      iudi<lb ed="#C" n="14" break="no"/>cio ac consilio reiecit, nos eos retinere, nulla ratione freti, non debemus. 
+      <lb ed="#C" n="15"/>Hoc igitur argumentum contra haereticos valet plurimum, &amp; haeretici: 
+      <lb ed="#C" n="16"/>valde illo premivrgerique possunt, nec haeretici tantum, verum &amp; alij 
+      e<lb ed="#C" n="17" break="no"/>tiam Adversarij, qui volunt vel recipere supposititios, vel vere 
+      Canoni<lb ed="#C" n="18" break="no"/>cos respuere. Atque hoc quidem argumento Patres saepe vsi sunt, 
+      nun<lb ed="#C" n="19" break="no"/>quam tamen dixerunt totum hoc ex Ecclesiae authoritate pendere, aut  
+      <lb ed="#C" n="20"/>hoc vel solum argumentum, vel maximum esse, quo haeretici atque alij  
+      <lb ed="#C" n="21"/>Adversarii, de libris his male sentientes, redarguantur: sed alia 
+      praeterea<lb ed="#C" n="22" break="no"/>argumenta esse graviora concedunt. Immo quidam etiam ex his ipsis 
+      <lb ed="#C" n="23"/>Patribus, quos Stapletonus commemorat, aliis hac in re argumentis vsi 
+      <lb ed="#C" n="24"/>sunt, vt postea patebit. Tertia, Illi igitur Patres, qui hoc argumento vsi 
+      <lb ed="#C" n="25"/>sunt, quod ab Ecclesiae authoritate sumitur, non reiecerunt hos libros 
+      A<lb ed="#C" n="26" break="no"/>pocryphos secundi generis, propter suam dunt axat authoritatem, &amp; 
+      pro<lb ed="#C" n="27" break="no"/>pter externum tantum Ecclesiae iudicium, quasi in foro aliquo habitum, 
+      <lb ed="#C" n="28"/>sed propter alia argumenta, quae ex ipsis libris petita ac desumpta sunt.  
+      <lb ed="#C" n="29"/>Habebant enim illi libri apertos errores, &amp; prava dogmata, ex quibus 
+      Ec<lb ed="#C" n="30" break="no"/>clesia facile iudicare potuit, eos supposititios plane ac commentitios, 
+      <lb ed="#C" n="31"/>non vere Canonicos libros fuisse. Hoc ipsorum Patrum testimonio 
+      con<lb ed="#C" n="32" break="no"/>stat, quos Stapletonus hac in causa pro se affert, Eusebii nimirum &amp; 
+      Au<lb ed="#C" n="33" break="no"/>gustini. 
+      </p>
+            <p xml:id="wWpoi1-e20865-d1e238">
+               <lb ed="#C" n="34"/>Eusebius enim Lib. 32. &amp; cap. 25. in Graeco codice, verba faciens 
+      <lb ed="#C" n="35"/>de Evangelio Thomae, Petri, Mathiae, &amp; reliquis Apocryphis secundi 
+      <lb ed="#C" n="36"/>generis, in fine causam exponit, quate hi libri sint ab Ecclesia rejecti, 
+      hu<lb ed="#C" n="37" break="no"/>iusmodi verbis: Ipsa dictio, character, &amp; phrasis non sunt Apostolica; 
+      <lb ed="#C" n="38"/>ipsum institutum multum dissidet ab orthodoxa religione ac doctrina; 
+      <!--237.xml-->
+      <pb ed="#L" n="228"/>
+               <lb ed="#C" n="1"/>ac proinde merito, tanquam spurij libri &amp; haereticorum figmenta, 
+      rejici<lb ed="#C" n="2" break="no"/>untur. Praestat loquentem ipsum audire Eusebium: Iloρρν δε ωυ κιο τ φρασεως 
+      <lb ed="#C" n="3"/>ωρα τοηθοσ τοθτσολικον ενθραηει χαρακιρ, στε γνωμη, κι τασ αν αυτοις φερομηνον,  
+      <lb ed="#C" n="4"/>ωροριρεσιν, πειςον υσον τ ἀληδεσ ὀρθοδυζιας ἀπαδεσα, ὅη δα αιρετικον αυορον ἀνα¬ 
+      <lb ed="#C" n="5"/>λασματα τθλχανσ σαρασ παρισηην: ὀθεναφ εν νοθοις αυτα κατάτακλον, αλλ ως ἀτο¬ 
+      <lb ed="#C" n="6"/>τa πάθτη κι δινεθη σροειτηιον. Atque hic observanda nobis Stapletoni fides 
+      <lb ed="#C" n="7"/>est: voluit ille ex Eusebij tessimonio probare, rejiciendos esse hos libros, 
+      <lb ed="#C" n="8"/>ob nullam aliam causam, nisi quia eos Ecclesiareiecit, &amp; citat locumex 
+      <lb ed="#C" n="9"/>hoc ipso capite verbis proxime praecedentibus, que sunt huiusmodi. emo 
+      <lb ed="#C" n="10"/>ex scriptoribus Ecclesiasticis dignatus est usquam in suis scriptis hos libros in 
+      <lb ed="#C" n="11"/>memoriam redigere: atque ibi Eusebijtestimonium interrumpit: Statime 
+      <lb ed="#C" n="12"/>vero superiora verba subsequuntur, quae quoniam contra illum 
+      facie<lb ed="#C" n="13" break="no"/>bant, prorsus omisit. Illis enim verbis Eusebius, praeter Ecclesiae 
+      testimo<lb ed="#C" n="14" break="no"/>nium, tradit duobus alijs modis &amp; indiciis intelligi posse hos libros 
+      Ca<lb ed="#C" n="15" break="no"/>nonicos non esse: Primo, τῳ χαρακτηρετ φώσεως, ex phrasi &amp; charactere, 
+      <lb ed="#C" n="16"/>quia nunquamita scripserunt, nunquam ita loquuti sunt Apostoli. Unde 
+      <lb ed="#C" n="17"/>apparet, ex Eusebij sententia, phrasin etiam esse Canonicorum librorum 
+      <lb ed="#C" n="18"/>indicem. Secundo, τη γυώμν καιτν ωροαιριση, ex sententia &amp; instituto, hoc  
+      <lb ed="#C" n="19"/>est, ex ipso genere doctrinae his libris tradite, quae dici non potest (inquit  
+      <lb ed="#C" n="20"/>Eusebius) quantum a sana doctrina &amp; ab Orthodoxa religione 
+      dissenti<lb ed="#C" n="21" break="no"/>at, adeo vt non tantum non recipiendi, sed tanquam impuri &amp; scelerati 
+      <lb ed="#C" n="22"/>foetus haereticorum, repudiandi &amp; detestandi sint. At Stapletonus nobis 
+      <lb ed="#C" n="23"/>persuadere vult, hos libros nullo alio nomine rejici debuisse, quam quia 
+      <lb ed="#C" n="24"/>Ecclesia cos rejecit. Praeterea, idem Eusebius eodem libro, cap. 32. 
+      dispu<lb ed="#C" n="25" break="no"/>tationem Petri cum Appione obeam causam rejicit, quod puram illam 
+      <lb ed="#C" n="26"/>&amp; synceram Apostolicae orthodoxaeque doctrinae notam minime 
+      retine<lb ed="#C" n="27" break="no"/>ret. Oυδeγί (in quit) καθαρον ἐτοσελικῆς ὀρθρώοζιας θποοζει τ χαρακτῆρα: quasi 
+      <lb ed="#C" n="28"/>diceret, manifestum est hanc disputationem nullius Apostoli fuisse, cum 
+      <lb ed="#C" n="29"/>fidei, ac praedicationis Apostolicae recta genuinaque nota careat: non 
+      <lb ed="#C" n="30"/>congruit cum doctrina Detri, igitur Petro falso ascribitur.  
+      </p>
+            <p xml:id="wWpoi1-e20865-d1e321">
+               <lb ed="#C" n="31"/>Atque haec de Eusebij testimonio. Nunc ad Augustinum accedo, quid  
+      <lb ed="#C" n="32"/>certe nunquam ita scripsit, vteum Stapletonus scripsisse affirmat, sed lone 
+      <lb ed="#C" n="33"/>ge aliter. Non enim ait hos libros pro Apocryphis habitos fuisse, propter  
+      <lb ed="#C" n="34"/>eait duntaxat causam, quod sic Ecclesia senserit ac nidic arit; sed quia 
+      <lb ed="#C" n="35"/>pleni mendaciorum fuerint, multaque in se impia &amp; falsa habuerint.  
+      <lb ed="#C" n="36"/>Nam in tractat. 98. in lohannem, mentionem faciens Apoc alypseωs 
+      <lb ed="#C" n="37"/>Pauli, ait ab Ecclesia receptam non esse: sed quareynum quia eam aut 
+      re<lb ed="#C" n="38" break="no"/>cipere, aut non recipere, in solius Ecclesiae iudicio positum fuit? Nequa¬ 
+      <!--238.xml-->
+      <pb ed="#L" n="229"/>
+               <lb ed="#C" n="1"/>quam: sed quia conficta fuit a vanis quibusdam hominibus, &amp; quia 
+      plena<lb ed="#C" n="2" break="no"/>fuit fabulis. Quid autem? librumne a vanis hominibus confictum, &amp; 
+      fa<lb ed="#C" n="3" break="no"/>bularum etiam plenum, nulla alia ratione reiicimus, quam propter 
+      Ec<lb ed="#C" n="4" break="no"/>clesiae testimonium? imo quia talis est. Nam certe ob eandem causam, 
+      <lb ed="#C" n="5"/>ob quam reiecit Ecclesia, nobis quoque talem librum rejicere necesset 
+      <lb ed="#C" n="6"/>est. Idem etiam Augustinus, Lib. 225. contra Faustum Manichaeum, 
+      <lb ed="#C" n="7"/>cap. 79. ait, Manichaeos lepere libros quosdam a sutoribus fabularum 
+      <lb ed="#C" n="8"/>conscriptos: intelligit vero Evangelium Mathiae, Andreae, Petri, &amp; 
+      re<lb ed="#C" n="9" break="no"/>liquos illos libros, quos antea Stapletonus nominavit. Non sunt ergo his 
+      <lb ed="#C" n="10"/>libri olim ab Ecclesia recepti, quia fabulis pleni fuerunt, non tantum 
+      <lb ed="#C" n="11"/>quia eos Ecclesia repudiare voluit. Idem praeterea Augustinus, Lib. 1. 
+      <lb ed="#C" n="12"/>cap. 1. de consensu Evangelistarum disputat, quare, cum tam multi de 
+      <lb ed="#C" n="13"/>rebus gestis &amp; doctrina tum Christi tum Apostolorum scripserunt, 
+      qua<lb ed="#C" n="14" break="no"/>tuor tantum Evangelia &amp; Acta Apostolorum recepta sint, reliqui vero 
+      <lb ed="#C" n="15"/>libri non sint recepti: &amp; duas causas reddit: Primam, Quia illi homines, 
+      <lb ed="#C" n="16"/>qui istos libros scripserunt, non erant eiusmodi, vt Ecclesia eos fide 
+      dig<lb ed="#C" n="17" break="no"/>nos iudicaret, hoc est, non fuerunt extraordinarijs Spiritus sancti donis 
+      <lb ed="#C" n="18"/>pornati, &amp; ad hanc rem instructi, sicut ij omnes esse debent, qui sacra ac 
+      <lb ed="#C" n="19"/>divina scribunt. Secundam. Quia non ea fide scripserunt, qua reliqui, sed  
+      <lb ed="#C" n="20"/>nonnulla scripserunt, quae a fide Catholica &amp; doctrinae Apostolicae 
+      regu<lb ed="#C" n="21" break="no"/>la discrepant &amp; dissentiunt. Ergo Patres ipsi concedunt, alia esse 
+      argu<lb ed="#C" n="22" break="no"/>menta, quibus hi libri rejiciantur, praeter solam Ecclesiae authoritatem. 
+      <lb ed="#C" n="23"/>Quod ad Acta vero Apostolorum attinet, scribit eodem loco 
+      Augusti<lb ed="#C" n="24" break="no"/>nus, nullos alios ea fide scripsisse, qua scripsit Lucas, ac proinde huius 
+      soli<lb ed="#C" n="25" break="no"/>us librum receptum esse. Quid dici apertius potuit? pugnabant hi 
+      libri<lb ed="#C" n="26" break="no"/>cum regula atque analogia fidei, ergo recipiendi non erant, nec eos 
+      reci<lb ed="#C" n="27" break="no"/>pere Ecclesia potuit, nec ei aliter facere, quam tales libros rejicere ac 
+      <lb ed="#C" n="28"/>damnare, licuit. Quemadmodum autem illos libros olim Ecclesia 
+      pro<lb ed="#C" n="29" break="no"/>pter hanc causam repudiavit, sic eosdem quoque nos, si nunc 
+      remane<lb ed="#C" n="30" break="no"/>rent, hoc ipso nomine respueremus atque damnatemus. Atque de 
+      quar<lb ed="#C" n="31" break="no"/>to Stapletoni argumento hactenus: iam restat vt ad quintum eius 
+      argu<lb ed="#C" n="32" break="no"/>mentum accedamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

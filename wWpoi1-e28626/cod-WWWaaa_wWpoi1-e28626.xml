@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="314"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e28626"><!-- con1q5c4 -->
+            <head xml:id="wWpoi1-e28626-Hd1e106">Caput 4</head>
+            <p xml:id="wWpoi1-e28626-d1e109">
+      <!--323.xml-->
+               <pb ed="#L" n="314"/>
+               <lb ed="#C" n="1"/>CAPVT QVARTVM. 
+      <lb ed="#C" n="2"/>Argumenta Adversariorum ex vetere Testamento 
+      <lb ed="#C" n="3"/>sumpta remgvegtir: 
+    </p>
+            <p xml:id="wWpoi1-e28626-d1e122">
+               <lb ed="#C" n="4"/>IStam causam <name xml:id="wWpoi1-e28626-Nd1e126">Stapletonus</name> fuse admodum &amp; confuse tractavit. Ejus 
+      <lb ed="#C" n="5"/>argumenta Iesuita brevius contraxit: cum illo ergo nostrum hoc  
+      <lb ed="#C" n="6"/>certamen potissimum instituetur. Profert vero ille argumenta numero 
+      <lb ed="#C" n="7"/>quatuor; quorum primum est ab authoritate veteris Testamenti, 
+      secun<lb ed="#C" n="8" break="no"/>dum vero ab authoritate novi Testamenti, tertium a communipraxi 
+      Ec<lb ed="#C" n="9" break="no"/>clesiae Patrumque testimoniis, quartum a ratione necessaria. Ex veteri 
+      <lb ed="#C" n="10"/>Testamento septem testimonia citat, quae nos ordine examinabimus. 
+      <lb ed="#C" n="11"/>Primus locus habetur, Exod. 18. 13. 26. ex quo loco ita ratiocinatur:  
+      <lb ed="#C" n="12"/>Postquam populus Dei fuit congregatus, &amp; in Ecclesiae formam 
+      reda<lb ed="#C" n="13" break="no"/>ctus, Moses tanquam summus iudex sedebat: &amp; postea etiam, cum alij  
+      <lb ed="#C" n="14"/>iudices constituti essent, ipse tamen difficiliores controversias sibi 
+      diju<lb ed="#C" n="15" break="no"/>dicandas reservavit: ergo &amp; nunc etiam in Ecclesia debet esse vnum 
+      <lb ed="#C" n="16"/>commune tribunal, &amp; summus aliquis index &amp; moderator omnium 
+      con<lb ed="#C" n="17" break="no"/>troversiarum, a quo provocare non liceat. Respondeo primo, Moses fuit 
+      <lb ed="#C" n="18"/>Propheta singulari sapientia praeditus, extraordinarius a Deo donis 
+      orna<lb ed="#C" n="19" break="no"/>tus, divinis etiam testimoniis populo commendatus, &amp; a Deo ipsoduione 
+      <lb ed="#C" n="20"/>missus. Papa vero nihil tale habet. Si enimtalis sit, ostendat nobis dona 
+      <lb ed="#C" n="21"/>illa extraordinaria, quibus praeditus est, &amp; testimonia illa, quibus est a Deo 
+      <lb ed="#C" n="22"/>Ecclesiae coimendatus, atque ita nobis fidem faciat. Secundo: 
+      Fate<lb ed="#C" n="23" break="no"/>or in quavis Republica iudices esse debere, qui lites inter homines ortas 
+      <lb ed="#C" n="24"/>ditimant, &amp; earum finem faciant, licet non tanta authoritate, quanta 
+      <lb ed="#C" n="25"/>Moses: fateor etiam in singulis particularibus Ecclesiis ministros esse 
+      o<lb ed="#C" n="26" break="no"/>portere, qui Scripturas populo interpretentur, &amp; de voluntate Dei 
+      quae<lb ed="#C" n="27" break="no"/>rentibus respondeant: sed a singulis Ecclesiis ad totam vniversalem 
+      Ec<lb ed="#C" n="28" break="no"/>clesiam non valet argumentum. Nam tum etiam posset quis ex hoc 
+      lo<lb ed="#C" n="29" break="no"/>co concludere, debere esse inter omnes Christianos vnum 
+      summumpo<lb ed="#C" n="30" break="no"/>liticum judicem (quia Moses in Rep. Israelitica talis fuit) 
+      quisingula<lb ed="#C" n="31" break="no"/>disceptet, quae in controversiam vocantur. At ne ipsi quidem Bapistae 
+      <lb ed="#C" n="32"/>hoc postulant. Tertio, Affirmo oportere hoc Aaroni potius, quam Mofi 
+      <lb ed="#C" n="33"/>tribui, idque ob duas causas. Primo, quia Aaron fuit ordinarius sacerdos, 
+      <lb ed="#C" n="34"/>cui suc cessum est, non Moses, cuius extraordinarium munus fuit. 
+      Mo<lb ed="#C" n="35" break="no"/>si enim in suo munere nemo successit. At sacerdotes multi, qui post 
+      Aa<lb ed="#C" n="36" break="no"/>ronem certa successione primum locum in illa Ecclesia tenuerunt, 
+      ho<lb ed="#C" n="37" break="no"/>mines impij fuerunt &amp; Idololatrae, vtex sacris literis abunde constat. Se¬ 
+      <!--324.xml-->
+      <pb ed="#L" n="315"/>
+               <lb ed="#C" n="1"/>cundo, quia Moses non fuit sacerdos post legem latam, &amp; consecratum 
+      at<lb ed="#C" n="2" break="no"/>que vnctum Aaronem, nec sacerdotio functus omnino est, sed Propheta 
+      <lb ed="#C" n="3"/>tantum fuit; ergo illi non est tribuendum hoc indicium, quod ipsi volunt  
+      <lb ed="#C" n="4"/>sacerdoti tantum convenire. Quod vero legimus, Psal. 99. 6. Moses &amp;¬ 
+      <lb ed="#C" n="5"/>Aaron inter sacerdotes eius: Res pondeo, vel Hebraeum vocabulum 
+      signi<lb ed="#C" n="6" break="no"/>ficare viros primarios populi, vt 2. Sam. 8. 18. vbi Davidis filij dicuntur  
+      <lb ed="#C" n="7"/>fuisse Cohenim: Et Samuel non fuit Sacerdos, nec natus in familia 
+      sacer<lb ed="#C" n="8" break="no"/>dotali, vt in 1. Cron. 6. 27. videmus: vel Mosem dici sacerdotem, quia 
+      <lb ed="#C" n="9"/>fuerat sacerdos ante consecratum Aaronem: nam postea desiit sacerdos 
+      <lb ed="#C" n="10"/>esse, &amp; Propheta tantum ac magistratus fuit. Iesuita vero ait Mosem 
+      su<lb ed="#C" n="11" break="no"/>isse sacerdotem extraordinarium, &amp; maiorem Aarone. Et similitudine 
+      <lb ed="#C" n="12"/>quadam id illustrat, nempe in novo Testamento Petrum fuisse Pastorem. 
+      <lb ed="#C" n="13"/>ordinarium, reliquos Apostolos extraordinarios; quia Petro successum. 
+      <lb ed="#C" n="14"/>fuit, reliquis vero non fuit successum: ita Aaronem ordinarium fuisse 
+      sa<lb ed="#C" n="15" break="no"/>cerdotem, Mosen vero extraordinarium, quia Aaroni successum fuit, 
+      <lb ed="#C" n="16"/>Mosi vero non item. Sed hoc plane stupidum commentum est. Quis 
+      e<lb ed="#C" n="17" break="no"/>nim diceret Petrum fuisse ordinarium Pastorem, reliquos vero 
+      extraor<lb ed="#C" n="18" break="no"/>dinarios, cum omnes eandem vocationem &amp; idem mandatum a 
+      Chri<lb ed="#C" n="19" break="no"/>sto acceperint, vt patet Matth. 28P Deinde Hieronymus, in Epist. 8 5. 
+      <lb ed="#C" n="20"/>hoc palam refellit. Ait enim omnes Episcopos Apostolorum successores esse, 
+      <lb ed="#C" n="21"/>non vnius Petri. Sic Cyprianus, in Epist. 69. Atque idem, in Lib. de 
+      sim<lb ed="#C" n="22" break="no"/>plicitate Praelatorum, sic scribit: Hoc erant vtique &amp; caeteri Apostoli, quod 
+      fu<lb ed="#C" n="23" break="no"/>it Petrus, pari consortio praediti &amp; honoris, &amp; potestatis. Praeterea, si illa 
+      lesu<lb ed="#C" n="24" break="no"/>itae similitudo valet, cur non vt Moses superior fuit Aarone, quia ille 
+      ex<lb ed="#C" n="25" break="no"/>traordinarius erat sacerdos, hic ordinarius; sic &amp; reliqui Apostoli sint  
+      <lb ed="#C" n="26"/>Petro superiores, cum hic ordinarius Pastor fuerit, illi extraordinarij? 
+      <lb ed="#C" n="27"/>Nam certe in tebus divinis extra ordinaria ordinariis majora &amp; superiora 
+      <lb ed="#C" n="28"/>sunt. Ita vel alij Apostoli erant superiores Petro, vel haec similitudo 
+      Iesui<lb ed="#C" n="29" break="no"/>tae nullo modo cum instituto convenit. Quarto, Si authoritas Mosis 
+      extra<lb ed="#C" n="30" break="no"/>ordinaria fuit, certe non trahi potest ad ordinariam aliquam huiusmodi 
+      <lb ed="#C" n="31"/>authoritatem stabiliendam, qualis illa est, quam Papistae defendunt.  
+      <lb ed="#C" n="32"/>Quinto, Fieri potest, vi Moses hac in re personam Christi gesserit, atque 
+      <lb ed="#C" n="33"/>Ielus typus fuerit, qui summus index est omnium controversiarum. Iam 
+      <lb ed="#C" n="34"/>verotypiomnes sublati sunt, &amp; tritum illud est, A typis non valere 
+      argu<lb ed="#C" n="35" break="no"/>Jmentum. Sexto, Si Moses fuit summus iudex, &amp; sacerdos maior Aarone, 
+      <lb ed="#C" n="36"/>tum duo judices fuerunt, &amp; duo etiam summi sacerdotes in illo populo; 
+      <lb ed="#C" n="37"/>immo sacerdos fuit aliquis summo sacerdote maior, quod fieri nullo 
+      <lb ed="#C" n="38"/>modo potest 
+      <!--325.xml-->
+      <pb ed="#L" n="316"/>
+               <lb ed="#C" n="1"/>Secundus locus veteris Testamenti, quem obiicit Bellarminus, habetur  
+      <lb ed="#C" n="2"/>Deut. 17. 8. 9. 10. 11. 12. 13. Si occulta erit res tibi in iudicio ferendo inter 
+      <lb ed="#C" n="3"/>cedem &amp; caedem, &amp;c. Ex hoc loco videmus (inquit Iesuita) omnes de 
+      re<lb ed="#C" n="4" break="no"/>aliqua dubitantes, ad vivum iudicem, non ad privatos suos spiritus 
+      re<lb ed="#C" n="5" break="no"/>mitti. Respondeo. Malitiose hoc a lesuita dictum est, nos scilicet 
+      homi<lb ed="#C" n="6" break="no"/>nes, de re aliqua dubitantes, ad privatos suos spiritus remittere. Nos enim 
+      <lb ed="#C" n="7"/>non ad privatum suum spiritum quenquam remittimus, sed ad ipsam 
+      <lb ed="#C" n="8"/>Scripturam, &amp; ad Spiritum Dei clare in Scripturis loquentem. Sed 
+      vedi<lb ed="#C" n="9" break="no"/>stincte respondeam, dico primo, praeceptum illud fuisse conditionale; quod  
+      <lb ed="#C" n="10"/>patet ex ipsis verbis. Iussi sunt enim, qui summum illum judicem 
+      adie<lb ed="#C" n="11" break="no"/>runt, facere secundum illud, quod is eos ex praescripto legis doceret. 
+      luben<lb ed="#C" n="12" break="no"/>tur ergo omnes decreto iudicis obtemperare, sed cum hac conditione, si 
+      <lb ed="#C" n="13"/>is secundum legem Dei iudicet, id est, hanc esse Dei voluntatem ex lege 
+      <lb ed="#C" n="14"/>postendat. Hoc nos quoque libenter concedimus, sacerdotem ac 
+      mini<lb ed="#C" n="15" break="no"/>strum quemvis, nedum solum Pontificem, audiendum esse, quoties 
+      se<lb ed="#C" n="16" break="no"/>cundum legem iudicabit. Interimiste locus non talem aliquem summum 
+      <lb ed="#C" n="17"/>iudicem constituit, qui pro suo arbitratu, quod velit, statuat, &amp; cuius nos 
+      <lb ed="#C" n="18"/>judicio, etiam nulla Scripturae authoritate subnixo, stare debeamus. Imo 
+      <lb ed="#C" n="19"/>potius, cum iubet illum fecundum legem respondere, summum iudicium 
+      <lb ed="#C" n="20"/>legi, non illi, tribuit, Multa hic affert Iesuita, quibus hanc responsionem 
+      <lb ed="#C" n="21"/>nostram eludat atque evertat. Ait enim primo, illud, &amp; docuerint tesecundum 
+      <lb ed="#C" n="22"/>legem, non esse nisi in vulgata editione. Respondeo: primo, hoc sufficere, 
+      <lb ed="#C" n="23"/>cum illi hanc pro authentica habeant. Secundo, aperte habetur haec 
+      con<lb ed="#C" n="24" break="no"/>ditio in libris Hebraicis, v. 11. alpihathorah asber jorucha: quibus 
+      ver<lb ed="#C" n="25" break="no"/>bis sac erdos ados, id est, sententiam sermonemque legis alligatur, 
+      vt<lb ed="#C" n="26" break="no"/>nihil edicat, quod non ipsa lex dictet atque enunciet. Sic huius 
+      divinio<lb ed="#C" n="27" break="no"/>ris os aliud sacerdos esse debuit. Secundo ait, sonare non, 
+      conditio<lb ed="#C" n="28" break="no"/>nem, sed assertionem aut promissionem: non enim voluit dicere, sta 
+      iudi<lb ed="#C" n="29" break="no"/>cio sacerdotis, si docuerit te secundum legem: tum enim homines 
+      fuis<lb ed="#C" n="30" break="no"/>sent magis dubij, quam ante, nec sacerdos fuisset iudex, sed ipsi, quide 
+      <lb ed="#C" n="31"/>sententia sacerdotis indicarent. Respondeo: Remittuntur ad sacerdotem, 
+      <lb ed="#C" n="32"/>non nisi in ambiguis dubiisque causis, &amp; eius iudicio staredubentum 
+      <lb ed="#C" n="33"/>Quid? num simpliciter, quamcunque tandem sententiam tulerite 
+      Tan<lb ed="#C" n="34" break="no"/>tam potestatem nunquam Deus homini cuiquam tribuit: &amp; hunc 
+      sacer<lb ed="#C" n="35" break="no"/>dotem nominatim ad legem astrinxit, ne extra legem verbum faceret, 
+      <lb ed="#C" n="36"/>aut aliquid responderet. Num debebant homines sacerdotis iudicio 
+      sta<lb ed="#C" n="37" break="no"/>re, non docentis secundum legem? Quis id diceret? Ergo 
+      conditione<lb ed="#C" n="38" break="no"/>cessaria est: nec tamen proinde magis dubij redduntur, aut ipsiiudices fi¬
+   
+      <!-- end out of order here 309 through 312 -->
+      <!--318.xml-->
+      <pb ed="#L" n="309"/> 
+               <lb ed="#C" n="1"/>unt. Nam pondus magnum iudicij fuit in sacerdote, &amp; quod ille 
+      semel<lb ed="#C" n="2" break="no"/>statuisset, id ratum in externo foro fuit, vt hoc modo controversiae 
+      lites<lb ed="#C" n="3" break="no"/>que tollerentur. Tertio concludit ex his, non conditionem esse, sed 
+      pro<lb ed="#C" n="4" break="no"/>missionem: quasi Deus diceret, Iusta sententiae iudicis, &amp; ego promitto  
+      <lb ed="#C" n="5"/>fore, vesacerdos semper recte iudicet. Respondeo: Si sacerdoti facta est: 
+      <lb ed="#C" n="6"/>promissio talis, tum etiam ad indicem politicum eadem pertinet, quia is 
+      <lb ed="#C" n="7"/>cum sacerdote coniungitur: atque ita nec politicus etiam iudex in rebus 
+      <lb ed="#C" n="8"/>politicis errare potest, quod Papistae s(opinor) non concedent. At dicit:  
+      <lb ed="#C" n="9"/>eum iudicem, cuius illic mentio fit, Ecclesiasticum esse, non Politicum. 
+      <lb ed="#C" n="10"/>Sed hoc falsum esse, patet ex ipso contextu. Loquitur enim Moses illici 
+      <lb ed="#C" n="11"/>de controversiis inter caedem &amp; caedem, intercausam &amp; causam, 
+      quae<lb ed="#C" n="12" break="no"/>sunt lites forenses ac politicae: ergo loquitur de politieo indice. Sed si 
+      po<lb ed="#C" n="13" break="no"/>liticus (inquit) iudex ibi intelligatur, tum definitiva sententia sacerdotis 
+      <lb ed="#C" n="14"/>tribuitur, executio vero iudici. Sed illud quoque falsumesse constat. Nam 
+      <lb ed="#C" n="15"/>primo, ista verba illic habentur in editione vulgata, Ex decreto iudicis 
+      mo<lb ed="#C" n="16" break="no"/>riatur: ergo index etiam ipse debet ferre sententiam, &amp; eum qui reus est, 
+      <lb ed="#C" n="17"/>morti adiudicare, &amp; per consequens definitiva etiam sententia iudici 
+      tri<lb ed="#C" n="18" break="no"/>buitur. Deinde, vitium est in vulgata versione. Nam in vers. 12. ex, 
+      po<lb ed="#C" n="19" break="no"/>nitur proo, vel aut, quod patet ex Hebraeo &amp; Graeco contextu. In 
+      Grae<lb ed="#C" n="20" break="no"/>co est i, hoc est, vel. Hebraea etiam vox significataut, seu, vel, nunquam  
+      <lb ed="#C" n="21"/>vero ea, vt sic legenda sint verba. Qui non vult obedire sacerdoti aut iudici, 
+      <lb ed="#C" n="22"/>moriatar. Atque esse particulam disiunctivam, patet ex vers. 9. Iubentur  
+      <lb ed="#C" n="23"/>enim venire ad sacerdotes, &amp; ad ludicem: vt qui vel sacerdotem, vel 
+      iudi<lb ed="#C" n="24" break="no"/>cem superbe contemneret, morte damnaretur. Ita non quaevis dissensio, 
+      <lb ed="#C" n="25"/>si modesta esset, ac probabilis, ac pia, plenaque rationis, sed audax, 
+      super<lb ed="#C" n="26" break="no"/>ba, praeceps, furiosa, capitali poena coercetur. Verba textus in vulgata 
+      <lb ed="#C" n="27"/>Editione sic habent, vers. 12. Qui autem superbierit, nciens obedire 
+      sacer<lb ed="#C" n="28" break="no"/>dotis imperio, qui eo tempore ministrat Domino Deo tuo, ex decreto iudicis 
+      <lb ed="#C" n="29"/>morietur. Hinc colligit Iesuita, sententiam definitivam fuisse sacerdotis: 
+      <lb ed="#C" n="30"/>executionem magistratus. At Hebraea veritas aliud docet, quae sic sonat,  
+      <lb ed="#C" n="31"/>Et vir qui egerit superbe, ita vt nolit obedire sacerdoti, stanti ad ministrandum 
+      <lb ed="#C" n="32"/>ibi coram Domino Deo tuo, aut iudici, vir talis morietur. Ista lex tantam 
+      <lb ed="#C" n="33"/>definiendi authoritatem iudici, quantam sacerdoti tribuit. Est in 
+      Hebraeo<lb ed="#C" n="34" break="no"/>oelhasbophet. In quem locum sic Caletanus: Interpres mutavit: nam 
+      He<lb ed="#C" n="35" break="no"/>braicehabetur, vel ludici. Disiunctive enim dicitur, non obediendo 
+      sacerdo<lb ed="#C" n="36" break="no"/>ti, vel iudici. Ubi prudens lector adverte, quod definitio ambiguae causae non ab 
+      <lb ed="#C" n="37"/>vno, sed a multis facerdotibus, &amp; iudice describitur. Praecipere executionem 
+      at<lb ed="#C" n="38" break="no"/>tribuitur Pontifici, vel ludici. Par poena decernitur opponentis se sacerdoti, velI 
+      <!--319.xml-->
+      <pb ed="#L" n="310"/>
+               <lb ed="#C" n="1"/>iudici. Iesuitae argumentum Cardinalis corrupit. Ait enim primo, 
+      particu<lb ed="#C" n="2" break="no"/>lam esse disiunctivam. Secundo, executionem fuisse Pontificis vel 
+      Iudi<lb ed="#C" n="3" break="no"/>cis. Tertio, parem poenam praescribi ei, qui Iudici resisteret, ac qui 
+      sacer<lb ed="#C" n="4" break="no"/>doti. Quarto, Definitionem non vnius sacerdotis, sed multorum, &amp; 
+      iudi<lb ed="#C" n="5" break="no"/>cis fuisse. Hieronymus ab Oleastro, in suis commentariis, colligit ex hoc  
+      <lb ed="#C" n="6"/>loco, non esse iudicibus liberum, iudicare vt volunt, sed iuxta leges: &amp; illis 
+      <lb ed="#C" n="7"/>parendum praecipit, cum sec undum eas iudicaverint. Isti vero postulant sibi 
+      <lb ed="#C" n="8"/>pareri, quicquid tandem praescripserint, &amp; sua decreta examinati nullo 
+      <lb ed="#C" n="9"/>modo patiuntur. Item Cyprianus, Epist. 69. hunc locum isto modo citat.  
+      <lb ed="#C" n="10"/>Oportet audire sacerdotem aut iudicem. Atque haec de prima nostra 
+      gene<lb ed="#C" n="11" break="no"/>rali responsione ad secundum Iesuitae testimonium. Secundo: 
+      respon<lb ed="#C" n="12" break="no"/>deo, verba ista non intelligenda esse de perpetuo iure interpretandi 
+      Scri<lb ed="#C" n="13" break="no"/>pturas, sed de authoritate tantum definiendi difficiles lites ac 
+      controver<lb ed="#C" n="14" break="no"/>sias, sive Ecclesiasticas illas quidem, per ministrum; sive politicas &amp; 
+      fo<lb ed="#C" n="15" break="no"/>renses, per magistratum, vt esset semper in vtrisque aliquis, a quo 
+      provo<lb ed="#C" n="16" break="no"/>care non liceat: alioqui enim nullus esset litigandi finis. Iam vero hoc 
+      ar<lb ed="#C" n="17" break="no"/>gumentum non sequitur: Lites de caede &amp; piaga, de sanguine, de lepra, 
+      <lb ed="#C" n="18"/>&amp; huiusmo di, finiendae semper sunt ab aliquo iudice, &amp; debet esse 
+      ali<lb ed="#C" n="19" break="no"/>quod forensium controversiarum certum iudicium; ergo oportet esse 
+      a<lb ed="#C" n="20" break="no"/>li quem summum iudicem, penes quem sit authoritas interpretandi 
+      om<lb ed="#C" n="21" break="no"/>nes Scripturas, &amp; a quo provocare non liceat. Non enim hac lege 
+      con<lb ed="#C" n="22" break="no"/>stitutum est vllum de religione iudicium, quod sibi Deus vni reservavit,  
+      <lb ed="#C" n="23"/>nulli homini permisit, cum sciret quam facile homines religionem 
+      infi<lb ed="#C" n="24" break="no"/>ciant pravis opinionibus; sed lex lata est de iudiciis extenis forensium 
+      <lb ed="#C" n="25"/>controversiarum, quas aut magistratus politici, aut sacerdotes 
+      iudica<lb ed="#C" n="26" break="no"/>bant. Nulla autem resp. stare potest, nisi summum aliquod tribunal 
+      ha<lb ed="#C" n="27" break="no"/>beat, a quo nulli fas sit provocare: sed tamen in iis causis, in quibus 
+      iniu<lb ed="#C" n="28" break="no"/>stae etiam fententiae parere pium sit, non impium. Sed Bellarminus ait, 
+      <lb ed="#C" n="29"/>legem esse generalem de omnibus Dubiis, quae ex lege oriebantur: &amp; 
+      oc<lb ed="#C" n="30" break="no"/>casio huius legis fuit propter eos, qui serviunt diis alienis. Respondeo: 
+      <lb ed="#C" n="31"/>primo, De dubiis ex lege ortis nulla mentio habetur in lege, in qua non 
+      <lb ed="#C" n="32"/>nisi forenses externaeque lites commemorantur. Secundo, quod 
+      deocca<lb ed="#C" n="33" break="no"/>sione legis attexit, falsum etiam est, nec valeret aliquid, si verum esset.  
+      </p>
+            <p xml:id="wWpoi1-e28626-d1e539">
+               <lb ed="#C" n="34"/>Tertius locus, quem Iefuita citat, sumitur ex Ecclesiast. 12. 13. vbisic 
+      le<lb ed="#C" n="35" break="no"/>gimus: Oerba sapientum sunt similia stimulis, &amp; clavis in altum defixis, quae 
+      <lb ed="#C" n="36"/>per magistrorum consilium datur a Pastore vno. His amplius, filimi, ne 
+      requi<lb ed="#C" n="37" break="no"/>ras. Salomon docet (inquit) penitus acquiescendum esse, quando sententia 
+      <lb ed="#C" n="38"/>data est a summo Pastore, praesertim adiuncto conslio sapientum. Etsi haec 
+      <!--320.xml-->
+      <pb ed="#L" n="311"/>
+               <lb ed="#C" n="1"/>dicuntur de sacerdote veteris Testamenti, quanto magis dici possunt de 
+      sacer<lb ed="#C" n="2" break="no"/>dote novi Testamenti, qui maiores a Deo promissiones accepit? Hes 
+      pon<lb ed="#C" n="3" break="no"/>deo: sensus est, doctrinani &amp; sapientiam coelestem, quam Prophetae 
+      tradide<lb ed="#C" n="4" break="no"/>tunt, &amp; quam ministri Dei docent, &amp; exponunt, esse similem stimulis, 
+      quia<lb ed="#C" n="5" break="no"/>pungit, excitat, &amp; vrget, atque ita ignaviam nostram excutit: clavis veros 
+      <lb ed="#C" n="6"/>quia fixos nos firmosque tenet in pietate. Ille verovnus Pastor, cuius ibi 
+      men<lb ed="#C" n="7" break="no"/>tiofit, nec Papa est, nec sacerdos veteris Testamenti, sed ipse Christus. Sic 
+      e<lb ed="#C" n="8" break="no"/>nim Salonius, antiquus Pater, in illum locum scribit: Qui isti sapientes sunt? 
+      <lb ed="#C" n="9"/>quis iste unus Pastori sapientes sunt Prophetae, unus Pastor Deus. Et 
+      Hieto<lb ed="#C" n="10" break="no"/>nymus etiam in eundem locum ait: Etsi plures verbum Dei doceant, vnus 
+      <lb ed="#C" n="11"/>tamen est illius doctrinae author, nempe Deus: vbi Manichaeos refellit, qui  
+      <lb ed="#C" n="12"/>vnum statuerunt authorem veteris Testamenti, alterum vero novi. Alij 
+      Spiri<lb ed="#C" n="13" break="no"/>tum sanctum volunt esse hunc vnum Pastorem, vt Vatablus; alij Christum, 
+      <lb ed="#C" n="14"/>Vt Mercerus; Papam nulli, praeterquam insulsi Papistae. Non ergo de 
+      Papa<lb ed="#C" n="15" break="no"/>intelligendus est ille locus, quemadmodum lesuita vult; sed de Deo. At 
+      sub<lb ed="#C" n="16" break="no"/>iungit lesuita, inepte; Si de sacerdote veteris Testamenti hoc intelligatur, 
+      mul<lb ed="#C" n="17" break="no"/>to magis de sacerdote novi Testamenti. Respondeo, non intelligi de sacerdote 
+      <lb ed="#C" n="18"/>veteris Testamenti. Quod vero ad novum Testamentum attinet, quis, 
+      quae<lb ed="#C" n="19" break="no"/>so, novi Testamenti sacerdos est, nisi solus Christus? Nos certe nullum 
+      praete<lb ed="#C" n="20" break="no"/>re a alium Pontisicem novi Testamenti agnoscimus. Pabae vero quid Deus 
+      <lb ed="#C" n="21"/>vnquam, aut Christus, aut quisquam Apostolus promisit? Proferant 
+      hastabu<lb ed="#C" n="22" break="no"/>las, illique vllam promissionem, si possint, factam esse doceant.  
+      </p>
+            <p xml:id="wWpoi1-e28626-d1e604">
+               <lb ed="#C" n="23"/>Quartus locus, quem profert Iesuita, sumitur ex Agge. 2. 11. Verba haec 
+      <lb ed="#C" n="24"/>sunt: Sic ait Iehova exercituum, Interroga sacerdotes de lege. Respondeo: 
+      <lb ed="#C" n="25"/>primo, hoc nos fatemur: Ministros nempe, Episcopos, &amp; Doctores, de lege, 
+      <lb ed="#C" n="26"/>interrogandos esse, &amp; interrogatos etiam respondere debere: alioqui non 
+      fa<lb ed="#C" n="27" break="no"/>cerent officium suum. Sed num inde sequitur, eos habere authoritatem 
+      quid<lb ed="#C" n="28" break="no"/>vis definiendi pro arbitratu suo? Nequaquam: Immo illis nec esse est, 
+      se<lb ed="#C" n="29" break="no"/>cundum legem respondere. Unde constat, authoritatem esse penes legem 
+      <lb ed="#C" n="30"/>illorum vero nullam esse authoritatem, sed tantum ministerium. 
+      Secun<lb ed="#C" n="31" break="no"/>do, ex hoc loco sequetur, non vnum Scripturae summum iudicem, sed  
+      <lb ed="#C" n="32"/>multos esse debere, quia in plurali numero inquit Deus per Prophetam, 
+      <lb ed="#C" n="33"/>Interroga sacerdotes; non autem in singulari, Interroga sacerdetem. 
+      </p>
+            <p xml:id="wWpoi1-e28626-d1e631">
+               <lb ed="#C" n="34"/>Quintus locus, quem Iesuita citat, habetur Malach. 2. 7. verba haec sunt: 
+      <lb ed="#C" n="35"/>Labia sacerdotis custodient sapientiam, &amp; ex ore eius requirent legem. 
+      Re<lb ed="#C" n="36" break="no"/>spondeo, his verbis ostendi, non quales futuri essent sac erdotes perpetuo, sed  
+      <lb ed="#C" n="37"/>quales esse deberent. Ergo est fallacia a figura dictionis. Est enim 
+      praecep<lb ed="#C" n="38" break="no"/>tum in his verbis (sint sacerdotes semper e iusmodi) non promissum (erunt sem¬ 
+      <!--321.xml-->
+      <pb ed="#L" n="312"/>
+               <lb ed="#C" n="1"/>per eiusmodi) Nam statim sequitur, At vos deflexistis de via, &amp; fecistis 
+      mas<lb ed="#C" n="2" break="no"/>tos impingere: quasi diceret; debuistis esse scientia praediti, &amp; legis periti, 
+      ve<lb ed="#C" n="3" break="no"/>alios erudire possetis: at estis indocti, ignarique legis; &amp; fecistis, vt multi 
+      <lb ed="#C" n="4"/>peccarent, &amp; leges meas violarent. Quod si vere de sacerdotibus illis veteris 
+      <lb ed="#C" n="5"/>Testamenti Propheta affirmavit, multo verius de Papistico clero dici posse 
+      <lb ed="#C" n="6"/>constat. Sic Ose. 4. 6. sic alloquitur Deus sacerdotes, quales illo tempore 
+      fue<lb ed="#C" n="7" break="no"/>runt: Quia tu sprevisti scientiam, ego etiam spernam te, ne sacerdotio 
+      funga<lb ed="#C" n="8" break="no"/>tis mihi. Et Ose. 5. 1. vocat Deus sacerdotes illius temporis, laqueos, 
+      </p>
+            <p xml:id="wWpoi1-e28626-d1e666">
+               <lb ed="#C" n="9"/>Sextus locus, quem citat Iesuita, sed in editione publica praetermisit,  
+      <lb ed="#C" n="10"/>habetur Ezech. 13. 3. suntque verba huiusmodi: Qae Prophetis 
+      insipien<lb ed="#C" n="11" break="no"/>tibus, qui sequuntur spiritum suum. Hinc videmus (inquit Iesuita) privatos 
+      <lb ed="#C" n="12"/>spiritus in interpretatione Scripturarum non esse sequendos. 
+      Respondeo<lb ed="#C" n="13" break="no"/>Nos quoque negamus, suum cuique privatum spiritum sequendum esse. 
+      <lb ed="#C" n="14"/>Sed sequi Scripturam ipsam, &amp; spiritum Dei publice in Scripturis 
+      lo<lb ed="#C" n="15" break="no"/>quentem (quod nos monemus omnes vt faciant) non est sequi privatum 
+      <lb ed="#C" n="16"/>spiritum. 
+      </p>
+            <p xml:id="wWpoi1-e28626-d1e686">
+               <lb ed="#C" n="17"/>Septimus &amp; vltimus locus a Iesuita citatus, habetur in 2. Paralip. 19. 
+      <lb ed="#C" n="18"/>10. 11. vbi Iehosaphat Rex litibus seu controversiis politicis Zebadiam 
+      <lb ed="#C" n="19"/>praeficit, Amariam vero Pontificem &amp; sacerdotem iis rebus, quae ad De 
+      <lb ed="#C" n="20"/>lum pertinent, &amp; distinguit officium Pontificis abofficio regis, &amp; soli  
+      <lb ed="#C" n="21"/>Pontifici tribuit iudicium de dubiis legis. Respondeo: Nos fatemur 
+      di<lb ed="#C" n="22" break="no"/>stincta esse munera regis &amp; sacerdotis, nec debere haec inter se munera 
+      <lb ed="#C" n="23"/>confundi. Neque opus est vt hic plura responde amus, quia eadem 
+      responsio<lb ed="#C" n="24" break="no"/>huic loco sufficiet, qua in secundo loco vsi sumus, nempe debere quidem 
+      <lb ed="#C" n="25"/>esse iudices quosdam, non quidem Scriptrae, sed litium ac controversiarum, 
+      <lb ed="#C" n="26"/>earumque tum politicarum, tum Ecclesiastic arum. Dicimus enim lites 
+      Ec<lb ed="#C" n="27" break="no"/>clesiasticas ex lege divina decernendas esse per ministrum; Politicas vero per 
+      <lb ed="#C" n="28"/>civilem judicem seu magistratum, ex legibus politicis. Sed aliud interim est, 
+      <lb ed="#C" n="29"/>finire seu dirimere controversias; aliud vero Scripturas interpretari. Atque 
+      <lb ed="#C" n="30"/>haec contra primum Iesuitae argumentum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

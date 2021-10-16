@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="384"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e35444"><!-- con1q6c6 -->
+            <head xml:id="wWpoi1-e35444-Hd1e106">Caput 6</head>
+            <p xml:id="wWpoi1-e35444-d1e109">
+               <lb ed="#C" n="23"/>CAPTTTTIII 
+      <lb ed="#C" n="24"/>Sigius Quaestionis proponiiam, 
+      <lb ed="#C" n="25"/>TOSprimo dicimus, non omnia esse scripta in libris veteris &amp; 
+      no<lb ed="#C" n="26" break="no"/>Dvi Testamenti, quae Apostoli aut docuerunt aut fecerunt. 
+      Praete<lb ed="#C" n="27" break="no"/>rea, Christum multa dixisse, &amp; fecisse concedimus, quae non scribuntur. 
+      E<lb ed="#C" n="28" break="no"/>duodecim Apostolis septem nihil scripserunt, qui tamen multa viva 
+      vo<lb ed="#C" n="29" break="no"/>ce passim docuerunt &amp; fecerunt. Nam iussi sunt mundum ipsum obire, 
+      <lb ed="#C" n="30"/>&amp; ubique gentium Evangelium praedicare; quod illi sedulo fecerunt. 
+      <lb ed="#C" n="31"/>Atque omnia quidem, quae Christus fecit, non esse scripta, exsomnis 
+      <lb ed="#C" n="32"/>vltimo capite patet, versu vitimo. Deinde, fatemur Apostolos insingulis 
+      <lb ed="#C" n="33"/>Ecclesijs ritus aliquos atque consuetudines, ordinis &amp; decori causa, 
+      san<lb ed="#C" n="34" break="no"/>xisse, non autem scripsisse: quia hi ritus non fuerunt perpetui futuri, sed 
+      li<lb ed="#C" n="35" break="no"/>beri, qui pro commodo &amp; temporum ratione muta possent. Praescriptos 
+      <lb ed="#C" n="36"/>autem ab illis esse eiusmodi ritus aliquos ad honestam Ecclesiae πολίτείαν,  
+      <lb ed="#C" n="37"/>accommodatos, patet ex 1. Cor. 11. &amp; 14. Cap. Tantum generalis regu¬ 
+      <!--394.xml-->
+      <pb ed="#L" n="385"/>
+               <lb ed="#C" n="1"/>la habetur in Scripturis, Omnes istos ritus ad aedificationem ac decorum 
+      <lb ed="#C" n="2"/>esse dirigendos; sed ipsi particulares ritus non proponuntur. At dicimus 
+      <lb ed="#C" n="3"/>omnia, quae necessaria sunt, sive ad fidem, sive ad vitam spectent, aperte 
+      <lb ed="#C" n="4"/>&amp; abunde in Scripturis explicari. Itaque summam religionis nostrae 
+      scri<lb ed="#C" n="5" break="no"/>ptam esse affirmamus, quae quidem eadem est cum eorum etiam 
+      Aposto<lb ed="#C" n="6" break="no"/>lorum doctrina, qui nihil scripserunt. Idem enim docuerunt 
+      Evangeli<lb ed="#C" n="7" break="no"/>lum qui non scripserunt, quod illi qui scripserunt. Eundem omnes 
+      Chri<lb ed="#C" n="8" break="no"/>stum, &amp; idem Evangelium, &amp; eandem salutis viam praedicarunt. Etsi 
+      <lb ed="#C" n="9"/>quidem verba singula non habentur, quae loquuti sunt, tamen quoad 
+      tem<lb ed="#C" n="10" break="no"/>&amp; materiam subjectam, illa non scripta Apostolorum praedicatio in 
+      Scri<lb ed="#C" n="11" break="no"/>pturis invenitur. Non omnia verba Petri, Ioannis, &amp; aliorum scripta 
+      <lb ed="#C" n="12"/>sunt, sed summa tamen doctrinae, quam hi Apostoli tradiderunt, in 
+      Scri<lb ed="#C" n="13" break="no"/>pturis habetur. Sic etsi Christus multa dixit &amp; fecit, quae non scribuntur; 
+      <lb ed="#C" n="14"/>summa tamen omnium dictorum factorumque Christi Scripturarum 
+      <lb ed="#C" n="15"/>monimentis consignata est. Bellarminus ergo sine causa accusat 
+      Brenti<lb ed="#C" n="16" break="no"/>lum &amp; Chemnicium inconstantiae, quod dixerint insignis impudentiae esse, 
+      <lb ed="#C" n="17"/>non scripta cum scriptis conferre, eaque affirmare parem cum scriptis 
+      <lb ed="#C" n="18"/>authoritatem habere; cum tamen ipsi fateantur, Christum &amp; Apostolos 
+      <lb ed="#C" n="19"/>multa docuisse, quae non scribantur. Cavillatur egregie. Nam etsi non 
+      <lb ed="#C" n="20"/>dicta factaque singula scribuntur (nulli enim libri sufficerent) nihil 
+      ta<lb ed="#C" n="21" break="no"/>men praetermissum, quod necessarium: &amp; cum capita summa, ac 
+      dog<lb ed="#C" n="22" break="no"/>mata scribantur tam luculente, verissime dici potuit, scripta esse omnia. 
+      <lb ed="#C" n="23"/>Haec qui non scripta scriptis comparat, nil aliud facit, quam doctrinam 
+      <lb ed="#C" n="24"/>scriptam laudat. At Brentius &amp; Chemnicius, qui aliquam doctrinam? 
+      <lb ed="#C" n="25"/>minime scriptam Scripturis authoritate aequaret, eum esse impium atque 
+      <lb ed="#C" n="26"/>audacem affirmant: in quo nihil non consentancum &amp; sibi &amp; rationi 
+      o<lb ed="#C" n="27" break="no"/>ptimae dicunt Deinde, quaedam Chemnicij &amp; Calvini, quae vocat, 
+      men<lb ed="#C" n="28" break="no"/>dacia, Bellarminus persequitur, quae non hoc loco discutiam; pleraque 
+      <lb ed="#C" n="29"/>post occurrunt, &amp; suis singula locis tractabuntur.  
+      </p>
+            <p xml:id="wWpoi1-e35444-d1e211">
+               <lb ed="#C" n="30"/>Bellarminus Quaestionis statum in hunc modum proponit: Nos 
+      asse<lb ed="#C" n="31" break="no"/>rimus (inquit) non contineri expresse in Scripturis totam doctrinam 
+      neces<lb ed="#C" n="32" break="no"/>sariam, sive de fide, sive de moribus, ac proinde praeter Dei verbum 
+      scri<lb ed="#C" n="33" break="no"/>iptum requiri etiam verbum Dei non scriptum, id est, divinas &amp; 
+      Aposto<lb ed="#C" n="34" break="no"/>licas Traditiones. Illi vero, id est, haeretici (nos autem intelligit) asserunt. 
+      <lb ed="#C" n="35"/>omnia in verbo scripto contineri, quae ad fidem &amp; mores pertinent, nec 
+      <lb ed="#C" n="36"/>opus esse Traditionibus. Respondeo: Illud verbum (expresse) est ambiguum. 
+      <lb ed="#C" n="37"/>Si intelligat nos affirmare omnia diserte &amp; totidem verbis in Scripturis 
+      <lb ed="#C" n="38"/>proponi, invertitstatum Quaestionis. Sin autem per (expresse) intelligat,  
+      <lb ed="#C" n="39"/>quod ex Scripturis necessario infertur &amp; concluditur, fatemur. Si enim! 
+      <!--395.xml-->
+      <pb ed="#L" n="386"/>
+               <lb ed="#C" n="1"/>quod diserte positum est in Scripturis, verum sit, tum &amp; illud etiam, quod  
+      <lb ed="#C" n="2"/>inde necessario consequitur, verum esse necesse est. Sic Nazianzenus, 
+      <lb ed="#C" n="3"/>Lib. 5. de Theologia, voi de Spiritu sancto scribit: Perinde sut (inquit)  
+      <lb ed="#C" n="4"/>ea, quae ex Scripturis colliguntur, atque ea quae scribuntur. Quaedam non 
+      <lb ed="#C" n="5"/>sunt, &amp; tamen dicuntur esse in Scripturis, vt Deum sedere, habere autes, 
+      <lb ed="#C" n="6"/>oculos: Quaedam sunt, nec dicuntur tamen, scilicet expresse &amp; totidem 
+      <lb ed="#C" n="7"/>verbis, v? Spiritum sanctum esse Deum, aliquid tamen dicitur, ex quo 
+      ne<lb ed="#C" n="8" break="no"/>cessario colligi &amp; concludi possunt, vtqui bis quinque dicit, is decem 
+      di<lb ed="#C" n="9" break="no"/>cit, &amp; qui bis duo dicit, is quatuor dicit, etsi non totidem verbis: 
+      Quae<lb ed="#C" n="10" break="no"/>dam vero neque sunt, neque dicuntur: quaedam denique &amp; sunt &amp; 
+      di<lb ed="#C" n="11" break="no"/>cuntur. Naxianzeni haec distributio est, τα αδν εκδει, λόγεδ δο: τα δεδγτα, &amp; 
+      <lb ed="#C" n="12"/>λογετ: τοδε ὕτεἔστιν, ἀτολόγετ: ταδε αμρω, χιεσι, αλόγοτ. Sic nos dicimus 
+      <lb ed="#C" n="13"/>omnia necessaria in Scriptoris contineri, licet non totidem verbis. 
+      Exem<lb ed="#C" n="14" break="no"/>pli gratia, infantium baptismus; &amp; originale peccatum non αυτλεζει &amp; 
+      <lb ed="#C" n="15"/>χερnτὸν in Scripturis proponuntur, sed tamen ex Scripturis possunt 
+      neces<lb ed="#C" n="16" break="no"/>sario inferri. Ita (vt rem paucis complectamur ) nos dicimus, omnia 
+      quae<lb ed="#C" n="17" break="no"/>pertinent sive ad fidem, sive ad mores, ex Scripturis disci, sumique posse, 
+      <lb ed="#C" n="18"/>vt Traditiones minime requirantur: Illi vero dicunt in verbo Dei 
+      scripto<lb ed="#C" n="19" break="no"/>omnia necessaria ad fidem &amp; mores non contineri, ideoque 
+      Traditio<lb ed="#C" n="20" break="no"/>nes necessario requiri. Atque de Controversiae statu non est quod 
+      plura<lb ed="#C" n="21" break="no"/>dicamus: Sequitur iam vt argumenta vtriusque partis proponantur, &amp; 
+      <lb ed="#C" n="22"/>expendantur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

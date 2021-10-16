@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="56"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de5347"><!-- con1q1c10 -->
+            <head xml:id="wWpoi1-de5347-Hd1e106">Caput 10</head>
+            <p xml:id="wWpoi1-de5347-d1e109">
+               <lb ed="#C" n="15"/>CAPUTI 
+      <lb ed="#C" n="16"/>CAPTII 
+    </p>
+            <p xml:id="wWpoi1-de5347-d1e116">
+               <lb ed="#C" n="17"/>DOstquam illa fragmenta, quae certis Canonicis libris 
+      agglutinan<lb ed="#C" n="18" break="no"/>tur, resecanda &amp; revellenda esse a corpore sacrae Scripturae 
+      evici<lb ed="#C" n="19" break="no"/>mus, sequitur nunc, vt de illis sex integris libris Apocryphis disseramus. 
+      <lb ed="#C" n="20"/>Et primum de libro Tobiae videamus, pro cuius authoritate nullum 
+      Pa<lb ed="#C" n="21" break="no"/>pistae singulare argumentum afferunt. Nam quod a Patribus citatur,  
+      <lb ed="#C" n="22"/>non hinc sequitur, librum esse Canonicum, vt iam satis declaratum est: 
+      <lb ed="#C" n="23"/>&amp; quod ab Ambrosio divinus appellatur, id eo pertinet, non vt librum 
+      <lb ed="#C" n="24"/>esse sine dubitatione Canonicum, &amp; illis vere Canonicis parem, sed 
+      ve<lb ed="#C" n="25" break="no"/>eum minime esse contemnendum intelligamus. Quanquam enim non 
+      <lb ed="#C" n="26"/>sit vere Canonicus, dici tamen divinus potuit, quia legebatur in 
+      Eccle<lb ed="#C" n="27" break="no"/>sia, &amp; cum libris Canonicis in eodem volumine copulabatur, vt iam 
+      Scri<lb ed="#C" n="28" break="no"/>pturae nomen passim obtineret. Nam non esse proprie Canonicum, &amp; 
+      <lb ed="#C" n="29"/>multis Patrum testimonijs ostendimus, &amp; argumentis demonstrare. 
+      <lb ed="#C" n="30"/>possumus. Sed hic Papistarum non obscuram ἀνἰλογίαν considerater 
+      <lb ed="#C" n="31"/>Bellarminus fatetur Hietonymum reijcere hunc librum &amp; reliquos, 
+      de<lb ed="#C" n="32" break="no"/>quibus contendimus, e Canone Scripturae: idque non esse mirum, cum 
+      <lb ed="#C" n="33"/>nullum adhuc generale Concilium hos libros esse Canonicos 
+      decrevis<lb ed="#C" n="34" break="no"/>set, cuius est statuere ac definire quis sacrae Scripturae Canon haben 
+      de<lb ed="#C" n="35" break="no"/>beat. Interim tamen Papistae adducunt ex Irenaeo, Cypriano, Hilario, 
+      <lb ed="#C" n="36"/>Ambrosio testimonia, quibus arguant hos libros esse Canonicos. Sedi 
+      <!--66.xml-->
+      <pb ed="#L" n="57"/>
+               <lb ed="#C" n="1"/>qua ratione vel authoritate illi Patres esse hos libros Canonicos 
+      affir<lb ed="#C" n="2" break="no"/>mare potuerunt, cum ea res nondum certa atque explorata esset, vtpotes 
+      <lb ed="#C" n="3"/>nondum in generali Concilio definita? Ergo aut hoc non pertinet ad 
+      <lb ed="#C" n="4"/>Concilium generale, aut illi Patres opinionem potius, quam iudicium 
+      <lb ed="#C" n="5"/>&amp; rationem sequuti sunt, quando hos libros pro Canonicis (ut isti 
+      opi<lb ed="#C" n="6" break="no"/>nantur) recipiebant, quos Ecclesia nondum suo iudicio 
+      testimonio<lb ed="#C" n="7" break="no"/>que comprobarat.  
+      </p>
+            <p xml:id="wWpoi1-de5347-d1e181">
+               <lb ed="#C" n="8"/>Nunc quaedam contra huius libri authoritatem afferamus. Et 
+      pri<lb ed="#C" n="9" break="no"/>mum Hieronymus testis est, quale Ecclesiae olim de hoc libro iudicium 
+      <lb ed="#C" n="10"/>extiterit. Ait enim in Praefat. in Lib. Salom. Ecclesiam non recipere 
+      <lb ed="#C" n="11"/>librum Tobiae inter Canonicas Scripturas. Ergo Ecclesia Catholicat 
+      <lb ed="#C" n="12"/>(de qua Hieronymus loquitur) hunc librum non esse Canonicum 
+      iudi<lb ed="#C" n="13" break="no"/>cavit. Et in Prologo in librum Tobiae, miratur eorum importunitatem, 
+      <lb ed="#C" n="14"/>a quibus impulsus esset ad hunc librum transferendum in latinum 
+      ser<lb ed="#C" n="15" break="no"/>monem, quem Hebraei e divinarum scripturarum Catalogo resecarent,  
+      <lb ed="#C" n="16"/>quique tantum Chaldaice legeretur, cuius linguae imperitus esset. Quare 
+      <lb ed="#C" n="17"/>se alterius opera vsum esse, &amp; Latinis verbis reddidisse confitetur, quod  
+      <lb ed="#C" n="18"/>ille nescio quis interpres Chaldaice &amp; Hebraice doctus, Hebraice 
+      dicta<lb ed="#C" n="19" break="no"/>visset. Ita non tam hunc librum ipse Hieronymus, quam alium 
+      quen<lb ed="#C" n="20" break="no"/>dam huius libri interpretem transtulit. Deinde non nisi in Graeco &amp; 
+      La<lb ed="#C" n="21" break="no"/>tino legitur, &amp; quonam sermone conscriptus primum fuerit, incertum 
+      <lb ed="#C" n="22"/>est. Eius se Chaldaicum exemplar Hieronymus vidisse scribit: cui 
+      ta<lb ed="#C" n="23" break="no"/>men nihil omnino tribuit. Et illa quae nunc extant huius libri exemplaria 
+      <lb ed="#C" n="24"/>admodum varia ac vitiosa sunt, id quod ex collatione facile 
+      animadver<lb ed="#C" n="25" break="no"/>ti potest. Quid plura desideramus? Ipse pro se liber loquatur, cuius 
+      <lb ed="#C" n="26"/>character totus se minime Canonicum esse luceclarius ostendit.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

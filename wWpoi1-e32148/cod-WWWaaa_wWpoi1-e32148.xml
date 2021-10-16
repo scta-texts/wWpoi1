@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="348"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e32148"><!-- con1q5c9 -->
+            <head xml:id="wWpoi1-e32148-Hd1e106">Caput 9</head>
+            <p xml:id="wWpoi1-e32148-d1e109">
+               <lb ed="#C" n="22"/>CAPUTTTTII 
+      <lb ed="#C" n="23"/>CAPUTII 
+      <lb ed="#C" n="24"/>pturae sensum;
+    </p>
+            <p xml:id="wWpoi1-e32148-d1e118">
+               <lb ed="#C" n="25"/>DIximus de summa authoritate interpretandi Scripturas, quam 
+      <lb ed="#C" n="26"/>esse solius Spiritus sancti loquentis in Scripturis, evicimus, non 
+      <lb ed="#C" n="27"/>Patrum, non Conciliorum, non Papae: Nunc de mediis inveniendi 
+      sen<lb ed="#C" n="28" break="no"/>sum Scripturae disserendum est. Nam quando Scriptura non habet 
+      vi<lb ed="#C" n="29" break="no"/>vam vocem, quam audiamus, vtendum est quibuldam mediis, quibus 
+      <lb ed="#C" n="30"/>investigemus, quis sit sensus, quae mens Scripturarum. Si enim Chistus 
+      <lb ed="#C" n="31"/>ipse nobiscum ageret, Si Apostoli &amp; Prophetae inter nos viverent, eos 
+      <lb ed="#C" n="32"/>adire possemus atque obsecrare, vt sensum illorum, quae ab iis scripta sunt,  
+      <lb ed="#C" n="33"/>nobis indicarent. Sed cum illi abierint, &amp; libros tantum suos 
+      relique<lb ed="#C" n="34" break="no"/>rint; videndum est, quibus mediis vtendum sit, vt verum Scripturae 
+      ver<lb ed="#C" n="35" break="no"/>borumque divinorum sensum inveniamus. Ecclesia enim in Scripturis 
+      <lb ed="#C" n="36"/>interpretandis semper mediis quibusdam vsa est. Recensebo vero primo 
+      <!--358.xml-->
+      <pb ed="#L" n="349"/>
+               <lb ed="#C" n="1"/>in loco media illa, quae a nostris proposita sunt: quibus si legitime 
+      sancte<lb ed="#C" n="2" break="no"/>que vtemur, a vero sensu non aberrabimus, &amp; quibus ipsa vti Ecclesia 
+      de<lb ed="#C" n="3" break="no"/>bet, nisi errare in Scripturis interpretandis maluerit. Primo, Preces ad 
+      <lb ed="#C" n="4"/>Scripturas legendas atque intelligendas necessariae sunt, &amp; obeam 
+      cau<lb ed="#C" n="5" break="no"/>sam Davidtoties a Deo petit, vt velit mentem illius illuminare, &amp; 
+      ocu<lb ed="#C" n="6" break="no"/>los eius aperire: &amp; Matth. 7. Christus ait: Petite, &amp; dabitur vobis; quaerite 
+      <lb ed="#C" n="7"/>&amp; invenietis; pulsate &amp; aperretur vobis. Et lacob. 1. cap. vers. 5. ait: Si cui  
+      <lb ed="#C" n="8"/>vestrum desit sapientia, postulet a Deo, qui dat eam omnibus benigne, nec 
+      ex<lb ed="#C" n="9" break="no"/>probrat, &amp; dabitur ei. Unde Pater quidam dixit se orando magis, quam 
+      <lb ed="#C" n="10"/>studendo ac legendo, in cognitione Scripturarum profecisse. Et 
+      Orige<lb ed="#C" n="11" break="no"/>nes, Homil. 12. in Exod. ait non solum studium nobis adhibendum esse 
+      <lb ed="#C" n="12"/>ad discendas literas sacras, verum &amp; supplicandum Domino, &amp; diebus 
+      <lb ed="#C" n="13"/>ac noctibus obsecrandum, vt veniat agnus de tribu luda, &amp; ipse 
+      accipi<lb ed="#C" n="14" break="no"/>ens librum signatum, dignetur aperire. Augustinus vero, in Libro de 
+      scala<lb ed="#C" n="15" break="no"/>Paradisi, cap. 2. praeclare hac de re in hunc modum scribit: Lectio inquirit, 
+      <lb ed="#C" n="16"/>meditatio invenit, oratio postulat, contemplatio degustat, unde ipse Dominus 
+      <lb ed="#C" n="17"/>dicit: Quaerite, &amp; invenietis, pulsate, &amp; aperietur vobis. Quaerite legendo, &amp; 
+      <lb ed="#C" n="18"/>invenietis meditando: pulsate orando, &amp; aperietur vobis contemplando. 
+      Le<lb ed="#C" n="19" break="no"/>ctio quasi solidum cibum ori apponit, meditatio masticat &amp; frangit, oratio 
+      sapo<lb ed="#C" n="20" break="no"/>rem acquirit, contemplatio est ipsa dulcedo, quae iucundat &amp; reficit. Lectio 
+      <lb ed="#C" n="21"/>in cortice, meditatio in adipe, oratio in desiderij postulatione, contemplatio in 
+      <lb ed="#C" n="22"/>adeptae dulcedinis delectatione. Haec Augustinus. Et Hieronymus ad 
+      Le<lb ed="#C" n="23" break="no"/>tam ait: Orationi lectio, lectioni succedat oratio. Et hoc primum semper 
+      <lb ed="#C" n="24"/>medium esse debet, ac fundamentum aliorum: 
+      </p>
+            <p xml:id="wWpoi1-e32148-d1e203">
+               <lb ed="#C" n="25"/>Secundo, debemus intelligere verba, quibus vsus est Spiritus sanctus 
+      <lb ed="#C" n="26"/>in Scripturis: ideoque nobis cognoscendae sunt linguae originales, 
+      con<lb ed="#C" n="27" break="no"/>sulendus est Hebraeus textus in veteri Testamento, Graecus in novo, ipsi  
+      <lb ed="#C" n="28"/>Scripturarum fontes adeundi sunt, in versionum rivulis non est 
+      haeren<lb ed="#C" n="29" break="no"/>dum, Harum enim linguarum, Hebraeae nempe &amp; Graecae, ignorantia 
+      <lb ed="#C" n="30"/>multos errores peperit: has certe qui nesciunt, optimis adiumentis 
+      at<lb ed="#C" n="31" break="no"/>que subsidiis carent, &amp; saepe ac nec essario hallucinantur. Augustinus, 
+      in<lb ed="#C" n="32" break="no"/>libris de Doctrina Christiana, Theologiae studiosos saepius ad harum 
+      lin<lb ed="#C" n="33" break="no"/>guarum studium hortatur. Et hanc quidem ob causam in Concilio 
+      Vien<lb ed="#C" n="34" break="no"/>nensi, licet alioqui superstitioso, vtpote sub Clemente. 5. Papa habito, 
+      de<lb ed="#C" n="35" break="no"/>cretum est, vt in omnibus Academiis essent harum linguarum 
+      professo<lb ed="#C" n="36" break="no"/>res. Nisi enim verba ipsa intelligamus, quomodo sensum inveniemus: 
+      <lb ed="#C" n="37"/>Et quidem exipsorum verborum intelligentia errores multi refutantur.  
+      <lb ed="#C" n="38"/>Sic nos Adversarios nostros saepius refellimus. Exempli gratia, Luc. 2. 
+      <!--359.xml-->
+      <pb ed="#L" n="350"/>
+               <lb ed="#C" n="1"/>14. ex vulgata versione Latina, quae ita se habet (pax in terra hominibus 
+      <lb ed="#C" n="2"/>bonae voluntatis) <name xml:id="wWpoi1-e32148-Nd1e244">Rhemenses</name> eliciunt arbitrij libertatem. Sed ex fonte 
+      fa<lb ed="#C" n="3" break="no"/>cile refelluntur. Nam in Graeca editione est ἐυδοκια, quae nunquam 
+      signi<lb ed="#C" n="4" break="no"/>ficat liberum hominis arbitrium, vt <name xml:id="wWpoi1-e32148-Nd1e251">Rhemenses</name> inepte volunt, sed 
+      gra<lb ed="#C" n="5" break="no"/>tuitam Dei erga homines benevolentiam. Atque id quidem aliqui 
+      eti<lb ed="#C" n="6" break="no"/>am Papistae concedunt. Ephes. 2. 10. in vulgata Latina versione sic 
+      legi<lb ed="#C" n="7" break="no"/>tur; Ipsius factura sumus, creati in Christo lesu in operibus bonis: unde 
+      qui<lb ed="#C" n="8" break="no"/>dam Papistae colligunt, nos operibus bonis iustificari. At ex Graeco fonter 
+      <lb ed="#C" n="9"/>facile redarguuntur: nam ἐn illic, ad significat, non in. Coloss. 4. 16. 
+      <lb ed="#C" n="10"/>mentio sit Epistolae cuiusdam Laodicensium, in veteri transiatione: vnde 
+      <lb ed="#C" n="11"/>multiputarunt, fuisse Epistolam quandam Pauli ad Laodicenses 
+      scrip<lb ed="#C" n="12" break="no"/>tam. Sed ex fonte hic errot corrigitur. Nam in Graeco codice legitur  
+      <lb ed="#C" n="13"/>&amp; λδικειας I. Cor. 14. 16. in veteri vulgata versione sic verba schabent: 
+      <lb ed="#C" n="14"/>Si benedixeris spiritu, qui supplet locum idiotae, quomodo dicet Amen? Hinc 
+      <lb ed="#C" n="15"/>Papistae colligunt, debere esse aliquem, qui sacerdoti pro toto 
+      populore<lb ed="#C" n="16" break="no"/>spondeat, quales illi sunt triobolares ministri, qui semper astant a 
+      late<lb ed="#C" n="17" break="no"/>re sacerdoti. At ex Graeco textu hoc facile refutatur. Nam δἀναληρωετον  
+      <lb ed="#C" n="18"/>τυπον το ἔδιοτς, non is dicitur, qui locum idiotae supplet(verbum enim 
+      ara<lb ed="#C" n="19" break="no"/>mupev nusquam eo sensu legitur) sed eum potius qui implet locum 
+      idio<lb ed="#C" n="20" break="no"/>tae, hoc est, qui sedet inter idiotas, &amp; vere idiota ac laicus homo est. 
+      <lb ed="#C" n="21"/>1. Sam. 21. 13. dicitur David, cum esset in domo Achis regis Geth, 
+      in<lb ed="#C" n="22" break="no"/>sanivisse, sive insanum egisse in manibus eorum, id est, furorem quendam 
+      <lb ed="#C" n="23"/>simul asse. Vetus transsatio legit, collabebatur inter manus eorum. Horum 
+      <lb ed="#C" n="24"/>verborum Augustinus in Comment. in Psal. 33. novam expositionem: 
+      <lb ed="#C" n="25"/>adhibet, ex vitiosa, nescio qua, cuiusdam interpretis versione, qui verterat  
+      <lb ed="#C" n="26"/>isto modo, ferebatur in manibus suis. Hinc ista ad Christum refert 
+      Augu<lb ed="#C" n="27" break="no"/>stinus, &amp; vera esse dicit, si ad coenam accommodentur, quia Christus 
+      se<lb ed="#C" n="28" break="no"/>quodammodo portabat in manibus suis, cum diceret discipulis, Hoc est 
+      <lb ed="#C" n="29"/>corpus meum. Sed addit, quodammodo, ne Papistae eum sibi favere 
+      existi<lb ed="#C" n="30" break="no"/>ment. Atque in hunc quidem errorem incidit Augustinus, quod 
+      voca<lb ed="#C" n="31" break="no"/>bulum Hebraeum non intelligeret. Bellarminus, Lib. 3. cap. 12. de 
+      Ec<lb ed="#C" n="32" break="no"/>cles. probat Ecclesiam semper esse visibilem, testimonio Psalmit9. 
+      Inse<lb ed="#C" n="33" break="no"/>le posuit tabernaculum suum, quemadmodum vetus interpres locum illum, 
+      <lb ed="#C" n="34"/>sequutus septuaginta, transtulit Sed Hieronymus ante annos mille 
+      cu<lb ed="#C" n="35" break="no"/>centos ex Hebraeo sic vertit, Soli posuit tabernaculum in eis (coelis) 
+      ve<lb ed="#C" n="36" break="no"/>non Ecclesiae in sole, sed soli in coelis positum esse tabernaculum hic 
+      lo<lb ed="#C" n="37" break="no"/>cus testetur. Et huiusmodi vitiis atque mendis versionum haeretici, ac 
+      <lb ed="#C" n="38"/>maxime Papistae, abutuntur ad errores suos comprobandos, qui ex fon¬ 
+      <!--360.xml-->
+      <pb ed="#L" n="351"/>
+               <lb ed="#C" n="1"/>tium inspectione, ac linguarum scientia, facillime removentur. Illud ergo 
+      <lb ed="#C" n="2"/>inprimis necessarium est, quem admodum idem Augustinus alicubi 
+      mo<lb ed="#C" n="3" break="no"/>net, vt signarerum, id est verba, recte ac vere intelligamus. 
+      </p>
+            <p xml:id="wWpoi1-e32148-d1e340">
+               <lb ed="#C" n="4"/>Tertio, Inverbis considerandum est, quae propria sint, quae figurata ac 
+      <lb ed="#C" n="5"/>modificata. Quando enim verba figurate sumuntur, non sunt proprie 
+      in<lb ed="#C" n="6" break="no"/>terpretanda. Miserabilis animae servitus est (inquit Augustinus, in libris de 
+      <lb ed="#C" n="7"/>Doctrina Christiana) signa prorebus accipere, id est, proprie dicta: 
+      inter<lb ed="#C" n="8" break="no"/>pretari, quae figurate dicuntur. Hinc illa tam difficilis &amp; tam diuturna 
+      <lb ed="#C" n="9"/>controversia inter nos ac Papistas de verbis coenae, quae illi proprie, nos 
+      <lb ed="#C" n="10"/>figurate intelligi volumus. Sed quomodo sciemus, num verba proprie ac 
+      <lb ed="#C" n="11"/>figurate sumantur? Hic ergo quartum medium est adjungendum. 
+      </p>
+            <p xml:id="wWpoi1-e32148-d1e361">
+               <lb ed="#C" n="12"/>Quarto, Debemus igitur cuiusque loci scopum, finem, materiam, 
+      cir<lb ed="#C" n="13" break="no"/>cumstantias (nempe personas, locum, tempus, ut inquit Augustinus) 
+      antece<lb ed="#C" n="14" break="no"/>dentia etiam &amp; consequentia considerate, atque isto modo non erit difficile tum 
+      <lb ed="#C" n="15"/>multos errores refutare, tum ea quae primo obscura videbantur, aperte 
+      intelli<lb ed="#C" n="16" break="no"/>gere. Et 1. Pet. 4. 8. vbi scribit Petris, charitatem operire multitudinem 
+      pec<lb ed="#C" n="17" break="no"/>catorum, coneludunt Rhemenses, charitatem habere vim tollendi &amp; 
+      extin<lb ed="#C" n="18" break="no"/>guendi peccata, atque ita nos coram Deo iustificandi; ergo non solam 
+      fi<lb ed="#C" n="19" break="no"/>dem iustificare. Iam si consideremus occasionem, scopum, antecedentia, 
+      <lb ed="#C" n="20"/>consequentia, &amp; reliquas circumstantias; reperiemus Apostolum non de 
+      no<lb ed="#C" n="21" break="no"/>stra charitate loqui, quae nos coram Deo iustificet, ac peccatorum nostrorum: 
+      <lb ed="#C" n="22"/>remissionem impetret; sed de fratema charitate, quae multas offensiones 
+      re<lb ed="#C" n="23" break="no"/>primit, atque ita odia inimicitiasque inter fratres extinguit. Sed quomodo 
+      in<lb ed="#C" n="24" break="no"/>telligam hunc esse huius loci sensum) Ex ipso scilicet contextu. Apostolus enim 
+      <lb ed="#C" n="25"/>verbis proxime praecedentibus ait, Habentes syncerum erga vos ipsos amorem. 
+      <lb ed="#C" n="26"/>Loquitur ergo de amore, quo fratres nostros complecti ac prosequi debemus. 
+      <lb ed="#C" n="27"/>Si vero hunc locum cum alio loco comparemus, nempe, cum Prov. 10. 12. 
+      <lb ed="#C" n="28"/>vnde Petrus verba ista desumpsit, apertius hoc multo patebit. Ibi enim in 
+      <lb ed="#C" n="29"/>hunc modum legimus: Qdium excitatrixas &amp; contentiones, charitas autem 
+      <lb ed="#C" n="30"/>operit multitudinem peccatorum: vbi cum oppositio quaedam sit inter prius 
+      <lb ed="#C" n="31"/>ac posterius membrum, expriori membro posterioris sensus facile colligi 
+      po<lb ed="#C" n="32" break="no"/>test. Matth. 19. 17. Sivis ad vitam ingredi (Christus ait) serva mandata. 
+      <lb ed="#C" n="33"/>IHinc omnes Papistae colligunt, nos operum meritis instificari: interim 
+      noni<lb ed="#C" n="34" break="no"/>attendunt, cuihomini sic Christus responderit; ei sane, qui suae institiae opinione 
+      <lb ed="#C" n="35"/>subnixus, ad Christum accesserit, quique superbia elatus quaesierit, quid 
+      face<lb ed="#C" n="36" break="no"/>re cum oponeret, vt aeternam vitam adipisceretur. Tales homines, qui suis 
+      <lb ed="#C" n="37"/>meritis confidunt, merito ad legeni amandamur, vtsic, quantum a perfecta 
+      <lb ed="#C" n="38"/>iustitia absant, intelligant Et quidem veteres crebio eanuint, cum istam con¬ 
+      <!--361.xml-->
+      <pb ed="#L" n="352"/>
+               <lb ed="#C" n="1"/>textus consequutionem non attenderent, lob. 21. 13. legimus, Ducunt in 
+      <lb ed="#C" n="2"/>bono dies suos, &amp; in puncto ad infernum descendunt: quae verba sic multi 
+      in<lb ed="#C" n="3" break="no"/>tellexerunt, quasi vir sanctus diceret divites postquam vitamomnem in 
+      deli<lb ed="#C" n="4" break="no"/>ciis consumpserint, repente in poenas perpetuas praecipitari, cum facile 
+      con<lb ed="#C" n="5" break="no"/>stet ex verbis aliud esse, &amp; fere contrarum, quod velit divites illos hominesim 
+      <lb ed="#C" n="6"/>probos, &amp; Dei ac pietatis inimicos, non modo in vita, sed etiam in morte 
+      feli<lb ed="#C" n="7" break="no"/>ces esse: quia postquam se omnigenere voluptatum expleverint, sine 
+      do<lb ed="#C" n="8" break="no"/>lore diuturno moriuntur; cum alij lento morbocontabescant, multisque 
+      dolo<lb ed="#C" n="9" break="no"/>tibus in morte crucientur. Atque hinc quidem nascitur quintummedium 
+      </p>
+            <p xml:id="wWpoi1-e32148-d1e446">
+               <lb ed="#C" n="10"/>Quinto enim loco, Vnus locus cum alio comparandus &amp; conferendus 
+      <lb ed="#C" n="11"/>est, obscuriora nempe loca cum apertioribus &amp; minus obscuns. Si enim verba 
+      <lb ed="#C" n="12"/>vno in loco fuerint obscura, alio loco planiora erunt. Exempli gratia, 
+      laco<lb ed="#C" n="13" break="no"/>bus 2P cap. vers. 21. assent Abrahamum operibus iustificatum fuisse. Locus 
+      <lb ed="#C" n="14"/>obscurus est, &amp; Papistis favere videtur. Unde ergo verum horum verborum 
+      <lb ed="#C" n="15"/>sensum sciemus? Compatandus scilicet hic locus est cum secundo versu 
+      quar<lb ed="#C" n="16" break="no"/>ti capitis Epistolae ad Romanos, atque ita facile, quomodo hic locus 
+      in<lb ed="#C" n="17" break="no"/>telligendus sit, apparabit. Paulus enim, Rom. 4. 2. diserte ait, 
+      Abraha<lb ed="#C" n="18" break="no"/>mum ex operibus iustificatum non fuisse, quia tum haberet quod 
+      gloria<lb ed="#C" n="19" break="no"/>retur. Atquede operibus, quae sequuta sunt vocationem Abrahae, 
+      loquu<lb ed="#C" n="20" break="no"/>tum esse Paulum Apostolum eo in loco, satis constat. Primo, Quia 
+      dici<lb ed="#C" n="21" break="no"/>tur, Credidit Abraham Deo, &amp; imputatum est ei ad iustitiam: quod diul 
+      <lb ed="#C" n="22"/>post voc ationem eius evenisse, omnes sciunt. Secundo, Quia postea ad 
+      <lb ed="#C" n="23"/>Davidis exemplum accedit, quem omnes norunt fuisse hominem 
+      san<lb ed="#C" n="24" break="no"/>jctum, &amp; Spiritu Dei renatum, ac a Deo vocatum, Fateamur ergo 
+      ne<lb ed="#C" n="25" break="no"/>cesse est iustificationis nomen varie sumi, nisi velimus existimare 
+      Aposto<lb ed="#C" n="26" break="no"/>los a se dissentire, &amp; pugnantia enunciare. Apud Iacobum igitur 
+      iusti<lb ed="#C" n="27" break="no"/>ficari idem valet, quod iustum declavari ac demonstrari, quemadmodum 
+      <lb ed="#C" n="28"/>ipse Thomas Aquinas fatetur in illum locum; Apud Paulum vero, 
+      iusti<lb ed="#C" n="29" break="no"/>ficari idem est, quod a peccatis omnibus absolvi, justumque apud 
+      De<lb ed="#C" n="30" break="no"/>um reputati. 
+      </p>
+            <p xml:id="wWpoi1-e32148-d1e494">
+               <lb ed="#C" n="31"/>Sexto, In locorum collatione hoc observandum est, nempe nonmodo 
+      <lb ed="#C" n="32"/>similes locos cum similibus, sed dissimiles etiam cum dissimilibus 
+      con<lb ed="#C" n="33" break="no"/>ferendos esse. Similes cum similibus conferendi sunt: ut exempli gratia, 
+      <lb ed="#C" n="34"/>locus ille, qui habetur loan. 6. 53. (Nisicomederitis carnem filij hominis, 
+      <lb ed="#C" n="35"/>&amp; biberitis sanguinem eius, non habetis vitam in vobis) cum loco illo, qui  
+      <lb ed="#C" n="36"/>habetur loan. 4. 14. (Quisquis biberit ex aqua illa, quam ego dabo ei, non 
+      <lb ed="#C" n="37"/>sitiet in aeternum, sed aqua illa, quam ego dabo ei, fiet in eo fens aquae salientis 
+      <lb ed="#C" n="38"/>in vitam aeternam) Ista aqua spiritualis est, &amp; genus bibendi est spirituale: 
+      <!--362.xml-->
+      <pb ed="#L" n="353"/>
+               <lb ed="#C" n="1"/>ea dem vero ratio est comedendae illius carnis. Comedere enim ac bibere 
+      <lb ed="#C" n="2"/>similia sunt. Ergo vt aqua bibitur modo spintuali, quae facit vt nunquam  
+      <lb ed="#C" n="3"/>sitiamus; sic Christi caro non nisi spiritualiter comedi, ac sanguis bibi 
+      de<lb ed="#C" n="4" break="no"/>bet. Dissimiles loci cum dissimilibus: vt exempli gratia, Si idem ille locus, 
+      <lb ed="#C" n="5"/>qui habetur lohan. 6. 53. comparetur cum sexto praecepto in Decalogo, 
+      <lb ed="#C" n="6"/>nempe, Non occides. Si enim crimen, immo si flagitium sit, hominem 
+      occi<lb ed="#C" n="7" break="no"/>dere, certe multo gravius crimen est, hominen comedere &amp; devorare. 
+      Ita<lb ed="#C" n="8" break="no"/>que August. 3. L. de Doct. Christ. c.16. ait ista verba figurative 
+      intelligen<lb ed="#C" n="9" break="no"/>da atque interpretanda esse, quia alioquiscelus &amp; flagitium praeciperent. 
+      </p>
+            <p xml:id="wWpoi1-e32148-d1e538">
+               <lb ed="#C" n="10"/>Septimo, Omnes nosirae expositiones debent convenire analogiae se 
+      <lb ed="#C" n="11"/>dei, de qua legimus Rom. 12. 6. Analogia autem fidei nihil aliud est, 
+      <lb ed="#C" n="12"/>quam constans &amp; perpetua sententia Scripturae, in apertis &amp; minime 
+      ob<lb ed="#C" n="13" break="no"/>scuris Scripturae locis: quales sunt articuli fidei in Symbolo, quaeque 
+      <lb ed="#C" n="14"/>continentur in oratione Dominica, in Decalogo, &amp; in toto Catechismo. 
+      <lb ed="#C" n="15"/>Singulae enim partes totius Catechismi apertis Scripturae locis 
+      confirman<lb ed="#C" n="16" break="no"/>pessunt. Falsa expositio est, quaecunque huic analogiae repugnat. Verbi 
+      <lb ed="#C" n="17"/>gratia, Papistae ex verbis Coenae (hoc est corpus meum) 
+      transubstantiatio<lb ed="#C" n="18" break="no"/>nem eliciunt: Sensum enim hoc modo reddunt: Hici panis transmutatur: 
+      <lb ed="#C" n="19"/>in corpus meum. Lutherani alio modo interpretantur; nempe, Est sub hoc 
+      <lb ed="#C" n="20"/>pane corpus Christi: atque inde consubstantiationem suam colligunt. 
+      V<lb ed="#C" n="21" break="no"/>traque expositio dissentit ab analogia fidei. Nam primo, analogia fidei 
+      <lb ed="#C" n="22"/>docet, Christum habere corpus simile nostris corporibus: tale vero corpus 
+      <lb ed="#C" n="23"/>non potest vel latere sub accidentibus panis, vel esse vnam cum pane. 
+      Se<lb ed="#C" n="24" break="no"/>cundo: Analogia fidei docet Christum in coelo esse, ergo non est in pane, 
+      <lb ed="#C" n="25"/>vel cum pane. Tertio: Analogia fidei docet e coelo venturum esse 
+      Chri<lb ed="#C" n="26" break="no"/>stum ad iudicium, non e pixide. Similiter Papistae docent; nos instificari 
+      <lb ed="#C" n="27"/>operibus. Id repugnat etiam analogiae fidei. Nam in oratione Dominicat 
+      <lb ed="#C" n="28"/>petimus remissionem peccatorum, &amp; in Symbolo credimus remissionem. 
+      <lb ed="#C" n="29"/>peccatorum, idque semperdum vivimus, &amp; non alienorum tantum 
+      pec<lb ed="#C" n="30" break="no"/>catorum (sic enim daemones credunt) sed &amp; nostrorum. Ergo non 
+      possu<lb ed="#C" n="31" break="no"/>mus credere Deum nos propter nostra bona opera instos habiturum esse. 
+      </p>
+            <p xml:id="wWpoi1-e32148-d1e588">
+               <lb ed="#C" n="32"/>Octavo, Quoniam imperiti nesciunt his medijs recte vti, debent 
+      illi<lb ed="#C" n="33" break="no"/>alios se peritiores adite, aliorum libros legere, doctorum interpretum 
+      <lb ed="#C" n="34"/>Commentarios &amp; expositiones consulere, cum alijs etiam dispurare. 
+      Sic<lb ed="#C" n="35" break="no"/>Hieronymus, sic Augustinus, sic alij Patres fecerunt. Sed videndum. 
+      <lb ed="#C" n="36"/>interim est, ne nimium illis tribuamus, neve putemus illorum 
+      inter<lb ed="#C" n="37" break="no"/>pretationes recipiendas esse, quia sunt ab illis profectae; sed quia 
+      au<lb ed="#C" n="38" break="no"/>thoritate Scripturarum, aut ratione nituntur; ita nihil illis contra Scri¬ 
+      <!--363.xml-->
+      <pb ed="#L" n="354"/>
+               <lb ed="#C" n="1"/>pturas cedamus. Opera quidem, consilio, prudentia, ac scientia illorum 
+      <lb ed="#C" n="2"/>vtamur, sed caute semper, modeste, ac sapienter, atque ita, vt nostram 
+      <lb ed="#C" n="3"/>interim libertatem retineamus. Qui his medijs sic vti volet, &amp; opinionis: 
+      <lb ed="#C" n="4"/>suae perversitatem ac praeiudicium partiumque siudium deponet, quo 
+      <lb ed="#C" n="5"/>multi in omni causa vruntur; poterit ille quidem Scripturas, sinon in 
+      om<lb ed="#C" n="6" break="no"/>nibus locis, at in plerisque, si non statim, at tandem aliquando 
+      intel<lb ed="#C" n="7" break="no"/>ligere. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

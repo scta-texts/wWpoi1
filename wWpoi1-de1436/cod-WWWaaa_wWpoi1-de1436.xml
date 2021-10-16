@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="2"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de1436"><!-- con1q1c2 -->
+            <head xml:id="wWpoi1-de1436-Hd1e106">Caput 2</head>
+            <p xml:id="wWpoi1-de1436-d1e109">
+               <lb ed="#C" n="31"/>CAPVT SECVNDVM
+      </p>
+            <p xml:id="wWpoi1-de1436-d1e114">
+               <lb ed="#C" n="32"/>De statu primae Quaestionis
+      <lb ed="#C" n="33"/>LIbri autem sacrae Scripturae dicuntur Canonici, quia fidei nostrae 
+      <lb ed="#C" n="34"/>morumque normam &amp; regulam continent. Est enim Scriptura 
+      <lb ed="#C" n="35"/>idem in Ecclesia, quod est in Republica lex, quam <ref xml:id="wWpoi1-de1436-Rd1e124">
+                  <name xml:id="wWpoi1-de1436-Nd1e126">Aristoteles</name> in 
+      Politi<lb ed="#C" n="36" break="no"/>cis, Libro 2. cap. 8</ref>. 2αrονa, regulam vocat. Quemadmodum enim ci¬ 
+      <!--22.xml-->
+      <pb ed="#L" n="3"/>
+               <lb ed="#C" n="1"/>ves omnes legibus publicis convenienter vivere ac πλετενεος, sic 
+      Chri<lb ed="#C" n="2" break="no"/>stiani fidem vitamque suam ad Scripturae regulam, legemque 
+      accommoda<lb ed="#C" n="3" break="no"/>re debent. Itaque apud Eusebium, Lib. 7. cap. 30. sancti Patres Paulum 
+      <lb ed="#C" n="4"/>Samosatenum accusant, quod ἀποσας τοῦ κόνόνος, a reσula ascedens, 
+      haere<lb ed="#C" n="5" break="no"/>tici dogmatis author extitisset. Eiusmodi est quod Tertullianus in Lib. 
+      <lb ed="#C" n="6"/>Aduers. Hermogenem, Scripturas appellat reoulam veritatis: &amp; 
+      Cy<lb ed="#C" n="7" break="no"/>prianus ait in sermone de Baptismo Christi, Inveniet ex hac Scriptura 
+      <lb ed="#C" n="8"/>omnium doctrinarum regulas emanasse: &amp; hinc nasci, &amp; huc reverti quicquid  
+      <lb ed="#C" n="9"/>Ecclesiastica continet disciplina. &amp; Chrysostomus Homil. 13. in 2. 
+      Co<lb ed="#C" n="10" break="no"/>rinth. Scripturam vocat ἀπῶτεον ἀκριοη ζυγόν, κι γυαμονα, χικανονα, 
+      exquisi<lb ed="#C" n="11" break="no"/>tam omnium rerum trutinam, &amp; normam, &amp; regulam. Obistam causam, 
+      <lb ed="#C" n="12"/>Augustinus ait, de doctrina Christiana, Lib. 2. cap. 6. in Scripturis 
+      in<lb ed="#C" n="13" break="no"/>ueniri omnia, quae continent fidem, moresque vivendi: &amp; Scripturas stateram 
+      <lb ed="#C" n="14"/>vocat, Lib. 2. cap. 6. contra Donatistas, his verbis: Afferamus non 
+      sta<lb ed="#C" n="15" break="no"/>teras dolosas, ubi expendamus quod volumus, &amp; quomodo volumus, sed 
+      affe<lb ed="#C" n="16" break="no"/>ramus diuinas stateras de Scripturis sanctis, &amp;c. Sic Basilius sacram 
+      do<lb ed="#C" n="17" break="no"/>ctrinam appellat κανοὸνα ευθεός, κιγυώμονα δηηθειας, canonem recti, normamque  
+      <lb ed="#C" n="18"/>veri, cui nihil omnino desit. Et <name xml:id="wWpoi1-de1436-Nd1e176">Ruffinus</name>, postquam sacros Scripturae 
+      <lb ed="#C" n="19"/>libros recensuisset, in expositione Symboli, Haec sunt (inquit) quae 
+      Pa<lb ed="#C" n="20" break="no"/>tres intra Canonem concluserunt, ex quibus fidei nostrae assertiones constare 
+      <lb ed="#C" n="21"/>voluerunt: &amp; statim, Ex his fontibus verbi diuvini haurienda sunt pocula. Et  
+      <lb ed="#C" n="22"/>
+               <name xml:id="wWpoi1-de1436-Nd1e188">Aquinas</name>, in 1. Timoth. 6. Lect. 1. Doctrina (inquit) e Apostolorum &amp; 
+      <lb ed="#C" n="23"/>Prophetarum Canonica dicitur, quia est quasiregula intellectus nostri. 
+      Hinc<lb ed="#C" n="24" break="no"/>quamobrem Scripturae dicantur Canonicae, perspicuum est, quia quid 
+      <lb ed="#C" n="25"/>nos credere, &amp; quemadmodum vivere oporteat, praescribunt, vt huc 
+      fi<lb ed="#C" n="26" break="no"/>dem omnem, vitamque nostram referamus, quemadmodum lapicida aut 
+      <lb ed="#C" n="27"/>architectus ad amussim &amp; perpendiculum opus suum exigit. Ex quo 
+      e<lb ed="#C" n="28" break="no"/>tiam animadverti potest, perfectam esse Scripturam: nam aliter nomen 
+      <lb ed="#C" n="29"/>hoc Canonis &amp; Regulae Scripturis non satis idonee conveniret: qua 
+      de<lb ed="#C" n="30" break="no"/>re in sexta quaestione dicendum erit.  
+      </p>
+            <p xml:id="wWpoi1-de1436-d1e209">
+               <lb ed="#C" n="31"/>Hi autem libri, qui Canonici vocantur, in vetere novoque 
+      testamen<lb ed="#C" n="32" break="no"/>to comprehenduntur, ideoque Testamentarj nuncupantur. Sic Eusebius, 
+      <lb ed="#C" n="33"/>Lib. 3. cap. 3. hos libros vocat ενόιαθίκις, eodemque vocabulo 
+      Nicepho<lb ed="#C" n="34" break="no"/>tus saepe vsus est, aliique Graeci scriptores: sunt etiam qui ἀαθηκογζαρες 
+      <lb ed="#C" n="35"/>vocent. Iam ergo inter nos &amp; Papistas quaeritur, quinam libri sint vere 
+      <lb ed="#C" n="36"/>κανονϰαικXενώαθικον. De multis, &amp; praecipuis constat atque convenit: de 
+      <lb ed="#C" n="37"/>quibusdam ditigatur. UVt huius autem quaestionis vetus status 
+      intelligi<lb ed="#C" n="38" break="no"/>possit, videndum est imprimis, quid hac de re Tridentinum concilium 
+      <!--23.xml-->
+      <pb ed="#L" n="4"/>
+               <lb ed="#C" n="1"/>decreverit. Concilij haec verba sunt, Sess. 4. Sacrorum librorum indicem 
+      <lb ed="#C" n="2"/>huic decreto ascribendum censuit, ne cui dubitatio suboriri possit quinam 
+      ab<lb ed="#C" n="3" break="no"/>ipsa Synodo suscipiuntur. Tum recitat libros, qui vere Canonici sunt, 
+      qui<lb ed="#C" n="4" break="no"/>que a nobis sine ulla dubitatione suscipiuntur. Deinde alios adiungit,  
+      <lb ed="#C" n="5"/>quos pro vere Canonicisnon agnoscimus. Eiusmodi sunt hi sex libri, 
+      <lb ed="#C" n="6"/>Tobias, Iuduh, Sapientia, Ecclesiasticus, Maccabaeorum duo. Hi sunt 
+      libri<lb ed="#C" n="7" break="no"/>veteris Testamenti: Post recenset libros novi Testamenti, quos omnes 
+      <lb ed="#C" n="8"/>sine controversia recipimus, etsi non semper omnes similiter 
+      recepti<lb ed="#C" n="9" break="no"/>fuerunt in Ecclesia, vt postea audietis. Concludit postremo 
+      Concili<lb ed="#C" n="10" break="no"/>lum in hanc sententiam: Si quis libros ipsos integros cum omnibus suis 
+      par<lb ed="#C" n="11" break="no"/>tibus, vt in vetere vulgata Latina editione habentur, pro faeris &amp; Canonicis 
+      <lb ed="#C" n="12"/>non susceperit, anathema sit. Habetis decretum Tridentinum, &amp; decretis 
+      <lb ed="#C" n="13"/>terribilem sanctionem. Ex his nunc manifestumest, iuberi nos a 
+      Tri<lb ed="#C" n="14" break="no"/>dentinis Patribus, si modo diras istas effugere volumus, vt non 
+      modo<lb ed="#C" n="15" break="no"/>sex illos integros libros, quos nominavi, sed praeterea etiam partes 
+      il<lb ed="#C" n="16" break="no"/>las, &amp; additamenta librorum, cuiusmodisunt, Baruch, Hymnus trium 
+      <lb ed="#C" n="17"/>puerorum, Susannae, Belis, &amp; Draconis historiae, quae Danieli tribuuntur,  
+      <lb ed="#C" n="18"/>Hesterae capita quaedam apocrypha, in Canonicae Scripturae 
+      authorita<lb ed="#C" n="19" break="no"/>tem recipiamus. Sic enim huius decretisententiam interpretantur 
+      Ie<lb ed="#C" n="20" break="no"/>suitae. Est ergostatus huius quaestionis, Utrum hi libri, &amp; hae librorum. 
+      <lb ed="#C" n="21"/>particulae pro sacra &amp; Canonica Scriptura recipi debeant. Illi statuunt:  
+      <lb ed="#C" n="22"/>Nos negamus. Sequitur iam vt ad ipsam disceptationem veniamus. Et  
+      <lb ed="#C" n="23"/>primum illorum argumentis respondebo, tum ad nostrae causae 
+      defensi<lb ed="#C" n="24" break="no"/>onem accedam, quam viam postea etiam sequar, quia hanc nostrae 
+      tra<lb ed="#C" n="25" break="no"/>ctationi accommodatissimam esse iudico, eaque Aristotelem fere vsum 
+      <lb ed="#C" n="26"/>esse video. Nazianzenus ait in Lib. 1. Theologiae λιπο δυτος λόγε τατὸς, 
+      <lb ed="#C" n="27"/>τομρυ το δικειον κατασκαζοντω, το δκ το αυτίπαλον ἀνατζετον τος: ego prius, το 
+      <lb ed="#C" n="28"/>ἀντίπαλον, quod aduersatur, evertam, &amp; deinde τὸ δικειον, proprium 
+      institu<lb ed="#C" n="29" break="no"/>tum, confirmabo. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

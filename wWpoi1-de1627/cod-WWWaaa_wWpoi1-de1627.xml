@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="4"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de1627"><!-- con1q1c3 -->
+            <head xml:id="wWpoi1-de1627-Hd1e106">Caput 3</head>
+            <p xml:id="wWpoi1-de1627-d1e109">
+               <lb ed="#C" n="30"/>CAPVT TERTIVM
+      <lb ed="#C" n="31"/>De haereticis, qui in sacras &amp; canonicas 
+      <lb ed="#C" n="32"/>Scripturas sacrilegi fuerunt. 
+    </p>
+            <p xml:id="wWpoi1-de1627-d1e118">
+               <lb ed="#C" n="33"/>SED antequam longius progrediar, necessarium vobis esse 
+      existi<lb ed="#C" n="34" break="no"/>mo, vt veterum quorundam haereticorum amentiam 
+      perstrin<lb ed="#C" n="35" break="no"/>gam, qui certas minineque dubias Scripturas e sacro Canone nefarie 
+      <lb ed="#C" n="36"/>sustulerunt: &amp; tales sane admodum multi fuerunt, quemadmodum 
+      a<lb ed="#C" n="37" break="no"/>pud Irenaeum, Tertullianum, Epiphanium, Augustinum, aliosque legi¬ 
+      <!--24.xml-->
+      <pb ed="#L" n="5"/>
+               <lb ed="#C" n="1"/>mus. Non conabor omnes persequi, sed insigniores vobis recensebo.  
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e138">
+               <lb ed="#C" n="2"/>Primi omnium Sadducaei nullas Scripturas recipiebant, nisi quinque  
+      <lb ed="#C" n="3"/>libros Mosis. Qua de causa factum esse multi arbitrantur, Vt Matt. 22. 
+      <lb ed="#C" n="4"/>Sadducaeos Christus resurrectionem negantes, Mosaicae scripturae 
+      te<lb ed="#C" n="5" break="no"/>stimonio refutaret. Hos sequutus Simon, Prophetas minime curandos 
+      <lb ed="#C" n="6"/>esse dixit, vt testis est <name xml:id="wWpoi1-de1627-Nd1e151">Iraeneus</name>, Lib. 1. Cap. 20. Totum vetus 
+      Testamen<lb ed="#C" n="7" break="no"/>tum reijciebant Manichaei, tanquam a deo malo profectum. Duos enim 
+      <lb ed="#C" n="8"/>illi Deos impie fingebant, quorum vnus bonus, malus alter esset. Hac 
+      <lb ed="#C" n="9"/>de re Epiphanius scribit, Haeres. 66. Sic Saturninus etiam Iudaeorum 
+      de<lb ed="#C" n="10" break="no"/>um, ideoque vetus Testamentum repudiabat: quemadmodum Irenaeus, 
+      <lb ed="#C" n="11"/>Lib. 1. Cap. 22. testatur. Impius Marcion Deum in Lege &amp; Prophetis: 
+      <lb ed="#C" n="12"/>annunciatum multis conuitijs affecit, &amp; Christum venisse dixit, 
+      vtle<lb ed="#C" n="13" break="no"/>gem ac Prophetas, eiusque Dei, qui mundum fecerat, opera dissolveret, 
+      <lb ed="#C" n="14"/>vt Iraeneus Lib. 1. Cap. 29. Quos homines furiosos Christus ipse suis 
+      <lb ed="#C" n="15"/>verbis diserte refellit, cum ait, se non venisse vt dissolveret legem aut 
+      Pro<lb ed="#C" n="16" break="no"/>phetas, sed vt impleret. Mat. 5. 17. Hanc haeresin Augustinus 
+      Cerdonia<lb ed="#C" n="17" break="no"/>nis quoque tribuit, quos ait spernere Testamentum vetus: Ad Quod 
+      vult<lb ed="#C" n="18" break="no"/>deum, Cap. 21. Et Severianis, de quibus scribit, Carnis resurrectionem 
+      <lb ed="#C" n="19"/>cumvetere Testamento damnant: eiusdem libri cap. 24. &amp; Quido Carme- 
+      <lb ed="#C" n="20"/>lita hanc inter Albanensium haereses numerat. Hanc autem haeresin 
+      E<lb ed="#C" n="21" break="no"/>piphanius in eo loco, quem citavi, &amp; Augustinus copiosissime contra 
+      <lb ed="#C" n="22"/>Faustum Manichaeum, &amp; contra Aduersatium Legis &amp; Prophetarum, 
+      <lb ed="#C" n="23"/>refellunt.  
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e191">
+               <lb ed="#C" n="24"/>Mosis libros Ptolemaitae damnatunt, vt scribit Epiphanius, 
+      Hae<lb ed="#C" n="25" break="no"/>tes. 33. 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e199">
+               <lb ed="#C" n="26"/>Librum Psalmorum Nicolaitae &amp; Gnostici e Canone sacro 
+      eiece<lb ed="#C" n="27" break="no"/>runt, quemadmodum author est Philastrius in Lib. de Haeresib. Cap. 
+      <lb ed="#C" n="28"/>127. Quam haeresin nostris temporibus Anabaptistae renovarunt.  
+      <lb ed="#C" n="29"/>Sed hi omnes haeretici clarissima noui Testamenti authoritate 
+      redar<lb ed="#C" n="30" break="no"/>guuntur.  
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e212">
+               <lb ed="#C" n="31"/>Salomonis libros, praesertim Ecclesiasten, &amp; Canticum (anticorum, 
+      <lb ed="#C" n="32"/>multi olim reprobarunt, vt refert Philastrius in Catal. Cap. 132. &amp; 133. 
+      <lb ed="#C" n="33"/>quod in illo homines ad voluptates invitare, in hoc amatorios 
+      quos<lb ed="#C" n="34" break="no"/>dam inter se filiamque Pharaonis sermones narrate Salomon videretur.  
+      <lb ed="#C" n="35"/>Sedistos in manifesto &amp; impio opinionis errore fuisse constat. Nam in 
+      <lb ed="#C" n="36"/>Ecclesiaste Salomon homines non ad voluptates &amp; illecebras mundi 
+      <lb ed="#C" n="37"/>captandas allicit, vt isti putabant, sed potius a voluptatibus deterret, 
+      <lb ed="#C" n="38"/>atque ad mundum hunc fastidiendum atque contemnendum divina 
+      <!--25.xml-->
+      <pb ed="#L" n="6"/>
+               <lb ed="#C" n="1"/>poratione revocat. Sic enim statim inprincipio exclamat, Qanitas 
+      vani<lb ed="#C" n="2" break="no"/>tatum, &amp; omnia vanitas. Quibus verbis res islas, quae in mundo ex 
+      petun<lb ed="#C" n="3" break="no"/>tur, incertas, fluxas, fallaces esse declarat: ex quonecessatio 
+      consequi<lb ed="#C" n="4" break="no"/>tum, amentes illos esse, qui in hisce rebus acquiescunt. Itaque cum contra 
+      <lb ed="#C" n="5"/>illos; qui has: voluptates tant avide: prosequuntur: &amp; sese bonis istis, 
+      <lb ed="#C" n="6"/>quaecunque sunt, explere cupiunt, toto libro disputaffet, in e xtrema parte 
+      <lb ed="#C" n="7"/>faelicitatem, non in hi irebus, ve melti opinantur, sed inverapietate 
+      po<lb ed="#C" n="8" break="no"/>sitam esse docet, atque ita concludit, Time Deum, &amp; mandata etus serva, 
+      <lb ed="#C" n="9"/>quia hoc est totum hominis: quae est non Epicuri alicuius, sed sanctissimi 
+      <lb ed="#C" n="10"/>Prophetae sententia, stultos homines a rerum inanissimarum 
+      studio<lb ed="#C" n="11" break="no"/>abducentis, atque in veram, piae beataeque vitae viam revocantis. In 
+      <lb ed="#C" n="12"/>Cantico verosifuamyxorem laudam Salomon voluisset, tam 
+      monstro<lb ed="#C" n="13" break="no"/>sis, &amp; absurdis siimlitudinibus &amp; descriptionibus vsus non fuisset. Eam 
+      e<lb ed="#C" n="14" break="no"/>nimequitatui Pharaonis comparat, caput eius Carmelo, oculos 
+      pisci<lb ed="#C" n="15" break="no"/>nis, nasum turri, dentes gregiovium: denique totam vt castra 
+      terribi<lb ed="#C" n="16" break="no"/>lem esse pronunciat. Ista Pharaonis filiae, &amp; Sponsae Salomonis huius 
+      <lb ed="#C" n="17"/>non conveniunt. Sunt ergo haec ad alterius cuiusdam 
+      Salomonismysti<lb ed="#C" n="18" break="no"/>cam sponsam referenda, id est, Ecclesiam Christi, cuius cum fuo 
+      Sponso<lb ed="#C" n="19" break="no"/>summam fidei amorisque coniunctionem liber hic totus praedicat: id 
+      <lb ed="#C" n="20"/>quodomnes qui sano judicio praediti sunt, semper indicarunt. Quod  
+      <lb ed="#C" n="21"/>autem contra aliorum omnium librorum morem in hoc libro nomen 
+      <lb ed="#C" n="22"/>nullum Dei ponitur, eorum quae Deo in Scripturis vsitate tribuuntur,  
+      <lb ed="#C" n="23"/>id non arguit librum minime Canonicum esse. Etsi enim illa nomina in 
+      <lb ed="#C" n="24"/>hoc libropraetemittuntur, alia tamen quae sunt eiusdem generis &amp; 
+      mo<lb ed="#C" n="25" break="no"/>menti vsurpantur, qualia sunt, pastoris, fratris, amici, dilecti, Sponsi, que 
+      <lb ed="#C" n="26"/>huic sermonimulto magis congrusbant, Ille enim quem his nomisiibus. 
+      <lb ed="#C" n="27"/>Sponsa tam saepe appellat, non alius est quam Christus Dei verus silius, 
+      <lb ed="#C" n="28"/>&amp; verus ipse Deus. 
+      <lb ed="#C" n="29"/>. Anabaptistas impios non moramur hunc librum contumeliose 
+      repu<lb ed="#C" n="30" break="no"/>diantes: nec Castalionem aliquo modo excusandum esse iudicamus, sit 
+      <lb ed="#C" n="31"/>scripsit, quod ei obiiciunt quidam,, librumistum, nihil aliudesse, nisit 
+      <lb ed="#C" n="32"/>colloquium Salomoniscumamica quadam sua Sulamitha institutum. 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e306">
+               <lb ed="#C" n="33"/>Iobi Librum Anabaptistae hodie reiicere atque irtidere dicuntur, &amp; 
+      <lb ed="#C" n="34"/>sunt qui scripserint eum ab his haereticis Tragico comodiam Hebraeorum. 
+      <lb ed="#C" n="35"/>rappellari: quod illi a Judaeis improbis videntur didicisse. Nam 
+      Rabbini<lb ed="#C" n="36" break="no"/>squidam, Talmudicarum fabularum authores hanc fictam historiam 
+      <lb ed="#C" n="37"/>esse, &amp;talem nullum ynquam virum extitisse, impudentissime affirmant. 
+      <lb ed="#C" n="38"/>Horum impudentia aliis Scripturarum testimoniis convincitur.. Nam 
+      <!--26.xml-->
+      <pb ed="#L" n="7"/>
+               <lb ed="#C" n="1"/>apud Ezechielem, 14. 14. Dominus ait, Si tres isti viri essent in medio 
+      e<lb ed="#C" n="2" break="no"/>ius, IVoe, Daniel, Iob. &amp;c. Unde hominem extitisse lobum 
+      perspici<lb ed="#C" n="3" break="no"/>mus, quales fuisse Noachum &amp; Danielem nulli dubium est. Et Paulus 
+      <lb ed="#C" n="4"/>ex hoc libro luculeneum testimonium: citavit, 1. Cor. 3. 19. Quicarpit 
+      <lb ed="#C" n="5"/>sapientes in versutia eorum: quae verba apud lobum, 5. 13. Eliphax 
+      habu<lb ed="#C" n="6" break="no"/>isse legitur. Et huius etiam viri lacobus Apostolus in Epissola sua 
+      memi<lb ed="#C" n="7" break="no"/>nit, lac. 5. 11. Hinc &amp; veram hanc fuisse historiam, &amp; librum ipsum esse 
+      <lb ed="#C" n="8"/>canonicum, &amp; qui contra statuunt, pro haereticis tenendos esse liquet.  
+      <lb ed="#C" n="9"/> Hieronymus in prooemio commentatiorum suorum in Danielem, 
+      <lb ed="#C" n="10"/>refert Porphyrium: Philosophum: scripsisse volumen adversus librumi 
+      <lb ed="#C" n="11"/>Danielis. Prophetae nostii, &amp; affirmasse, iquae nunc extant hoc nomine 
+      <lb ed="#C" n="12"/>Danielis; ea non ab antiquo illo Propheta, sedia recentiore quodam 
+      <lb ed="#C" n="13"/>Daniele, qui AntiochiEpiphanis: tempotibus vixit, edita fuisse: Sed 
+      <lb ed="#C" n="14"/>minime curandum est quidampius iste Porphyrius: scripserit, qui 
+      scri<lb ed="#C" n="15" break="no"/>ptur as onmes &amp; religionem ludibrio: habuit: cujus quidem calumniae 
+      <lb ed="#C" n="16"/>fuerunt ab Eusebio; &amp; Apollinatio, &amp; Methodio refutatae, ut in 
+      eodom<lb ed="#C" n="17" break="no"/>loco Hietonymus testatu Et deveterae Festamento hactenusa fueuirs 
+      <lb ed="#C" n="18"/>. Novum quoque Testamentum varie olimifuit ab haereticis 
+      aliisque<lb ed="#C" n="19" break="no"/>convulsum. Nam Manichaei nonminus impij &amp; sacrilegi inlibros nor 
+      <lb ed="#C" n="20"/>vi Testamenti, quam veteris extiterunt. Nonenim veritr sunt 
+      affirma<lb ed="#C" n="21" break="no"/>re, libros Apostolorum &amp; Evangelistarum mendaciis refertos 
+      esse<lb ed="#C" n="22" break="no"/>Quam istorum insaniam &amp; furorem Augustinus inq 2. lib. contra 
+      Fau<lb ed="#C" n="23" break="no"/>stum Manichaeum doctissime refelsit: ai cuns 
+      <lb ed="#C" n="24"/>Alij nullum Evangelium praeterquam, Lucae receperunt, &amp; nihil fere: 
+      <lb ed="#C" n="25"/>praeterea aliud in novo Testamento, veCerdon&amp; eius discipulus 
+      Mar<lb ed="#C" n="26" break="no"/>cion: de quibus Tertullianus, de Praescript: in fine; Solum Svangelium 
+      <lb ed="#C" n="27"/>Lucae, nec tamen totum, recipit Cerdon: eApostoli Paulineque omnes, neque totas 
+      <lb ed="#C" n="28"/>Epistolas sumit. Acta Apostolorum &amp; Apocalypsin quasi falsa reiscit: post hunc 
+      <lb ed="#C" n="29"/>discipulus ipsius emersit Mancion quidam nominethaeresin Gerdonis adprobare. 
+      <lb ed="#C" n="30"/>conatus est. Hi pene omnia in novo Testamento sustulerunt:e 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e391">
+               <lb ed="#C" n="31"/>Valentiniani nullum Evangelium msi lohannis admisenunt, vt 
+      Ire<lb ed="#C" n="32" break="no"/>naeus, Libi 3. Cap. 11. quod &amp; de Luthero Papistae affirmant, sed 
+      falsis<lb ed="#C" n="33" break="no"/>sime, vt ipsinorunt. 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e400">
+               <lb ed="#C" n="34"/>Sadogiani contra, lohannis omnia respuerunt: ob eamque causam hoc  
+      <lb ed="#C" n="35"/>nomine appellati funt, propterea quod λόόον, quem Iohanmes in 
+      prin<lb ed="#C" n="36" break="no"/>cipioEvangelijsui Deum esse praedicat, pro Deo agnoscere noluerunt,  
+      <lb ed="#C" n="37"/>vt Epiphanius refert, haeres. 51. quibus ille ob hanc causam talenomen 
+      <lb ed="#C" n="38"/>imposuit: ve 
+      <!--27.xml-->
+      <pb ed="#L" n="8"/>
+               <lb ed="#C" n="1"/>Ebionaeos eo solo, quod secundum Matthaeum est, Evangelio vsos 
+      es<lb ed="#C" n="2" break="no"/>se, &amp; Paulum Apostolum, tanquam Apostatam legis, recusasse, Irenaeus 
+      <lb ed="#C" n="3"/>scribit, Lib. 1. Cap. 26. 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e424">
+               <lb ed="#C" n="4"/>Acta Apostolorum Severiani innullo numero habuerunt, vt 
+      Euse<lb ed="#C" n="5" break="no"/>bius narrat, Lib. 4. Cap. 27. 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e432">
+               <lb ed="#C" n="6"/>Marcionitae Epistolas ad Timotheum ambas, Epistolam ad Titum, 
+      <lb ed="#C" n="7"/>Epistolam ad Hebraeos respuerunt, vt Epiphanius memoriae mandavit,  
+      <lb ed="#C" n="8"/>Haeres. 42. Pauli Epistolam ad Philemonem a nonnullis olim pro 
+      Ca<lb ed="#C" n="9" break="no"/>nonica receptam non fuisse, testes sunt Chrysostomus, &amp; Hieronymus 
+      <lb ed="#C" n="10"/>in prooemio illius Epistolae: quod vt crederent, eo sunt inducti 
+      argumen<lb ed="#C" n="11" break="no"/>to, Apostolum non dixisse ac scripsisse omnialoquente in se Christo, 
+      <lb ed="#C" n="12"/>quia humana imbecillitas ferre non potuisset vnum, perpetuo tenorem. 
+      <lb ed="#C" n="13"/>dancti Spiritus: &amp; Apostolos quaedam loquutos esse Spiritu humano. 
+      <lb ed="#C" n="14"/>Ex quo genere hanc Epistolam esse aiunt, vtpote quae mihil habeat aut 
+      <lb ed="#C" n="15"/>dignum Apostolica ac divina authoritate, aut nobis vtile. Quorum 
+      opi<lb ed="#C" n="16" break="no"/>nionem vere ac pulchre. Chrysostomus in argumento: huius 
+      Epistolae<lb ed="#C" n="17" break="no"/>removet, multaque hinc praeclava ac necessaria disci posse docet. Erimam, 
+      <lb ed="#C" n="18"/>oportere nos etiam de personis insimis solicitos esse. Secundum, non 
+      <lb ed="#C" n="19"/>esse de servis, multo minus de ingenuis desperandum, quantumvis 
+      ne<lb ed="#C" n="20" break="no"/>quissimis &amp; sceleratis. Tertium, non licere cuiquam, ut servum a 
+      Do<lb ed="#C" n="21" break="no"/>mino avellat praetextu religionis. Quartum, nostrum esse vt servorum. 
+      <lb ed="#C" n="22"/>nos minime pudeat, modo probi fuerint. Quis nunc inutilem hanc esset 
+      <lb ed="#C" n="23"/>nobis Epistoiam dicat, ex qua haec tammulta, aliaque egregia discantur?)I 
+      <lb ed="#C" n="24"/>Quare cumhaec Epistola &amp; scripta a Paulo sit, &amp; doctrinam tam 
+      excel<lb ed="#C" n="25" break="no"/>lentem in se habeat, reiici nullo modo potest. Et talis fuit haereticorum 
+      <lb ed="#C" n="26"/>de libris divinis sententia, vel potius insania, Fuerunt etiam alij, qui 
+      cer<lb ed="#C" n="27" break="no"/>tos novi Testamenti libros, &amp; librorum partes, aut omnino reiecerint, 
+      <lb ed="#C" n="28"/>aut in tantam authoritatem minime receperint, quos nihil attinet vobis 
+      <lb ed="#C" n="29"/>recensere. Non enim inhis aut commemorandis, aut refutandis, 
+      diu<lb ed="#C" n="30" break="no"/>tius immorandum est iui 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e489">
+               <lb ed="#C" n="31"/>His vero omnibus nequiores Syrenchfeldiani &amp; Libertinis 
+      Scriptu<lb ed="#C" n="32" break="no"/>ras omnes contemnunt, multisque probris afficiunt, &amp; nos non quid 
+      Scri<lb ed="#C" n="33" break="no"/>pturae loquantur, sed quid intus Spiritus dicat &amp; doceat, attendere 
+      opor<lb ed="#C" n="34" break="no"/>tere statuunt. De quibus sic scribitHosius Polonus, in libro de 
+      expresso<lb ed="#C" n="35" break="no"/>Deiverbo:: Nos ipsas Scripturas facessere iubebimus, &amp; Deum loquentem, 
+      <lb ed="#C" n="36"/>potius audiemus, quam vead egena ista elementa nos convertamus. Non 
+      opor<lb ed="#C" n="37" break="no"/>tet legis &amp; Scripturae peritum esse, sed a Deo doctum, Vsanus est labor, qui 
+      Scri<lb ed="#C" n="38" break="no"/>pturis impenditur: Scriptura enim creatura est, &amp; egenum quoddam elemen¬ 
+      <!--28.xml-->
+      <pb ed="#L" n="9"/>
+               <lb ed="#C" n="1"/>tum. Hanc immanem haeresin multae scripturae apertissime damnant,  
+      <lb ed="#C" n="2"/>Christus ait, Scrutamini Scripturas. Paulus ait, Quae ante scripta sunt, ad 
+      <lb ed="#C" n="3"/>nostram doctrinam praescripta sunt, Rom. 15. 4. &amp; alibi, Tota Scriptura 
+      di<lb ed="#C" n="4" break="no"/>vinitus inspirata est, &amp; viilis ad doctrinam, redargutionem, reprehensionem, 
+      <lb ed="#C" n="5"/>&amp; institutionem in iustitia. 2. Tim. 3. 16. Et sunt eiusmodi innumera 
+      testi<lb ed="#C" n="6" break="no"/>monia, quibus Scripturarum authoritas comprobatur, atque istorum 
+      <lb ed="#C" n="7"/>blasphemia convincitur, contra quam multa etiam nostri 
+      Theologi<lb ed="#C" n="8" break="no"/>praeclare scripserunt. 
+      </p>
+            <p xml:id="wWpoi1-de1627-d1e531">
+               <lb ed="#C" n="9"/>Quemadmodum autem istorum haereses, quos memini, a nobis 
+      da<lb ed="#C" n="10" break="no"/>mnandae sunt, ita illorum etiam opiniones nullo modo probandae sunt,  
+      <lb ed="#C" n="11"/>qui sacros scriptores quibusdam in locis lapsos esse putant: in qua 
+      opi<lb ed="#C" n="12" break="no"/>nione veteres quosdam olim fuisse Augustinus testis est: contra quos 
+      i<lb ed="#C" n="13" break="no"/>dem Pater verissime defendit, omnem falsitatem abesse ab Evargelistis, non 
+      <lb ed="#C" n="14"/>solum eam quae mentiendo promitur, sed etiam obliviscendo. de Consens. 
+      E<lb ed="#C" n="15" break="no"/>uang. Lib. 2. Cap. 12. Itaque Hieronymus non recte sensit, si modo ita 
+      <lb ed="#C" n="16"/>sensit, vt Erasmo visus est sentire, Evangelistas labi memoria petuisse. 
+      Eras<lb ed="#C" n="17" break="no"/>mus quidem ipse statuit nec impium nec absurdum esse, si ita sentiamus, 
+      <lb ed="#C" n="18"/>&amp; fieripotuisse concedit, vt Matthaeus in illo loco capitis 27. Ieremiae 
+      <lb ed="#C" n="19"/>nomen posuerit pro Zachariae. In quem locum fic Erasmus, 
+      Caeterume<lb ed="#C" n="20" break="no"/>tiamsi fuisset in nomine duntaxat memoriae lapsus, non opinor quenquam adeo 
+      <lb ed="#C" n="21"/>morosum esse oportere, vt ob eam causam totius scripturae sacrae labasceret 
+      au<lb ed="#C" n="22" break="no"/>thoritas. Sed nos non decet esse tam molles atque faciles, vttale aliquid 
+      <lb ed="#C" n="23"/>sacris scriptoribus vsuvenire potuisse concedamus. Nam illi sic scripse 
+      <lb ed="#C" n="24"/>runt, quemadmodum actia Spiritu sancto fuerunt: vt Petrus ait, 2. Pet. 1. 21. 
+      <lb ed="#C" n="25"/>&amp;, Scriptura omnis est diuvinitus inspirata. vt Paulus diserte scribit, 2. 
+      <lb ed="#C" n="26"/>Tim. 5. 16. Cum autem in Spiritum sanctum nemo dixerit 
+      infirmita<lb ed="#C" n="27" break="no"/>tem aliquam cadere posse, falli aut errare sacri scriptores nullo sane 
+      mo<lb ed="#C" n="28" break="no"/>do potuerunt. Itaque hic nos morosos esse convenit, vt talem nullum in 
+      <lb ed="#C" n="29"/>Scripturis lapsum inveniri posse statuamus. Nam quicquid Erasmo 
+      vi<lb ed="#C" n="30" break="no"/>deatur, verum illud est quod Augustinus Hieronymo respondit, Si 
+      men<lb ed="#C" n="31" break="no"/>dacium aliquod in Scripturis vel levissimum admittatur, Scripturae 
+      autho<lb ed="#C" n="32" break="no"/>gritatem omnem mox labefactari, ac convelli. Quod igitur 
+      Prophe<lb ed="#C" n="33" break="no"/>taetoties vsurparunt, Haec dicit Dominus, idipsum quoque Apostolis 
+      at<lb ed="#C" n="34" break="no"/>que Evangelistis tribuendum est. Quae enim illi scripserunt, hae ceadem 
+      <lb ed="#C" n="35"/>illis Spiritus sanctus dictanit: cuius quidem gratia (ut Ambrosius 
+      scri<lb ed="#C" n="36" break="no"/>bit, Libi2. in Lucam) tarda molimina nescit. Itaque nec illud ferendum 
+      <lb ed="#C" n="37"/>est, quod <ref xml:id="wWpoi1-de1627-Rd1e596">
+                  <ame>Melehior Canus</ame> attulit, Lib. 2. cap. 18. ad 6.</ref> in explicatione 
+      <lb ed="#C" n="38"/>cviusdam difficultatis in Actis Apostolicis, cap. 7.16. vbi <name xml:id="wWpoi1-de1627-Nd1e604">Stephanus</name> 
+               <!--29.xml-->
+               <pb ed="#L" n="10"/>
+               <lb ed="#C" n="1"/>ait Abrahamum emisse monimentum a filiis Hemor, quando tamen 
+      <lb ed="#C" n="2"/>Moses narrat illud a lacobo, non Abrahamo, emptum fuisse 
+      monimen<lb ed="#C" n="3" break="no"/>tum. <name xml:id="wWpoi1-de1627-Nd1e618">Canus</name> 
+               <name xml:id="wWpoi1-de1627-Nd1e621">Stephanum</name> quidem in narranda historia tam longa 
+      labi<lb ed="#C" n="4" break="no"/>potuisse existimat, sed Lucam minime lapsum esse: quia quae loquurus 
+      <lb ed="#C" n="5"/>Stephanus esset, ea fideliter natrauit: Sed ista responsio nodum potius 
+      <lb ed="#C" n="6"/>astringit, quam dissolvit. Nam Stephanus non modo plenus fuit 
+      Spiri<lb ed="#C" n="7" break="no"/>tu sancto, sedietiam loquutus esse dicitur per Spiritum sanctum. Act. 6. 
+      <lb ed="#C" n="8"/>10. Nihilo ergo magis labi Stephanus potuit, quam Lucas: quia 
+      Spiri<lb ed="#C" n="9" break="no"/>tus sanctus in Stephano ac Luca idem fuit, &amp; vim non minorem habiit.  
+      <lb ed="#C" n="10"/>Deinde, si erravisse aut deceptum fuisse Stephanum damus, non video 
+      <lb ed="#C" n="11"/>quemadmodum Lucas excusari possit, qui huius errorem non 
+      emenda<lb ed="#C" n="12" break="no"/>vit. Ergo tuenda est authoritas Scripturae, vt in ea nihil aliter traditum 
+      <lb ed="#C" n="13"/>fuisse iudicemus, quam perfectissima veritas postulavit. Quare nec illud 
+      <lb ed="#C" n="14"/>quod Hieronymus in quaest. in Genesin observandum esse dixit.  
+      <lb ed="#C" n="15"/>Ubicunque sancti Apostoli, aut Apostolici viri loquuntur ad populos, us plerunque  
+      <lb ed="#C" n="16"/>testimoniis abutuntur, quae iam fuerant in gentibus divulgata, quam ille 
+      <lb ed="#C" n="17"/>prudenter &amp; considerate scripserit, satis intelligo. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

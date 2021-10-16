@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="235"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e21707"><!-- con1q3c9 -->
+            <head xml:id="wWpoi1-e21707-Hd1e106">Caput 9</head>
+            <p xml:id="wWpoi1-e21707-d1e109">
+               <lb ed="#C" n="14"/>CAPUTTTIII 
+      <lb ed="#C" n="15"/>Defegiua guρι ζαιρρο
+    </p>
+            <p xml:id="wWpoi1-e21707-d1e116">
+               <lb ed="#C" n="16"/>SEptimum argumentum habetur Lib. 9e. Cap. 10. vbi alios 
+      Pa<lb ed="#C" n="17" break="no"/>Otres adiungit Augustino, vt probet Canonem Scripturae esse 
+      Ec<lb ed="#C" n="18" break="no"/>clesiae authoritate consignandum. Sed illi omnes Patres num quid 
+      ali<lb ed="#C" n="19" break="no"/>ud probant, quam Scripturam recipiendam esse, quia ab Ecclesia 
+      sem<lb ed="#C" n="20" break="no"/>per recepta est, &amp; quosdam libros rejiciendos esse, quia Ecclesia 
+      sem<lb ed="#C" n="21" break="no"/>per reiecit? at hoc quidem nos libentissime fatemur. Concedimus enim 
+      <lb ed="#C" n="22"/>Ecclesiae authoritatem vnum quidem esse idque bonum argnimentum; 
+      <lb ed="#C" n="23"/>sed non continuo sequitur, aut hoc esse vnicum argumentum, aut 
+      to<lb ed="#C" n="24" break="no"/>tam hanc causam ex Ecclesiae authoritate pendere. Possem ergo 
+      ista<lb ed="#C" n="25" break="no"/>omnia testimonia contemnere ac praeterire tanquam aliena: sed ea 
+      ta<lb ed="#C" n="26" break="no"/>men paucis attingam, ne de industria aliquid praetermisisse videar. 
+      Te<lb ed="#C" n="27" break="no"/>stimonia vero, quae hoc capite adducit Stapletonus, numero quinque 
+      <lb ed="#C" n="28"/>sunt, nempe Theodoreti, Tertulliani, Irenaei, Concilij Toletani primi, &amp; 
+      <lb ed="#C" n="29"/>Serapionis Antiocheni Episcopi, de quibus singulis breviter responde 
+      a<lb ed="#C" n="30" break="no"/>mus. Theodoretus in argument. in Epist. ad Hebraeos, contra Arianos, 
+      <lb ed="#C" n="31"/>qui illius Epistolae authoritatem negabant, in hunc modum scribit: 
+      O<lb ed="#C" n="32" break="no"/>portebat ipsos, etsi nihil aliud, temporis quidem certe diuturmitatem revereri, 
+      <lb ed="#C" n="33"/>quohanc Epistolam in Ecclesiis perpetuo legerunt veritatis alumni. 
+      Respon<lb ed="#C" n="34" break="no"/>deo. Quid hoc quaeso ad nos? nihil plane. Nos enim hanc Epistolam 
+      <lb ed="#C" n="35"/>omnireverentia complectendam esse, &amp; argumento ab antiquit ate 
+      du<lb ed="#C" n="36" break="no"/>cto Adversarios premi coercerique posse concedimus. Sed num 
+      quaeso<lb ed="#C" n="37" break="no"/>Theodoretus scripsit nihil aliud huic Epistolae authoritatem conciliare, 
+      <!--245.xml-->
+      <pb ed="#L" n="236"/>
+               <lb ed="#C" n="1"/>praeter ipsamtemporis antiquitatem? Minime quidem, sed potius 
+      con<lb ed="#C" n="2" break="no"/>trario plane modo, vtex eius verbis patet: Ait enim, etsinihil aliud esset, 
+      ip<lb ed="#C" n="3" break="no"/>satemporis diuturnitate eos moveri debere. Ergo alia fuisse 
+      argumenta<lb ed="#C" n="4" break="no"/>innuit, praeter antiquitatem temporis, quibus huius Epistolae authoritas 
+      <lb ed="#C" n="5"/>confirmari possit. Ac fuit quidem inter haec alia argumenta praecipuum 
+      <lb ed="#C" n="6"/>procul dubio ipsa Epistolae doctrina, quam Ecclesia per Spiritum 
+      san<lb ed="#C" n="7" break="no"/>ctum agnoscit. Quae enim alia afferri possunt? Sic ergo hoc primum, 
+      <lb ed="#C" n="8"/>quod Stapletonus affert, testimonium facile ac nullo pene negotio 
+      di<lb ed="#C" n="9" break="no"/>luitur.  
+      </p>
+            <p xml:id="wWpoi1-e21707-d1e190">
+               <lb ed="#C" n="10"/>Sed segundum fortasse testimonium luculentius est, quod nobis iam 
+      <lb ed="#C" n="11"/>proximo in loco est excutiendum. Est vero illud Tertulliani, in Lib. 
+      de<lb ed="#C" n="12" break="no"/>Praescrip. adversus haereticos, vbi haec verba reperiuntur: Quid Apostoli 
+      <lb ed="#C" n="13"/>praedicaverint, praescribam non aliter probari debere, nisi per easdem Ecclesias, 
+      <lb ed="#C" n="14"/>quas ipsi Apostoli condiderunt. Quid dicis inquit Stapletonus) apertius 
+      po<lb ed="#C" n="15" break="no"/>tuit? Respondeo: Fateor quidem verba manifesta esse, sed dico 
+      Tertulli<lb ed="#C" n="16" break="no"/>anum non de Enistolis Apostolorum, sed de doctrina Apostolica loqui.  
+      <lb ed="#C" n="17"/>Atque illud quidem ex verbis proxime praec edentibus satis constat. Sic 
+      e<lb ed="#C" n="18" break="no"/>nim scribit: Hanc igitur dirigimus praescriptionem, si Dominus Iesus Christus. 
+      <lb ed="#C" n="19"/>Apostolos misit ad praedicandum, alios non esse recipiendos praedicatores, quam 
+      <lb ed="#C" n="20"/>quos Christus instituit, quia nec alius Patrem novit, nisi filius, &amp; cui filius 
+      reve<lb ed="#C" n="21" break="no"/>lavit, &amp; nec alijs videtur revelasse filius, quam Apostolis, quos misit ad 
+      praedi<lb ed="#C" n="22" break="no"/>candum vtique quod illis revelavit: tum hanc praescriptionem adhibet,  
+      <lb ed="#C" n="23"/>nempe doctrinam, quam Apostoli praedicabant, non alia ratione 
+      probari<lb ed="#C" n="24" break="no"/>debere, quam per Ecclesias illas, quas illi fundarunt. Quibus quidem 
+      <lb ed="#C" n="25"/>verbis non rejicit Tertullianus omnia alia testimonia. Si enim haec eius 
+      <lb ed="#C" n="26"/>mens fuisset, sola approbatione Apostolicarum Ecclesiarum constare: 
+      <lb ed="#C" n="27"/>nobis Epistolas Apostolicas, tum Spiritus sancti testimonium reiecisset, 
+      <lb ed="#C" n="28"/>quod certum est eum nunquam facere voluisse. Quin &amp; hoc stare non 
+      <lb ed="#C" n="29"/>posset cum Adversarij defensione. Ille enim in vitimo Cap. huius 
+      noni<lb ed="#C" n="30" break="no"/>libri vult Scripturae Canonem ex regula fidei esse consignandum. Ergo 
+      <lb ed="#C" n="31"/>praeter Ecclesiae approbationem, vult etiam regulam fidei esse 
+      necessari<lb ed="#C" n="32" break="no"/>am: est enim regula fidei aliud quiddam ab externo Ecclesiae iudicio. Sed,  
+      <lb ed="#C" n="33"/>Tertulliani sententia est, quemadmodum ex verbis sequentibus patet, 
+      <lb ed="#C" n="34"/>omnem doctrinam veram esse, quae consentiat ac conspiret cum 
+      doctri<lb ed="#C" n="35" break="no"/>na Ecclesiarum, quam illae ab Apostolis, Apostoli a Christo acceperunti 
+      <lb ed="#C" n="36"/>quae vero non consentiat, eam adulterinam atque falsam esse. Sic enim 
+      <lb ed="#C" n="37"/>subiungit: Si haec ita sunt, constat proinde omnem doctrinam, quae cum illis 
+      Ecc<lb ed="#C" n="38" break="no"/>clesiis Apostolicis matricibus &amp; originalibus fidei conspiret, veritati depu¬ 
+      <!--246.xml-->
+      <pb ed="#L" n="237"/>
+               <lb ed="#C" n="1"/>tandam, &amp; id sine dubio tenentem, quod Ecclesiae ab Apostolis, Apostoli a 
+      Chri<lb ed="#C" n="2" break="no"/>sto, Christus a Deo suscepit: reliquam vero doctrinam de mendacio 
+      praeiudican<lb ed="#C" n="3" break="no"/>dam. Tantum abest vt hoc tollat testimonium Spiritus sancti, vepotius 
+      <lb ed="#C" n="4"/>statuat. Nam Spiritus sanctus est Apostolicae doctrinae iundex. Nihil ergo 
+      <lb ed="#C" n="5"/>Ecclesiae tribuit, nisi eam doctrinam teneat Deinde, aliud est doctrinam 
+      <lb ed="#C" n="6"/>probari per Ecclesiam, quod ait Fertullianus; aliud recipi duntaxat propter 
+      <lb ed="#C" n="7"/>Ecclesiae authoritatem, quod vult Stapletonus. Nos prius concedimus, 
+      <lb ed="#C" n="8"/>praesertim de Apostolicis Ecclesus; posterius autem nequaquam. Nam 
+      <lb ed="#C" n="9"/>etsi per Ecclesiam cognoscimus doctrinam, tamen iam nos propter 
+      Spi<lb ed="#C" n="10" break="no"/>ritus sancti authoritatem credereipsi Adversarij concedunt, vt post 
+      audi<lb ed="#C" n="11" break="no"/>etis. Ergo Tertullianus cum de sana &amp; Apostolica doctrina loquitur, etsi 
+      <lb ed="#C" n="12"/>eam cum Ecclesiarum Apostolic arumfide conspirate debere dicat, non 
+      <lb ed="#C" n="13"/>tamen propterea Spiritus sancti testimonium removet. 
+      </p>
+            <p xml:id="wWpoi1-e21707-d1e288">
+               <lb ed="#C" n="14"/>At que haec de Tertulliani testimonio: nunc ad Irenaeum accedo, 
+      ex<lb ed="#C" n="15" break="no"/>quo nonnulla recirat Stapletonus, quae certe perexiguam in se vim 
+      ha<lb ed="#C" n="16" break="no"/>bent. Nos enim fatemur cum Irenaeo Ecclesiae authoritatem esse 
+      fir<lb ed="#C" n="17" break="no"/>mam ac compendiariam doctrinae Canonicae demonstrationem, a 
+      poste<lb ed="#C" n="18" break="no"/>tiori nempe, non a prioni: sed negamus hoc esse vnicum ut maximum, 
+      <lb ed="#C" n="19"/>aut: firmissimum argumentum. Id ex Irenaeo probare Stupletonus non 
+      <lb ed="#C" n="20"/>potuit, Deinde, quando concedit Stapletonus ex Irenaeo, haereticos 
+      <lb ed="#C" n="21"/>quasdam Scripturas negantes, per Scripturas, quas ijdem receperunt, 
+      re<lb ed="#C" n="22" break="no"/>futari, nonne id affirmat, quod nos volumus, Scripturas nempe per 
+      Scri<lb ed="#C" n="23" break="no"/>pturas probari posse, &amp; aliter Scripturas agnosci ac probari, quam 
+      per<lb ed="#C" n="24" break="no"/>Ecclesiae testimonium? 
+      </p>
+            <p xml:id="wWpoi1-e21707-d1e315">
+               <lb ed="#C" n="25"/>Quartum eius testimonium est e Concilio Toletano primo 
+      desump<lb ed="#C" n="26" break="no"/>tum, in quo Canon 21. est huiusmodi: Si quis dixerit aut crediderit alias 
+      <lb ed="#C" n="27"/>Scripturas recipiendas esse, praeter illas quas Ec clesia recepit, anathema sit. 
+      <lb ed="#C" n="28"/>Respondeo: Non video quo minus &amp; mihi &amp; piis omnibus liceat his 
+      ver<lb ed="#C" n="29" break="no"/>bis respondere Amen. Nos enim non aliter sentimus, quam inhoc 
+      Cano<lb ed="#C" n="30" break="no"/>ne praescribimur, &amp; nullum librum vel recipimus, vel reiicimus, sine 
+      Ec<lb ed="#C" n="31" break="no"/>clesiae Catholicae testimonio atque exemplo: quare nos ista anathematis 
+      <lb ed="#C" n="32"/>denunciatiominime attingit. Sedmitor <name xml:id="wWpoi1-e21707-Nd1e334">Stapletonum</name> adeo stupidum 
+      fu<lb ed="#C" n="33" break="no"/>isse, ut non intelligeret, aut non animadverteret, quam infirmum sit hoc  
+      <lb ed="#C" n="34"/>illius argumentum: Nullae Scripturae re cipidebent, quae ab Ecclesia non 
+      <lb ed="#C" n="35"/>fuerint receptae &amp; approbatae; Ergo propter Ecclesiae tantum 
+      testimoni<lb ed="#C" n="36" break="no"/>um recipiendae sunt Scripturae: Nullae Scripturae sunt rejiciendae, nisi quas 
+      <lb ed="#C" n="37"/>reiecit Ecclesia: ergo Apocryphae Scripturae sunt eotantum nomine 
+      re<lb ed="#C" n="38" break="no"/>ficiendae, quia Ecclesia: eas reiecit. Atque de hoc testimonio satis multa. 
+      <!--247.xml-->
+      <pb ed="#L" n="238"/>
+               <lb ed="#C" n="1"/>Sequitur iam quintum &amp; vltimum testimonium, quod est Serapionis: 
+      <lb ed="#C" n="2"/>cuiusdam Antiocheni Episcopi, de quo Euseb. 6. Lib. 11. cap. ex 
+      Episto<lb ed="#C" n="3" break="no"/>la quadam eius: Nos (inquit Serapiom) libros quosdam Apostolorum 
+      nomi<lb ed="#C" n="4" break="no"/>ne falso inscriptos recusamus, scientes nos talia non accepisse. Loquitur autem 
+      <lb ed="#C" n="5"/>de Evangelio Petri, quod in Ecclesiis quibusdam legebatur. Respondeori 
+      <lb ed="#C" n="6"/>Propter falsa multa, quae in illo libro repetiebantur, repudiatus liber a 
+      <lb ed="#C" n="7"/>Serapione fuit, vt constat ex verbis subsequentibus: Ergo non propter 
+      <lb ed="#C" n="8"/>Ecclesiae tantum authoritatem. Nam hoc loco fraudem Stapletonus, 
+      vt<lb ed="#C" n="9" break="no"/>saepe solitus est, insignem adhibuit. Nos (inquit Serapion) librum non 
+      re<lb ed="#C" n="10" break="no"/>cepimus, ώς ἐμτόρα, vt periti atque experti: γνώσκοντες ὕτ τα τοναυταοπε¬ 
+      <lb ed="#C" n="11"/>λαθον. Et Eusebius ait illum refut asse τα Xδὼς εν αυτῶ ειρημθία Etat  
+      <lb ed="#C" n="12"/>ergo liber mendaciis &amp; falsis nonnullis aspersus. Tum verba quaedam 
+      o<lb ed="#C" n="13" break="no"/>mittit Stapletonus, quae magnam in se vim habent, vt facile cuivis 
+      pate<lb ed="#C" n="14" break="no"/>bit, qui locum ipsum intuebitur. Dicit enim Serapion in fine illius 
+      capi<lb ed="#C" n="15" break="no"/>tis, se plurima, ἐρδο λόγς, sincera in eo libro invenisse, sed quaedam etiam? 
+      <lb ed="#C" n="16"/>προσδιεςαληνα, a fide Orthodoxa aliena ac dissentientia, ac proinde 
+      li<lb ed="#C" n="17" break="no"/>brum reiecisse: Nonergo reiecit propter Ecclesiae dunt axat iudicium, 
+      de<lb ed="#C" n="18" break="no"/>quo nulla hic mentio habetur, sed propter doctrinam etiam in ipso 
+      li<lb ed="#C" n="19" break="no"/>bro traditam Hoc septimum argumentum fuit humanum, ve &amp; 
+      sex<lb ed="#C" n="20" break="no"/>tum etiam, quod proxime praecessit, quae quam levia sint in causis fidei, 
+      <lb ed="#C" n="21"/>omnes intelligunt.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

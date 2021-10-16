@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="371"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e34200"><!-- con1q6c1 -->
+            <head xml:id="wWpoi1-e34200-Hd1e106">Caput 1</head>
+            <p xml:id="wWpoi1-e34200-d1e109">
+      <!--380.xml-->
+               <pb ed="#L" n="371"/>
+               <lb ed="#C" n="1"/>CONTROVERSIAE PRIMAE 
+      <lb ed="#C" n="2"/>QVAESTIO SEXTA, DE SCRIPTV. 
+      <lb ed="#C" n="3"/>rae perfectione, contra humanas Traditiones. 
+      <lb ed="#C" n="4"/>CAPTTTTTIII 
+      <lb ed="#C" n="5"/>Quesa popois.
+    </p>
+            <p xml:id="wWpoi1-e34200-d1e127">
+               <lb ed="#C" n="6"/>IOHAN. 5. 39. Christus salvator ait, <quote xml:id="wWpoi1-e34200-Qd1e131">iξώνάτε τῶςῳ, 
+      <lb ed="#C" n="7"/>ζαρας, Scrutamini Scripturas</quote>. Ex his verbis certae 
+      de<lb ed="#C" n="8" break="no"/>Scripturis Quaestiones initio desumptae sunt, quae 
+      <lb ed="#C" n="9"/>controversias de Scripturis omnes inter nos atque 
+      <lb ed="#C" n="10"/>Adversarios institutas complectuntur. Ex quibus 
+      <lb ed="#C" n="11"/>quidem quaestionibus quinque iam tractatae sunt: 
+      su<lb ed="#C" n="12" break="no"/>perest vero sexta, quam nunc aggredimur. Hic vero 
+      <lb ed="#C" n="13"/>quaerendum est, UVtrum Scriptura veteris &amp; novi Testamenti libris 
+      con<lb ed="#C" n="14" break="no"/>clusa, plenam ac perfectam doctrinam comprehendat, an ad huius 
+      ne<lb ed="#C" n="15" break="no"/>cessariae doctrinae perfectionem Traditiones non scriptae requirantur.  
+      <lb ed="#C" n="16"/>Disputandum ergo hoc loco est contra Traditiones Papisticas, de quibus 
+      <lb ed="#C" n="17"/>illi non minus soliciti sunt, quam de Scripturis ipsis, &amp; quas 
+      vehemen<lb ed="#C" n="18" break="no"/>tissime defendunt, &amp; quibus multo magis, quam Scripturis confidunt.  
+      <lb ed="#C" n="19"/>Lindanus, Lib. 2. Panopliae suae, Cap. 5. ait Taditionem non scriptam 
+      <lb ed="#C" n="20"/>esse Homericum illud μόλν, quod fidem Christianam conservat adversus 
+      <lb ed="#C" n="21"/>haereticorum incantamenta: quibus indicat Papistas nostris 
+      incantatio<lb ed="#C" n="22" break="no"/>nibus, id est Scripturis, mox interfici, nisi μλῳ Traditionum adhibeant.  
+      <lb ed="#C" n="23"/>Et Lib. 1. Cap. 9. ait esse Mdium lapillum, hoc est, verae ac falsae doctrinae 
+      <lb ed="#C" n="24"/>indicem: &amp; Lib. 2. Cap. 9. eAiacis clypeum omnibus haereticis 
+      objicien<lb ed="#C" n="25" break="no"/>dum: &amp; Lib. 5. Cap. 2. fidei fundamentum: quam Petri Soti sententiam 
+      <lb ed="#C" n="26"/>laudat atque defendit. <ref xml:id="wWpoi1-e34200-Rd1e177">
+                  <name xml:id="wWpoi1-e34200-Nd1e179">Canus</name>, Lib. 3. Cap. 3. locorum Commun.</ref> ait 
+      <lb ed="#C" n="27"/>
+               <quote xml:id="wWpoi1-e34200-Qd1e186" source="http://scta.info/resource/Z4Yt34-d1e342-d1e553@742-768"><!-- nempe vt intelligas...acceptas esse referenda -->Traditiones maiorem vim habere ad haereticos refellendos, quam 
+      Scri<lb ed="#C" n="28" break="no"/>pturas</quote>. Unde intelligimus Traditiones quo in numero Papistae, 
+      quan<lb ed="#C" n="29" break="no"/>toque in precio habeant. Et certe maiora in illis praesidia, quam in 
+      Scri<lb ed="#C" n="30" break="no"/>pturis inveniunt. Has illi Traditiones divinas, sacras, sanctas, 
+      Apostoli<lb ed="#C" n="31" break="no"/>cas, Ecclesiasticas vocant: nos vero humanas, occultas, obscuras, 
+      taci<lb ed="#C" n="32" break="no"/>tas, non scriptas appellamus, In ista vero quaestione tractanda hunc 
+      or<lb ed="#C" n="33" break="no"/>dinem setvabimus: Primo, Exponemus, quid illi Traditionis 
+      nomine<lb ed="#C" n="34" break="no"/>significent, Secundo., Quomodo suas Traditiones partiantur. Tertio, 
+      <lb ed="#C" n="35"/>Quas regulas proponant, quibus verae Traditiones ab adulterinis ac fal¬ 
+      <!--381.xml-->
+      <pb ed="#L" n="372"/>
+               <lb ed="#C" n="1"/>sis distinguantur. Quarto, Quaenam illa dogmata sint, quae 
+      Traditio<lb ed="#C" n="2" break="no"/>num authoritate nituntur. Quinto, Ad statum Quaestionis veniemus. 
+      <lb ed="#C" n="3"/>Sexto, Adversariorum argumenta veris responsionibus diluemus. 
+      Septi<lb ed="#C" n="4" break="no"/>mo, Nostra, quibus hac in causa contra Pontificios vtimur, argumenta 
+      <lb ed="#C" n="5"/>proponemus. Atque de his quidem singulis eo, quo proposita fuerunt: 
+      <lb ed="#C" n="6"/>ordine, dicemus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

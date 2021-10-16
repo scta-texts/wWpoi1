@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="152"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e14187"><!-- con1q2c14 -->
+            <head xml:id="wWpoi1-e14187-Hd1e106">Caput 14</head>
+            <p xml:id="wWpoi1-e14187-d1e109">
+               <lb ed="#C" n="6"/>CAPUTII 
+      <lb ed="#C" n="7"/>CAPUTTTTTTTTTTI 
+      <lb ed="#C" n="8"/>Scripturae versiques oppuguart
+    </p>
+            <p xml:id="wWpoi1-e14187-d1e118">
+               <lb ed="#C" n="9"/>PRimum Iesuitae argumentum, quo vernaculas versiones minime 
+      <lb ed="#C" n="10"/>necessarias esse probat, sumitur ex usu Ecclesiae veteris 
+      Testamen<lb ed="#C" n="11" break="no"/>ti, qui fuit a tempore Esdrae usque ad Christum. Ait enim a temporibus 
+      <lb ed="#C" n="12"/>Esdrae desiisse in populo Dei linguam Hebraicam esse vulgarem, 
+      tamen<lb ed="#C" n="13" break="no"/>Scripturas lectas esse in Ecclesia Hebraice post illa tempora. Sed quo 
+      <lb ed="#C" n="14"/>modo docet linguam Hebraicam populo tunc incognitam fuisse; Quia 
+      <lb ed="#C" n="15"/>(inquit) Hebraei degentes Babylone obliti sunt linguam propriam, &amp; 
+      <lb ed="#C" n="16"/>Chaldaicam didicerunt, &amp; deinceps Chaldaica seu Syriaca fuit illis 
+      ma<lb ed="#C" n="17" break="no"/>terna. Restat vt quibus testimoniis haec omnia confirmentur, audiamus. 
+      <lb ed="#C" n="18"/>Primum sumitur ex vetere Testamento, Nehemiae 82. vbi legimus 
+      Ne<lb ed="#C" n="19" break="no"/>hemiam, &amp; Esdram, &amp; Levitas librum legis populo legisse, &amp; 
+      interpre<lb ed="#C" n="20" break="no"/>tatos esse, quia nihil eorum, quae legebantur, populus intelligebat: 
+      Esdra<lb ed="#C" n="21" break="no"/>vero interpretante populum magna laetitia affectum esse, quia verba 
+      le<lb ed="#C" n="22" break="no"/>gis intelligeret.  
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e151">
+               <lb ed="#C" n="23"/>Respondeo primo, illo Nehemiae loco Iesuitam insigniter abusum 
+      esse<lb ed="#C" n="24" break="no"/>Nam ex ipso loco constat populum satis recte intellexisse verba, quae 
+      le<lb ed="#C" n="25" break="no"/>gebantur: unde sequitur linguam non fuisse illis ignotam. Etenim vers. 3. 
+      <lb ed="#C" n="26"/>Esdras artulisse dicitur librum legis, &amp; legisse coram multitudine 
+      viro<lb ed="#C" n="27" break="no"/>rum, &amp; mulierum, &amp; quotquot erant apti ad intelligendum, id est, qui  
+      <lb ed="#C" n="28"/>per aetatem poterant aliquid intelligere, vel, vt vox Hebraica sonat, qui  
+      <lb ed="#C" n="29"/>intelligenter audiebant. Ergo non audiebant modo, sed &amp; intelligenter 
+      <lb ed="#C" n="30"/>audiebant, hoc est, intelligebant ea, quae audiebant. Quare vers. 4. 
+      dici<lb ed="#C" n="31" break="no"/>tur Esdras legisse coram viris, &amp; mulietibus, &amp; intelligentibus: &amp; 
+      popu<lb ed="#C" n="32" break="no"/>lus autes habuisse ad librum legis attentas. Quorsum vero autes populus 
+      <lb ed="#C" n="33"/>ad audiendum arrexisset, nisi quae lecta audisset, intellexisset: Et ibidem, 
+      <lb ed="#C" n="34"/>Esdras a mane vsque ad meridiem e libro legisse fertur: &amp; vers. 19. 
+      quoti<lb ed="#C" n="35" break="no"/>die, a die primo ad diem vitimum, per septem dies. Proculdubio tan¬ 
+      <!--162.xml-->
+      <pb ed="#L" n="153"/>
+               <lb ed="#C" n="1"/>tum laboris non sumpsisset in legendo, nisi auditores intelligentes 
+      habu<lb ed="#C" n="2" break="no"/>isset: &amp; certe longe abfuit a Prophetae sapientia hominum multitudinem: 
+      <lb ed="#C" n="3"/>congregare, tum prodite in medium, librum aperire, legere tanto 
+      studio<lb ed="#C" n="4" break="no"/>spacioque tammultatum horarum ea, quae populus minime intelligebat  
+      <lb ed="#C" n="5"/>Praeterea quorsum pertinebat, quod vers. 9. explanate legerit, vt 
+      Tremel<lb ed="#C" n="6" break="no"/>lius, vel distincte, vtvetus interpres transtulit, nisivt ex illa Scripturae 
+      pla<lb ed="#C" n="7" break="no"/>na lectione populus omnis melius intelligeret, quae legerentur? Nam 
+      <lb ed="#C" n="8"/>perinde est, siue recte, sive vitiose legas apud eos, qui nihil eorum, quae 
+      <lb ed="#C" n="9"/>leguntur, intelligant Sed objicit Bellarminus, factam esse laetitiam 
+      mag<lb ed="#C" n="10" break="no"/>nam in populo, quia intellexerat verba legis Esdra interpretante. 
+      Acu<lb ed="#C" n="11" break="no"/>men Iesuitae: Fingit enim legisse primum Esdram verba non intellecta 
+      <lb ed="#C" n="12"/>populo, post reddidisse vel transtulisse eadem aliis verbis, &amp; ea lingua, 
+      <lb ed="#C" n="13"/>quam populus intelligeret: quod plane insulsum est. Nam Esdras verba 
+      <lb ed="#C" n="14"/>legis palam &amp; aperte legit in suggesto, eamque lectionem ad horas 
+      ali<lb ed="#C" n="15" break="no"/>quot perduxit: tum Scripturam lectam exposuit, &amp; sensum atque 
+      intel<lb ed="#C" n="16" break="no"/>ligentiam verborum populo aperuit. Sic enim vers. 9. Levitae illi dicuntur  
+      <lb ed="#C" n="17"/>exposuisse sensum, &amp; dedisse intelligentiam per Scripturam ipsam, vtlocum. 
+      <lb ed="#C" n="18"/>Tremellius verissime interpretatus est. Vatablus sic transtulit, explicantes 
+      <lb ed="#C" n="19"/>sententiam, &amp; erudientes inter legendum: quod non multum differt. Vetus 
+      <lb ed="#C" n="20"/>vero interpres sic, Aperte ad intelligendum: &amp; intellexerunt cum legeretur:  
+      <lb ed="#C" n="21"/>quod satis arguit populum intellexisse quae legebantur. Ideo Esdras legis 
+      <lb ed="#C" n="22"/>peritus fuisse dicitur, non quod legis verba ac textum legere atque 
+      intel<lb ed="#C" n="23" break="no"/>ligere poffet, sed quod sensum legis &amp; mentem explicaret, vteam 
+      popu<lb ed="#C" n="24" break="no"/>lus intelligeret. Atque hinc illa nata laetitia est, qua populum perfusum 
+      <lb ed="#C" n="25"/>esse Scriptura testatur, quando expositam ab Esdra legem audivit. 
+      Res<lb ed="#C" n="26" break="no"/>certa &amp; plana est: commentariis non egemus. 
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e242">
+               <lb ed="#C" n="27"/>Alterum testimonium, quo in hac causa Iesuita vtitur, vt linguam 
+      He<lb ed="#C" n="28" break="no"/>braicam non fuisse post Esdram Iudaeorum vulgarem doceat, sumitur ex 
+      <lb ed="#C" n="29"/>novo Testamento, vnde constat populum illum Syro sermone vsum esse. 
+      <lb ed="#C" n="30"/>Nam illud, Talitha cumi, Marc. 5. &amp; Abba, Marc. 14 &amp; Hacheldema, Act. 
+      <lb ed="#C" n="31"/>1. &amp; Mat. 27. Golgotha, &amp; Paschanec Graecum est, nec Hebraeum. 
+      Plura<lb ed="#C" n="32" break="no"/>sunt apud Hieronymum in Lib. de Nominibus Hebr. Huc etiam pertinet, 
+      <lb ed="#C" n="33"/>quod lohannis 7. dicitur, Turba haec, quae non novit legem. Hinc constat, 
+      <lb ed="#C" n="34"/>linguam Hebraicam non fuisse Iudaeorum eo tempore vulgarem. 
+      Re<lb ed="#C" n="35" break="no"/>spondeo primo, hoc aliquo modo dari posse, sed eo sensu prorsus falsum 
+      <lb ed="#C" n="36"/>esse, quo a Bellarmino dicitur. Fateor linguam non suisse pure 
+      Hebrai<lb ed="#C" n="37" break="no"/>cam, sed multis externis ac peregrinis vocibus corruptam, vt nova 
+      quasi<lb ed="#C" n="38" break="no"/>dialectus fieret, ex Hebraeo, Chaldaeoque sermone mista: sed tamen in¬ 
+      <!--163.xml-->
+      <pb ed="#L" n="154"/>
+               <lb ed="#C" n="1"/>terim populus non est oblitus linguae Hebraicae, vel statim post 
+      captivi<lb ed="#C" n="2" break="no"/>tatem, vel deinceps. Nam Nehem. 13. quidam Iudaei leguntur vxores 
+      <lb ed="#C" n="3"/>Ashdodicas duxisse, quorum liberi Asndodice loquerentur non 
+      Hebrai<lb ed="#C" n="4" break="no"/>ce: populus ergo Hebraice loquutus est. Neque enim fieri potuit, vt 
+      an<lb ed="#C" n="5" break="no"/>norum 70, aut etiam 1o0. spacio populus ille nativam suam linguam sic. 
+      <lb ed="#C" n="6"/>penitus amiserit, vteam ne quidem intelligeret. Quod si evenisset, non 
+      <lb ed="#C" n="7"/>Haggaeus, non Zacharias, non Malachias, Prophetae, qui post reditum 
+      vi<lb ed="#C" n="8" break="no"/>xerunt, suas conciones Hebraice edidissent, sed vulgari sermone. Certum, 
+      <lb ed="#C" n="9"/>ergo omnino est, Iudaeos post Esdra Hebraice intellexisse. Secundo, quod  
+      <lb ed="#C" n="10"/>attinet ad illa vocabula non pure Hebraea in novo Testamento, hoc est; 
+      <lb ed="#C" n="11"/>quod dixi, linguam illius populi hoc tempore multum esse a suanativa 
+      <lb ed="#C" n="12"/>integritate mutatam: non sic tamen, quin Hebraice &amp; doctiores 
+      loque<lb ed="#C" n="13" break="no"/>rentur, &amp; omnes intelligerent: vt quando Scripturae publice in 
+      lingua<lb ed="#C" n="14" break="no"/>Hebraica legebantur, a populo intelligi possent. Ergo loh. 5. 39. Christus 
+      <lb ed="#C" n="15"/>jubet, etiam ipsos Laicos, scrutari Scripturas. Graece non intelligebant:  
+      <lb ed="#C" n="16"/>&amp; Chaldaica interpretatio tum forsan non edita fuit: aut si edita esset, 
+      ab<lb ed="#C" n="17" break="no"/>Lillis intelligi non potuit. Quare Scripturas Hebraicas iussit Christus 
+      lege<lb ed="#C" n="18" break="no"/>re: quod non fecisset, si Scripturas populus in lingua Hebraica intelligeret 
+      <lb ed="#C" n="19"/>neutiquam potuisset. Et Berthoeenses Iudaei, de quibus Act. 17. 11. 
+      Scri<lb ed="#C" n="20" break="no"/>pturas sedulo scrutabantur. Sic Christus Esaiam Prophetam legit in 
+      Sy<lb ed="#C" n="21" break="no"/>nagoga, vt Luc. 4. 18. Quin Hebraice vero legerit nemo dubitat. 
+      Simili<lb ed="#C" n="22" break="no"/>ter Act. 15 21. Iacobus ait, Mosen ab antiquis aetatibus habere in singulis, 
+      <lb ed="#C" n="23"/>civitatibus, qui ipsum praedicent, cum in Synagogis per fingula Sabbata 
+      lega<lb ed="#C" n="24" break="no"/>tur. Unde etiam aliud esse ἀναγνώσκῳν, aliud aηθειν constat: &amp; Act. 13. 15. 
+      <lb ed="#C" n="25"/>εγ τυν αναγνωτν τονημον αι τγ ωροοητν, rogatus Paulus est, vt verba ad 
+      po<lb ed="#C" n="26" break="no"/>pulum faceret, si id ei videretur. Quorium attinebat Scripturas legere, 
+      <lb ed="#C" n="27"/>tam diligenter in Synagogis, &amp; populum ad carum lectionem per 
+      Sab<lb ed="#C" n="28" break="no"/>bata singula convenire, si lingua ignota legerentur? Titulus quem 
+      cruci<lb ed="#C" n="29" break="no"/>bilatus affixit, Hebraicis verbis inscriptus fuit, cumque Iudaei multi 
+      le<lb ed="#C" n="30" break="no"/>gerunt, Iohan. 19. 20. &amp; Paulus. Act. 26. 14. se Christum audisse ait, 
+      <lb ed="#C" n="31"/>τσ ἔζραιδν δδγιϰιῳ loquentem: ipseque populum alloquutus est τὸ ispαidi 
+      <lb ed="#C" n="32"/>δνδιικιῳ, Act. 21. 49. &amp; Cap. 22. in initio, cum illum loquentem audirent:  
+      <lb ed="#C" n="33"/>τT ἐδραιδε διδικιῳ, eo magis conquieverunt atque attenderunt. In quem 
+      <lb ed="#C" n="34"/>locum sic Theophylactus scribit, δ ρας πῶς αυτες εἰλε τό ὄμοιιρωνον: ειχεν γοη 
+      <lb ed="#C" n="35"/>να οιζα ωρος τυν γλθηαν κκενυν: captos illos fuisse dicit, similitudine 
+      sermo<lb ed="#C" n="36" break="no"/>nis, &amp; nonnulla lingue illius reverentia. Haec a me testimonia afferuntur,  
+      <lb ed="#C" n="37"/>non vt linguam fuisse hanc pure Hebraicam doceam, sed vt non 
+      Hebrai<lb ed="#C" n="38" break="no"/>cae tamen omnino dissimilem fuisse evincam, quando &amp; Hebraica voca¬ 
+      <!--164.xml-->
+      <pb ed="#L" n="155"/>
+               <lb ed="#C" n="1"/>tur, &amp; eam populus intelligebat. Dici aute Hebraica lingua non potuisset, 
+      <lb ed="#C" n="2"/>si qui ea vsi sunt, ne quidem Hebraice intelligere potuissent. Quanquam  
+      <lb ed="#C" n="3"/>pergo fuit plena perigrinitatis, quam secum Babylone attulerant, atque e 
+      <lb ed="#C" n="4"/>finitimis gentibus contraxerant, tamennativi ingenij plurimum 
+      retine<lb ed="#C" n="5" break="no"/>bat, sic vt ille populus, etsi non est loquutus Hebraice tam pure quam 
+      o<lb ed="#C" n="6" break="no"/>lim, lectas tamen Hebraice Scripturas agnosceret atque intelligeret.  
+      <lb ed="#C" n="7"/>Neque enim tanta dissimilitudo est Nametsi non est Anglorum &amp; 
+      Sco<lb ed="#C" n="8" break="no"/>torum, imo ne Anglorum Australium &amp; Septentrionalium eadem διαλε¬ 
+      <lb ed="#C" n="9"/>ζς, tamen Scripturas Anglice versas Scotilegunt in suis Ecclesiis, 
+      cas<lb ed="#C" n="10" break="no"/>que populus intelligit. Sic Iudaei, quanquam non pure loquuti Hebraice 
+      <lb ed="#C" n="11"/>sunt, vt non Anglice Scoti, tamen Scripturas Hebraice lectas a suis 
+      Levi<lb ed="#C" n="12" break="no"/>tis &amp; Sacerdotibus intelligebant. Sic Petrum illi, qui astabant, satis intel 
+      <lb ed="#C" n="13"/>ligebant loquentem, etsi illum esse Galilaeum ε τ λόρας sciebant, Mat. 
+      <lb ed="#C" n="14"/>26. 73. Et olim lingua Graeca varias Dialectos habuit, Ionicam, 
+      Dori<lb ed="#C" n="15" break="no"/>cam, &amp; reliquas: tamen sese mutuo Graeci omnes intelligebant: Tertio, 
+      <lb ed="#C" n="16"/>Iohannis testimonio ex C. 7. 49. turpiter abusus Iesuita est, Turba haec, 
+      <lb ed="#C" n="17"/>quae non novit legem: hoc enim non de lingua, &amp; verbis, &amp; literis, sed 
+      sen<lb ed="#C" n="18" break="no"/>tia sensuque legis intelligendum est. Summam enim sibi legis 
+      scienti<lb ed="#C" n="19" break="no"/>am Pharisaei arrogabant, cuius opinione elati populum tam 
+      fastidio<lb ed="#C" n="20" break="no"/>Se contemnebant.  
+      <lb ed="#C" n="21"/>Iam quod attinet ad Assumptionem, Scripturas hoc tempore Hebraice 
+      <lb ed="#C" n="22"/>lectas fuisse in Synagoga, fateor esse verum. quid ni enim Hebraice lege, 
+      <lb ed="#C" n="23"/>rentur, quando eas ea lingua lectas populus intelligebat? Debuit igitur? 
+      <lb ed="#C" n="24"/>probare Bellarminus, populum non potuisse linguam Hebraicam 
+      intel<lb ed="#C" n="25" break="no"/>ligere, &amp; tum aliquid effecisset. Sed hoc nullo argumento probare 
+      po<lb ed="#C" n="26" break="no"/>test, &amp; iam multis argumentis refutatum est. Nam quod in Epitome 
+      <lb ed="#C" n="27"/>Dictatorum Bellarmini objicitur, Christo clamate in cruce, Eli Eli lamma 
+      <lb ed="#C" n="28"/>sabachiani, quosdam dixisse Eliam vocat, quia linguam ignorabant; 
+      Re<lb ed="#C" n="29" break="no"/>spondeo, fieri posse, vtaut illi malitiose illuderent, aut illius verba non 
+      ex<lb ed="#C" n="30" break="no"/>audirent, aut milites fuerint, qui fere externi &amp; Romani erant. Et 
+      Hiero<lb ed="#C" n="31" break="no"/>nymus quidem in hunc locum illos fuisse milites ait: quod probabile 
+      <lb ed="#C" n="32"/>est, cum Lucas dicat, Cap. 23. 36. milites ei acetum obtulisse, 
+      Mat<lb ed="#C" n="33" break="no"/>thaeus vero, Cap. 27. 48. scribit vnum eorum, qui sic dicebant, 
+      spon<lb ed="#C" n="34" break="no"/>giam celeriter aceto implevisse, eamque Christo praebuisse. Vel 
+      ali<lb ed="#C" n="35" break="no"/>ter Hieronymus interpretatur, Iudaeos more sibi solito occasionem 
+      ca<lb ed="#C" n="36" break="no"/>ptasse Domini calumniandi, quasi Eliae auxilium implorasset, cum se 
+      <lb ed="#C" n="37"/>defendere ac liberate non posset. Nihil ergo hinc elicitur, unde 
+      popu<lb ed="#C" n="38" break="no"/>lum non intellexisse linguam Hebraicam constet. 
+      <!--165.xml-->
+      <pb ed="#L" n="156"/>
+               <lb ed="#C" n="1"/>Secundum argumentum sumitur ab exemplo ysuque Apostolorum. 
+      <lb ed="#C" n="2"/>Nam Apostoli per totum terrarum orbem Evangelium praedicabant, &amp; 
+      <lb ed="#C" n="3"/>Ecclesias fundabant, ve patet ex Rom. 10. Coloss 1. Marc. 16. Irenaeo, 
+      <lb ed="#C" n="4"/>Lib. 1. Cap. 3. qui ait suo tempore Ecclesias fundatas fuisse in 
+      Orien<lb ed="#C" n="5" break="no"/>te, in Libya, in Atgypto, in Hispanijs, in Germania, in Gallia: &amp; 
+      tamen<lb ed="#C" n="6" break="no"/>Apostoli non scripserunt Evangelia aut Epistolas suas linguis earum: 
+      <lb ed="#C" n="7"/>gentium, quibus praedicabant, sed tantum Hebraice aut Graece. Hoc 
+      ar<lb ed="#C" n="8" break="no"/>gumentum Bellarminus sumpsit ex Sandero, in Lib. 7. de visibili 
+      Mo<lb ed="#C" n="9" break="no"/>narchia. Respondeo: pramo, Ecclesia potuit ad tempus carere vernaculis 
+      <lb ed="#C" n="10"/>versionibus, quemadmodum ad tempus etiam caruit Scripturis novi 
+      Te<lb ed="#C" n="11" break="no"/>stamenti. Non enim omnia statim scriptis prodita sunt. Interim 
+      do<lb ed="#C" n="12" break="no"/>ctrinae Evangelicae suma omnibus fuit exposita &amp; declarata eo sermone, 
+      <lb ed="#C" n="13"/>quem intelligebant: deinde, omnia necessaria literis mandata sunt. 
+      Se<lb ed="#C" n="14" break="no"/>cundo, Apostoli &amp; Evangelistae non scripserunt (fateor) Evangelium tam 
+      <lb ed="#C" n="15"/>varijs linguis, quam viva voce praedicarunt: nam id fuisset infinitum: satis 
+      <lb ed="#C" n="16"/>fuit, quod hanc Evangelicam doctrinam vna lingua scripta reliquerint,  
+      <lb ed="#C" n="17"/>ex qua facile hauriri, atque in alias omnes linguas derivari posset. Tertio, 
+      <lb ed="#C" n="18"/>Scripserunt ea lingua, quae fuit omnium communissima, &amp; a plurimis 
+      po<lb ed="#C" n="19" break="no"/>pulis intelligebatur, &amp; e qua Scripturae commodissime possent in alias 
+      <lb ed="#C" n="20"/>linguas trans ferri ac traduci, hoc est, Graeca, quae quanquam non erat  
+      <lb ed="#C" n="21"/>vulgaris &amp; popularis omnium, tamen a plurimis non ignorabatur. Nam 
+      <lb ed="#C" n="22"/>omnes illae gentes, quas lrenaeus in illo loco percenset, Graece aut 
+      loque<lb ed="#C" n="23" break="no"/>bantur, aut intelligebant, Orentales Ecclesiae erant Graecorum: &amp; 
+      Atgyp<lb ed="#C" n="24" break="no"/>tios Graece intellexisse, ex eorum Episcopis &amp; Doctoribus constat, 
+      Ori<lb ed="#C" n="25" break="no"/>gene, Alexandro, Athanasio, Theophilo, Cyrillo, qui Alexandrini 
+      fue<lb ed="#C" n="26" break="no"/>runt, &amp; Graece omnia ediderunt. In Cypro Epiphanius sedem habuit,  
+      <lb ed="#C" n="27"/>&amp; Graeca lingua suos docuit. Hierosolymis Cgrillus &amp; alij Graece 
+      Evan<lb ed="#C" n="28" break="no"/>gelium suis tradiderunt, &amp; extant Graece Cyrilli illius Catecheses. In 
+      <lb ed="#C" n="29"/>allia Iraeneus ipse Graece suos libros scripsit, quod estendit 
+      Lugdu<lb ed="#C" n="30" break="no"/>nensibus &amp; Gallis Graecam linguam non incognitam fuisse. Etiam in 
+      Ita<lb ed="#C" n="31" break="no"/>lia Graece non ignorabant: ideoque ad Romanos Epistolam Paulus 
+      <lb ed="#C" n="32"/>Graece sciipsit. Non enim sciipsisset Graece, si linguam illam ijnon 
+      intel<lb ed="#C" n="33" break="no"/>lexissent, ad quos scriberet: &amp; Irenaeus apud Eulebium, Lib. 5. cap. 24. 
+      <lb ed="#C" n="34"/>testatur Anicetum Episcopum Romanum Polycarpo παραχωρκσαν τα¬ 
+      <lb ed="#C" n="35"/>cυχχρισιαν ἐν τῆ ζκκκληκα, administrandae in sua Ecclesia Eucharistiae copiam 
+      fe<lb ed="#C" n="36" break="no"/>cisse: quod non fecisset, si Polycarpum, hominem Graecum, 
+      Romaniin<lb ed="#C" n="37" break="no"/>telligere non potuissent. Verum, vteunque se res habet, erant qui 
+      inter<lb ed="#C" n="38" break="no"/>pretati facile possent: &amp; statim versae sunt in omnes fere linguas Scriptu¬ 
+      <!--166.xml-->
+      <pb ed="#L" n="157"/>
+               <lb ed="#C" n="1"/>rae, in Latinam certe a multis, vt Augustinus suo tempore innumeras 
+      <lb ed="#C" n="2"/>fuisse scribat, quemadmodum supra accepimus. Et licet in Aphrica 
+      mi<lb ed="#C" n="3" break="no"/>nus intelligebant Graece, habebant tamen suas versiones, vt ex 
+      Tertulli<lb ed="#C" n="4" break="no"/>ano, Cypriano, Augustino liquet, intra 4e0. aut 3oo, aut aoo. annos 
+      a<lb ed="#C" n="5" break="no"/>Christo. 
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e547">
+               <lb ed="#C" n="6"/>Sed obiicit Bellarminus, Petrum scripsisse Iudaeis, similiter Iacobum. 
+      <lb ed="#C" n="7"/>Graece, &amp; Iohannem suam Epistolai Parthis, vt Augustinus affirmat, l. 2. 
+      <lb ed="#C" n="8"/>Quaest. Evangel. q. 39. &amp; Higinus, in epist. 1. &amp; lohannes 2. Papa, 
+      in<lb ed="#C" n="9" break="no"/>epist. ad Valerium: &amp; tamen Graeca lingua nec Iudaeis, nec Parthis 
+      ma<lb ed="#C" n="10" break="no"/>terna fuit. Respondeo: primo, Quorsum haec spectent nescio, nisi vt forte 
+      A<lb ed="#C" n="11" break="no"/>postolos de industria scripsisse ad quosdam persuadeat, quae illi non 
+      pos<lb ed="#C" n="12" break="no"/>sent intelligere, quod ab instituto Apostolorum fuit alienissimum. 
+      Secun<lb ed="#C" n="13" break="no"/>do, Iudaei in illa δαερα linguam Graecam omnium fere hominum 
+      com<lb ed="#C" n="14" break="no"/>munem didicerant, vt quas ab Apostolis Graece scriptas Epistolas 
+      acce<lb ed="#C" n="15" break="no"/>pissent, satis intelligerent: &amp; Apostolisciebant has Epistolas alijs 
+      mul<lb ed="#C" n="16" break="no"/>to magis, quam Iudaeis profuturas, ideoque eas non Iudaica, sed 
+      Graeca<lb ed="#C" n="17" break="no"/>lingua scribebant. Tertio, Iohannem non existimo ad Parthos 
+      Episto<lb ed="#C" n="18" break="no"/>lam suam scripsisse. Unde hoc Augustinus acceperit, incertum est: 
+      li<lb ed="#C" n="19" break="no"/>ceret non minus fingere ad Indos scripsisse, quam ad Parthos. Sedvtillis 
+      <lb ed="#C" n="20"/>scriptam fuisse opinemur, Parthi non omnino ignari fuisse Graecae 
+      lin<lb ed="#C" n="21" break="no"/>guae videntur, cum Plutatchus in Crasso scribat, illusum a Parthis esse 
+      <lb ed="#C" n="22"/>Crasso occiso Graecis versibus. Sed huiusmodi omnibus 
+      vnaresponsio<lb ed="#C" n="23" break="no"/>sufficit, Apostolos vti vna lingua in scribendo voluisse, quae omnium erat: 
+      <lb ed="#C" n="24"/>celeberrima, vt quae scribebant facillime possent ab omnibus intelligi: 
+      <lb ed="#C" n="25"/>quod illorum institutum cum Pontificiorum sententia apertissime pugnat.  
+      <lb ed="#C" n="26"/>Quanquam autem non omnes hanc linguam intelligebant, tamen 
+      Scri<lb ed="#C" n="27" break="no"/>ptura Apostolica facillime &amp; commodissime potuit ex ea derivari 
+      ac<lb ed="#C" n="28" break="no"/>transmitti in alias Apostolorum gentiles patriasque linguas. Neque 
+      e<lb ed="#C" n="29" break="no"/>nim expectandum fuit, vt ad singulas gentes Apostoli in vulgari 
+      cuius<lb ed="#C" n="30" break="no"/>que regionis lingua scriberent. 
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e604">
+               <lb ed="#C" n="31"/>e Argumentum tertium petitur ab vsu vniversalis Ecclesiae, atque isto 
+      <lb ed="#C" n="32"/>modo concluditur: Quod Ecclesia vniversalis tenuit &amp; observavit, 
+      re<lb ed="#C" n="33" break="no"/>ctum est: At Ecclesia vniversalis semper his tantum linguis vsa est, 
+      He<lb ed="#C" n="34" break="no"/>braea, Graeca, &amp; Latina, in communi &amp; publico vsu Scripturarum: Ergo 
+      <lb ed="#C" n="35"/>nullae aliae versiones necessariae sunt. Maiorem probat testimonio 
+      Au<lb ed="#C" n="36" break="no"/>gustini, ex Epist. 118. vbi ait insolentissimae insaniae esse contra id 
+      dispu<lb ed="#C" n="37" break="no"/>tare, quod vniversa Ecclesia facit. Et idem ait Lib. 4. de Baptismo 
+      con<lb ed="#C" n="38" break="no"/>tra Donatistas. Quod in vniversa Ecclesia servatur, si non possit assignari 
+      <!--167.xml-->
+      <pb ed="#L" n="158"/>
+               <lb ed="#C" n="1"/>eius initium, credendum esse de Apostolica traditione descendere, &amp; 
+      <lb ed="#C" n="2"/>sic semper fuisse. Huc etiam adducit testimonium Leonis e sermones 
+      <lb ed="#C" n="3"/>2. de Ieiunio Pentecostes. Subjungit, nunc vbicunque Catholici sunt,  
+      <lb ed="#C" n="4"/>tantum Graecae &amp; Latinae linguae vsum esse in Scripturarum lectione 
+      <lb ed="#C" n="5"/>publica, nec posse huius consuetudinis principium designari. 
+      Respondeo<lb ed="#C" n="6" break="no"/>primo, Non nunc tempus est de Traditionibus &amp; consuetudinibus 
+      Ec<lb ed="#C" n="7" break="no"/>clesiasticis disputandi: hanc omnem quaestionem post suo loco 
+      tracta<lb ed="#C" n="8" break="no"/>bimus, si Dominus dedetit. Secundo, Considerandum est, non 
+      tam<lb ed="#C" n="9" break="no"/>quid factum aut obseruatum in Ecclesia fuerit, quam quid fieri 
+      ob<lb ed="#C" n="10" break="no"/>servarique debuerit. Non enim sequitur, si Latinae tantum linguae vsus 
+      <lb ed="#C" n="11"/>publicus obtinuit in Italia, Hispania, Gallia, Germania, reliquisque his 
+      <lb ed="#C" n="12"/>populis, idcirco hoc nullo modo reprehendi potest: sed videndum est, 
+      <lb ed="#C" n="13"/>quam recte hae Ecclesiae fecerint in eo, quod Scripturas lingua ignota 
+      <lb ed="#C" n="14"/>publice legerint. Et si Ecclesia Scripturas vetuit nisi Latine legi, non 
+      <lb ed="#C" n="15"/>proinde putandum est nihil in ea re Ecclesiam erravisse. Tertio, Falsum 
+      <lb ed="#C" n="16"/>illud omnino est, quod ait hanc fuisse perpetuam vniversalis Ecclesiae 
+      <lb ed="#C" n="17"/>consuetudinem ac Traditionem, quemadmodum statim liquebit. 
+      Qua<lb ed="#C" n="18" break="no"/>re hae Augustini &amp; Leonis sententiae nihil ad causam pertinent, &amp; nos 
+      <lb ed="#C" n="19"/>posse concedere videmur, quicquid semper vniversalis Ecclesia tenuit, 
+      <lb ed="#C" n="20"/>id Apostolicum esse:sed nil eiusmodi Papisticum est. 
+      <lb ed="#C" n="21"/> Tota autem huius argumenti vis ex Assumptionis probatione 
+      pen<lb ed="#C" n="22" break="no"/>det. Ad quam multa afferuntur, quae sigillatim discutienda sunt. Nolite 
+      <lb ed="#C" n="23"/>vero existimare frustra tempus in his insumi: sunt enim ad refutationem 
+      <lb ed="#C" n="24"/>Adversatiorum necessaria. Primum vero Augustinus dicitur affirmare 
+      <lb ed="#C" n="25"/>L. 2. c. 11. de Doctr. Christ. tribus tantum linguis legi Scripturam in 
+      Ec<lb ed="#C" n="26" break="no"/>clesia solitam esse, Hebraica, Graeca, Latina. Sed si locum ipsum 
+      con<lb ed="#C" n="27" break="no"/>suletis, nihil tale dici ab Augustino animadvertetis. Id Augustinus ait, 
+      <lb ed="#C" n="28"/>hominibus Latinae linguae necessariam esse duarum praeterea aliarum 
+      <lb ed="#C" n="29"/>linguarum cognitionem, vt recte Scripturas intelligant, Hebraeae &amp; Grae 
+      <lb ed="#C" n="30"/>cae: rationemsubiungit, vt ad precedentia exemplaria(fontes significat)  
+      <lb ed="#C" n="31"/>recurratur. Num sequitur, quia qui homines Latini sunt, vt melius 
+      Scri<lb ed="#C" n="32" break="no"/>pturas percipiant, Hebraea &amp; Graecae linguae nonnullam scientiam sibi 
+      <lb ed="#C" n="33"/>comparate debent, ergo Scripturae solitae sunt non nisi tribus hisce 
+      lin<lb ed="#C" n="34" break="no"/>guis legi? Nam Latinis Augustinus praecepta dat: ait enim, Latinae lingue 
+      <lb ed="#C" n="35"/>homines, quos nunc instruendos suscepimus. Hinc nil contra nos, sed 
+      con<lb ed="#C" n="36" break="no"/>tra illos potius aliquid concludi potest. Nam si Latini debent 
+      Hebrae<lb ed="#C" n="37" break="no"/>am &amp; Graecam linguam addiscere. vt recte Scripturas intelligant, 
+      suas<lb ed="#C" n="38" break="no"/>que versiones ad fontes exigant, sequitur, Hebraicae &amp; Graecae editionis 
+      <!--168.xml-->
+      <pb ed="#L" n="159"/>
+               <lb ed="#C" n="1"/>plus tribuendum esse quam Latinae, &amp; per consequens Latinam non 
+      es<lb ed="#C" n="2" break="no"/>se, quod isti volunt, αυθεθτκῆν. 
+      <lb ed="#C" n="3"/>Quod lesuita addit, nullum antiquum authorem meminisse alicuius 
+      al<lb ed="#C" n="4" break="no"/>terius transsationis, miror hoc illum dicere potuisse. Nam Hieronymus, 
+      <lb ed="#C" n="5"/>quem Latinae vulgatae authorem faciunt, Scripturas in linguam 
+      Dalma<lb ed="#C" n="6" break="no"/>ticam, quae illi patria suit, transtulit: quod itac ertum est, vt Hosius in Lib. 
+      <lb ed="#C" n="7"/>de Sacro vernacule legendo sic scribat: Dasmatica lingua sacros libros 
+      Hie<lb ed="#C" n="8" break="no"/>zonymum vertisse constat. Et in eodem libro linguam Dalmaticam laudat,  
+      <lb ed="#C" n="9"/>ac valde celebrem fuisse scribit. Et Alphonsus de Castro, in L. 1. c. 13. 
+      Fa<lb ed="#C" n="10" break="no"/>temur olim sacros libros in linguam vulgarem fuisse transtatos: &amp; citat 
+      Eras<lb ed="#C" n="11" break="no"/>mum, qui scribit Hieronymum Scripturas lingua Dalmaticavertisse 
+      Har<lb ed="#C" n="12" break="no"/>dingus, Aitic. 3. Sect. 8. scribit, Armenos, Russos, Arthiopas, Dalmatas, 
+      <lb ed="#C" n="13"/>Moscovitas Scripturas legisse uingua vernacula. Idem etiamfaretur 
+      Echi<lb ed="#C" n="14" break="no"/>uis in Enchirid. Ca de Missis Latine dicendis. Comelius Agrippa in L. 
+      de<lb ed="#C" n="15" break="no"/>Vanit. Scient, ait (si fides illi aliqua habenda sit) a Synodo Nicena 
+      decre<lb ed="#C" n="16" break="no"/>tum esse, vt nullus Christianus domi suae careret Biblijs. Viphilam quidem 
+      <lb ed="#C" n="17"/>Getthorum Episcopum, qui Synodo Nicenae interfuit, Scripturas in 
+      <lb ed="#C" n="18"/>linguam Gotthicam transtulisse, vt eas populus disceret, Socrates testis 
+      <lb ed="#C" n="19"/>est, L. 4. c. 33. sic enim habet, τας θειας γξαρασ εἰς τυν Ιδιδον μεταζιαλών τος αρ¬ 
+      <lb ed="#C" n="20"/>ζαροισ μανθυνον τα θεια λγια ταετκενασεν. Et Sixtus Senensis lib. 8. Biblioth. 
+      <lb ed="#C" n="21"/>Chrysostomum ait Scripturas in linguam Armenam vertisse. Et 
+      Hiero<lb ed="#C" n="22" break="no"/>nymus in Epitaphio Paulae ait, Psalmos a Palestinis in Paulae funere 
+      can<lb ed="#C" n="23" break="no"/>tatos fuisse Hebraeo, Graeco, Latino, Sytoque sermone, idque non 
+      so<lb ed="#C" n="24" break="no"/>lum triduo, donec illa subter Ecclesiam, &amp; juxta Domini speluncam  
+      <lb ed="#C" n="25"/>conderetur, sed per totam hebdomadam. Psalmos ergo in Syricam 
+      lin<lb ed="#C" n="26" break="no"/>guam versos fuisse constat. Sed Stapletonus, in libro Anglice edito contra 
+      <lb ed="#C" n="27"/>D. Iuellum sanctae memoriae Episcopum, Art. 3. has fuisse ait cantiones 
+      <lb ed="#C" n="28"/>extraordinarias, non Psalmos Davidicos quod commentum nulla 
+      rati<lb ed="#C" n="29" break="no"/>one nititur, atque aliis etiam Papistis disphicet. Palam enim 
+      Hierony<lb ed="#C" n="30" break="no"/>mus de Pfalmis loquitur, cum ait, inordine personabant. Itaque noster 
+      le<lb ed="#C" n="31" break="no"/>suita ait locum esse corruptum. Nam quosdam libros non habere (
+      He<lb ed="#C" n="32" break="no"/>braeo) &amp; Syro poni pro Hebraeo. Ita quovis sese vertunt, vt istam lucem 
+      <lb ed="#C" n="33"/>sugiant. Fuit haec lepida Mariani Victorij conjectura, qui praeclaram in 
+      <lb ed="#C" n="34"/>corrumpendo Hieronymo operam navavit. Sed primum Erasmus, qui  
+      <lb ed="#C" n="35"/>nonminus diligenter, multoque magis fideliter, in edendo Hieronymo, 
+      <lb ed="#C" n="36"/>claboravit, quamiste Victorius, quique tot etiam exemplaria quot ille, 
+      <lb ed="#C" n="37"/>viderat, niltale in eo loco animadvertere potuit. Deinde, si lingua 
+      Syra<lb ed="#C" n="38" break="no"/>Hebream hoc locosignificaret, deberet certe primo loconumerati. Nam 
+      <!--169.xml-->
+      <pb ed="#L" n="160"/>
+               <lb ed="#C" n="1"/>sin linguarum enumeratione apud authores Hebraea solet primum 
+      lo<lb ed="#C" n="2" break="no"/>icum obtinere, praesertim vero apud ipsum Hieronymum. Sed 
+      perga<lb ed="#C" n="3" break="no"/>mus. In nostris ergo historiis legimus Scripturas fuisse in linguam 
+      Bri<lb ed="#C" n="4" break="no"/>tannicam iussu regis Athelstani ante annos 900. conversas. Et 
+      lohan<lb ed="#C" n="5" break="no"/>nes Trevisanus scribit, Bedam nostrum transtulisse Evangelium 
+      Iohan<lb ed="#C" n="6" break="no"/>nis in Anglicum, Lib. 5. c. 24. &amp; Psalmos esse transsatos iussu Aluredi, 
+      <lb ed="#C" n="7"/>Lib.6. c.1. &amp; Beda ait, Lib.1. c. 1. histor. Scripturas suo tempore in 
+      quin<lb ed="#C" n="8" break="no"/>que linguis Britannicis lectas fuisse. Sic enim in illo loco habet: Haec 
+      in<lb ed="#C" n="9" break="no"/>sula in praesenti, iuxta numerum librorum, quibus lex divina scripta est, 
+      quin<lb ed="#C" n="10" break="no"/>que gentium linguis unam eandemque summae veritatis &amp; verae sublimitatis 
+      <lb ed="#C" n="11"/>scientiam scrutatur &amp; confitetur, Anglorum videlicet, Britonum, Scotorum, 
+      <lb ed="#C" n="12"/>Pictorum, &amp; Latinorum, quae meditatione Scripturarum omnibus est 
+      facta<lb ed="#C" n="13" break="no"/>communis. Nullas ergo fuisse vernaculas versiones, quarum vllus 
+      anti<lb ed="#C" n="14" break="no"/>quus author meminerit, insigniter &amp; apertissime falsum esse constat.  
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e832">
+               <lb ed="#C" n="15"/>Sed pergit Iesuita, &amp; particulares Ecclesias commemorat, &amp; primum; 
+      <lb ed="#C" n="16"/>de Ecclesia Africana sic disputat. Afri omnes non intelligebant Latine: 
+      <lb ed="#C" n="17"/>at Scripturae in Africa tantum Latine legebantur. Et linguam 
+      Lati<lb ed="#C" n="18" break="no"/>nam non fuisse Poenis omnibus vulgarem, testis est Augustinus, in 
+      ex<lb ed="#C" n="19" break="no"/>posit. inchoata Epist. ad Rom. &amp; affirmat quosdam Latine &amp; Punice, 
+      <lb ed="#C" n="20"/>quosdam Punice tantum scivisse, &amp; tales fuisse pene omnes rusticos: &amp; 
+      <lb ed="#C" n="21"/>Serm. 35. de verbis Domini, Punicam linguam affinem fuisse dicit 
+      He<lb ed="#C" n="22" break="no"/>braicae. Et Hieron. in Praefat. Lib. 2. in Epist. ad Galat. linguam Afrorum: 
+      <lb ed="#C" n="23"/>scribit esse linguam Phoeniciae nonnihil immutatam. Respondeo: primo, 
+      <lb ed="#C" n="24"/>Nemo affirmat linguam Punicam fuisse Latinam: quod vel ex 
+      Plauti<lb ed="#C" n="25" break="no"/>Paenulo aliter esse intelligi potest: nec ea de re quisquam vnquam 
+      dubita<lb ed="#C" n="26" break="no"/>vit. Sed tamen, an fuerit aliqua Scripturarum versio Punica, 
+      incer<lb ed="#C" n="27" break="no"/>tum est. Non fuisse quo modo Adversarius probabit, vel ex Augustini, 
+      <lb ed="#C" n="28"/>vel ex cuiusquam alterius testimonio? Fuisse nusquam negat 
+      Augusti<lb ed="#C" n="29" break="no"/>nus. Et quanquam huius rei nulla nunc monimenta extant, tamen non 
+      <lb ed="#C" n="30"/>proinde nullam fuisse versionem sequitur. Nam &amp; olim Scripturae in 
+      <lb ed="#C" n="31"/>nostram linguam versae sunt, quarum tamen versionum vix vlla nunc 
+      <lb ed="#C" n="32"/>vestigia apparent. Erant certe pii Episcopi in omnibus illis Africae, 
+      <lb ed="#C" n="33"/>Numidiae, Mautitaniae partibus, qui de populi sui salute solicite 
+      cogi<lb ed="#C" n="34" break="no"/>tabant. In his nullum esse inventum, qui pro suis Poenis faceret, quod 
+      fe<lb ed="#C" n="35" break="no"/>cisse pro Dalmatis suis Hieronymum legimus, vt Scripturas in linguam? 
+      <lb ed="#C" n="36"/>popularem verteret, incredibile videtur. Secundo, In locis celebrioribus 
+      <lb ed="#C" n="37"/>ac cultioribus, &amp; in maioribus civitatibus, Africani Latine intelligebant,  
+      <lb ed="#C" n="38"/>&amp; loquebantur, ideoque mitum non est, Scripturas lectas esse Latine 
+      <!--170.xml-->
+      <pb ed="#L" n="161"/>
+               <lb ed="#C" n="1"/>Carthagine, vt ex Cypriano; Milevi, vtex Optate; Hippone, vt ex 
+      Au<lb ed="#C" n="2" break="no"/>gustino constat. Hi enim in suis Ecclesiis Scripturas Latine legebant &amp; 
+      <lb ed="#C" n="3"/>exponebant. Non fuissent autem in homiliis &amp; concionibus Latina 
+      lin<lb ed="#C" n="4" break="no"/>gua vsi, nisi eam linguam populus intellexisset. Augustinus in Psal. 18. 
+      <lb ed="#C" n="5"/>habet, Charissimi, quod consona voce cantavimus, sereno etiaa corde nosse &amp; 
+      <lb ed="#C" n="6"/>tenere debemus. In Lib. De Catechiz. rudibus, Cap. 9. monet ne populus 
+      <lb ed="#C" n="7"/>irrideat Pastores, si forte in precibus aut concionibus non satis 
+      gramma<lb ed="#C" n="8" break="no"/>tice loquantut. Unde quosdam e vulgo sepe melius Latine scivisse, quam 
+      <lb ed="#C" n="9"/>ipsos ministros, patet. In Lib. 1. C. 20. Retractat. se ait quendam 
+      Psal<lb ed="#C" n="10" break="no"/>mum composuisse literis Latinis contra Donatistas, ob eam causam, 
+      ve<lb ed="#C" n="11" break="no"/>ad ipsius humillimi vulgi, &amp; imperitorum, &amp; idiotarum notitiam 
+      perve<lb ed="#C" n="12" break="no"/>niret. In Serm. 24 de verb. Apost. sic ait, Proverbium notum est Punicum, 
+      <lb ed="#C" n="13"/>quod quidem Latine vobis dicam, quia non omnes Punice nostis. Ergo vulgus 
+      <lb ed="#C" n="14"/>Latine melius, quam Punice, intelligebat. In Psal. 50. Omnes (inquit)  
+      <lb ed="#C" n="15"/>novimus Latine non dici sanguines, nec sanguina, sed sangumem. Et quando 
+      <lb ed="#C" n="16"/>apud populum verba fecit, magis curavit vt recte intelligeretur, quam 
+      <lb ed="#C" n="17"/>pure loqueretur. Sic in Psal. 128. Ego dicam ossum: sic enim potius 
+      lo<lb ed="#C" n="18" break="no"/>quamur: melius est vt nos reprehendant Grammatici, quam non intelligant 
+      <lb ed="#C" n="19"/>populi. Et in lohan. Tract. 3. Intendat charitas vestra, Dolus, non dolor est. 
+      <lb ed="#C" n="20"/>Hoc proptereadico, quia multi fratres imperitiores Latinitatis loquuntur sic, 
+      <lb ed="#C" n="21"/>vi dicant, Dolus illum torquet, pro eo quod est Dolor. Et Augustinus, l. 1. c. 14. 
+      <lb ed="#C" n="22"/>Confess. ait se Latinam linguam didicisse inter blandimenta nutricum, &amp; 
+      <lb ed="#C" n="23"/>ioca arridentium, &amp; letititias alludentium. Natus vero Augustinus &amp; 
+      nu<lb ed="#C" n="24" break="no"/>tritus fuit Tagastae in Africa, vtl. 4. c. 7. Confes. patet. Ex his liquet, 
+      popu<lb ed="#C" n="25" break="no"/>lum Africanum, praesertim in vrbibus locisque frequentioribus, Latine non 
+      <lb ed="#C" n="26"/>modo intellexisse, sed etiam loqui potuisse, etsi forsan non tam pure 
+      sem<lb ed="#C" n="27" break="no"/>per, quam Latinitas incorrupta postulabat. Pergit adhuc Iesuita, &amp; 
+      Eccle<lb ed="#C" n="28" break="no"/>sias Hispanicas, Anglicas, Gallicas, Germanicas, Italicas recenset: de 
+      <lb ed="#C" n="29"/>quibus non est necesse separatim respondere. Non ignoro hisce 
+      recenti<lb ed="#C" n="30" break="no"/>oribus seculis populum fuisse in summas tenebras demersum, &amp; omnia 
+      <lb ed="#C" n="31"/>sermone peregrino in media etiam Italia ac Roma lectitata. Sed anter 
+      <lb ed="#C" n="32"/>hanc ignorantiam &amp; tyrannidem Antichristi, in antiquioribus &amp; 
+      purio<lb ed="#C" n="33" break="no"/>ribus temporibus Ecclesiae, affirmo Scripturas nunquam fuisse in vlla 
+      re<lb ed="#C" n="34" break="no"/>gione publice lectas populo nisi ea lingua, quam populus intelligebat.  
+      <lb ed="#C" n="35"/>Contrarium Adversarius nunquam evincet. Latina certe lingua olim in 
+      <lb ed="#C" n="36"/>JOccidentali parte mundi late obtinuit, vt possent Scripturae Latina 
+      lingua<lb ed="#C" n="37" break="no"/>legi in his regionibus, quarum Bellarminus meminit, &amp; tamen a 
+      popu<lb ed="#C" n="38" break="no"/>lo intelligi. Augustinus ait, Lib. 19. C. 7. de Civit. Dei, Data opera est, vi¬ 
+      <!--171.xml-->
+      <pb ed="#L" n="162"/>
+               <lb ed="#C" n="1"/>civitas emperiosa non solum iugum, verum etiam linguam suam domitis 
+      gen<lb ed="#C" n="2" break="no"/>tibus imponeret. Plutarchus in quaest. Platon. omnes fere homines lingua 
+      <lb ed="#C" n="3"/>Romana vti affirmat, ωs δοκει μοι ωει ρωμαιον λόγον, ώνμζο λόγα ναν δμοσ τ 
+      <lb ed="#C" n="4"/>πaητες ανθρωποι χζώνθ. Atque hoc de Gallis &amp; Hispanis Strabo diserte 
+      <lb ed="#C" n="5"/>scribit. Deinde, poterant in illis Ecclesijs esse Scripturarum versiones 
+      no<lb ed="#C" n="6" break="no"/>bis ignotae atque inauditae. Intellectam quidem vbique in his Ecclesiis 
+      <lb ed="#C" n="7"/>Scripturarum lectionem fuisse, certum est. Isidorus Lib. de Offic. 
+      Eccle<lb ed="#C" n="8" break="no"/>siast. cap. 10. de Hispanicis omnibusque alijs Ecclesijs scribit: Oportetvi 
+      <lb ed="#C" n="9"/>quando psallitur, ab omnibus psallatur: &amp; cum oratur, vt ab omnibus oretur:  
+      <lb ed="#C" n="10"/>cumque lectio legitur, vt facto silentio aeque audiatur a cunctis. In sermone 
+      per<lb ed="#C" n="11" break="no"/>egrino nec simul psallere, nec simul orare, nec simul aliquid audire 
+      pos<lb ed="#C" n="12" break="no"/>sunt. Nam non intelligere quid alius legat aut loquatur, perinde est ac 
+      <lb ed="#C" n="13"/>non audire. In Hispania igitur linguam Latinam fuisse notam ijs, qui ea 
+      <lb ed="#C" n="14"/>in lectione Scripturarum vterentur, satis ex Isidoro constat. Atque hoc  
+      <lb ed="#C" n="15"/>similiter de Gallia manffestum est. Nam Severus Sulpitius in vita 
+      Marti<lb ed="#C" n="16" break="no"/>ni author est, cum populus ad Martinum Episcopum eligendum 
+      conve<lb ed="#C" n="17" break="no"/>nisset, &amp; lector non adesset, vnum ex astantibus arrepto libro legisse 
+      Psal<lb ed="#C" n="18" break="no"/>mumoctavum: quo lecto clamorem populi sublatum esse, &amp; partem 
+      ad<lb ed="#C" n="19" break="no"/>versam obmutuisse. Ex hoc testimonio colligimus, populum optime 
+      in<lb ed="#C" n="20" break="no"/>tellexisse quae legebantur: aliterenim nullam acclamandi occasionem. 
+      <lb ed="#C" n="21"/>habuissent. Unde sequitur, aut Latinae linguae non ignarum hunc 
+      popu<lb ed="#C" n="22" break="no"/>lum fuisse, aut tunc vernaculam aliquam Scripturae versionem extitisse. 
+      <lb ed="#C" n="23"/>Atque de hoc argumento nunc satis responsum est: Hac de re aliquid  
+      <lb ed="#C" n="24"/>iterum respondendum est in altera parte. 
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e1030">
+               <lb ed="#C" n="25"/>Aigumentum quartum ab ipsa ratione petitur. Oportet publicum vsum 
+      <lb ed="#C" n="26"/>Scripturae esse in aliqua lingua communissima ad Ecclesiae vnitatem 
+      con<lb ed="#C" n="27" break="no"/>servandam. At nunc nulla est lingua communior quam Latina. 
+      Maio<lb ed="#C" n="28" break="no"/>rem probat, quia alias tolletur communicatio Ecclesiarum, &amp; Concilia 
+      <lb ed="#C" n="29"/>generalia non possunt celebrari. Non enim omnes Patres donum 
+      ha<lb ed="#C" n="30" break="no"/>bent linguarum. Respondeo, In hoc argumento omnia esse infirma. Nam 
+      <lb ed="#C" n="31"/>primo, falsum est, nullam esse linguam Latina communiorem, vel in 
+      Oc<lb ed="#C" n="32" break="no"/>cidente. Nulla enim est nunc fere minus communis. Latine enim nulli 
+      <lb ed="#C" n="33"/>nunc sciunt, nisi qui linguam hanc a magistro didicerunt. Olim fuit 
+      haec<lb ed="#C" n="34" break="no"/>quidem patria multorum populorum, communisque lingua: sed nunc 
+      <lb ed="#C" n="35"/>in maxima hominum multitudine quotusquisque inveniri potest, qui 
+      La<lb ed="#C" n="36" break="no"/>tine teneat? Secundo, si ea ratio fuit, quam fuisse ipse Bellarminus fatetur,  
+      <lb ed="#C" n="37"/>quare Apostoli initio omnia fere Graece scripserint, quia tunc ea 
+      lin<lb ed="#C" n="38" break="no"/>gua omnium fuit communissima, &amp; deinceps Scripturae transiatae fu¬ 
+      <!--172.xml-->
+      <pb ed="#L" n="163"/>
+               <lb ed="#C" n="1"/>erunt Latine, quia post Latina coepitesse communior; sequitur nunc 
+      <lb ed="#C" n="2"/>quoque Scripturas oportete in alias linguas converti, quae &amp; Latina &amp; 
+      <lb ed="#C" n="3"/>Graeca nunc communiores sunt, Tales sunt Dalmatica, Italica, Gallica, 
+      <lb ed="#C" n="4"/>Germanica, Polonica. Sunt enim hae magnarum gentium linguae 
+      ma<lb ed="#C" n="5" break="no"/>ternae: Latina vero nunc nullius gentis materna lingua est. In ipso etiam 
+      <lb ed="#C" n="6"/>Latio Latina lingua hodie peregrina est, &amp; nullius populi vernacula, sed  
+      <lb ed="#C" n="7"/>doctorum hominum propria, eorumque qui magisiro in schola operam 
+      <lb ed="#C" n="8"/>dederunt. Qui Latini olim fuerunt, ij nunc nec sunt Latini, nec Latine 
+      <lb ed="#C" n="9"/>sciunt. Tertio, Quod ait tolli Ecclesiae communicationem atque 
+      con<lb ed="#C" n="10" break="no"/>iunctionem, nec Concilia generalia posse celebrari, nisi Scripturae in 
+      <lb ed="#C" n="11"/>vna communissima lingua uybique legantur; absurdum id quidem est, &amp; 
+      <lb ed="#C" n="12"/>ab omni ratione atque experientia alienum. Nam olim cum 
+      Scriptu<lb ed="#C" n="13" break="no"/>rae Hebraice Hebraeis, Graece Graecis, &amp; Latine Latinis legerentur, 
+      ta<lb ed="#C" n="14" break="no"/>men fuit summa societas Christianorum &amp; conjunctio Ecclesiae, nec 
+      a<lb ed="#C" n="15" break="no"/>liquid impediit, quo minus Concilia generalia haberentur. Nam in 
+      <lb ed="#C" n="16"/>Concilio Niceno fuerunt Graeci Latinique Patres, qui omnes. etsi non 
+      <lb ed="#C" n="17"/>vna eademquelingua vsi sunt, fidem tamen eandem coniunctissimis 
+      stu<lb ed="#C" n="18" break="no"/>dijs defenderunt. Nam si ad Ecclesiae conservandam vnitatem tantum 
+      <lb ed="#C" n="19"/>faciat, vt in eadem lingua Scripturae ubique legantur; quare non huic 
+      rei<lb ed="#C" n="20" break="no"/>consultum ab initio fuit? aut cur huic instituto Latina lingua aptiore 
+      <lb ed="#C" n="21"/>quam quaevis alia, videri debuit? Sunt haec ridenda insomnia: quare hoc  
+      <lb ed="#C" n="22"/>argumentum praetermissum ab eo est, qui Epitomen edidit.  
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e1115">
+               <lb ed="#C" n="23"/>Argumentum quintum. Si causa nulla sit Scripturas vertendi verna 
+      cu<lb ed="#C" n="24" break="no"/>le, tum verti non debent: At causa nulla est quamobrem vertantur: quod  
+      <lb ed="#C" n="25"/>sic probatur: Nam si ideo vertuntur, vteas populus intelligat, haec causa 
+      <lb ed="#C" n="26"/>nulla est, quandoquidem eas populus ne versas quidem intelligit. Nam 
+      <lb ed="#C" n="27"/>populus non intelligeret Prophetas, &amp; Psalmos &amp; alia, quae in Ecclesiis. 
+      <lb ed="#C" n="28"/>leguntur, etiamsi materna lingua legerentur. Nam ista ne docti quidem 
+      <lb ed="#C" n="29"/>intelligunt, nisi expositores legant atque audiant. Respondeo: primo, 
+      Fate<lb ed="#C" n="30" break="no"/>or quidem non omnia statim ac lecta sunt intelligi, ne a doctis quidem, 
+      <lb ed="#C" n="31"/>praesertim in Prophetis &amp; Psalmis. Nam vt Scripturas intelligamus, opus 
+      <lb ed="#C" n="32"/>est non tantum lectione, sed studio, meditatione, precibus. Sed si populus 
+      <lb ed="#C" n="33"/>propter hanc causam Scripturas in sua lingua legere non deberet, tum 
+      <lb ed="#C" n="34"/>nec doctis eas legere liceret. Veruntamen multa quidem possunt 
+      intelli<lb ed="#C" n="35" break="no"/>gi, licet non omnia: &amp; certe etiam omnia, quae sunt ad salutem necessaria, 
+      <lb ed="#C" n="36"/>aperte in Scripturis tradita sunt, vt a quovis intelligi, si velit, facile 
+      pos<lb ed="#C" n="37" break="no"/>sint. Et plura homines scirent, si Scripturas cum attentione ea, qua 
+      de<lb ed="#C" n="38" break="no"/>ceret, legerent, atque audirent. Nam quod plerique tam pauca intelligunt.  
+      <!--173.xml-->
+      <pb ed="#L" n="164"/>
+               <lb ed="#C" n="1"/>&amp; tam exilem fructum ex lectione Scripturarum percipiunt, illorum 
+      <lb ed="#C" n="2"/>negligentiae tribuendum est, quia nec tam religios e attendunt, nec ita, 
+      ve<lb ed="#C" n="3" break="no"/>oportebat, comparati ad illam lectionem accedunt. Secundo, Etsi non 
+      <lb ed="#C" n="4"/>sensus statim percipitur, tamen verba intelliguntur, quando in 
+      lingua<lb ed="#C" n="5" break="no"/>materna recitantur: atque hoc magnopere ad sensum assequendum 
+      con<lb ed="#C" n="6" break="no"/>ducit. Eunuchus Act. 8. Esaiam Prophetam legebat, quem tamen 
+      per<lb ed="#C" n="7" break="no"/>omnia non intelligebat: tamen quod legerit, laudandus est, &amp; a multis 
+      <lb ed="#C" n="8"/>Patribus merito laudatur: verba is quidem intelligebat, sed Prophetam, 
+      <lb ed="#C" n="9"/>de Christo loqui nesciebat, &amp; verum sensum ignorabat. At isti ne 
+      ver<lb ed="#C" n="10" break="no"/>borum intelligentiam populo concedunt. Sed quemadmodum 
+      Eunu<lb ed="#C" n="11" break="no"/>cho vtilis ea Scripturae lectio fuit, ita etiam populo vtile erit Scripturis 
+      <lb ed="#C" n="12"/>legendis operam dare, vt ex verborum intelligentia facilius ad sensum 
+      <lb ed="#C" n="13"/>perveniant. Nam primus gradus est nosse verba, secundus sententiam. 
+      <lb ed="#C" n="14"/>Sed tantum abest, ve Pontificij velint populum sensum Scripturarum 
+      in<lb ed="#C" n="15" break="no"/>telligere, vt illum etiam a verborum lectione prohibeant.  
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e1189">
+               <lb ed="#C" n="16"/>Aigumentum sextum: Peticulosum est vt populus Scripturas legat  
+      <lb ed="#C" n="17"/>Non enim fructum ex Scripturis, sed detrimentum caperet: omnes 
+      hae<lb ed="#C" n="18" break="no"/>reses natae sunt ex Scriptura non intellecta, vt Hilarius infine libri de 
+      Sy<lb ed="#C" n="19" break="no"/>nadis: &amp; Lutherus vocat Scripturam librum haereticorum, &amp; hoc 
+      expe<lb ed="#C" n="20" break="no"/>rimento comprobatur. Nam hinc ortae haereses sunt 
+      Anthropomorphi<lb ed="#C" n="21" break="no"/>tarum, Adamitarum, Davidis Georgij. qui nullam linguam nisi suam 
+      <lb ed="#C" n="22"/>norat. Si populus legi audiret Cantica Canticorum, adulterium 
+      Davi<lb ed="#C" n="23" break="no"/>dis, incestum Thamarae, historiam Liae &amp; Rachelae, mendacia ludith, 
+      <lb ed="#C" n="24"/>aut sanctos Patriarchas contemneret, aut e adem sibi licere colligeret,  
+      <lb ed="#C" n="25"/>aut haec falsa esse crederet. Subjungit adhuc Bellarminus se 
+      audivissea<lb ed="#C" n="26" break="no"/>quodam fide digno, cum in Anglia caput 25. Ecclesiastici in vulgari 
+      lin<lb ed="#C" n="27" break="no"/>gua in templo legeretur, vbi multa dicuntur de malitia mulierum, 
+      sur<lb ed="#C" n="28" break="no"/>rexisse foeminam quandam ac dixisse, Istudene est verbum Dei? imo 
+      po<lb ed="#C" n="29" break="no"/>tius verbum diaboli est. Et Rhemenses, in Annotat. in 1. Cor. 14. dicunt:  
+      <lb ed="#C" n="30"/>transtationem rerum sacrarum parere sepe multiplex periculum, &amp; 
+      con<lb ed="#C" n="31" break="no"/>temptum in vulgo, vtputet deum esse authorem peccati, quando legunt,  
+      <lb ed="#C" n="32"/>Ne nos inducas in tentationem: quanquam isti obliti sunt quod alibi 
+      scrip<lb ed="#C" n="33" break="no"/>serunt Dominicam orationem in lingua vernacula permittendam esse. 
+      <lb ed="#C" n="34"/>Et Censores Colonienses in Lib. contra Monhemium. Pa. 20. Nulla 
+      un<lb ed="#C" n="35" break="no"/>quam(inquiunt Jreperta est haere sis, quae non Scripturis fuerie vsa: imo vt 
+      au<lb ed="#C" n="36" break="no"/>dentius dicamus, quae non ex Scripturis occasionem acceperit. RESPONDEO: 
+      <lb ed="#C" n="37"/>primo, Haec omnia ab ingenio humano proficiscuntur. &amp; divinam 
+      sapi<lb ed="#C" n="38" break="no"/>entiam redarguunt. Nam si harum renuim lectio tempericulosa populo 
+      <lb ed="#C" n="39"/>fuerit, curea ounia scribi Dominus vuluit, eaque lingua, quam tota Ec¬ 
+      <!--174.xml-->
+      <pb ed="#L" n="165"/>
+               <lb ed="#C" n="1"/>clesia intellexit, &amp; postea transferri in Graecam Latinamque linguam, 
+      <lb ed="#C" n="2"/>quam communissimam esse ipse Adversarius affirmat? Sepelienda 
+      po<lb ed="#C" n="3" break="no"/>tius haec erant, quam literis mandanda, si sint tam perniciosa pietati &amp; 
+      <lb ed="#C" n="4"/>bonis moribus. Secundo, Nihil minus quam aut contemptus sanctorum 
+      <lb ed="#C" n="5"/>hominum, aut impietas vila &amp; petulantia ex illatum historiarum 
+      lectio<lb ed="#C" n="6" break="no"/>ne oritur. Nam vt in illis historiis adulterium Davidis narratur, sic  
+      <lb ed="#C" n="7"/>in ijsdem Davidis poenitentia poenaque perscribitur. Haec autem sciret 
+      <lb ed="#C" n="8"/>viile est Ecclesiae, cunctisque piis. Nam primum hinc discimus, 
+      nemi<lb ed="#C" n="9" break="no"/>nem impune peccaturum esse, sed quenquam, si peccat, poenam peccati 
+      <lb ed="#C" n="10"/>subiturum, vel castigationis, vt David subiit; vel vitionis, vt alii. Deinde, 
+      <lb ed="#C" n="11"/>non esse desperandum, si peccaverit: sed quantumvis in gravissimum 
+      <lb ed="#C" n="12"/>peccatum inciderit, sperandumtamen propitium in Christo Deum 
+      fo<lb ed="#C" n="13" break="no"/>re, si peccatorum ex animo poeniteat. Postremo, sanctos illos atque 
+      <lb ed="#C" n="14"/>eximios viros non suis virtutibus, sed Christi meritis servatos esse, atque 
+      <lb ed="#C" n="15"/>ita non esse de illis augustius, quam par est, existimandum: minus 
+      e<lb ed="#C" n="16" break="no"/>nim periculum est, ne nimium illis, quam ne parum tribuamus. 
+      Qua<lb ed="#C" n="17" break="no"/>re haec illorum non delicta levia, sed maxima peccata Spiritus sanctus 
+      <lb ed="#C" n="18"/>tacere noluit. Tertio, Nulla offensio ex Scripturis vere &amp; iuste nascitur.  
+      <lb ed="#C" n="19"/>Rom. 15. 4. quorsum Scripturae editae sint, &amp; ad quem finem spectent, 
+      <lb ed="#C" n="20"/>Apostolus declarat: non vt homines in pravas opiniones induc ant, sed  
+      <lb ed="#C" n="21"/>scriptae sunt ad nostram doctrinam, vt per patientiam, &amp; consolationem 
+      Scrip<lb ed="#C" n="22" break="no"/>turarum, spem haberemus. Psalm. 119. 9. David ait, In quo corriget 
+      ado<lb ed="#C" n="23" break="no"/>lescens viam suam? Respondet, non fugiendo, aut ignorando Scripturas, 
+      <lb ed="#C" n="24"/>sed eas observando. Possunt ergo etiam adolescentes, quorum aetas 
+      maxi<lb ed="#C" n="25" break="no"/>me proclivis est ad libidinem, tamen in Scripturis legendis vtiliter 
+      versa<lb ed="#C" n="26" break="no"/>ri. Psal. 12. 7. Sermones Domini, sermones puros esse dicit. At isti meuiunt,  
+      <lb ed="#C" n="27"/>ne quemadmodum Apostolus, 1. Cor. 15. 33. bonos mores ἐμιλίι κακῶισ 
+      <lb ed="#C" n="28"/>corrumpi monuit, sic homines legendis Scripturis peiores, atque a 
+      pie<lb ed="#C" n="29" break="no"/>tate alieniores evadant. Interim qui Scripturas removent ab hominum 
+      <lb ed="#C" n="30"/>oculis, vepiis moribus pestiferas, ij Propertium, Martialem, Qvidium, 
+      <lb ed="#C" n="31"/>Plautum, Terentium, cuivis adolescenti legere permittunt, &amp; 
+      Comoe<lb ed="#C" n="32" break="no"/>dias turpissimas, ac foedissima spectacula non prohibent. Quid magis 
+      <lb ed="#C" n="33"/>impium aut Antichristianum cogitari potuit? Quarto, Quod ait haereses. 
+      <lb ed="#C" n="34"/>ex Scripturis non intellectis oriri, fateor id quidem. Sed 
+      quemadmo<lb ed="#C" n="35" break="no"/>dum ex Scripturis vel non intellectis, vel male intellectis, haereses omnes. 
+      <lb ed="#C" n="36"/>nascisolent; ita ex Scripturis recte dextreque intellectis &amp; expositis 
+      <lb ed="#C" n="37"/>haereses omnes refelluntur. Hinc Anthropomorphitae, hinc Adamitae, 
+      <lb ed="#C" n="38"/>hinc omnes alij haeretici refutantur. Multo vero melius est, vt Scriptu¬ 
+      <!--175.xml-->
+      <pb ed="#L" n="166"/>
+               <lb ed="#C" n="1"/>rae legantur, atque ex lectis &amp; intellectis Scripturis haereses damnentur. 
+      <lb ed="#C" n="2"/>ac profligentur, quam vtomnino non legantur, &amp; sic nullae haereses 
+      ori<lb ed="#C" n="3" break="no"/>antur. Nam certe plures ignorantia Scripturarum, quam haeresi pereunt, &amp; 
+      <lb ed="#C" n="4"/>ex ignorantia Scripturarum, non lectione, ipsae haereses nascuntur. 
+      Quin<lb ed="#C" n="5" break="no"/>to, Utrum vero Lutherus aliquando dixerit, Scripturas esse haereticorum 
+      li<lb ed="#C" n="6" break="no"/>hrum, non constat, nec sane multum refert. Abuti quidem illi solent 
+      re<lb ed="#C" n="7" break="no"/>vera Scripturis, sed tamen iisdem etiam convinci refellique semper 
+      pos<lb ed="#C" n="8" break="no"/>sunt. Serto, Quod subiungit, se ab Anglo quodam audivisse, faeminam. 
+      <lb ed="#C" n="9"/>quandam in Anglia, cum in Ecclesia legeretur illud Caput Ecclesiastici, 
+      <lb ed="#C" n="10"/>iratam surrexisse, &amp; parum modeste de ea Scriptura locutam esse, 
+      hu<lb ed="#C" n="11" break="no"/>ius historiae fides omnis penes sit bonum illum virum, a quo eam 
+      Bellar<lb ed="#C" n="12" break="no"/>minus accepit. Sed quid si pauci homines Scriptura aliquando 
+      abutan<lb ed="#C" n="13" break="no"/>tur, num inde sequitur, Scripturas omnino tollendas, &amp; a populo 
+      nun<lb ed="#C" n="14" break="no"/>quam legendas esse? Ita neque docti etiam Scripturas legerent, cum 
+      mul<lb ed="#C" n="15" break="no"/>ti quoque doctissimi homines Scripturis abutantur, vt haeretici 
+      pene<lb ed="#C" n="16" break="no"/>omnes. Praeterea, si abusus alicuius rei valeret ad eiusdem 
+      reivsumtollen<lb ed="#C" n="17" break="no"/>dum, abstinendum nobis esset a cibo, ac potu, vestibus etiam vtendum. 
+      <lb ed="#C" n="18"/>non esset, quia iis rebus plurimi ad crapulam, ebrietatem, ac superbiam! 
+      <lb ed="#C" n="19"/>abutuntur. Fallacia ergo haec est vna omnium nobilissima, πυρα τό μι ἀίπον,  
+      <lb ed="#C" n="20"/>dσ ωιτον, &amp; ταργ τόετόμηεον. 
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e1379">
+               <lb ed="#C" n="21"/>Septimo in loco sic disputat Iesuita. Si Scripturae essent 
+      lingua<lb ed="#C" n="22" break="no"/>vernacula a populo legendae tum oporteret singulis aetatibus 
+      no<lb ed="#C" n="23" break="no"/>vas fieri versiones, quia singulis aetatibus mutantur linguae: quod 
+      pro<lb ed="#C" n="24" break="no"/>bat ex Horatio in arte Poetica, atque etiam experientia. At fieri hoc non 
+      <lb ed="#C" n="25"/>posset: quia deessent viri idonei ad vertendum: deinde, si posset, absurdum. 
+      <lb ed="#C" n="26"/>esset, toties mutari versiones. Ergo Scripturae non sunt a populo in 
+      lingua<lb ed="#C" n="27" break="no"/>vernacula legendae. Respondeo. Omnia in hoc argumento sunt ridicula. 
+      <lb ed="#C" n="28"/>Nam primo, falsum est singulis aetatibus linguas mutati. Non enim 
+      toti<lb ed="#C" n="29" break="no"/>es mutatae sunt linguae primariae, Hebraica, Graeca, ac Latina. Secundo, 
+      In<lb ed="#C" n="30" break="no"/>Christianis Ecclesiis nunquam desunt commodi aliqui interpretes, qui  
+      <lb ed="#C" n="31"/>possint Scripturas transferre, &amp; genuinum illarum sensum reddere 
+      lingua<lb ed="#C" n="32" break="no"/>vulgari. Tertio, Nihil incommodi sequetur, si interpretationes, 
+      seuver<lb ed="#C" n="33" break="no"/>siones Scripturarum, quando obsoletae iam sunt, &amp; minus intelliguntur,,  
+      <lb ed="#C" n="34"/>postea mutentur ac corigantur. Hoc certe argumentum omnino 
+      prae<lb ed="#C" n="35" break="no"/>termisissem, nisi nulla Adversarij argumenta celare aut dissimulare 
+      sta<lb ed="#C" n="36" break="no"/>quissem. 
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e1416">
+               <lb ed="#C" n="37"/>Octavum Iesuitae argumentum ex authoritate Patrum desumptum. 
+      <lb ed="#C" n="38"/>est. Prosert autem duo illustrium Patrum testimonia, quibus nos pro¬ 
+      <!--176.xml-->
+      <pb ed="#L" n="167"/>
+               <lb ed="#C" n="1"/>pter summam ac multiplicem illorum eruditionem plurimum 
+      tri<lb ed="#C" n="2" break="no"/>buere debemus, Basilij nempe, &amp; Hieronymi. Basilius igitur, vt 
+      re<lb ed="#C" n="3" break="no"/>fert Theodoretus, Lib. 4. Hist. Cap. 19. praefecto culinae Imperatoriae, 
+      <lb ed="#C" n="4"/>impudenter nimis ac indocte τορι τον δειον σογματον gattienti, ita 
+      respon<lb ed="#C" n="5" break="no"/>dit, Tuum est pulmenta curare, non divina eloqui decoquere. Res pondeo: 
+      <lb ed="#C" n="6"/>Fuit hic coquinae Imperatoriae praefectus nomine Demosthenes: valde 
+      <lb ed="#C" n="7"/>insolenter &amp; imperite pio Patri obstrepuit: cum enim barbarus &amp; 
+      insul<lb ed="#C" n="8" break="no"/>sus esset, tamen Doctorem totius orbis, τον διδεσκαλον τῆς δικαμγιης, 
+      do<lb ed="#C" n="9" break="no"/>cere voluit, vt ait Theodoretus: ita enim habitus est Basilius. Putabat 
+      sci<lb ed="#C" n="10" break="no"/>licet Aulicus iste, cum esset homo omnium indoctissimus atque 
+      ineptis<lb ed="#C" n="11" break="no"/>simus, potuisse se cum Basilio, homine eruditissimo, &amp; in Scripturis 
+      exer<lb ed="#C" n="12" break="no"/>citatissimo, &amp; Episcopo, de Scripturis disputare. Atque haec ratio fuit, 
+      <lb ed="#C" n="13"/>cur ei Basilius tam acerbe responderit, σui δει τ τον ζαμόν καρυκειας φροντιζον. 
+      <lb ed="#C" n="14"/>Et vero qui huic similes sunt, similiter tractandi &amp; severissime 
+      reprehen<lb ed="#C" n="15" break="no"/>dendisunt: sed quid hoc ad rem? Aliud enim est Scripuras legere, aliud 
+      <lb ed="#C" n="16"/>putare se Scripturas intelligere, cum non intelligat. Non reprehendit. 
+      <lb ed="#C" n="17"/>istum coquum Basilius, quod Scripturas legerit, sed quod sibi 
+      persua<lb ed="#C" n="18" break="no"/>serit, se tam praeclaram scientiam nactum esse, vt cum illo de Scripturis 
+      <lb ed="#C" n="19"/>disputare posset, cum revera Scripturas non intelligeret. Hanc illius 
+      ar<lb ed="#C" n="20" break="no"/>rogantiam contundere, &amp; os illi impudens obstruere voluit Basilius suo 
+      <lb ed="#C" n="21"/>illo responso, non prohibere a lectione Scripturarum. Monendi omnes. 
+      <lb ed="#C" n="22"/>sunt, vt quando Scripturas legunt, eas cum iudicio legant, &amp; 
+      modesti<lb ed="#C" n="23" break="no"/>am adhibeant, ne huic insulso Demostheni similes videantur, qui quia 
+      <lb ed="#C" n="24"/>totus esset &amp; illiteratus, &amp; praeiudicatae opinionis haeresi occupatus, 
+      Basi<lb ed="#C" n="25" break="no"/>lio visus est indignus, qui de rebus sacris verba faceret. Sic enim illum 
+      <lb ed="#C" n="26"/>Basilius alloquitur, συγμάτον θειον ἐπαιειν ι δυνασασ ζεζυσμυασ ἐχον τας 
+      <lb ed="#C" n="27"/>σκοώς 
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e1486">
+               <lb ed="#C" n="28"/>Nunc venio ad Hieronymi testimonium a Iesuita citatum, quod 
+      ha<lb ed="#C" n="29" break="no"/>betur in Epist. ad Paulinum, atque huiusmodi est: Quod medicorum est, 
+      <lb ed="#C" n="30"/>promittunt medici: tractant fabrilia fabri. Sola Scripturarum ars est, quam 
+      <lb ed="#C" n="31"/>sibi omnes vendicant. Scribimus indocti doctique poemata passim. Hanc garrula. 
+      <lb ed="#C" n="32"/>anus, hanc delirus senex, hanc sopbista verbosus, hanc universi praesumunt, 
+      la<lb ed="#C" n="33" break="no"/>cerant, docent, antequam discunt. Alij adducto supercilio, grandia verba 
+      tru<lb ed="#C" n="34" break="no"/>tinantes, inter mulierculas de sacris literis philosophantur. Alij discunt (
+      proh<lb ed="#C" n="35" break="no"/>pudor) a foeminis, quod viros doceant: &amp; ne parum hoc su, quadam facilitate 
+      <lb ed="#C" n="36"/>verborum, imo audacia, edisserunt alijs, quod ipsi non intelligunt. Haec 
+      Hie<lb ed="#C" n="37" break="no"/>zonymi verbasunt: quibus Respondeo, iustam esse illam Hieronymi 
+      que<lb ed="#C" n="38" break="no"/>rimoniam: quia non debent illi Scripturas sacras tractare, qui sunt illa¬ 
+      <!--177.xml-->
+      <pb ed="#L" n="168"/>
+               <lb ed="#C" n="1"/>rum ignari ac imperiti. Sed hic observandum est, Hieronymum illos 
+      <lb ed="#C" n="2"/>viros atque illas foeminas, de quibus loquitur, non ideo reprehendere, 
+      <lb ed="#C" n="3"/>quod Scripturas legerent; sed quod cum semel aliquid de Scripturis 
+      gu<lb ed="#C" n="4" break="no"/>stassent, omnia statim sesetenere putarent, seque alios docere, &amp; 
+      Scriptu<lb ed="#C" n="5" break="no"/>ras aliis interpretari posse crederent, cum eas ne ipsi quidem 
+      intellige<lb ed="#C" n="6" break="no"/>rent; quodque temere in Scripturas involarent, nec ea modestia 
+      vteren<lb ed="#C" n="7" break="no"/>tur, quae in legendis Scripruris adhibenda esset. Damnat ergo illorum 
+      <lb ed="#C" n="8"/>imprudentiam, inscitiam, insolentiam, &amp; arrogantiam, non prohibet  
+      <lb ed="#C" n="9"/>Scripturarum lectionem: imo vult quossibet Scripturas legere, modo 
+      <lb ed="#C" n="10"/>cum modestia ac reverentia legant.  
+      </p>
+            <p xml:id="wWpoi1-e14187-d1e1538">
+               <lb ed="#C" n="11"/>Haec sunt Iesuitae argumenta, quibus, vti spero, abunde satisfecimus. 
+      <lb ed="#C" n="12"/>Sunt alij qui hanc causam tractant, vtHardingus, Artic. 15. Sect. 3. qui  
+      <lb ed="#C" n="13"/>totam hanc controversiam in quinque capita distribuit. Probat enim 
+      <lb ed="#C" n="14"/>vernaculam Scripturarum versionem, primo, non esse necessariam; 
+      se<lb ed="#C" n="15" break="no"/>cundo, non esse consentaneam; tertio, non esse vtilem; quarto non esse 
+      <lb ed="#C" n="16"/>tutam; quinio, haereticam esse. Sed non opus est vt eius etiam 
+      argumen<lb ed="#C" n="17" break="no"/>tis respondeam, quaeque ab illo contra vernaculam Scripturarum 
+      versio<lb ed="#C" n="18" break="no"/>nem dicta sunt, diluam; tum quod eadem plane sunt cum istis quae a 
+      de<lb ed="#C" n="19" break="no"/>suita afferuntur, tum quod ab eximio viro D. Iohanne Iuello, 
+      Episcopo<lb ed="#C" n="20" break="no"/>Sarisburiensi, copiosissime iam olim &amp; doctissime refutata sint, quem 
+      le<lb ed="#C" n="21" break="no"/>gant illiqui plura hac de re desiderant.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

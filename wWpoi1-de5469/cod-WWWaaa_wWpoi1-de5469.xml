@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="57"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de5469"><!-- con1q1c11 -->
+            <head xml:id="wWpoi1-de5469-Hd1e106">Caput 11</head>
+            <p xml:id="wWpoi1-de5469-d1e109">
+               <lb ed="#C" n="27"/>CAPUII 
+      <lb ed="#C" n="28"/>AAC PTPPUI
+    </p>
+            <p xml:id="wWpoi1-de5469-d1e116">
+               <lb ed="#C" n="29"/>PRO hoc libro qui Iudith nomine inscribitur, ex Hieronymo 
+      Adver<lb ed="#C" n="30" break="no"/>sarij argumentum arripiunt. Nam Hieronymus author est, in 
+      Prae<lb ed="#C" n="31" break="no"/>fat. Iudith, hunc librum a Synodo Nicena in sacris Scripturis fuisse 
+      nu<lb ed="#C" n="32" break="no"/>meratum: Ergo (inquiunt) hunc saltem librum Hieronymus ipse 
+      testa<lb ed="#C" n="33" break="no"/>tur esse Canonicum. Sed hoc testimonium plus laedit causam 
+      Adversari<lb ed="#C" n="34" break="no"/>orum, quam adiuvat. Nam prino, si illa Synodus hunc librum in 
+      nume<lb ed="#C" n="35" break="no"/>rumsacrarum Scripturarum recepit, reliquos illos, quos praetermisit,  
+      <lb ed="#C" n="36"/>gravi admodumpraeiudicio perstrinxit. Si enim hunc esse Canonicum 
+      <!--67.xml-->
+      <pb ed="#L" n="58"/>
+               <lb ed="#C" n="1"/>decrevit, vt isti volunt, quare non hoc eodem decreto caeteros 
+      comple<lb ed="#C" n="2" break="no"/>xus est, si quidem sint Canonici? Secundo, Hieronymi verba sunt,  
+      <lb ed="#C" n="3"/>Hunc librum Synodus Nic ena in numero sacrarum Scripturarum legitur: 
+      <lb ed="#C" n="4"/>computasse. Sed vbi hoc legatur, minime narrat. Et Synodus Laodicena, 
+      <lb ed="#C" n="5"/>quae paulo post Nicenam habita est, non reliquisset hunc librum in 
+      A<lb ed="#C" n="6" break="no"/>pocryphis, si eum Nicena Synodus Canonicum esse statuisset. Et 
+      Eras<lb ed="#C" n="7" break="no"/>mus recte annotavit id ab Hieronymo non affirmari, hunc librum fuisse 
+      <lb ed="#C" n="8"/>a Synodo Nicena in sacris Scripturis reputatum. Tertio, Non idem est, 
+      <lb ed="#C" n="9"/>esse Canonicam Scripturam, &amp; computari in numero sacrarum 
+      Scriptura<lb ed="#C" n="10" break="no"/>rum. Computantur enim in numero Scripturarum, quae cum sacris 
+      <lb ed="#C" n="11"/>Scripturis leguntur ad aedificationem plebis, etsi non ad doginatum 
+      <lb ed="#C" n="12"/>confirmationem. Et Hieronymi hanc mentem sententiamque fuisse, 
+      ma<lb ed="#C" n="13" break="no"/>nifestum est ex alijs ipsius Hieronymi verbis, in Praefat. Proverb. Legit  
+      <lb ed="#C" n="14"/>hunc librum (inquit) Ecclesia: sed inter Canonicas Scripturas non recipit.  
+      <lb ed="#C" n="15"/>Etsi ergo legitur hic liber, &amp; in numero Scripturarum computatur, 
+      ta<lb ed="#C" n="16" break="no"/>men inter Canonicas &amp; sacrosanctas Scripturas non recipitur: quod  
+      <lb ed="#C" n="17"/>Hieronymus diserte affirmat: minime vero affirmasset, si librum hunc 
+      <lb ed="#C" n="18"/>pro Canonico habendum esse Synodus illa Nicena sanxisset. Et in hac 
+      <lb ed="#C" n="19"/>ipsa Praefat. Hieronymus librum non esse Canonicum, duobus 
+      argu<lb ed="#C" n="20" break="no"/>mentis indicat. Primo, quia apud Hebraeos est Apocryphus, &amp; ad illa, 
+      <lb ed="#C" n="21"/>quae in contentionem veniunt, roboranda parum idoneus. Secundo, 
+      <lb ed="#C" n="22"/>quia in Chaldaeo sermone scriptus liber fuit, ejusque exemplaria valde 
+      <lb ed="#C" n="23"/>corrupta ac vitiosa erant. Unde Hieronymus sensume sensu, non ex 
+      ver<lb ed="#C" n="24" break="no"/>bo verbum transtulit, &amp; quae in Chaldaeo integra invenit, ea Latinis 
+      ver<lb ed="#C" n="25" break="no"/>bis reddidit: Et jam illa quoque Chaldaica exemplaria perierunt: 
+      Graeca<lb ed="#C" n="26" break="no"/>vero multum ab Hieronymi versione differunt. Deinde, hanc omnem. 
+      <lb ed="#C" n="27"/>Iudithae historiam Iosephus non attingit in suis de Antiquitate 
+      Iu<lb ed="#C" n="28" break="no"/>daica commentariis: quod eam Iosepho Canonicam minime visam 
+      <lb ed="#C" n="29"/>esse, satis arguit. Sed nunc huius libri authoritatem ex ipso libro aestime¬- 
+      <lb ed="#C" n="30"/>mus, &amp; quorum temporum ea historia fuerit, paulisper examinemus. 
+      <lb ed="#C" n="31"/>Sunt enim variae hac de re opiniones authorum, quas singulatim non est. 
+      <lb ed="#C" n="32"/>necesse commemorare. Ergo quid ij statuant, qui hodie in Papistarum. 
+      <lb ed="#C" n="33"/>scholis dominantur, audiamus. Sixtus Senesis in L. 8haeres. 11. hunc, 
+      qui<lb ed="#C" n="34" break="no"/>in libro Iudith Nabuchodonosor cognominatur, Assuerum fuisse, 
+      fili<lb ed="#C" n="35" break="no"/>lum Darij Histaspis, eumque interfecto Cyro regnasse Babylone scribit. 
+      <lb ed="#C" n="36"/>Sed Nabuchodonosor nemo dictus est Persarum imperator: &amp; Persae 
+      <lb ed="#C" n="37"/>reges non Ninivae, sed Babylone sedem imperij collocabant. Qui vero 
+      <lb ed="#C" n="38"/>Holofernem cum exercitu misit ad debellandum orbem terrarum, Na¬ 
+      <!--68.xml-->
+      <pb ed="#L" n="59"/>
+               <lb ed="#C" n="1"/>buchodonosor in primo capite hujus libri vocatur, &amp; Ninivae regnasse 
+      <lb ed="#C" n="2"/>dicitur, nec multa alia congruunt. Quare Bellarminus hanc historiam 
+      <lb ed="#C" n="3"/>refert ad tempora Manassis, quem Nabuchodonosor cepit, &amp; 
+      Babylo<lb ed="#C" n="4" break="no"/>nem adduxit, &amp; tandem liberavit. Haec ergo paulo post Manassis 
+      redi<lb ed="#C" n="5" break="no"/>tum contigisse putat, sequutus <ref xml:id="wWpoi1-de5469-Rd1e237">
+                  <name xml:id="wWpoi1-de5469-Nd1e239">Melchiorem Canum</name>, Lib. 11. c. 6.</ref> quod  
+      <lb ed="#C" n="6"/>quanquam pugnat cum superiorum omnium opinione, vt Eusebij in 
+      <lb ed="#C" n="7"/>Chronico, Augustini, Philonis, Bedae, Lyrani, Driedonis, &amp; aliorum, 
+      <lb ed="#C" n="8"/>tamen videtur multo probabilius esse, quam quod alij opinantur: quia 
+      <lb ed="#C" n="9"/>post Captivitatem Babylonicam certum est ne fuisse quidem aliquem  
+      <lb ed="#C" n="10"/>omnino Nabuchodonosorum. Sed hoc nunc excutiamus, &amp; ne 
+      Manas<lb ed="#C" n="11" break="no"/>sis quidem tempore geri ista potuisse, demonstremus. Primo, in 
+      princi<lb ed="#C" n="12" break="no"/>pio 5. cap. Holofernes, quando sensit populum Iudaeorum bellum 
+      me<lb ed="#C" n="13" break="no"/>ditari ac parare, duces omnes convocat, ab eisque quaerit, quis ille 
+      po<lb ed="#C" n="14" break="no"/>pulus esset, &amp; quem ducem haberet. Verum, si Manasses paulo ante 
+      ea<lb ed="#C" n="15" break="no"/>ptus a rege Chaldaeorum, &amp; Babylonem deportatus fuisset, nec 
+      popu<lb ed="#C" n="16" break="no"/>lum illum, nec regem Iudaeorum, Holofernes aut Chaldaei ignorare 
+      po<lb ed="#C" n="17" break="no"/>tuissent, vt illi ab Achiore Ammonita haec quaerere ac discere 
+      necesse<lb ed="#C" n="18" break="no"/>esset. Sic enim quaerunt de populo, de regione, de vrbibus, de hominum 
+      <lb ed="#C" n="19"/>potentia, de genere militiae, de duce ac rege, quasi qui nihil vnquam 
+      de<lb ed="#C" n="20" break="no"/>Iudaeorum gente audivissent. At Chaldei jam prius huic populobellum: 
+      <lb ed="#C" n="21"/>intulerant, Iudaeam vastaverant, Hierosolymas ceperant, regem 
+      Manas<lb ed="#C" n="22" break="no"/>sem secum in Babyloniam abduxerant. Ergo haec, quae nunc quaeruntur,  
+      <lb ed="#C" n="23"/>illis ignota esse nequaquam potuissent. Secundo, quando Holofernes 
+      in<lb ed="#C" n="24" break="no"/>Iudaeam venit, Templum eversum fuerat. Sunt enim haec verba Achioris 
+      <lb ed="#C" n="25"/>in libro Graeco, O vανς το θεκ αυτιί ἐγνήθε εἰς ἔδαφος, κι α τέλεις αυτὸν εκρατη¬ 
+      <lb ed="#C" n="26"/>θuσον: Templum Iudaeorum Hierosolymitanum eversum fuit, &amp; solo aquatum, 
+      <lb ed="#C" n="27"/>&amp; civitates eorum occupatae. Sed in illa Manassis captivitate, nulla fuit  
+      <lb ed="#C" n="28"/>Templi eversio, nec Templum solo aequatum fuit ante regnum Sedechiae, 
+      <lb ed="#C" n="29"/>in quoi lla magna captivitas contigit, quod omnes profecto intelligant.  
+      <lb ed="#C" n="30"/>Tertio, si Manassis ista temporibus, &amp; post Manassis reditum 
+      contigis<lb ed="#C" n="31" break="no"/>sent, le gatos regis Babylonij populus Iudaeorum non tam 
+      contumeli<lb ed="#C" n="32" break="no"/>ose tractasset, ignominioseque dimisisset, quam primo capite narratur.  
+      <lb ed="#C" n="33"/>Nam Babyloniorum Iudaei &amp; potentiam experti jam fuerant, &amp; 
+      cle<lb ed="#C" n="34" break="no"/>mentiam. Quarto, in historia Regum, in qua res gestae Manassis 
+      scri<lb ed="#C" n="35" break="no"/>buntur, ihil ejusmodi de Holoferne legimus: quod cum ita egregium 
+      <lb ed="#C" n="36"/>fuerit, mitum est a Spiritu sancto praetermissum in illa historia 
+      esse<lb ed="#C" n="37" break="no"/>Quinto, in cap. vlt. legimus Iuditham vixisse supra annos 105. &amp; post 
+      <lb ed="#C" n="38"/>hanc victoriam nullum hostem viva Iuditha perturbasse Israelem. 
+      <!--69.xml-->
+      <pb ed="#L" n="60"/>
+               <lb ed="#C" n="1"/>Multos igitur annos pax haec duravit. Iam vero quando Holofernes. 
+      <lb ed="#C" n="2"/>in Iudaea fuit, Iudith non excesserat florem aetatis. Nam &amp; 
+      pulchra<lb ed="#C" n="3" break="no"/>admodum fuit, &amp; Holoferni placuit, &amp; puella vocatur, cap. 12. Ita post 
+      <lb ed="#C" n="4"/>hanc victoriam annos circiter 10o. pacem fuisse oportuit. Nam &amp; dum 
+      <lb ed="#C" n="5"/>viveret, &amp; post mortem pax multis annis durasse dicitur. At Manassi 
+      A<lb ed="#C" n="6" break="no"/>mon successit, isque annos duos regnavit: Amoni Iosias, &amp; is vnum 
+      ac<lb ed="#C" n="7" break="no"/>triginta annos regnum tenuit: Iosia sublato mox turbarum moles 
+      ma<lb ed="#C" n="8" break="no"/>xima irtuit, quae sedari non ante potuit, quam populus tandem eversis 
+      <lb ed="#C" n="9"/>omnibus in captivitatem abiit. Quomodo illam tam diutura am pacem: 
+      <lb ed="#C" n="10"/>his temporibus tribuemus? Sexto, scire velim an aliquis fuerit 
+      Nabu<lb ed="#C" n="11" break="no"/>chodonosor tempore Manassis, quod minime puto. Nam prior 
+      Nabu<lb ed="#C" n="12" break="no"/>chodonosor, cuius filius fuit ille secundus magnusque Nabuchodonosor,  
+      <lb ed="#C" n="13"/>regnare coepit cum losia, qui Manasseposterior fuit annis 33. Ante hunc 
+      <lb ed="#C" n="14"/>nullus aut Ninivae aut Babylone Nabuchodonosor regnavit, si historijs 
+      <lb ed="#C" n="15"/>credimus. Nam quod omnes Babyloniorum reges dictos esse 
+      Nabu<lb ed="#C" n="16" break="no"/>chodonosoros affirmant, id quidem post illum Magnum 
+      Nabuchodo<lb ed="#C" n="17" break="no"/>nosorum concedo esse verum: cuius magnitudo fecit, vt nomen hoc 
+      re<lb ed="#C" n="18" break="no"/>gibus Babyloniis haereditarium esset. Sed antea vocatos esse omnes 
+      Na<lb ed="#C" n="19" break="no"/>buchodonosoros non constat. Satis iam perspicue ostendimus hanc 
+      <lb ed="#C" n="20"/>historiam Manassis temporibus parum convenire. Et argumentum quo 
+      <lb ed="#C" n="21"/>adductus Bellarmiaus fuit, vt eam huic tempori ascriberet, plane 
+      infir<lb ed="#C" n="22" break="no"/>mum est. Fuit enim(inquit) hoc tempore summus sacerdos Eliachim, 
+      <lb ed="#C" n="23"/>vt cap. 15. Iudith dicitur: &amp; tempore Ezechiae fuit quidam Eliachim 
+      sa<lb ed="#C" n="24" break="no"/>cerdos, filius Hilchiae. Sed Bellarminus non attendit illum Eliachimum, 
+      <lb ed="#C" n="25"/>de quo in Ezechiae historia legimus, non sacerdotem fuisse, sed 
+      praefe<lb ed="#C" n="26" break="no"/>ctum aliquem, de tribu Iudah, &amp; familia Davidis, vt Esa. 22. &amp; 2. Reg. 
+      <lb ed="#C" n="27"/>18. Successit enim Shobnae, qui fuit aut Scriba regius, vt aliqui vertunt,  
+      <lb ed="#C" n="28"/>aut Cancellarius, vt alij, aut Praefectus praetorio, vt alij: Sacerdos nec 
+      fu<lb ed="#C" n="29" break="no"/>it, nec omnino esse potuit, Iosephus Lib. vit. de Antiquit. Iudaeorum, 
+      re<lb ed="#C" n="30" break="no"/>censens omnes Iudaeorum pontifices ab Aarone ad postremum, nullum 
+      <lb ed="#C" n="31"/>aut Eliachimum, aut loachimum citca haec tempora nominat. 
+      Vi<lb ed="#C" n="32" break="no"/>detis quale fundamentum fuerit opinionis Bellarminianae de 
+      histo<lb ed="#C" n="33" break="no"/>tia Iudith. 
+      </p>
+            <p xml:id="wWpoi1-de5469-d1e391">
+               <lb ed="#C" n="34"/>Genebrardus autem in Chronologia sua, Lib. 2. anno mundi 3560. 
+      <lb ed="#C" n="35"/>huius historiae tempus aliter, sed multo imprudentius, assignavit. Ait 
+      e<lb ed="#C" n="36" break="no"/>nim hunc eundem fuisse Nabuchodonosorum, qui Sedechiam 
+      debella<lb ed="#C" n="37" break="no"/>vit. Hierosolymas expugnavit, populum deportavit: anno regni sui 13. 
+      <lb ed="#C" n="38"/>Holofernem misisse in ludaeam: anno 19. reliquias Iudaeorum in Baby¬ 
+      <!--70.xml-->
+      <pb ed="#L" n="61"/>
+               <lb ed="#C" n="1"/>loniam transtulisse. Sed haec temporibus non recte divisa erant 
+      Gene<lb ed="#C" n="2" break="no"/>brardo. Nam quomodo verum esse potest, quod Iudith tam diu post 
+      il<lb ed="#C" n="3" break="no"/>lam cladem vixisse, ejusque omni aetate, &amp; diu deinceps pax fuisse dicitur?  
+      <lb ed="#C" n="4"/>aut quomodo populum regemque Iudaeorum Chaldaei non optime 
+      nos<lb ed="#C" n="5" break="no"/>sent, cum Nabuchodonosor ipsum Sedechiam paulo prius regem 
+      Iu<lb ed="#C" n="6" break="no"/>daeorum fecisset? Ita nullum omnino tempus inveniri potest his 
+      re<lb ed="#C" n="7" break="no"/>bus gerendis accommodatum. Nam harum trium opinionum 
+      nul<lb ed="#C" n="8" break="no"/>lam esse veram, manifestum est: nec possunt aliam adversarij 
+      excogi<lb ed="#C" n="9" break="no"/>tare veriorem. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

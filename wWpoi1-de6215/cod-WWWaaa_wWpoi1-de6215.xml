@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 14</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 14</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="65"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de6215"><!-- con1q1c14 -->
+            <head xml:id="wWpoi1-de6215-Hd1e106">Caput 14</head>
+            <p xml:id="wWpoi1-de6215-d1e109">
+               <lb ed="#C" n="30"/>CAPUII 
+      <lb ed="#C" n="31"/>RI Xχριρο
+    </p>
+            <p xml:id="wWpoi1-de6215-d1e116">
+               <lb ed="#C" n="32"/>AD stabiliendam horum librorum authoritatem, Adversarij duo 
+      <lb ed="#C" n="33"/>Rargumenta afferunt praeter illa communia, de quibus satis jam 
+      <lb ed="#C" n="34"/>multa diximus atque respondimus. Primum, hos libros a Clemente 
+      po<lb ed="#C" n="35" break="no"/>sitos esse in Canone sacrarum Scripturarum, vt manifestum est in Can. 
+      <lb ed="#C" n="36"/>Apostolorum vit. Secundum, est Augustini testimonium, Lib. 18. ca. 36. 
+      <!--75.xml-->
+      <pb ed="#L" n="66"/>
+               <lb ed="#C" n="1"/>de Civit. Dei. quod ejusmodi est, Hos libros non Iudei, sed Ecclesia pro 
+      <lb ed="#C" n="2"/>Canonicis habet. Et Lib. 2. cap. 23. contra Gaudentij Epistolas 
+      simile<lb ed="#C" n="3" break="no"/>testimonium reperitur. Ergo hos libros vere ac proprie Canonicos esse: 
+      <lb ed="#C" n="4"/>concludunt. Ad vtrunque argumentum paucis respondeo. Ad prius, 
+      <lb ed="#C" n="5"/>Primo, quid de illo Canonum Apostolicorum libro statuendum sit, 
+      o<lb ed="#C" n="6" break="no"/>stendimus, eique Apostolorum &amp; nomen &amp; authoritatem detraximus; 
+      <lb ed="#C" n="7"/>Secundo, Miror Bellarminum hoc testimonio vti voluisse, cum illud 
+      e<lb ed="#C" n="8" break="no"/>jusmodi esse satis ipse intelligat. vt contra illam causam, quam tuetur,  
+      <lb ed="#C" n="9"/>plus omnino valeat, quam pro hisce libris faciat. Nam praeter 
+      Macca<lb ed="#C" n="10" break="no"/>baeorum libros iste Apostolicus Canon nullos recenset inter 
+      Canoni<lb ed="#C" n="11" break="no"/>cos veteris Testamenti exiis omnibus, quos Ecclesiae nostrae pro 
+      Apo<lb ed="#C" n="12" break="no"/>cryphis habent. Quare si Canon hic Apostolicus hos fecit Canonicos, 
+      <lb ed="#C" n="13"/>certe reliquos in Apocryphis &amp; adulterinis reliquit. Viderint Papistae 
+      <lb ed="#C" n="14"/>si hos velint ea conditione in Canonem recipi, vt excludantur 
+      caeteri<lb ed="#C" n="15" break="no"/>Praeterea, in hoc Canone Apostolico tres Maccabaeorum libri 
+      recen<lb ed="#C" n="16" break="no"/>sentur, quando tamen non nisi duos Papistae Canonicos agnoscunt. 
+      Si<lb ed="#C" n="17" break="no"/>duos esse Canonicos istorum Canonum authoritate freti contenderint, 
+      <lb ed="#C" n="18"/>quid tum de illo tertio statuerint? Igitur horum Canonum 
+      argumen<lb ed="#C" n="19" break="no"/>tum missum faciant oportet, illudque Bellarminus in editione 
+      Sartoria<lb ed="#C" n="20" break="no"/>na prudenter sane praetermisit.  
+      </p>
+            <p xml:id="wWpoi1-de6215-d1e177">
+               <lb ed="#C" n="21"/>Iam ad Augustini testimonia accedo, &amp; primum de priore, quod 
+      ha<lb ed="#C" n="22" break="no"/>betur Lib. 18. cap. 36. De Civit. Dei. Quemadmodum enim 
+      Augusti<lb ed="#C" n="23" break="no"/>nus hos libros &amp; reliques appellet Canonicos, communi quadam 
+      vsur<lb ed="#C" n="24" break="no"/>patione hujus nominis, expositum est. Iudaei hos libros pro Canenicis. 
+      <lb ed="#C" n="25"/>non habebant. Nam apud Iudaeos erant in nullo plane numero. Dici 
+      <lb ed="#C" n="26"/>autem Ecclesia Christianorum potest hos pro Canonicis habere, 
+      <lb ed="#C" n="27"/>quia m, Ecclesia leguntur, &amp; in aliquo precio habentur, 
+      quan<lb ed="#C" n="28" break="no"/>quam non omnino in parem cum reliquis authoritatem fidemque. 
+      <lb ed="#C" n="29"/>sumantur. Quod ex ipso etiam Augustino ita esse disci potest. Sic enim 
+      <lb ed="#C" n="30"/>in eodem loco scribit: Quorum supputatio temporum non in Scripturis 
+      san<lb ed="#C" n="31" break="no"/>ctis, quae Canonicae appellantur, sed in alis inveniuntur, in quibus sunt &amp; 
+      <lb ed="#C" n="32"/>HIiccabaeorum libri. Tum illa sequuntur, quae in argumento posita sunt,  
+      <lb ed="#C" n="33"/>In his Augustini verbis duo notanda occurrunt. Primum, hos libros non 
+      <lb ed="#C" n="34"/>esse revera sanctos &amp; Canonicos. Alterum, tamen in Ecclesia pro 
+      Cano<lb ed="#C" n="35" break="no"/>nicis haberi, id est, legi publice, proponi, magni in Ecclesia neri. 
+      Ratio<lb ed="#C" n="36" break="no"/>nem subjungit Augustinus, quando ait, Propter quorundim Cazartyrum 
+      <lb ed="#C" n="37"/>passiones vehementes atque mirabiles. Nonne his verbis satis ossendit, ca 
+      <lb ed="#C" n="38"/>potissimum causa inductos esse Christianos, vt his libris tantum 
+      tri<lb ed="#C" n="39" break="no"/>buerent, quod in eis quotundam Maityuu fortisseag Qusauus 
+      <!--76.xml-->
+      <pb ed="#L" n="67"/>
+               <lb ed="#C" n="1"/>sime pro religione occumbentium mentio fieret? Hinc Naziant 
+      e<lb ed="#C" n="2" break="no"/>nus illam septem filiorum matrem cum suis filiis pulcherrime 
+      lau<lb ed="#C" n="3" break="no"/>davit. Sed cujusmodi hoc est, propter hoc aut illud, librum 
+      pro<lb ed="#C" n="4" break="no"/>Canonico haberi? Nam qui vere liber Canonicus est, is absolute &amp; 
+      om<lb ed="#C" n="5" break="no"/>nino totus, non propter hanc aut illam partem vel causam, recipiendus 
+      <lb ed="#C" n="6"/>est, Augustinus ait, Lib. I. cap. 20. De Civit Dei, Neque enim frustra in 
+      san<lb ed="#C" n="7" break="no"/>cis Canonicis libris nusquam nobis diuvinitus praeceptum permissumve 
+      re<lb ed="#C" n="8" break="no"/>peritur, vt nobismetipsis necem inferamus. In his libris si non praeceptum, 
+      <lb ed="#C" n="9"/>tamen permissum est, vt sibi mortem aliquis inferat. Nam Lib. 1. cap. 6. 
+      <lb ed="#C" n="10"/>Eleasarus, qui voluntatiam mortem adiit, laudatur, &amp; Lib. 2. cap. 24. 
+      <lb ed="#C" n="11"/>Raziae fortitudo praedicatur, qui sibi manus violentas intulit. 
+      Quan<lb ed="#C" n="12" break="no"/>quam Razias nullam meritus est fortitudinis laudem. Nam hoc fuit 
+      ti<lb ed="#C" n="13" break="no"/>mide potius, quam generose mori, voluntariam sibi mortem 
+      consisce<lb ed="#C" n="14" break="no"/>re, vt tyranni manus effugeret. Non enim ita de virtute Spiritus sanctus 
+      <lb ed="#C" n="15"/>iudicat, vt homines profani solent, qui Catonem laudibus in Coelum: 
+      <lb ed="#C" n="16"/>efferunt, quia sibi manus intulit, ne in potestatem manusque Caesaris 
+      <lb ed="#C" n="17"/>veniret. Timuit enim Caesarem, aut illius aspectum ferre noluit, aut 
+      fa<lb ed="#C" n="18" break="no"/>mam ex immani facinore captavit. Ita vel desperatione, vel dolore, vel  
+      <lb ed="#C" n="19"/>aliqua animi perturbatione oppressus atque extinctus est, quod a vera 
+      <lb ed="#C" n="20"/>fortitudine alienum est. Recte igitur Augustinus hos libros negat esse 
+      <lb ed="#C" n="21"/>Canonicos, in quibus tale facinus cum authorum nonnulla 
+      com<lb ed="#C" n="22" break="no"/>mendatione perscribitur: 
+      <lb ed="#C" n="23"/>. Secundum, Augustini testimonium est, Lib. 2. cap. 23. vbi etiam 
+      <lb ed="#C" n="24"/>plus Augustinus Adversarijs nostris adversatur, quam favet. Postulat 
+      e<lb ed="#C" n="25" break="no"/>nim vt liber sobrie legatur &amp; audiatur. Sic cine? Quid hoc quaeso est? 
+      <lb ed="#C" n="26"/>Non inutiliter, si sobrie. Verendum est ne non inutiliter Scripturam 
+      legi<lb ed="#C" n="27" break="no"/>posse censeamus? Et quae haec sobrietas, quam in horum librorum 
+      le<lb ed="#C" n="28" break="no"/>ctione flagitat? Sobrie quidem legenda omnia sut; quis negat? &amp; 
+      sem<lb ed="#C" n="29" break="no"/>per fugienda temeritas est. Sed si illam sobrietatem Augustinus 
+      intel<lb ed="#C" n="30" break="no"/>lexisset, quae vbique in omnibus scripturis requititur, noeam hunc 
+      li<lb ed="#C" n="31" break="no"/>brum legentibus cautionem peculiariter praescripsisset: Sensus ergo ille, 
+      <lb ed="#C" n="32"/>est, esse quaedam in hoc libro, quae si ad rectam fiderregulam 
+      revocen<lb ed="#C" n="33" break="no"/>tur, defendi nequeunt, ac proinde imitanda non sunt: librum: ergo 
+      so<lb ed="#C" n="34" break="no"/>ibrielegendum esse. Huc quoque ac cedit, quod Augustinus in eodem 
+      lo<lb ed="#C" n="35" break="no"/>co scribit, Christum non perhibere testimonium his libris vt testibus. 
+      <lb ed="#C" n="36"/>suis. Quod satis arguit Augustinum non de his libris, vt vere Canonicis, 
+      <lb ed="#C" n="37"/>sensisse. His expositis, nostra nunc argumenta adversus horum librorum. 
+      <lb ed="#C" n="38"/>authoritatem proferamus. 
+      <!--77.xml-->
+      <pb ed="#L" n="68"/>
+               <lb ed="#C" n="1"/>Primum, Hieronymus in Catal. virorum illustrium, &amp; lib. 2. contra 
+      <lb ed="#C" n="2"/>Pelag. Iosephum horum librorum authorem fuisse ait. Iosephus 
+      au<lb ed="#C" n="3" break="no"/>tem nec Propheta fuit, &amp; post Christum ac terminos veteris 
+      Testamenti<lb ed="#C" n="4" break="no"/>vixit: quare librum nullum scribere potuit, qui ad veteris 
+      Testamenti<lb ed="#C" n="5" break="no"/>Canonem pertineret. Alij vero etsi losephum non authorem fuisse 
+      exi<lb ed="#C" n="6" break="no"/>stimant horum librorum, at illis tamen a losepho apposita fuisse 
+      tem<lb ed="#C" n="7" break="no"/>pora concedunt: atque ita libros factos esse Apocryphos, quia tempora 
+      <lb ed="#C" n="8"/>in his libris non congruunt. Sic Annius Papista tradidit in secundum 
+      li<lb ed="#C" n="9" break="no"/>brum Chronolog. Philonis. Secundum, hi libri nominatim Apocryphi, 
+      <lb ed="#C" n="10"/>a Gregorio Magno, qui pontifex Romanus fuit, vocantur L. 19. C.16. 
+      <lb ed="#C" n="11"/>Mor. Sic enim ait. De qua re non inordinate agimus, si ex libris non Canonicis, 
+      <lb ed="#C" n="12"/>sed tamen ad aedificationem Ecclesiae editis, testimonium proferamus. Tum 
+      ad<lb ed="#C" n="13" break="no"/>ducit aliquid ex Maccabaeis. Ergo ante Gregorium, id est, intra sexcentos 
+      <lb ed="#C" n="14"/>post Christum annos Ecclesia libros Maccabaeorum pro Canonicis 
+      <lb ed="#C" n="15"/>non habuit. Hinc quid de Innocentio Papa &amp; Augustino iudicandum 
+      <lb ed="#C" n="16"/>sit, manifestum est. Illi vocant Canonicos, hic negat esse Canonicos. 
+      <lb ed="#C" n="17"/>Aliter ergo procul dubio vocabulum hoc illi, aliter iste vsurpavit. Idem 
+      <lb ed="#C" n="18"/>quoque Eusebij fuit de libris istis iudicium, in Lib de Temporibus &amp; 
+      Ri<lb ed="#C" n="19" break="no"/>chardi Victorini, Lib. 2. Exceptionum, cap. 9. &amp; Occami, 3. Part. Dial. 
+      <lb ed="#C" n="20"/>Tract. 1. Lib. 3. cap. 16. 
+      </p>
+            <p xml:id="wWpoi1-de6215-d1e355">
+               <lb ed="#C" n="21"/>Tertium, Lib. 2. cap. 12. Iudas Maccabaeus laudatur, quod 
+      sacrifici<lb ed="#C" n="22" break="no"/>lum pro mortuis obtulerit. At hoc nomine laudandus non fuit, quia deus 
+      <lb ed="#C" n="23"/>nullumhuiusmodi sacrificium fieri praeceperat. Quicquid autem 
+      inre<lb ed="#C" n="24" break="no"/>ligione sine divino praecepto geritur, Deo displicet, &amp; reprehensionem, 
+      <lb ed="#C" n="25"/>non laudem meretur. Et ἐνθελοθρήσκείαι semper omnes in scripturis 
+      dam<lb ed="#C" n="26" break="no"/>natae fuerunt. Sed de hac omni re &amp; argumento post dicendum erit. 
+      </p>
+            <p xml:id="wWpoi1-de6215-d1e372">
+               <lb ed="#C" n="27"/>Quartum, pro iis hominibus oblatum illud sacrificium fuit, qui sese 
+      <lb ed="#C" n="28"/>idololatria &amp; sacrilegio obstrinxerant ac polluerant, atque in illo 
+      sce<lb ed="#C" n="29" break="no"/>lere perierant, ut legimus, cap. 12. Nam milites Iudae, res idolis 
+      Iam<lb ed="#C" n="30" break="no"/>mensibus consecratas surripuerant, eaque αναθεμαlα sub vestibus 
+      ab<lb ed="#C" n="31" break="no"/>sconderant: quae sunt illis interfectis inventa submilitum vestimentis. 
+      <lb ed="#C" n="32"/>Iste vero author ait manifestum esse, illos propter hoc peccatum 
+      ceci<lb ed="#C" n="33" break="no"/>disse. Iam ipsi Papistae concedunt, pro huiusmodi idololatris &amp; 
+      sacrile<lb ed="#C" n="34" break="no"/>gis nullum offerendum esse sacrificium. Nam hoc mortale peccatum  
+      <lb ed="#C" n="35"/>fuit, &amp; ipsi tradunt pro ijs, quos in mortali peccato mortuos esse 
+      con<lb ed="#C" n="36" break="no"/>stiterit, quod de istis author affirmat, nullum fieri sacrificium oportere. 
+      <lb ed="#C" n="37"/>Nam quod Bellarminus ex Lyrano fingit Iudam pie existimasse eos 
+      in<lb ed="#C" n="38" break="no"/>ipso articulo mortis dolorem de peccato suo concepisse, etsi totum il¬ 
+      <!--78.xml-->
+      <pb ed="#L" n="69"/>
+               <lb ed="#C" n="1"/>lud in obscura suspicione positum est, tamen quantumvis probabile? 
+      <lb ed="#C" n="2"/>fuisset, illos de peccato morientes doluisse, tamen publicum fieri 
+      pro<lb ed="#C" n="3" break="no"/>huiusmodi hominibus sacrificium non oportuit, qui se Idololatria 
+      <lb ed="#C" n="4"/>polluerant, nisi de illorum vera poenitentia certo constitisset.  
+      </p>
+            <p xml:id="wWpoi1-de6215-d1e414">
+               <lb ed="#C" n="5"/>Quintum, Spiritus sanctus nunquam solitus est in Epitomen 
+      redige<lb ed="#C" n="6" break="no"/>re profani authoris historiam: at secundus liber Maccabaeorum, vt 
+      in<lb ed="#C" n="7" break="no"/>cap. 2. legimus, contrahit quinque volumina lasonis Cyrenaei: &amp; quae 
+      li<lb ed="#C" n="8" break="no"/>bris quinque Iason ille persequutus fuerat, ea vno libello complectitur.  
+      <lb ed="#C" n="9"/>Quis autem ille Iason fuerit, incertum est: Propheta non fuit: id enim 
+      <lb ed="#C" n="10"/>nemo dixit, aut dixerit. Quare ista huius Iasonicae historiae ovvodis hoc  
+      <lb ed="#C" n="11"/>modo contexta in Scripturis Canonicis censeri non potest. 
+      </p>
+            <p xml:id="wWpoi1-de6215-d1e432">
+               <lb ed="#C" n="12"/>Sextum, Lib. 2. Maccab. Cap. 2. multa narrantur de sacro igne, &amp; 
+      ar<lb ed="#C" n="13" break="no"/>ca, &amp; tabernaculo, &amp; altati, eaque in monte quodam abscondita ac 
+      po<lb ed="#C" n="14" break="no"/>sita a leremia fuisse dicuntur. Verum apud leremiam ipsum nihil 
+      eius<lb ed="#C" n="15" break="no"/>modi iuvenias. Et author ait, Deum promisisse se ista demonstraturum. 
+      <lb ed="#C" n="16"/>quando populum congregaverit. At post captivitatem Babylonicam 
+      <lb ed="#C" n="17"/>Iudaei illam arcam, illud tabernaculum, illud altare nec habuerunt, nec 
+      <lb ed="#C" n="18"/>invenerunt, nec istas res Deus postea cuiquam demonstravit. 
+      Objici<lb ed="#C" n="19" break="no"/>unt Papiste, hoc intelligi non de reditu sub Cyro, quando illae Iudaeorum 
+      <lb ed="#C" n="20"/>reliquiae Hierosolymis congregatae sunt, sed de Christi adventu, in quo 
+      <lb ed="#C" n="21"/>totus populus congregabitur, vel de Iudaeorum conversione ad 
+      Chri<lb ed="#C" n="22" break="no"/>stum paulo ante finem mundi. Sed haec vanissima conjectura est. Quae 
+      e<lb ed="#C" n="23" break="no"/>nim causa est, cur haec illo tempore Iudeis demonstrentur? Aut quis non 
+      <lb ed="#C" n="24"/>ridiculum commentum rideat? Sed si historiam sacram consulimus, hoc  
+      <lb ed="#C" n="25"/>falsum esse, quod de Ieremia narratur, reperiemus. Fuit enim Ieremias 
+      <lb ed="#C" n="26"/>in carcere vsque ad vrbis excidium, vt Ierem. cap. 37. &amp; 38. Itaque haec 
+      au<lb ed="#C" n="27" break="no"/>ferre &amp; abscondere non potuit stante Civitate ac Templo, nec id 
+      princi<lb ed="#C" n="28" break="no"/>pes &amp; sacerdotes permisissent. Capta autem Civitate, Chaldaei 
+      Tem<lb ed="#C" n="29" break="no"/>plum incendunt, preciosa omnia sive autea, sive argentea, sive aerea 
+      di<lb ed="#C" n="30" break="no"/>ripiunt, secumque auferunt, vt 2. Reg. 25. &amp; Ierem. vlt. legimus. Non 
+      <lb ed="#C" n="31"/>ergo Ieremiae facta copia est auferendi arcam Domini, &amp; altare incensi, 
+      <lb ed="#C" n="32"/>quae erant auto purissimo operta tota extra &amp; intus, vt Exod. 25. 11. 
+      <lb ed="#C" n="33"/>Tum etiam, vbi sunt illae descriptiones Ieremiae, quarum mentio fit in 
+      <lb ed="#C" n="34"/>principio huius capitis 
+      </p>
+            <p xml:id="wWpoi1-de6215-d1e484">
+               <lb ed="#C" n="35"/>Septimum, multa sunt in his libris ἀσυμρωνα, &amp; pugnantia, cuiusmodi 
+      <lb ed="#C" n="36"/>haec sunt, quae proponam: Primum, de morte Antiochi Epiphanis, qui  
+      <lb ed="#C" n="37"/>fuit hostis Iudaeorum infestissimus, libri non conveniunt. Nam lib. 1. 
+      <lb ed="#C" n="38"/>cap. 6. v. 8. &amp;16. Antiochus iste extinctus esse dicitur animi tristitia, 
+      <!--79.xml-->
+      <pb ed="#L" n="70"/>
+               <lb ed="#C" n="1"/>quam ex malo nuntio conceperat, idque babylone in lecto: quando 
+      e<lb ed="#C" n="2" break="no"/>tiam filium tradidit Philippo, quem regno praefecit. At lib. 2. cap. 1. v. 
+      <lb ed="#C" n="3"/>16. in fano Nanaeae obtruncatur, &amp; membratim conciditur. Ita nunc bis 
+      <lb ed="#C" n="4"/>mortuum esse Antiochum audivimus, quia ratio duplex est moriendi. 
+      <lb ed="#C" n="5"/>Verum tertiam etiam eiusdem Antiochi mortem iste author, lib. 2. cap. 
+      <lb ed="#C" n="6"/>9. commemorat: vbi interno dolore viscerum, ex quibus vermes 
+      efflue<lb ed="#C" n="7" break="no"/>rent, &amp; faetor horribilis in totum pene exercitum redundaret, mortuum 
+      <lb ed="#C" n="8"/>illum esse scribit peregre in montibus, cum in ludaeam contenderet. 
+      V<lb ed="#C" n="9" break="no"/>nus homo non potuit tam multas variasque mortes occumbere. 
+      Objici<lb ed="#C" n="10" break="no"/>unt nonnulla Papistae. <ref xml:id="wWpoi1-de6215-Rd1e520">
+                  <name xml:id="wWpoi1-de6215-Nd1e522">Canus</name> ait, lib. 2. cap. 11. ad 4</ref>. non esse eundem. 
+      <lb ed="#C" n="11"/>Antiochum. Sed illum historia ipsa facile refellit: &amp; eundem esse, non 
+      <lb ed="#C" n="12"/>alium, Bellarminus fateri coactus fuit: atque ista omnia sic conciliat: 
+      <lb ed="#C" n="13"/>Antiochus amisit exercitum in templo Nanaeae, in itinere cecidit de 
+      <lb ed="#C" n="14"/>curru, post delatus Babylonem expiravit. Fatentur ergo mortuum esse 
+      <lb ed="#C" n="15"/>Babylone Antiochum, quod in libro primo scribitur: &amp; quidem 
+      primo<lb ed="#C" n="16" break="no"/>libro plus tribuendum est fidei, quam secundo. Nunc legite quid in 
+      se<lb ed="#C" n="17" break="no"/>cundo in locis citatis de morte Antiochi referatur. Cap. 19. legimus 
+      <lb ed="#C" n="18"/>ducem ipsum a sacerdotibus lapidatum in templo, &amp; concisum, &amp; 
+      ca<lb ed="#C" n="19" break="no"/>put iis qui foris essent projectum fuisse. Dux aute Antiochus iste 
+      nomi<lb ed="#C" n="20" break="no"/>natur. Hoc igitur in templo periit Antiochus, nisi qui lapidatus, &amp; 
+      con<lb ed="#C" n="21" break="no"/>cisus, &amp; capite truncatus fuit, salvus esse potuit. Nunc pergamus ad cap. 
+      <lb ed="#C" n="22"/>9. lbi inveniemus hunc homicidam &amp; blasphemum, cum furore 
+      incita<lb ed="#C" n="23" break="no"/>tus iter e Petside Hierosolymas versus faceret, in locis montanis, &amp; 
+      per<lb ed="#C" n="24" break="no"/>egre vitam miserrimam cum morte lamentabili commutasse. Si 
+      mortu<lb ed="#C" n="25" break="no"/>us est Babylone, non peregre mortuus est, non in locis montanis, nec 
+      <lb ed="#C" n="26"/>ytrumque, quod narratur, verum esse potest. Secundum, Lib. 12 cap. 9. 3. 
+      <lb ed="#C" n="27"/>ludas dicitur occisus anno Is2regni Seleucidarum: at in 2. Lib. cap. 1. 
+      <lb ed="#C" n="28"/>10. anno 188. literas scribit ad Aristobulum magistrum Ptolomaei, 
+      ni<lb ed="#C" n="29" break="no"/>mirum annis 36. postquam est mortuus. Tertium, Lib. 1. cap. 4. 36. 
+      Iu<lb ed="#C" n="30" break="no"/>das templum purgasse dicitur ante mortem Antiochi post fugatum 
+      Ly<lb ed="#C" n="31" break="no"/>siam: at Lib. 2. cap. 10. in principio post mortem Antiochi facta 
+      haec<lb ed="#C" n="32" break="no"/>templi purgatio legitur. Nam eadem purgatio fuit, quod Adversarij.  
+      <lb ed="#C" n="33"/>concedunt. Quartum, Lib. 2. cap. 10. Antiochus Eupator Epiphanis 
+      <lb ed="#C" n="34"/>filius regno suscepto Lysiam rebus praefecisse legitur: at Lib. 1. c. 6. 
+      Ly<lb ed="#C" n="35" break="no"/>sias diu ante rebus praefuit, &amp; Antiochum regem instituit, cumque 
+      Eu<lb ed="#C" n="36" break="no"/>patorem vocavit.  
+      </p>
+            <p xml:id="wWpoi1-de6215-d1e584">
+               <lb ed="#C" n="37"/>Octavum, secundus liber humano se Spiritu scriptum esse indicat.  
+      <lb ed="#C" n="38"/>Nam primo, in fine libri veniam petit a lectoribus: quod a Spiritu sancto 
+      <!--80.xml-->
+      <pb ed="#L" n="71"/>
+               <lb ed="#C" n="1"/>longissime alienum est. Vera enim semper scribit, atque ita scribit, 
+      vt<lb ed="#C" n="2" break="no"/>scribendum fuit, nec vnquam vel in re, vel in modo errat, nec venia illa 
+      <lb ed="#C" n="3"/>nostra indiget. Objiciunt, Paulum simili excusatione vsum esse, cum 
+      <lb ed="#C" n="4"/>sermone imperitum se esse fatetur, 2. Cor. 11. 6 Respondeo, Paulus 
+      nun<lb ed="#C" n="5" break="no"/>quam se excusavit, quod tenuiter scripserit &amp; exiliter, aut minus 
+      prae<lb ed="#C" n="6" break="no"/>stiterit, quam voluerit. Sed hic author tenuitatem atque exilitatem 
+      seri<lb ed="#C" n="7" break="no"/>bendi suam agnoscit, ideoque aliter facere non potuit, quin suae 
+      infir<lb ed="#C" n="8" break="no"/>mitatis conscientia impulsus, lectorum humanitatem facilitatemque 
+      im<lb ed="#C" n="9" break="no"/>ploraret. Hoc nunquam Paulus, nunquam Propheta aliquis, aut 
+      Apo<lb ed="#C" n="10" break="no"/>stolus fecit. Nam quod ἰδιώστὸν λόγῳ se esse Paulus scribit, de sensu &amp; 
+      mo<lb ed="#C" n="11" break="no"/>re Pseudapostolorum loquitur, qui inani quadam eloquentiae 
+      osten<lb ed="#C" n="12" break="no"/>tatione elati, Apostolum contemnebant, vt rudem &amp; dicendi 
+      imperi<lb ed="#C" n="13" break="no"/>tum. Non ergo qualis esset, sed qualis esse a quibusdam Pseudapostolis: 
+      <lb ed="#C" n="14"/>diceretur, illis verbis exposuit. Nam Apostolo nulla verae, simplicis, 
+      san<lb ed="#C" n="15" break="no"/>ctae, divinae eloquentiae laus defuit, qualis tantum doctorem &amp; 
+      Aposto<lb ed="#C" n="16" break="no"/>lum decuit. Sed quia illum Pseudapostoli, λόγῳ ἰδιῶτὸν appellabant, 
+      ag<lb ed="#C" n="17" break="no"/>noscit quidem hoc modo, quo illi sentiebant, se ad illorum formam 
+      <lb ed="#C" n="18"/>atque exemplum ἰδιάτὸν esse. Haec enim illa eloquentia est, quam vocat,  
+      <lb ed="#C" n="19"/>σοριαν λογε, 1. Cor. 1. 17. &amp; διδυκιες ἀνθρωπίνν σοριας λόγες, 1. Cor. 2. 13. &amp; 
+      <lb ed="#C" n="20"/>οχιλόγν, 1. Cor. 2. 1. &amp; Petrus σσρισμινεσ μυθοις, 2. Pet. 1. 16. Sic 
+      A<lb ed="#C" n="21" break="no"/>postolum Oecumenius interpretatus est: λόόον λόγει, τῶ ἐγγεγυμναος το  
+      <lb ed="#C" n="22"/>ελλλνικς σονια: Sermonem vocat, in Graecorum sapientia exercitatum esse. 
+      <lb ed="#C" n="23"/>Similiter Aquinas in illum locum, Quia Apostolus proposuit fidem non in 
+      <lb ed="#C" n="24"/>subtilitate sermonis, sed plane &amp; aperte, ideo isti dicebant eum imperitum esse 
+      <lb ed="#C" n="25"/>sermone. Sic Lyranus: Hoc dicit ad repellendum dictum Pseudapostolorum, 
+      <lb ed="#C" n="26"/>qui contemnebant eius doctrinam, eo quod plana &amp; grossa dicebat: ideo dicit,  
+      <lb ed="#C" n="27"/>quod hoc non ex defectu scientiae, sed quod non expediebat Corinthiis pro tunc 
+      <lb ed="#C" n="28"/>subtilia praedicari. Eademque est Catharini Archiepiscopi Campsani de 
+      <lb ed="#C" n="29"/>hoc loco sententia: Non puto (inquit) Paulum se fateri esse imperitum 
+      ser<lb ed="#C" n="30" break="no"/>mone, cum esset praedicator eximius: sed ita illis videbatur, ad quorum 
+      opinio<lb ed="#C" n="31" break="no"/>nem loquitur: quia sermo eius habebat simplicitatem spiritualem, &amp; non 
+      secu<lb ed="#C" n="32" break="no"/>larem illam affectatam redolebat eloquentiam. Nam quod <ref xml:id="wWpoi1-de6215-Rd1e664">
+                  <name xml:id="wWpoi1-de6215-Nd1e666">Canus</name> ait, Lib. 2. 
+        <lb ed="#C" n="33"/>cap. 11. ad quartum</ref>, <quote xml:id="wWpoi1-de6215-Qd1e672" source="http://scta.info/resource/Z4Yt34-d1e225-d1e699@236-251">Nihil impedit vt Spiritus sanctus scriptori assistat, 
+      qui<lb ed="#C" n="34" break="no"/>in quibusdam tamen, humano more, ex modestia loquitur</quote>, est Spiritum 
+      san<lb ed="#C" n="35" break="no"/>ctum contumelia afficere. Modestiam nos Spiritus sanctus vbique docet, 
+      <lb ed="#C" n="36"/>sed interim sic semper loquitur &amp; scribit, vt nemo praeditus humano 
+      <lb ed="#C" n="37"/>spiritu melius posset. 
+      <!--81.xml-->
+      <pb ed="#L" n="72"/>
+               <lb ed="#C" n="1"/>Secundo, Ait laborem hujus Epitomes conficiendae sibi fuisse 
+      mole<lb ed="#C" n="2" break="no"/>stum, &amp; sudoris, difficultatisque plenum, lib. 2. cap. 2. Sed nihil est tam, 
+      <lb ed="#C" n="3"/>difficile, vt Spiritui sancto molestum esse possit. Nam Spiritus sanctus 
+      <lb ed="#C" n="4"/>Deus est, &amp; humana imbecillitate non laborat, &amp; infinitam sapientiam? 
+      <lb ed="#C" n="5"/>potentiamque habet. Objicit Bellarminus, Deum quidem semper 
+      ad<lb ed="#C" n="6" break="no"/>esse sacris Scriptoribus, sed tamen aliter Prophetis, aliter Historicis. 
+      <lb ed="#C" n="7"/>Prophetarum laborem omnem fuisse in dictando, aut scribendo: Deum; 
+      <lb ed="#C" n="8"/>illis, quicquid scriberent aut dictarent, inspirasse: quemadmodum 
+      Ba<lb ed="#C" n="9" break="no"/>ruch ex ore Ieremiae dictantis scripsisse legitur. Historicos autem 
+      mul<lb ed="#C" n="10" break="no"/>tum laboris suscepisse in indagandis rebus &amp; penitus cognoscendis, 
+      vt<lb ed="#C" n="11" break="no"/>Lucas se fecisse testatur, cap. 1. v. 3. Respandeo, &amp; fateor sacros 
+      Scripto<lb ed="#C" n="12" break="no"/>res, qui historias ediderunt, diligentiam &amp; industriam adhibuisse. Nam 
+      <lb ed="#C" n="13"/>Spiritus sanctus non facit ociosos, aut inertes, aut negligentes. Atque 
+      <lb ed="#C" n="14"/>ita Lucas omnia penitus assequutus est, &amp; accurate tenuit, verissimeque 
+      <lb ed="#C" n="15"/>scripsit. Sed hanc scriptionem Lucae molestam aut difficilem fuisse 
+      per<lb ed="#C" n="16" break="no"/>nego, quia Spiritui sancto nihil molestum est. Et Lucas, quando 
+      histo<lb ed="#C" n="17" break="no"/>riam scripsit, tam Spiritum sanctum habuit, quam Iohannes quando 
+      <lb ed="#C" n="18"/>Apocalypsin. Nescit Spiritus sanctus (ut Ambrosius ait) tarda molimina. 
+      <lb ed="#C" n="19"/>Deinde, quomodo potuit Maccabaeicae historiae scriptori tam molestum 
+      <lb ed="#C" n="20"/>esse, ex quinque voluminibus Cyrenaei lasonis brevem Epitomen 
+      con<lb ed="#C" n="21" break="no"/>texere? Ex authore enim sumere quod voluit, &amp; quod noluit, 
+      praeter<lb ed="#C" n="22" break="no"/>mittere, facillimum certe fuit. Humanus animus, humanus spiritus, 
+      hu<lb ed="#C" n="23" break="no"/>manum ingenium, humana confessio, humana historia, humana omnia 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

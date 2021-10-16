@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="88"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de8316"><!-- con1q2c5 -->
+            <head xml:id="wWpoi1-de8316-Hd1e106">Caput 5</head>
+            <p xml:id="wWpoi1-de8316-d1e109">
+               <lb ed="#C" n="16"/>CAPUII 
+      <lb ed="#C" n="17"/>QeUueCeCUU I 
+    </p>
+            <p xml:id="wWpoi1-de8316-d1e116">
+               <lb ed="#C" n="18"/>SEquitur nunc secundo loco, vt de Graeca novi Testamenti 
+      editi<lb ed="#C" n="19" break="no"/>Oone dicamus. Constat autem, novum Testamentum totum esse 
+      <lb ed="#C" n="20"/>scriptum Graece, si forte excipias Evangelium Matthei, &amp; Epistolam 
+      ad<lb ed="#C" n="21" break="no"/>Hebraeos. Sed Hosius Varmiensis, in libro de Sacro Vernat. 
+      Matthaei<lb ed="#C" n="22" break="no"/>solum Evangelium Hebraice scriptum esse dicit. Quod Hieronymus 
+      <lb ed="#C" n="23"/>affirmat in Praefatione in quatuor Evangelistas ad Damasum his verbis; 
+      <lb ed="#C" n="24"/>Novum Testamentum Graecum esse non dubium est, excepto eApostolo 
+      Mat<lb ed="#C" n="25" break="no"/>thaeo, qui primus in Iudaea Evangelium Christi Hebraicis literis edidit. 
+      Ta<lb ed="#C" n="26" break="no"/>men in Catalogo in Paulo, ait Epistolam ad Hebraeos esse scriptam 
+      He<lb ed="#C" n="27" break="no"/>braice. Sic enim habet, Scripserat autem vi Hebraeus Hebraeis Hebraice, 
+      <lb ed="#C" n="28"/>id est, suo eloquio disertissime: versam autem esse Graece Epistolam putant: 
+      <lb ed="#C" n="29"/>aut a Barnaba, vt Theodori Lector in secundo Lib. Collectaneorum; aut 
+      <lb ed="#C" n="30"/>a Luca, aut a Clemente. Verum. vtcunque ea res sese habeat Graeca 
+      edi<lb ed="#C" n="31" break="no"/>tio tum Evangelij secundum Matthaeum. tum Epistolae ad Hebraeos 
+      au<lb ed="#C" n="32" break="no"/>thentica est. Nam &amp; Hebraicae illae, si quae omnino erant, nusquam nunc 
+      <lb ed="#C" n="33"/>extant. &amp; Apostolis adhuc vivis hae Graecae prodierant atque in Ecclesia 
+      <lb ed="#C" n="34"/>peceptae, &amp; ab Apostolis comprobatae fuerant Hieronymus in Catal. 
+      in<lb ed="#C" n="35" break="no"/>Mat sic habet: Primus in Iud ea propter eos qui ex circumcisione crediderant, 
+      <lb ed="#C" n="36"/>cuangelium Christi Hebr aicis literis verbisque. comnosuit quod quis postea in¬ 
+      <!--98.xml-->
+      <pb ed="#L" n="89"/>
+               <lb ed="#C" n="1"/>Graecum transtulerit, non satis certum est: Aitque ipsum exemplar 
+      Hebrai<lb ed="#C" n="2" break="no"/>cum suo tempore servari in Caesariensi Bibliotheca, quam Pamphilus 
+      <lb ed="#C" n="3"/>Martyr extruxerat. Sic Nazianzenus in versibus de libris genuinis habet,  
+      </p>
+            <p xml:id="wWpoi1-de8316-d1e171">
+               <lb ed="#C" n="4"/>Ματθειος μο εγζασιν εδεοιις δαυματα Xρισο 
+      <lb ed="#C" n="5"/>Quod Matthaeum scripsisse ait Hebraeis Christi miracula, significat,  
+      <lb ed="#C" n="6"/>illum Hebraice scripsisse Evangelium. 
+      </p>
+            <p xml:id="wWpoi1-de8316-d1e180">
+               <lb ed="#C" n="7"/>Sic Irenaeus Lib. 3. cap. 1. Matthaeum ait, in Hebraeis ipsorum lingua 
+      Scri<lb ed="#C" n="8" break="no"/>pturam edidisse Evangelj. Ita isti patres Matthaeum putant Evangelium 
+      <lb ed="#C" n="9"/>suum scripsisse Hebraice, quis autem Graece transtulerit, nesciri. 
+      Quan<lb ed="#C" n="10" break="no"/>quam Athanasius in synopsi scribit, Matthaei Evangelium Hebraicum in 
+      <lb ed="#C" n="11"/>oraecam linguam conversum esse a lacobo Apostolo: sed unde hoc 
+      ita<lb ed="#C" n="12" break="no"/>esse credamus, argumentum nullum adfert. Nec ipsa opinio de 
+      Matthaei<lb ed="#C" n="13" break="no"/>Evangelio Hebraice scripto satis munita est sitmis praesidiis. Nam eo 
+      <lb ed="#C" n="14"/>tempore quo Christus in terris vixit, suumque Matthaeus Evangelium 
+      <lb ed="#C" n="15"/>scripsit, Iudaei Svriace, non Hebraice loquebantur. Ergo Syriace potius 
+      <lb ed="#C" n="16"/>Matthaeus scripsisset quam Hebraice: &amp; haec nunc sententia est 
+      Vid<lb ed="#C" n="17" break="no"/>manstadij, &amp; Guidonis Fabricij, ad quos noster iam Iesuita accessit,  
+      <lb ed="#C" n="18"/>Matthaeum non in lingua Hebraica, sed Syriaca, suum Evangelium 
+      scri<lb ed="#C" n="19" break="no"/>ipsisse. Quod vero patres asserunt, Mattheum Hebraice scripsisse, id de 
+      il<lb ed="#C" n="20" break="no"/>lo sermone Hebraico intelligendum est, quo tunc Iudaei vtebantur, qui  
+      <lb ed="#C" n="21"/>non erat purus Hebraicus, sed Syriacus, id est, ex Hebraico Chaldaicoque  
+      <lb ed="#C" n="22"/>mistus. Sed tamen Hieronymus putavit scriptum esse Matthaei 
+      Evange<lb ed="#C" n="23" break="no"/>lium in lingua Hebraica pura. Nam in Catalogo in Matthaeo, &amp; hujus 
+      E<lb ed="#C" n="24" break="no"/>vangelij Hebraici exemplar in Nicomediensi Bibliotheca remanere, &amp; 
+      <lb ed="#C" n="25"/>sibi factam esse eius describendi facultatem scribit. Quare incertum 
+      <lb ed="#C" n="26"/>videtur esse, scripseritne Matthaeus Evangelium suum vel Hebraice, vel  
+      <lb ed="#C" n="27"/>Syriace: &amp; Graece potius scripsisse existimandus est tum Matthaeus, tum 
+      <lb ed="#C" n="28"/>qui Epistolam ad Hebraeos scripsit: quia tum Graecalingua erat ipsis 
+      <lb ed="#C" n="29"/>etiam ludaeis non incognita, &amp; alij Apostoli Graece scripserunt, non 
+      <lb ed="#C" n="30"/>modo quae cunctis promiscue, sed &amp; quae ludaeis peculiariter inscripta 
+      <lb ed="#C" n="31"/>suot, ut Iacobus &amp; Petrus. Illa vero quae extant hodie Hebraica 
+      Evange<lb ed="#C" n="32" break="no"/>lijhujus &amp; Epistolae exemplaria, non esse genuina, docti non dubitant.  
+      <lb ed="#C" n="33"/>Novum autem Testamentum Graece scribi dominus voluit, quia 
+      Evan<lb ed="#C" n="34" break="no"/>gelium suumex angustis illis ludeae finibus incampum latiorem 
+      educe<lb ed="#C" n="35" break="no"/>re cunctisque gentibus ac populis proponere decrevit. Hujus rei causa 
+      lin<lb ed="#C" n="36" break="no"/>guam Grecam qua tunc nulla inter homines vulgatior fuit, dominus 
+      se<lb ed="#C" n="37" break="no"/>legit, inqua suum Evangelium nationibus hominibusque quamplurimis 
+      <lb ed="#C" n="38"/>communicaret. Voluit etiam coelestem Evangelij veritatem Graece scri¬ 
+      <!--99.xml-->
+      <pb ed="#L" n="90"/>
+               <lb ed="#C" n="1"/>bi, vt gentium Idololatriam Graecorumque Philosophiam ac sapientiam? 
+      <lb ed="#C" n="2"/>redargueret. Et quanquam eo tempore Romani imperium latissimum. 
+      <lb ed="#C" n="3"/>obtinebant, linguam tamen Graecorum, quam Latinorum, latius 
+      patuis<lb ed="#C" n="4" break="no"/>se, testis est ipse Cicero, in Oratione pro Archia Poeta. Quemadmodum 
+      <lb ed="#C" n="5"/>ergo ante Christum doctrina sancta eo sermone scripta fuit, qui erat  
+      <lb ed="#C" n="6"/>proprius &amp; patrius ipsius Ecclesiae: sic post Christum scripta omnia 
+      <lb ed="#C" n="7"/>sunt Graece, vt ad Ecclesiam ex omnibus nationibus colligendam 
+      faci<lb ed="#C" n="8" break="no"/>lius pervenirent, ac propagarentur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

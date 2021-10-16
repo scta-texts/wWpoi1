@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="78"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de7360"><!-- con1q2c1 -->
+            <head xml:id="wWpoi1-de7360-Hd1e106">Caput 1</head>
+            <p xml:id="wWpoi1-de7360-d1e109">
+      <!--87.xml-->
+               <pb ed="#L" n="78"/>
+               <lb ed="#C" n="1"/>CONTROVERSIAE PRIMAE, 
+      <lb ed="#C" n="2"/>QVAESTIO SECVNDA, DE EDITI. 
+      <lb ed="#C" n="3"/>one Scripturarum authentica. 
+      <lb ed="#C" n="4"/>CAPTTTIII 
+      <lb ed="#C" n="5"/>De statu Quaestignis
+      </p>
+            <p xml:id="wWpoi1-de7360-d1e127">
+               <lb ed="#C" n="6"/>E Scripturis perscrutandis, quod inter Papistas &amp; 
+      <lb ed="#C" n="7"/>nos primo loco quaerebatur, iam satis explicatum est. 
+      <lb ed="#C" n="8"/>Nam &amp; quinam ij libri sint sacrarum Scripturarum, 
+      <lb ed="#C" n="9"/>quos scrutari iussi sumus, intelligimus, &amp; 
+      Adversari<lb ed="#C" n="10" break="no"/>porum de libris quibusdam Apocryphis in Canonem: 
+      <lb ed="#C" n="11"/>Iinducendis errorem reiecimus. In quo sane illorum 
+      <lb ed="#C" n="12"/>Jimportunitatem desperationemque manifestam nemo, 
+      <lb ed="#C" n="13"/>est qui non videat. Primum enim, non contenti ijs libris Scripturarum, 
+      <lb ed="#C" n="14"/>qui vere sunt Canonici &amp; θεόπνάςοι, in quibus nos Dominus suam 
+      vo<lb ed="#C" n="15" break="no"/>luntatem quaerere voluit, ad hunc numerum sacrorum codicum, 
+      mul<lb ed="#C" n="16" break="no"/>tos alios aggregant alienos, atque ἐτερογενείς. Deinde, nec dum tamen hos 
+      <lb ed="#C" n="17"/>sibi sufficere ad omnia putant, nisi cum his Scripturis traditiones etiam 
+      <lb ed="#C" n="18"/>non scriptas coniungant, vt hoc modo quae nunquam possunt invetis 
+      <lb ed="#C" n="19"/>Scripturis inveniri, adultetinis &amp; Scripturis &amp; traditio nibusx 
+      ompro<lb ed="#C" n="20" break="no"/>bentur. Sed contra libros istos Apocryphos iam diximus: &amp; 
+      contratea<lb ed="#C" n="21" break="no"/>ditiones suo loco dicemus. Nunc ad secundam controversiae nostrae 
+      <lb ed="#C" n="22"/>quaestionem veniendum est: cujus duae omnino partes sunt. Prior, de 
+      <lb ed="#C" n="23"/>authentica editione Scripturarum. Posterior, de versioninibus 
+      Scriptu<lb ed="#C" n="24" break="no"/>ratum, sacrisque vernaculis. Utramque suoordine tractabimus: uest 
+      <lb ed="#C" n="25"/>Vt hujus ergo quaestionis statum teneamus, repetendum est quod hac 
+      <lb ed="#C" n="26"/>de re Concilium Tridentinum praescripserit, a quo in Sess. 4. 
+      Decreto<lb ed="#C" n="27" break="no"/>secundo, cautum esse Igimus, vt Latina vetus vulgata editio in publicis: 
+      <lb ed="#C" n="28"/>lectionibus, disputationibus, praedicationibus, &amp; expositionibus, pro 
+      authentica<lb ed="#C" n="29" break="no"/>habeatur, &amp; vt nemo illam rejcere quovis pretextu audeat, aut praesumat. 
+      <lb ed="#C" n="30"/>Itaque hoc est τὸ κρυρμνον huius quaestionis, Utrum Latina haec vulgata, 
+      <lb ed="#C" n="31"/>quae vulgo nuncupatur, editio sit authentica Scriptura, an potius 
+      He<lb ed="#C" n="32" break="no"/>braicus textus in vetere Testamento, &amp; Graecus in novo. Adversarij. 
+      <lb ed="#C" n="33"/>Latinum esse authenticum statuunt, idque Concilium Tridentinum 
+      de<lb ed="#C" n="34" break="no"/>finivit. Sic Melchior Canus, Lib. 2. cap. 13. Tridentinum hoc decre 
+      <!--88.xml-->
+      <pb ed="#L" n="79"/>
+               <lb ed="#C" n="1"/>tum interpretatur, &amp; ex eo quatuor conclusiones deducit. Prima est, 
+      <lb ed="#C" n="2"/>cditionem veterem &amp; vulgatam fidelibus esse retinendam in his 
+      omni<lb ed="#C" n="3" break="no"/>bus, quae ad fidem nostram moresque pertinent. Secunda, omnes de fide 
+      <lb ed="#C" n="4"/>&amp; moribus quaestiones per hanc Latinam esse definiendas. Tertia, 
+      in<lb ed="#C" n="5" break="no"/>disputationem non esse ad Hebraica &amp; Graeca exemplaria 
+      provocan<lb ed="#C" n="6" break="no"/>dum. Quarta, in his quae sunt fidei &amp; morum, non esse Latina 
+      exempla<lb ed="#C" n="7" break="no"/>ria ex Hebraicis &amp; Graecis corrigenda. Similiter Rhemenses nostrates, 
+      <lb ed="#C" n="8"/>in praefarione sua in Testamentum a se versum, hanc latinam editionem 
+      <lb ed="#C" n="9"/>prolixe laudant, eamque non modo latinis alijs omnibus, sed &amp; ipsa 
+      Grae<lb ed="#C" n="10" break="no"/>ca, quae est ωοτότυπος, longe meliorem esse contendunt. Lindanus vero 
+      <lb ed="#C" n="11"/>in primo Libro de optimo genere interpretandi, Latinam editionem. 
+      <lb ed="#C" n="12"/>Hebraicae Grecaeque anteponit, &amp; Andradius L.4 Desens. Trident, 
+      feren<lb ed="#C" n="13" break="no"/>dum esse negat, vt cuivis liceat, illius editionis, qua Ecclesia vtitur, 
+      au<lb ed="#C" n="14" break="no"/>thoritatem aspernati, atque ad Hebraea Graecaque libere provocare. 
+      Quan<lb ed="#C" n="15" break="no"/>quam ergo Adversarij Hebraeum &amp; Graecuim fontem non 
+      omnino<lb ed="#C" n="16" break="no"/>damnant, tamen non hos fontes, sed editionem vulgatam Latinam esse 
+      <lb ed="#C" n="17"/>authenticam Scripturam concludunt. Nostrae contra Ecclesiae hanc 
+      <lb ed="#C" n="18"/>Latinam esse passim &amp; misere corruptam, esse falsam, non esse 
+      authenti<lb ed="#C" n="19" break="no"/>cam: Hebraicam vero veteris, &amp; Graecam novi Testameti, esse 
+      since<lb ed="#C" n="20" break="no"/>ram &amp; authenticam Dei Scripturam statuunt: itaque omnia esse ex his 
+      <lb ed="#C" n="21"/>sontibus definienda, &amp; versiones sic esse probandas, vt cum his fontibus. 
+      <lb ed="#C" n="22"/>conveniunt. Est ergo opinionum inter nos &amp; Adversarios 
+      manifesta<lb ed="#C" n="23" break="no"/>ἄνραης. Me oportet in hac quaestione sic progredi, vt dicam aliquid,  
+      <lb ed="#C" n="24"/>Primo, de Hebraica editione veteris Testimenti. Secundo, de 
+      Graeca<lb ed="#C" n="25" break="no"/>novi. Tertis, de ista Latina vulgata: ubi illam esse vitiosem, ideoque 
+      ex<lb ed="#C" n="26" break="no"/>fontibus emendandam &amp; iudicandam ostendemus: in quostatus huius 
+      <lb ed="#C" n="27"/>controversiae vel maxime versatur. Illa celeriter conficiam, vt ad rem 
+      <lb ed="#C" n="28"/>ipsam veniatur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="21"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de3230"><!-- con1q1c6 -->
+            <head xml:id="wWpoi1-de3230-Hd1e106">Caput 6</head>
+            <p xml:id="wWpoi1-de3230-d1e109">
+               <lb ed="#C" n="23"/>CAPTII 
+      <lb ed="#C" n="24"/>Yn quo aliss testimoniss illustratur causae 
+      <lb ed="#C" n="25"/>nostrae zeritas, 
+    </p>
+            <p xml:id="wWpoi1-de3230-d1e118">
+               <lb ed="#C" n="26"/>POSTREMO0, hos libros non esse in vero Scripturae Canone 
+      repo<lb ed="#C" n="27" break="no"/>Anendos, ex Conciliorum, &amp; Patrum, &amp; Scriptorum testimoniis 
+      li<lb ed="#C" n="28" break="no"/>quet. Quod argumentum etsi est humanum, tamen contra illos valere 
+      <lb ed="#C" n="29"/>potest, qui nullo alio in hac causa vtuntur.  
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e129">
+               <lb ed="#C" n="30"/>Synodus Laodicena, cap. 59. prohibet ne ἐιζλία ἀκανονισα, libri non 
+      <lb ed="#C" n="31"/>Canonici, legantur in Ecclesijs, sed tantummodo τα κανονικα τῆς κανῆς κι 
+      <lb ed="#C" n="32"/>παλαίνδιαοηκῆς, Canonici libri veteris &amp; novi Testamenti. Tum ij in 
+      Cano<lb ed="#C" n="33" break="no"/>nicis numerantur, quos nostrae Ecclesiae recipiunt: non Tobias, 
+      <lb ed="#C" n="34"/>non Iudith, non reliqui. Quanquam est in Concilio error non 
+      ob<lb ed="#C" n="35" break="no"/>scurus. Baruch enim cum Ieremia copulatur: hanc enim forsam 
+      <lb ed="#C" n="36"/>illius partem esse putabant: &amp; Epistolae Ieremiae Prophetae 
+      
+      <pb ed="#L" n="22"/>
+               <!-- actual 22 -->
+               <lb ed="#C" n="1"/>nominantur, cum vnica sit in Libro Baruch Epissola Ieremiae: nisi 
+      for<lb ed="#C" n="2" break="no"/>te vitium fuerit in Graeco libro: nam in Latino ista praetermissa sunt, 
+      A<lb ed="#C" n="3" break="no"/>lius est error de libro Apocalypsis, quem isti Patres in Catalogo 
+      li<lb ed="#C" n="4" break="no"/>brorum novi Testamenti non posuerunt. Et constat de illo libro fuisset 
+      <lb ed="#C" n="5"/>diu a multis dubitatum in Ecclesia. Horum Patrum indicio hi libri 
+      ve<lb ed="#C" n="6" break="no"/>teris Testamenti, Tobias, Iudith, Ecclesiasticus, Sapientia, 
+      Machabaeo<lb ed="#C" n="7" break="no"/>rumambo, Canonici minime sunt, Hoc ipsum quoque nos de his 
+      iis<lb ed="#C" n="8" break="no"/>dem libris iudicamus. Obiiciunt Papistae, Canonem Scripturae nondum 
+      <lb ed="#C" n="9"/>fuisse constitutum: illis ergo licuisse hos libros extra Canonem 
+      relin<lb ed="#C" n="10" break="no"/>quere, nobis perinde nonlicere post definitum hunc ab Ecclesia 
+      Ca<lb ed="#C" n="11" break="no"/>nonem Scripturae. Sed hoc nimis absurdum est. Quis enim nisi 
+      ad<lb ed="#C" n="12" break="no"/>modum impudenter defendet nullum fuisse certum Canonem, ne 
+      vete<lb ed="#C" n="13" break="no"/>ris quidem Testamenti, annis 4o0. post Christum, nimirum vsque ad 
+      <lb ed="#C" n="14"/>tempus concilij Carthaginensis? Tam diu Ecclesia nescivit quinam 
+      li<lb ed="#C" n="15" break="no"/>bri ad Canonem Scripturae pertinerent? falsum &amp; impium. Contra, 
+      <lb ed="#C" n="16"/>Patres testantur, qui ante illud Concilium vixerunt, se satis tenere atque 
+      <lb ed="#C" n="17"/>intelligere, quinam libri divini ac Canonici essent, vt mox apparebit. 
+      <lb ed="#C" n="18"/>Tum illud Carthag. Concilium non potuit de Canone Scripturae 
+      ali<lb ed="#C" n="19" break="no"/>quid statuere, quod ad Ecclesiam omnem valeret, propterea quod 
+      Pro<lb ed="#C" n="20" break="no"/>vinciale tantum fuit. At eos libros esse in Canone recipiendos decrevit. 
+      <lb ed="#C" n="21"/>Trullana vniversalis Synodus, atque hanc rem authoritate sua definivit.  
+      <lb ed="#C" n="22"/>Quomodo vero nos ita se rem habere intelligemus? Ex eo (inquiunt)  
+      <lb ed="#C" n="23"/>quod acta Carthaginensis concilij approbavit. Verum hoc non satis est: 
+      <lb ed="#C" n="24"/>ad hanc rem declarandam. Nam praeterquam quod satis jam ante hujus 
+      <lb ed="#C" n="25"/>responsionis vim diluimus, primum eodem loco &amp; Canone Trullana. 
+      <lb ed="#C" n="26"/>Synodus Laodiceni quoque concilij acta comprobat. Si verus 
+      ergo<lb ed="#C" n="27" break="no"/>Canon ille sit Trullanae Synodi, Laodicenum &amp; Carthaginense 
+      decre<lb ed="#C" n="28" break="no"/>tum de libris Canonicis non pugnat. Ergo etsi hi libri aliquo modo 
+      Ca<lb ed="#C" n="29" break="no"/>nonici vocantur in Carthag. concilio, tamen revera sunt ἀκανονισοι,  
+      <lb ed="#C" n="30"/>quemadmodum esse in Laodiceno concilio pronunciantur. Quod sit 
+      <lb ed="#C" n="31"/>pugnantes essent horum Conciliorum sententiae, Synodus Trullana non 
+      <lb ed="#C" n="32"/>satis prudenter vtriusque acta approbavit. Secundo, Trullana Synodus 
+      <lb ed="#C" n="33"/>habita est 6o0. annis post Christum. Eratne vero tam multis seculis 
+      <lb ed="#C" n="34"/>ignotus &amp; incertus, aut non approbatus Canon Scripturarum? Quis 
+      <lb ed="#C" n="35"/>hoc diceret, nisi qui valde desiperet? Tertio, Ecclesia posterior non 
+      iudi<lb ed="#C" n="36" break="no"/>cavit Canonem Scripturae hoc modo fuisse constitutum ac definitum 
+      <lb ed="#C" n="37"/>ab illis Conciliis, idque ex eorum Scriptorum testimoniis intelligi facile 
+      <lb ed="#C" n="38"/>potest, qui post illa Concilia in Ecclesia floruerunt, vtmox audietis. Pri¬ 
+      <!--48.xml-->
+      <pb ed="#L" n="23"/>
+               <lb ed="#C" n="1"/>mum ergo proferam testimonia antiquorum Patrum, tum recentiorum. 
+      <lb ed="#C" n="2"/>ex quibus perpetuum Ecclesiae de libiis istis iudicium agnosci potest. 
+      <lb ed="#C" n="3"/>Etsi longum est omnes persequi, tamen haec tanta horum testium 
+      mul<lb ed="#C" n="4" break="no"/>titudo majorem authoritatem habeat necesse est. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e246">
+               <lb ed="#C" n="5"/>Melito Sardensis, vt Eusebius author est, Lib. 4. cap. 26. testatur se 
+      <lb ed="#C" n="6"/>profectum esse in Orientem, &amp; libros omnes veteris Testamenti 
+      accura<lb ed="#C" n="7" break="no"/>te admodum didicisse, ἀκριζως (inquit) μαθεν τα τ παλαιῶς διαθίκῆης ζιζλία: 
+      <lb ed="#C" n="8"/>pergo ille rem esse minime dubiam existimavit: quod sine Canonis 
+      ex<lb ed="#C" n="9" break="no"/>Florata cognitione fieri non potuit. Recenset autem hic Melito, qui  
+      <lb ed="#C" n="10"/>tantam operam in horum librorum dijudicatione posuit, 
+      eosdempla<lb ed="#C" n="11" break="no"/>ne libros veteris Testamenti, quos &amp; ipsi nos, si vnum Sapientiae librum 
+      <lb ed="#C" n="12"/>excipias. Quanquam sunt, qui hanc Sapientiam Salomonis, quam 
+      Me<lb ed="#C" n="13" break="no"/>lito commemorat, ipsum esse Proverbiorum librum arbitrentur, quibus 
+      <lb ed="#C" n="14"/>ego non assentior. Bis enim eundem librum nominandi causa nulla 
+      fu<lb ed="#C" n="15" break="no"/>it. Sed falli invno potuit, in tam multis non potuit, praesertim ea vsus 
+      di<lb ed="#C" n="16" break="no"/>ligentia, quam ipse profitetur. Inde autem huius erroris occasio extitit, 
+      <lb ed="#C" n="17"/>quod hic Liber esset in multorum manibus, &amp; plus legeretur quam 
+      re<lb ed="#C" n="18" break="no"/>liqui, &amp; in existimatione majore haberetur. Et sane inter Apocrybhos 
+      <lb ed="#C" n="19"/>huic semper plurimum tributum fuisse fateor: idque est quod Augustinus 
+      <lb ed="#C" n="20"/>hujus libri authoritatem defendere videtur, Lib. de praedestinatione. 
+      <lb ed="#C" n="21"/>Sanctorum, cap. 14. ex qua defensione constat lectum hunc librum 
+      <lb ed="#C" n="22"/>publice in Ecclesia fuisse, &amp; Ecclesiam de illo satis honorifice sensisse. 
+      <lb ed="#C" n="23"/>Origenes apud Eusebium, Lib. 6. cap. 25. eosdem libros numerat, qui  
+      <lb ed="#C" n="24"/>a nostris Ecclesiis agnoscuntur pro Canonicis, aitque esse in vetere 
+      Te<lb ed="#C" n="25" break="no"/>stamento ζιζλεσ ενδεαθίκυς δυο κιείκοσι, Libros Testamentarios viginti duos: 
+      <lb ed="#C" n="26"/>quot sunt Hebraeorum literae. Atque hoc multi deinceps 
+      praescripse<lb ed="#C" n="27" break="no"/>runt. Quod si autem literis Hebraicis libri Canonici conveniunt, vt 
+      hi<lb ed="#C" n="28" break="no"/>Patres statuunt, tum certum est, nullum his libris de quibus 
+      contendi<lb ed="#C" n="29" break="no"/>mus, imsacro Canone locum relinqui. Sic enim plures erunt libri 
+      Ca<lb ed="#C" n="30" break="no"/>nonici, quam literae Hebraicae. Illi autem libri, quos esse vere 
+      Canoni<lb ed="#C" n="31" break="no"/>cos concedimus, Hebraicis elementis certa ratione numeroque 
+      re<lb ed="#C" n="32" break="no"/>spondent. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e310">
+               <lb ed="#C" n="33"/>Athanasius in synopsi, Scriptura(inquit) nostra omnis est divinitus 
+      inspi<lb ed="#C" n="34" break="no"/>rata, &amp; libros habet non infinitos, sed finitos, &amp; certo Canone comprehensos. 
+      <lb ed="#C" n="35"/>Eratergo tunc certus Canon Scripturae. Adjungit, &amp; veteris instrumenti 
+      <lb ed="#C" n="36"/>suntisti: tum nostros commemorat, non alios, &amp; concludit, Sunt (
+      ano<lb ed="#C" n="37" break="no"/>nici veteris Testamenti libri viginti duo, literis Hebraicis numero pares. Sed  
+      <lb ed="#C" n="38"/>quid de reliquis illis interim statuit? Eos nimirum esse non Canonicos, a¬ 
+      <!--49.xml-->
+      <pb ed="#L" n="24"/>
+               <lb ed="#C" n="1"/>perte affirinat. Sic enim adjungit: Praeter bos autem sunt &amp; alij veteris 
+      in<lb ed="#C" n="2" break="no"/>strumenti libri non Canonici, qui Catechumenis tantum leguntur. Et nominat:  
+      <lb ed="#C" n="3"/>Sapientiam Salomonis, Sapientiam Sirach, Esterae fragmenta, Iudith, 
+      <lb ed="#C" n="4"/>Tobiam. Isti (inquit) sunt veteris Testamenti non Canonici. Nam 
+      Macha<lb ed="#C" n="5" break="no"/>baeorum libros Athanasius in nullo numero habet. Esterae in 
+      Catalogo<lb ed="#C" n="6" break="no"/>non meminit: sed post ait hunc librum ad aliud quoddam Canonicum 
+      <lb ed="#C" n="7"/>volumen pertinere: forsan ad Esdram, a quo librum illum fuisse 
+      scrip<lb ed="#C" n="8" break="no"/>tum Isidorus &amp; alij tradunt. Et hunc librum aliqui Patres, quando 
+      Scri<lb ed="#C" n="9" break="no"/>pturae libros recensent, nominatim non commemorant, vel quod 
+      alte<lb ed="#C" n="10" break="no"/>rius libri partem esse senserint, vel quod pro Apocrypho habuerint, 
+      pro<lb ed="#C" n="11" break="no"/>pter illa Apocrypha quorundam capitum additamenta. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e354">
+               <lb ed="#C" n="12"/>Hilarius Episcopus Pictaviensis in prologo explanationis 
+      Psalmo<lb ed="#C" n="13" break="no"/>rum: Lex (inquit) veteris Testamenti in viginti duos libros deputatur, vti  
+      <lb ed="#C" n="14"/>cum literarum numero conveniret. Legis vocabulo totam veteris 
+      Testa<lb ed="#C" n="15" break="no"/>menti Scripturam significat.  
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e365">
+               <lb ed="#C" n="16"/>Nazianzenus in Carminibus de genuinis sacrae Scripturae libris 
+      e<lb ed="#C" n="17" break="no"/>undem numerum constituit Canonicorum veteris Testamenti 
+      libro<lb ed="#C" n="18" break="no"/>rum. Hi Nazianzeni versus sunt, in quibus ait se libros viginti duos in 
+      <lb ed="#C" n="19"/>Canone censere, quot nimirum apud Hebraeos literae sunt: 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e376">
+               <lb ed="#C" n="20"/>Apχαιαs μαε εθεκα δυοχ, εικο διιιλασ,  
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e381">
+               <lb ed="#C" n="21"/>Tois ERρχιον χαμμασιν ἀνηθετες. 
+      <lb ed="#C" n="22"/>Esterae mentionem praetermittit: quod qua ratione factum sit, diximus. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e388">
+               <lb ed="#C" n="23"/>Cyrillus Hierosolymitanus in 4. κατηχις, multa scribit hac de re 
+      pru<lb ed="#C" n="24" break="no"/>denter &amp; pie. Tu (inquit) disce studiose ab Ecclesia, quinam sint 
+      libri<lb ed="#C" n="25" break="no"/>veteris Testamenti: αναγνωσκε τάς θειας γεαρας τασ εἰκοσ δυο ειζλης: id est, 
+      <lb ed="#C" n="26"/>Lege diuvinas Scripturas, vigintiduos illos libros. Ita non esse plures quam 
+      <lb ed="#C" n="27"/>viginti duos libros divinos indicat. Tum eosdem libros enumerat, qui  
+      <lb ed="#C" n="28"/>a nobis pro Canonicis recipiuntur, praeterquam quod in hoc numero 
+      <lb ed="#C" n="29"/>posuit librum Baruch, quia partem esse Ieremiae putauit, etsi falso, 
+      ve<lb ed="#C" n="30" break="no"/>postea dicemus. Iam si quis affirmabit, alios tamen praeter hos esse 
+      Ca<lb ed="#C" n="31" break="no"/>nonicos libros, eum Cyrillus splendida objurgatione refutabit, τελν σοῦ 
+      <lb ed="#C" n="32"/>ρρονμα τεροι κσον δt A ποςολοι, αα αρχειον ἐπισκοποι, σι της εκκλησίας ωροσαδει ταω¬ 
+      <lb ed="#C" n="33"/>τας εραδοντες: quasi dicat, Tu quis es, qui hos libros Canonicos facias; 
+      <lb ed="#C" n="34"/>Te Apostoli, antiqui Episcopi, Ecclesiae rectores, multo sapientiores. 
+      <lb ed="#C" n="35"/>erant, qui hos libros pro Canonicis solos, non alios nobis 
+      commenda<lb ed="#C" n="36" break="no"/>runt. Ubi nunc illi sunt, qui hos libros ab Apostolis, &amp; Apostolicis 
+      Epis<lb ed="#C" n="37" break="no"/>copis atque Ecclesiis, approbatos fuisse dicunt: 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e424">
+               <lb ed="#C" n="38"/>Epiphanius haeres. 8. contra Epicuraeos, libros veteris Testamenti nu¬ 
+      <!--50.xml-->
+      <pb ed="#L" n="25"/>
+               <lb ed="#C" n="1"/>merat viginti septem, quos ludaeis a Deo traditos fuisse dicit, vel potius, 
+      <lb ed="#C" n="2"/>ve inquit, viginti duos ω5 τα παρ ἀυτόίς σοιχεια τος ἔζραιμών χαμματον ἀριθ¬ 
+      <lb ed="#C" n="3"/>μόμνα. Ita enim tot libros statuit esse veteris Testamenti genuinos, 
+      <lb ed="#C" n="4"/>quot sunt Hebraicarum literarum elementa. Quidam autem librisvt 
+      E<lb ed="#C" n="5" break="no"/>piphanius ait) δοοθθτα, bini sunt. Hinc illa numeri varietas, vt 
+      duplica<lb ed="#C" n="6" break="no"/>ti sint viginti duo, separati viginti septem. Tunc addit, Sunt etiam asij 
+      duo<lb ed="#C" n="7" break="no"/>libri ἐν αμφιλικτῳ, ambigui, συgia αιροχ, αι κολομόγτος, ωρις αλτῳον τνον  
+      <lb ed="#C" n="8"/>εναποκρνραν: Alios dubios, alios plane Apocryphos vocat. Idem in libro 
+      <lb ed="#C" n="9"/>de Mensuris &amp; Ponderibus scribit, Iudaeos misisse ad Ptolomaeum 
+      li<lb ed="#C" n="10" break="no"/>bros auteis literis transcriptos viginti duos, quos &amp; paulo prius 
+      enume<lb ed="#C" n="11" break="no"/>rat: etsi losephus in principio Antiquit. non nisi quinque libros Mosis: 
+      <lb ed="#C" n="12"/>missos fuisse author est. Iam de illis duobus libris, quos in superiore 
+      loco<lb ed="#C" n="13" break="no"/>ambiguos esse dixit, Sapientia Salomonis, &amp; Sirach, ita hic scribit: uvtiles 
+      <lb ed="#C" n="14"/>hi quidem sunt, sed in numerum Canonicorum non referuntur, neque in 
+      arca<lb ed="#C" n="15" break="no"/>foederis repositi fuerunt: quod perinde est ac si aperte diceret, non sunt in 
+      <lb ed="#C" n="16"/>numero librorum Canonicorum. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e468">
+               <lb ed="#C" n="17"/>Ruffinus in exposit. Symboli Apostolici, velle se ait desionare 
+      volu<lb ed="#C" n="18" break="no"/>mina veteris ac novi Testamenti, quae ab ipso Spiritusancto inspirata 
+      <lb ed="#C" n="19"/>creduntur: &amp; tum nostros in vtroque Testamento libros commemorat: 
+      <lb ed="#C" n="20"/>post subiungit, Sciendum tamen quod &amp; alij libri sunt, qui non Canonici, sed  
+      <lb ed="#C" n="21"/>Ecclesiastici a Maioribus appellati sunt, Sapientia Salomonis, &amp; Sirach, 
+      libel<lb ed="#C" n="22" break="no"/>lus Tobiae, Iudith, Machabaeorum. Haec (ait) legi voluerunt in Ecclesiis, sed  
+      <lb ed="#C" n="23"/>non proferri ad authoritatem ex his fidei confirmandam. Pamelius 
+      Papista<lb ed="#C" n="24" break="no"/>librum hunc laudat, sed vnum hoc reprehendit, quod tamen 
+      reprehen<lb ed="#C" n="25" break="no"/>dendum non fuit, quia &amp; verum est, &amp; veterum Patrum innumeris 
+      sen<lb ed="#C" n="26" break="no"/>tentijs consentaneum. Ne librum quidem Iaudasset, nisi laudatum a 
+      <lb ed="#C" n="27"/>multis quidem vidisset, qui tamen hoc, quod ille improbat, minime 
+      re<lb ed="#C" n="28" break="no"/>prehendunt. Ruffini ista expositio ea est, quae Cypriano tributa fuit.  
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e497">
+               <lb ed="#C" n="29"/>Venio nunc ad Hieronymum, qui omnium apertissime hos libros 
+      e<lb ed="#C" n="30" break="no"/>Canone rejicit, &amp; contra illorum Canonicam authoritatem strenue 
+      <lb ed="#C" n="31"/>disserit, seque vehementissimum horum librorum adversarium ostendit.  
+      <lb ed="#C" n="32"/>Longum esset omnia ipsius testimonia percensere. In Prologo Galeato ad 
+      <lb ed="#C" n="33"/>Paulinum, Quomodosinquit) duo &amp; viginti elementa sunt, ita 22. volumina 
+      <lb ed="#C" n="34"/>supputantur. Et adiungit; Hic Prologus Scripturarum, quasi galeatum 
+      prin<lb ed="#C" n="35" break="no"/>cipium, omnibus libris, quos de Hebraeo vertimus in Latinum, convenire potest, 
+      <lb ed="#C" n="36"/>vt scire valeamus, quicquid extra hos est, inter e Apocrypha esse ponendum. 
+      <lb ed="#C" n="37"/>Ideo Sapientia Salomonis, &amp; Iesus, &amp; Iudith, &amp; Tobias non sunt in Canone. 
+      <lb ed="#C" n="38"/>Et passimhuiusmodi testimonia in illius libris occurrunt. Gregorius 
+      <!--51.xml-->
+      <pb ed="#L" n="26"/>
+               <lb ed="#C" n="1"/>Magnus in commentarijs suis in lobum, Lib. 19. cap. 16. diserte scribit 
+      <lb ed="#C" n="2"/>Machabaeorum libros minime Canonicos esse: quod eius de reliquis 
+      <lb ed="#C" n="3"/>quoque istis iudicium fuisse dubium non est. His antiquorum Patrum 
+      <lb ed="#C" n="4"/>authoritatibus subjiciam Iosephi testimonium, quod illis valde 
+      consen<lb ed="#C" n="5" break="no"/>taneum est, positum in libro primo contra Apionem Grammaticum, &amp; 
+      <lb ed="#C" n="6"/>ab Eusebio descriptum, Lib. 3. cap. 10. de Histor. Eccles. Non sunt apud 
+      <lb ed="#C" n="7"/>nos libri numero infiniti, qui inter se dissentiunt aut pugnantia loquuntur: sed  
+      <lb ed="#C" n="8"/>duo solum &amp; vicinti, temporis uniuer si seriem complectentes, qui quidem 
+      iu<lb ed="#C" n="9" break="no"/>re optimo fide digni esse creduntur. Ex quorum numero quinque sunt Mosis, 
+      <lb ed="#C" n="10"/>qui leges &amp; primum humani generis non ortum solum, sed etiam propagationem 
+      <lb ed="#C" n="11"/>vsque ad mortem ipsius Mosis continent: quod quidem tempus tria prope millia 
+      <lb ed="#C" n="12"/>annorum comprehendit. AMosis morte, usque ad regnum Artaxerxis, 
+      Pro<lb ed="#C" n="13" break="no"/>phetae, qui Mosem sequuti sunt, res gestas suorum temporum tribus &amp; decem 
+      li<lb ed="#C" n="14" break="no"/>bris conscripserunt: reliqui quatuor hymnos ad Deum, &amp; monita vitae 
+      homi<lb ed="#C" n="15" break="no"/>num instituendae complectuntur. A tempore Artaxerxis usque ad hanc 
+      no<lb ed="#C" n="16" break="no"/>stram aetatem singula quidem sunt scriptis prodita, sed parem cum illis fidem 
+      <lb ed="#C" n="17"/>ideo non obtinent, quod ab eo tempore ad nostram memoriam, non continua &amp; 
+      <lb ed="#C" n="18"/>explorata fuerit Prophetarum successio. Ex hoc Iosephi testimonio satis 
+      <lb ed="#C" n="19"/>profecto constat, quodnam fuerit Ecclesiae Israeliticae de libris istis 
+      iudi<lb ed="#C" n="20" break="no"/>cium: nec omnino aliam Ecclesiae quoque Christianae sententiam 
+      fuis<lb ed="#C" n="21" break="no"/>se, illa omnia certissime evincunt, quae ex tam multis antiquitate &amp; 
+      san<lb ed="#C" n="22" break="no"/>ctitate eximiis Patribus adducta sunt, Hactenus ergo clarissimis Patrum 
+      <lb ed="#C" n="23"/>testimoniis evicimus, hos libros de quibus litigamus, non esse 
+      Canoni<lb ed="#C" n="24" break="no"/>cos, sed Apocryphos: sic enim diserte vocantur. Itaque hiPatres nobis 
+      <lb ed="#C" n="25"/>aperte assentiuntur, nostramque sententiam suis suffragiis 
+      confir<lb ed="#C" n="26" break="no"/>mant. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e582">
+               <lb ed="#C" n="27"/>Sed est forsan quod Papistae respondeant, unde haec testimonia 
+      <lb ed="#C" n="28"/>nihil pro nobis facere evincant. Ego illorum responsionem,: non 
+      <lb ed="#C" n="29"/>dissimulabo, nec vos aliquid, quod ipse sciam, celabo. Ergo 
+      vt<lb ed="#C" n="30" break="no"/>vim horum testimoniorum infringant, nostrumque 
+      argumen<lb ed="#C" n="31" break="no"/>tum evertant, duo aliqui objiciunt. Primum, hos Patres loquutos 
+      <lb ed="#C" n="32"/>esse non de Christianorum, sed de Hebraeorum Canone. 
+      Alte<lb ed="#C" n="33" break="no"/>rum, nondum fuisse hunc Canonem Scripturae constitutum: 
+      qua<lb ed="#C" n="34" break="no"/>re illos Patres non esse reprehendendos, si aliter de Canone 
+      Scrip<lb ed="#C" n="35" break="no"/>turae statuerint, quam postea Ecclesia definivit: non esse autem 
+      simi<lb ed="#C" n="36" break="no"/>liter nobis integrum. Utramque objectionem nos breviter diluamus 
+      <lb ed="#C" n="37"/>Nam merae praestigiae sunt &amp; subterfugia. Et primum Patres hi, quos 
+      ci<lb ed="#C" n="38" break="no"/>tavi, de Canone Christianorum loquuntur: quod facile perspiciet, qui  
+      <!--52.xml-->
+      <pb ed="#L" n="27"/>
+               <lb ed="#C" n="1"/>verba ipsa inspexerit. Laodicena Synodus praescribit quinam libri 
+      pro<lb ed="#C" n="2" break="no"/>Canonicis legi in Ecclesiis debeant. Melito se operam dedisse testatur,  
+      <lb ed="#C" n="3"/>vt sciret, quinam libri recipiendi essent: quod ille non Iudaeorum 
+      causa<lb ed="#C" n="4" break="no"/>fecit, sed sua. Athanasius ait hos Libros, quos ille non Canonicos 
+      appel<lb ed="#C" n="5" break="no"/>lat, solis Catechumenis legi solitos esse. Catechumeni autem erant  
+      <lb ed="#C" n="6"/>Christiani. Cyrillus prohibet legete libros illos, quos ipse Apocryphos 
+      <lb ed="#C" n="7"/>vocat, aitque Apostolos &amp; veteres Episcopos magistrosque Ecclesiae 
+      <lb ed="#C" n="8"/>non alios libros in Canonem assumpsisse quam qui a nobis recipiuntur.  
+      <lb ed="#C" n="9"/>Quis illum non videt loqui de Canone Christianorum? quanquam hic 
+      <lb ed="#C" n="10"/>forsan nimium vehemens Cyrillus fuit, qui libros hos omnino legi 
+      ve<lb ed="#C" n="11" break="no"/>tuit. Nam alij Patres etsi illos esse Apocryphos statuunt, tamen legi 
+      per<lb ed="#C" n="12" break="no"/>mittunt. Ruffinus ait hos tantumi, quos nostrae quoque Ecclesiae 
+      Ca<lb ed="#C" n="13" break="no"/>nicos esse iudicant, receptos esse in Canonem a maioribus, qui 
+      procul<lb ed="#C" n="14" break="no"/>dubio erant Christiani, reliquos vero illos, non Canonicos, sed 
+      Ecclesiasti<lb ed="#C" n="15" break="no"/>cos ab iisdem maioribus esse nuncupatos. Sic Hieronymus ad Paulinum 
+      <lb ed="#C" n="16"/>Episcopum Christianum non alios facit Canonicos, quam facimus 
+      <lb ed="#C" n="17"/>nos, &amp; horum librorum argumenta breviter descripsit, non aliorum. 
+      <lb ed="#C" n="18"/>Ergo mon alium, quam nos nunc, sacrorum librorum Canonem 
+      ag<lb ed="#C" n="19" break="no"/>novit. In praefatione vero sua in libros Paralipom. sic aperte scribit: 
+      <lb ed="#C" n="20"/>Apacryphas nescit Ecclesia: ad Hebraeos igitur revertendum, unde &amp; 
+      De<lb ed="#C" n="21" break="no"/>minus loquitur, &amp; Discipuli exempla praesumunt. Quae non habentur apud 
+      <lb ed="#C" n="22"/>illos, procul abjcienda sunt, inquit Hyeronimus in Esdr. &amp; Nehem. Et alibi, 
+      <lb ed="#C" n="23"/>Praefat. in libros Salom. haec habet: Sicut ergo Iudith, &amp; Tobiae, &amp; 
+      Ma<lb ed="#C" n="24" break="no"/>chab aeorum libros legit quidem Ecclesia, sed eos inter Canonicas Scripturas non 
+      <lb ed="#C" n="25"/>recipit; sie &amp; haec duo volumina (Sapientiae Salomonis &amp; Sirach) legat ad 
+      aedi<lb ed="#C" n="26" break="no"/>ficationem plebis, non ad authoritatem Ecclesiasticorum dogmatum 
+      confirman<lb ed="#C" n="27" break="no"/>dam. Palam Hieronymus de Ecclesia Christianorum loquitur, &amp; 
+      Cano<lb ed="#C" n="28" break="no"/>nem veteris Testamenti non alium esse Christianorum statuit, quam 
+      <lb ed="#C" n="29"/>qui fuit Hebraeorum. Inepti ergo admodum sunt, qui duplicem 
+      Ca<lb ed="#C" n="30" break="no"/>nonem fingunt. Et Lib. 1. contra Pelagian. reprehendit haereticum, quod  
+      <lb ed="#C" n="31"/>de regno coelorum probare aliquid instituens, posuerit testimonia de 
+      <lb ed="#C" n="32"/>Apocryphis. Deinde, quod negant Canonem Scripturae illo tempore 
+      <lb ed="#C" n="33"/>constitutum fuisse, aequum ergo est vt dicant &amp; doceant, quando tum 
+      <lb ed="#C" n="34"/>constitutus fuerit. Si in Concilio Florentino aut Tridentino dixerint,  
+      <lb ed="#C" n="35"/>nimis haec quidem recentia sunt: nec tam sero (sat scio) constitutum 
+      <lb ed="#C" n="36"/>esse Canonem affirmabunt. Si in Carthaginensi, non fuit 
+      Carthagi<lb ed="#C" n="37" break="no"/>nense illud generale. Si in Trullano, Canones illi in multis improbandi. 
+      <lb ed="#C" n="38"/>sunt, etiam Papistarum opinione, vt supra ostendimus luculente. Num 
+      <!--53.xml-->
+      <pb ed="#L" n="28"/>
+               <lb ed="#C" n="1"/>vero concedent, aut nullum fuisse definitum Canonem Scripturae 
+      Goo<lb ed="#C" n="2" break="no"/>annis post Christum, aut hos libros non fuisse tam multis seculis in 
+      Ca<lb ed="#C" n="3" break="no"/>nonem receptos? hoc quidem ad eorum evertendam authoritatem 
+      suf<lb ed="#C" n="4" break="no"/>ficeret. Ergo respondeant, &amp; tempus ipsum designent, vt quando 
+      tan<lb ed="#C" n="5" break="no"/>dem Scripturae Canon definitus ac descriptus fuerit, intelligamus. Si 
+      <lb ed="#C" n="6"/>possunt aliquod generale Concilium nominare, in quo publicum 
+      Ec<lb ed="#C" n="7" break="no"/>clesiae iudicium extet de libris Canonicis, age, proferant. Praeter hoc  
+      <lb ed="#C" n="8"/>Trullanum omnino nullum possunt. Et Trullanum non diserte affirmat 
+      <lb ed="#C" n="9"/>hos libros esse Canonicos, sed tantum confirmat Carthag. Concilium, 
+      <lb ed="#C" n="10"/>quod non magni momenti est, quando &amp; Laodicenum quoque 
+      confir<lb ed="#C" n="11" break="no"/>mavit, &amp; ipsi Papistae Canonum Trullanorum fidem omnem abrogant.  
+      <lb ed="#C" n="12"/>Ita nihil habent ex aliqua parte munitum. Verum vt id quod de 
+      Synodo<lb ed="#C" n="13" break="no"/>Trullana instare soliti sunt, quam inane sit, melius videatis, iam 
+      osten<lb ed="#C" n="14" break="no"/>dam, post illud Concilium, hos tamen libros non esse pro Canonicis in 
+      <lb ed="#C" n="15"/>Ecclesia habitos, testimonijs illustrissimis ac certissimis eorum 
+      ho<lb ed="#C" n="16" break="no"/>minum, qui seculis recentioribus Ecclesiam Christi rexerunt ac 
+      do<lb ed="#C" n="17" break="no"/>cuerunt. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e738">
+               <lb ed="#C" n="18"/>
+               <name xml:id="wWpoi1-de3230-Nd1e742">Isidorus</name>, qui fere temporibus illis vixit, in lib. de Offic. ait 
+      Testamen<lb ed="#C" n="19" break="no"/>tum vetus fuisse ab <name xml:id="wWpoi1-de3230-Nd1e747">Esdra</name> in viginti &amp; duos libros constitutum, vt tot 
+      libri<lb ed="#C" n="20" break="no"/>haberentur in lege, quot habentur &amp; literae. <name xml:id="wWpoi1-de3230-Nd1e753">Iohannes Damascenus</name>, Lib. 4. 
+      <lb ed="#C" n="21"/>cap. 18. iσtον (inquit Jῶς εἰκοσε κι δυο ζεισλοε εἰσε τῆς παλαιας διαθικης κιι τα σριχεια 
+      <lb ed="#C" n="22"/>τs Egpaidos povis: ita Damascenus cum antiquis illis doctoribus 
+      denume<lb ed="#C" n="23" break="no"/>ro Canonicorum veteris Testamenti librorum congruit. Sapientiam 
+      Sa<lb ed="#C" n="24" break="no"/>lomonis &amp; Sirachlaudat quidem, sed a Canone removet: reliquos 
+      ne<lb ed="#C" n="25" break="no"/>nominat. Hic post, Trullanam Synodum vixit, quod omnes intelligunt.  
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e767">
+               <lb ed="#C" n="26"/>Et Nicephorus apud Cyrum Prodromum in versibus, τῆς μα παλαιας 
+      <lb ed="#C" n="27"/>εισν εἰκοσι δυo: Sunt (inquit) viginti duo veteris Testamenti libri. Similiter  
+      <lb ed="#C" n="28"/>Leontius non plures esse veteris Testamenti Canonicos libros statuit  
+      <lb ed="#C" n="29"/>in libro de Sectis, Act. 2. quam viginti duos, quos Ec clesiae nostrae 
+      re<lb ed="#C" n="30" break="no"/>cipiunt. Sic enim ait, τῆςμυ ἐν παλαιας διολία εισίνκς: &amp; ordine omnes 
+      ve<lb ed="#C" n="31" break="no"/>teris novique Testamenti libros percurrit, &amp; postremo subiungit, τuSτα 
+      <lb ed="#C" n="32"/>δει τάκαγονζημνα ριζλια ἐν τι εκκλησια, κι ποιαια κνια: Hi (inquit) sunt 
+      li<lb ed="#C" n="33" break="no"/>bri &amp; veteres &amp; recentes, qui in Ecclesia pro Canonicis habentur. Rabanus 
+      <lb ed="#C" n="34"/>Mautus de Instit. Cleric. cap. 54. ait totum vetus Testamentum ab 
+      Es<lb ed="#C" n="35" break="no"/>dra fuisse in duos &amp; viginti libros distributum: vt tot libri essent in lege, 
+      <lb ed="#C" n="36"/>quot &amp; habentur literae. Radulphus, Lib. 14. in Levit. cap. 1. Tobias, 
+      lu<lb ed="#C" n="37" break="no"/>dith, &amp; Machabaeorum, quamvis ad instructionem Ecclesiae legantur, tamen 
+      <lb ed="#C" n="38"/>non habent authoritatem: non ergo Canonici sunt. Hugo S. Victoris, in 
+      <!--54.xml-->
+      <pb ed="#L" n="29"/>
+               <lb ed="#C" n="1"/>Prolog. Lib. 1. de Sacram. cap. 7. ait, Legi quidem hos libros, sed in 
+      cor<lb ed="#C" n="2" break="no"/>pore textus, aut in (anone authoritatis non scribi, vt est Liber Tobiae, Iudith, 
+      <lb ed="#C" n="3"/>Machabaeorum, Sapientia Salom, &amp; Ecclesiasticus. Et idem, Lib 4. ca. 8. 
+      <lb ed="#C" n="4"/>Didascal. Quomodo ergesinquit) viginti duo elementa sum, per quae 
+      He<lb ed="#C" n="5" break="no"/>brace scribimus, omneq, loquimur, &amp; eorum initiis vox humana 
+      compre<lb ed="#C" n="6" break="no"/>henditur: ita viginii duo volumina supputantur, quibus quasi literis &amp; ex 
+      or<lb ed="#C" n="7" break="no"/>diis in Dei doctrina tenera adhuc &amp; lactens viri nostri eruditur infantia. 
+      Vo<lb ed="#C" n="8" break="no"/>cem literae viginti duae, &amp; fidem libri viginti duo formant. Eadem est; 
+      <lb ed="#C" n="9"/>sententia Richardi de Svictore, L. 2. cap. 9 Exceptionum. Ait enim esse 
+      <lb ed="#C" n="10"/>libros Canonicos veteris Testamenti viginti quos. Tum subjungit, Sunt 
+      <lb ed="#C" n="11"/>praeterea alis libri, vt Sapientia Salomonis, liber Iesu filij Sirach, &amp; liber 
+      lu<lb ed="#C" n="12" break="no"/>dith, &amp; Tebias, &amp; liber Machabaeorum, qui leguntur quidem, sed non 
+      scri<lb ed="#C" n="13" break="no"/>buntur in Canone. Quibus verbis libros istos aperte negat esse 
+      Canoni<lb ed="#C" n="14" break="no"/>cos. Et mox in eodem loco, In veteri Testamento quidam libri sunt, qui non 
+      <lb ed="#C" n="15"/>soribuntur in Canone, &amp; tamen leguntur, vt Sapientia Salomonis, &amp;c. 
+      Simili<lb ed="#C" n="16" break="no"/>ter Lytanus inProl in libros Apocryphos: Dionys. Carthusianus, in 
+      prin<lb ed="#C" n="17" break="no"/>cipio Comment in Genes. Abulensis in Matth. C.1. Antoninus 3. p. Tit.  
+      <lb ed="#C" n="18"/>18. C.5.<name xml:id="wWpoi1-de3230-Nd1e840">Hugo Cardinalis</name> in Prolog losuae vocat Tobiam, ludith, 
+      Ma<lb ed="#C" n="19" break="no"/>chab. Sapient Salom, &amp; Ecclesiasticum Apocryphos, aitque Ecclesiam 
+      <lb ed="#C" n="20"/>hos recipere non ad probationem fidei, sed ad vitae institutionem: 
+      <lb ed="#C" n="21"/>cujus hi versus sunt, si metrum spectes, non boni; optimi, si sensum. 
+      </p>
+            <p xml:id="wWpoi1-de3230-d1e852">
+               <lb ed="#C" n="22"/>Restant Apocryphi, Iesus, Sapientia, Pastor, 
+      <lb ed="#C" n="23"/>Et Machabaeorum libri, Iudith, atque Tobias: 
+      <lb ed="#C" n="24"/>Hi quod sunt dubi, sub Canone non num erantur,  
+      <lb ed="#C" n="25"/>Sed quia vera canunt, Ecclesia suscipit illos 
+      <lb ed="#C" n="26"/>Quemadmodum autem hos libros Ecclesia semper susceperit, idem 
+      <lb ed="#C" n="27"/>author explicat, in Prol. Hieron. in lib. Regum: Tales recipu Ecclesia, 
+      <lb ed="#C" n="28"/>non ad probationem fidei, sed ad morum instructionem: quod alij etiam Patres 
+      <lb ed="#C" n="29"/>antea dixerunt Glossa decreti Gratiani, Dist.16. affirmat biblia 
+      habe<lb ed="#C" n="30" break="no"/>re aliquos libros Apocryphos. Erasmus in multis locis eandem 
+      senten<lb ed="#C" n="31" break="no"/>tiam tuetur, &amp; Cajetanus Cardinalis disertissime. Et hi omnes post 
+      Trul<lb ed="#C" n="32" break="no"/>lanam Synodum floruerunt nonnulli post Florentinam: eosque 
+      Ecclesia<lb ed="#C" n="33" break="no"/>Romana pro suis alumnis &amp; filiis agnoscit, si forte Erasmum exceperis, 
+      <lb ed="#C" n="34"/>quempro suis meritis e familia sua exterminavit: etsi illum quoque 
+      Leo<lb ed="#C" n="35" break="no"/>Papadecimus in Epistola filium dilectissimum vocavit. Antonius 
+      Bru<lb ed="#C" n="36" break="no"/>ciolus Italus in linguam Italicam vetus Testamentum transtulit, &amp; 
+      <lb ed="#C" n="37"/>commentarios scripsit in libros Canonicos, Apocryphos praeterinisit. 
+      <lb ed="#C" n="38"/>Etiam post Tuidentinum Concilium, Arias Montanus ille, qui Conci¬ 
+      <!--55.xml-->
+      <pb ed="#L" n="30"/>
+               <lb ed="#C" n="1"/>lio interfuit, &amp; opus illud ingens Biblicum edidit, &amp; a Gregorio 13. 
+      <lb ed="#C" n="2"/>filius appellatur, in editione quadam Hebrai corum Bibliorum cum 
+      in<lb ed="#C" n="3" break="no"/>terlineari interpretatione, ait, Ecclesiam orthodoxam sequi Canonem 
+      <lb ed="#C" n="4"/>Hebraeorum, &amp; libros Graece scriptos veteris Testamenti inter 
+      Apocry<lb ed="#C" n="5" break="no"/>phos recensere. Sic igitur concludo: Si libri isti aut essent Canonici, 
+      <lb ed="#C" n="6"/>aut Ecclesiae publico aliquo &amp; legitimo judicio Canonici declarati ac 
+      <lb ed="#C" n="7"/>definiti fuissent, tum hi tam multi Patres antiqui &amp; recentes minime 
+      <lb ed="#C" n="8"/>aut id ignorassent, aut dissensissent, praesertim cum ij fuerint, qui 
+      Catho<lb ed="#C" n="9" break="no"/>lici &amp; esse &amp; haberi vellent. At hi Patres ita multi, ita docti, ita Ecclesiae 
+      <lb ed="#C" n="10"/>piis praeceptis obedientes, nesciverunt Ecclesiam tale aliquid de 
+      Cano<lb ed="#C" n="11" break="no"/>ne Scripturae decrevisse, &amp; libros istos esse Apocryphos palam 
+      pronun<lb ed="#C" n="12" break="no"/>tiarunt: Ergo libri isti non sunt Canonici, neque legitima aliqua 
+      authori<lb ed="#C" n="13" break="no"/>tate aut sanctione Ecclesiae nquam fuerunt in Canonem sacrum 
+      Scrip<lb ed="#C" n="14" break="no"/>turae relati. Ex quo sequitur, Ecclesiam nostram cum reliquis omnibus 
+      <lb ed="#C" n="15"/>reformatis hos libros iure e Canone reiicere: Papistas falso asserere 
+      il<lb ed="#C" n="16" break="no"/>los esse Canonicos. Si testimonia postulant, praebuimus: si multitudinem 
+      <lb ed="#C" n="17"/>quaerunt, his tam multis contenti esse debent, eisque suum desiderium 
+      <lb ed="#C" n="18"/>explere possunt.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

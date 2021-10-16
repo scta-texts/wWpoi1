@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="149"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e13967"><!-- con1q2c13 -->
+            <head xml:id="wWpoi1-e13967-Hd1e106">Caput 13</head>
+            <p xml:id="wWpoi1-e13967-d1e109">
+               <lb ed="#C" n="32"/>CAPUTTTTTTTI 
+      <lb ed="#C" n="33"/>CAPUTTTTI 
+    </p>
+            <p xml:id="wWpoi1-e13967-d1e116">
+               <lb ed="#C" n="34"/>PRimam huius secundae quaestionis Partem absolvimus, si 
+      qua<lb ed="#C" n="35" break="no"/>Scripturam authenticam non in Latina veteris interpretis 
+      versio<lb ed="#C" n="36" break="no"/>ne, vt Tridentini Patres, Iesuitaeque volunt sed in Hebraeis, Graecisque 
+      <lb ed="#C" n="37"/>fontibus positam esse docuimus. Adversariorum rationes diluimus, &amp; 
+      <lb ed="#C" n="38"/>nostramsententiam communivimus. Sequitur iam secunda pars huius 
+      <!--159.xml-->
+      <pb ed="#L" n="150"/>
+               <lb ed="#C" n="1"/>Quaestionis, cuius membra duo sunt. Primum enim disputandum est de 
+      <lb ed="#C" n="2"/>vernaculis Scripturarum versionibus. Secundo, de sacris lingua 
+      verna<lb ed="#C" n="3" break="no"/>cula peragendis. Etenim sunt inter nos de vtroque genere contentiones. 
+      </p>
+            <p xml:id="wWpoi1-e13967-d1e140">
+               <lb ed="#C" n="4"/>Quod autem attinet adversiones Scripturae vernaculas, primo in 
+      loco<lb ed="#C" n="5" break="no"/>quaerendum est, quae sit certa constansque Papistarum hac dere sententia. 
+      <lb ed="#C" n="6"/>Sunt vero de vernaculis hisce Scripturarum versionibus tres fere hodie 
+      <lb ed="#C" n="7"/>hominum opiniones. Prima est eorum, qui Scripturas omnino negant 
+      <lb ed="#C" n="8"/>in linguas vernaculas veri oportere. Secunda opinio huic contrania est: 
+      <lb ed="#C" n="9"/>eorum, qui sacram Scripturam in omnes omnium populorum vulgares 
+      <lb ed="#C" n="10"/>linguas transferendam omnino esse statuunt. Tertia illorum, qui 
+      versio<lb ed="#C" n="11" break="no"/>nes Scripturarum vernaculas neque damnant simpliciter, neque 
+      simpli<lb ed="#C" n="12" break="no"/>citerpermittunt: sed hac in re certam exceptionem rationemque 
+      tempo<lb ed="#C" n="13" break="no"/>rum, locorum, &amp; personarum haberi volunt. Atque haec vitima Papistarum 
+      <lb ed="#C" n="14"/>sententia est, &amp; sanctio Tridentina. Non igitur affirmare videntur, esse 
+      <lb ed="#C" n="15"/>aλόs impium aut illicitum, verti Scripturas legique vernacule: sed hoc  
+      <lb ed="#C" n="16"/>ab omnious promiscue &amp; vulgo fieri nolunt, nec aliter, quam Synodus 
+      <lb ed="#C" n="17"/>illa praescripsit. Extat aute hac de re decretum in Indice librorum 
+      prohi<lb ed="#C" n="18" break="no"/>bitorum, quem Pius Papa Quartus edidit, &amp; Tridentina Synodus 
+      com<lb ed="#C" n="19" break="no"/>probavit, in Regula quarta: cuius sanctionis quatuor partes sunt. Prima, 
+      <lb ed="#C" n="20"/>non licere cuiquam Scripturas in vernacula lingua legere, nisi cuiid 
+      per<lb ed="#C" n="21" break="no"/>missum fuerit ab Episcopis, aut Inquisitoribus. Secunda, Episcopos 
+      eti<lb ed="#C" n="22" break="no"/>iam debere Parochum &amp; Confessarium sibi in consilium adhibere. 
+      Ter<lb ed="#C" n="23" break="no"/>tia, nompermittendas esse ab ipsis Episcopis omnes vernaculas 
+      versio<lb ed="#C" n="24" break="no"/>nes, sed eas tantum, quas Catholicus aliquis author edidit. Quarta, Nec 
+      <lb ed="#C" n="25"/>etiam harum lectionem quibusvis, sed iis duntaxat permittendam esse, 
+      <lb ed="#C" n="26"/>qui Parochorum &amp; Confessariorum iudicio nullum inde damnum 
+      acce<lb ed="#C" n="27" break="no"/>pturi sint, sed potius incrementum fidei, hoc est, non aliis, quam quos ipsi 
+      <lb ed="#C" n="28"/>multo magis perversos atque obstinatos fore speraverint. Hae sunt illius 
+      <lb ed="#C" n="29"/>Decreti callidae cautiones: vnde hanc Scripturarum vernaculam 
+      lectio<lb ed="#C" n="30" break="no"/>nem quam paucissimis concessam esse, manifestum est. Rationem 
+      isti<lb ed="#C" n="31" break="no"/>primo aspectu pulchram adiungunt, experimento manifestum fieri, si 
+      sa<lb ed="#C" n="32" break="no"/>cra Biblia passim sine discrimine permittantur, plus inde oriri 
+      detrimen<lb ed="#C" n="33" break="no"/>ti, quam vtilitatis, propter hominum temeritatem. Cuius 
+      argumenti<lb ed="#C" n="34" break="no"/>vim postea suo locoexcutiemus. 
+      </p>
+            <p xml:id="wWpoi1-e13967-d1e210">
+               <lb ed="#C" n="35"/>Hoc Deoretum Rhemenses nostri multis verbis laudant, in Praefat.  
+      <lb ed="#C" n="36"/>sua in novum Testamentum a se versum Anglice. Ecclesias( inquiunt) 
+      op<lb ed="#C" n="37" break="no"/>time novit pro sua divina &amp; syncera sapientia, quomodo, vbi, quando, &amp; 
+      qui<lb ed="#C" n="38" break="no"/>bus haec Domini sponsique sui muncra impartienda sint: ergo nec permutiu sim¬ 
+      <!--160.xml-->
+      <pb ed="#L" n="151"/>
+               <lb ed="#C" n="1"/>pliciter, quod noceret indignis, nec simpliciter prohibet, quod dignis malium 
+      <lb ed="#C" n="2"/>prodesset: &amp; concludunt, Scripturas, licet vere &amp; Catholice versas, non 
+      ta<lb ed="#C" n="3" break="no"/>men ab omnibus legendas esse, quicunque eas legere velint, sed 
+      tan<lb ed="#C" n="4" break="no"/>tummodo ab iis, quibus nominatim &amp; diserte permissum id fuerit ab 
+      Or<lb ed="#C" n="5" break="no"/>dinariis, &amp; quos Curati ac Confessarijdignos esse atque idoneos 
+      lecto<lb ed="#C" n="6" break="no"/>res suo testimonio declaraverint. Iam ergo satis perspicitis, omnes 
+      ho<lb ed="#C" n="7" break="no"/>mines a Scripturarum vernacula lectione prohiberi, praeterquam eos, 
+      <lb ed="#C" n="8"/>qui legendi facultatem impetraverint: impetrate vero nulli possunt, nisit 
+      <lb ed="#C" n="9"/>quos ex confessione &amp; tota vitae ratione pertinaces Papistas esse 
+      consti<lb ed="#C" n="10" break="no"/>terit. Quare qui cuperent Scripturas legere, vt ex Scripturis veram fidem 
+      <lb ed="#C" n="11"/>&amp; religionem discerent, ij nisi prius in Romani Pontificis verba 
+      iura<lb ed="#C" n="12" break="no"/>verint, nullo modo permittuntur in sacros Scripturarum libros 
+      inspice<lb ed="#C" n="13" break="no"/>re. Quis non videt adimi Scripturas populis, ve in tenebris &amp; ignorantia 
+      <lb ed="#C" n="14"/>teneantur, atque hoc modo saluti Romanae Ecclesiae, regnoque Pontificio 
+      <lb ed="#C" n="15"/>consulatur, quod stare non posset, si vulgo integrum esset legere 
+      Scrip<lb ed="#C" n="16" break="no"/>turas. Misera profecto religio, ac desperatus rerumstatus, quo isti 
+      co<lb ed="#C" n="17" break="no"/>guntur Scripturas ab oculis hominum removere, &amp; populum a 
+      Scrip<lb ed="#C" n="18" break="no"/>turarum lectione abducere, quod nostri Adversarij faciunt, vt ex 
+      Tri<lb ed="#C" n="19" break="no"/>dentinae Synodi sanctione, &amp; Rhemensium versionibus manifestum est. 
+      <lb ed="#C" n="20"/>Eadem Bellarmini quoque sententia est, Lib. 2. Cap. 15. Quibus adiungam 
+      <lb ed="#C" n="21"/>Iohannis Molani, Theologi Lovaniensis, &amp; Pontificij, Regijque Censoris 
+      <lb ed="#C" n="22"/>librorum testimonium. Is in libro de Practica Theol. Tract. 3. c. 27. 
+      Con<lb ed="#C" n="23" break="no"/>clus. 2. sic habet: Negamus tamen ab eis (Laicis) requiri studium 
+      Scriptu<lb ed="#C" n="24" break="no"/>rarum: imo salubriter dicimus eos a lectione Scripturarum arceri, sufficereque  
+      <lb ed="#C" n="25"/>eis, vt ex praescripto Pastorum &amp; Doctorum Ecclesiae vitae cursum 
+      moderen<lb ed="#C" n="26" break="no"/>tur: quo dici nihil absurdius, aut indignius potuit. Similis est 
+      sententia<lb ed="#C" n="27" break="no"/>Hosij, in libello de sacro vernacule legendo, &amp; Censorum 
+      Coloniensi<lb ed="#C" n="28" break="no"/>lum contra Praefat. Monhemij. Et Sanderus in Lib. 7. visibilis Monarch. 
+      <lb ed="#C" n="29"/>esse ait haereticum affirmare Scripturas necessario debere in vulgares 
+      <lb ed="#C" n="30"/>linguas converti. Sic quidem Adversarij statuunt. Nos contra 
+      affirma<lb ed="#C" n="31" break="no"/>mus Scripturarum lectionem cunctis hominibus communem fieri 
+      de<lb ed="#C" n="32" break="no"/>bere, &amp; nullos, quantumvis imperitos, ab earum lectione arcendos, aut 
+      <lb ed="#C" n="33"/>deterrendos esse, sed excitandos potius omnes ad eas saepe &amp; diligenter; 
+      <lb ed="#C" n="34"/>legendas: idque non modo si concessa a Praelatis copia legendi fuerit,  
+      <lb ed="#C" n="35"/>sed etiam quantumvis illi Ordinarij &amp; Confessores prohibuerint. Itaque 
+      <lb ed="#C" n="36"/>esse Scripturas transferendas dicimus in omnes linguas Christianorum, 
+      <lb ed="#C" n="37"/>vt ab omnibus in sua lingua legi possint. Hoc omnium Ecclesiarum 
+      con<lb ed="#C" n="38" break="no"/>fessione declaratum est: hoc verum est: hoc Scripturis consentaneum. 
+      <!--161.xml-->
+      <pb ed="#L" n="152"/>
+               <lb ed="#C" n="1"/>esse ostendemus. Status ergo quaestionis huiusmodi est, vtrum vernaculae 
+      <lb ed="#C" n="2"/>versiones Scripturarum sint omnibus promiscue proponendae ac 
+      permit<lb ed="#C" n="3" break="no"/>tendae, velnon. Illi negant, nos affirmamus: &amp; illorum primum 
+      argu<lb ed="#C" n="4" break="no"/>menta examinanda ac profliganda sunt, deinde ad nostram causam 
+      ve<lb ed="#C" n="5" break="no"/>niendum est. Agemus autem potissimum cum nostro Iesuita Bellarmino. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

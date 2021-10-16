@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="506"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e46461"><!-- con1q6c17 -->
+            <head xml:id="wWpoi1-e46461-Hd1e106">Caput 17</head>
+            <p xml:id="wWpoi1-e46461-d1e109">
+               <lb ed="#C" n="11"/>CAPUTTTTIII 
+      <lb ed="#C" n="12"/> Testimonia Patram
+    </p>
+            <p xml:id="wWpoi1-e46461-d1e116">
+               <lb ed="#C" n="13"/>VEnio nunc ad postremum nostrum Argumentum, quod in 
+      testi<lb ed="#C" n="14" break="no"/>moniis Patrum positum est. Patres nostram sententiam 
+      luculen<lb ed="#C" n="15" break="no"/>tissime comprobant, Affero autem Patres, non vt res dubia &amp; incerta. 
+      <lb ed="#C" n="16"/>confirmetur, sed vt certa veritas illustretur, &amp; Adversarijs os obstruatur,  
+      <lb ed="#C" n="17"/>qui in omni causa Patres esse suos vociferantur. Si Patres consectari 
+      vel<lb ed="#C" n="18" break="no"/>lem vniversos, qui pro nobis in hac causa faciunt, infinitus essem: nullus 
+      <lb ed="#C" n="19"/>enim pene Pater est, vix vllus author, qui non nostram causam in hac 
+      <lb ed="#C" n="20"/>Controversia tue atur. Atque hic liceret mihi distributione quadam 
+      testi<lb ed="#C" n="21" break="no"/>moniorum vti. Quaedam enim perfectionem Scripturae probant, 
+      quae<lb ed="#C" n="22" break="no"/>dam omnem religionem &amp; fidem Scripturis niti debere, quaedam 
+      Pa<lb ed="#C" n="23" break="no"/>tres errare, &amp; de Traditionibus inter sese dissentire. Sed ego illa 
+      potissi<lb ed="#C" n="24" break="no"/>mum tractabo, quae Bellarminus recitat, Lib. 4. Cap. 11. quaeque nobis 
+      <lb ed="#C" n="25"/>cripere conatur. Probabo ea testimonia, quae ille sibi diluenda sumpsit,  
+      <lb ed="#C" n="26"/>esse apta atque idonea ad nostram sententiam confirmandam 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e149">
+               <lb ed="#C" n="27"/>Primum testimonium est Irenaei. Is in Lib. 3. Cap. 1. sic scribit: Non 
+      <lb ed="#C" n="28"/>per alios deispositionem salutis nostrae cognovimus, quam per eos, per quos 
+      E<lb ed="#C" n="29" break="no"/>vangelium pervenit ad nos, quod quidem tunc praec oniaverunt, postea vero per 
+      <lb ed="#C" n="30"/>Dei voluntatem in Scripturis nobis tradiderunt, fundamentum &amp; celuamam, 
+      <lb ed="#C" n="31"/>fidei nostre futurum: In his verbis tria sunt animadvertenda. Humo, 
+      Apo<lb ed="#C" n="32" break="no"/>stolos &amp; Evangelistas Christi Evangelium viva voce praedicasse &amp; 
+      an<lb ed="#C" n="33" break="no"/>nunciasse, vt eis erat a Christo praeceptum: atque hoc integrum erat 
+      E<lb ed="#C" n="34" break="no"/>vangelium. Secundo, eosdem illud postea scripsisse, &amp;a nobis: in Seris 
+      <lb ed="#C" n="35"/>pturis tradidisse, idque voluntate &amp; authoritate diyvmaa Aertim, illud 
+      E<lb ed="#C" n="36" break="no"/>vangelium, quod ab ipsis scriptum fuit, esser fundamentum, &amp; colum. 
+      <lb ed="#C" n="37"/>nam fidei nostrae. Quid ad haec Bellarminusa Nempe aitzomniaessescai¬ 
+      <!--516.xml-->
+      <pb ed="#L" n="507"/>
+               <lb ed="#C" n="1"/>pta, quae Apostoli vulgo &amp; palam omnibus praedicaverunt, quaeque 
+      fue<lb ed="#C" n="2" break="no"/>runt omnibus necessatia, sed nen aliaomnia: Sic Irenaeum dicere, 
+      Apo<lb ed="#C" n="3" break="no"/>stolos non scripsisse omnia, sed omnia quae populis praedicarunt: 
+      none<lb ed="#C" n="4" break="no"/>nim omnia populis praedicasse. Duo ergo dicit. Vnum, Omnia non esset 
+      <lb ed="#C" n="5"/>omnibus necessaria. Alterum, Quaesunt omnibus necessaria, ea 
+      Apo<lb ed="#C" n="6" break="no"/>stolos omnibus praedicasse, atque etranini Scripturis reliquisse. Sed vide 
+      a<lb ed="#C" n="7" break="no"/>mus eius rationes. Primo ait, qua dam omnibussimpliciteresse necessaria; 
+      <lb ed="#C" n="8"/>cumsmodi sunt Artic uli Symboli: &amp; deceprae cepta; &amp; nonnulla ex 
+      Sa<lb ed="#C" n="9" break="no"/>cramentis; sed non docet quae Sacramenta: reliqua ait sine jactura 
+      salu<lb ed="#C" n="10" break="no"/>tis ignorari posse. Hespondeo: Ista distinctio nullanititur: Scripturae 
+      au<lb ed="#C" n="11" break="no"/>ctioritate aut fundamento; sed ciplane contradicit, atque adversatur vel 
+      <lb ed="#C" n="12"/>maxime. Scriptura enim testatur, eadem esse omnibus nec essaria. Non est 
+      <lb ed="#C" n="13"/>vna fides. Praesulis sive Episcopi, alia idiotae seu laici, sed eadem ytriusque 
+      <lb ed="#C" n="14"/>Symbolum vero Apostoficum, quin &amp; reliqua etiam orthodoxa 
+      Sym<lb ed="#C" n="15" break="no"/>bola, non magis ad populum, quam ad Praesules &amp; Magistros 
+      Ecclesia<lb ed="#C" n="16" break="no"/>rum pertinent, &amp; in illorum praecipue gratiam edita sunt. Vnam vero 
+      es<lb ed="#C" n="17" break="no"/>se fidem omnium, testatur Apostolus, Ephes. 4. 5. Unus Dominus, uvna 
+      <lb ed="#C" n="18"/>fides, vnum Baptisma, unus Deus &amp; Pater omnium, &amp;c. Quemadmodum. 
+      <lb ed="#C" n="19"/>porgomon est vnus Baptismus Episcopi, alius idiotae, sedidem viriusque; 
+      <lb ed="#C" n="20"/>nec vnus est Deus Episcopi, alius laici, sed idem vtriusque; ita mec vna 
+      <lb ed="#C" n="21"/>fides Episcopi, alia idiotae; sed eadem fides vtriusque. Hic Apostolus 
+      v<lb ed="#C" n="22" break="no"/>nam esse omnium Christianorum fidem affirmat. Verum ne Papistae 
+      pu<lb ed="#C" n="23" break="no"/>tent me hoc Scripturae loco abuti, proferam eos interpretes, quos ipsi 
+      qui<lb ed="#C" n="24" break="no"/>dem non audent respuere. Thomas Aquinas in hunc locum sic scribit: 
+      O<lb ed="#C" n="25" break="no"/>na fides (incquit) quia vnum &amp; idem creditur a cunctis fidelibus, unde 
+      Ca<lb ed="#C" n="26" break="no"/>t holica dicitur. Ita <name xml:id="wWpoi1-e46461-Nd1e235">Caletanus</name>: Vna fides, quia vnum &amp; idem omnes 
+      credi<lb ed="#C" n="27" break="no"/>mus. Et Catharinus etiam, in eundem locum, eadem pene verba habet.  
+      <lb ed="#C" n="28"/>Tta istivnam &amp; eandemomnium fidemagnoscunt. Ergo omnia sunt 
+      om<lb ed="#C" n="29" break="no"/>mbus ex aequo necessaria. Secundo, cognitionem articulorum, &amp; 
+      decalo<lb ed="#C" n="30" break="no"/>gi, &amp; quorindam sacramentorum concedit esse necessariam. Sed 
+      quae<lb ed="#C" n="31" break="no"/>to quam cognitionem intelligat? Certe explicitam necesse est: nam ait, 
+      <lb ed="#C" n="32"/>aliorum notitiam: explicitam non esse necessatiam. Iamiquae 
+      notitia<lb ed="#C" n="33" break="no"/>explicita dicenda est? Num posse haec dunt axat recitare ?minime 
+      qui<lb ed="#C" n="34" break="no"/>dem. (Hoc enim quivis praestare fac illime possit. 7 Sed requititur 
+      praete<lb ed="#C" n="35" break="no"/>rea intelligentia &amp; assensio. Iam quaero, Quii recte intelligit articulos 
+      <lb ed="#C" n="36"/>Symboli, id est, qui sensum omnium articulorum intelligit, illorumque 
+      ve<lb ed="#C" n="37" break="no"/>ritati totus assentitur, quique idecem praecepta eodem niodo intelligit, 
+      <lb ed="#C" n="38"/>num ille perire ullo modo possit, sive sit Episcopus, sive laicus? Minime 
+      <!--517.xml-->
+      <pb ed="#L" n="508"/>
+               <lb ed="#C" n="1"/>certe: quia omnia, quae ad salutem pertinent, intelligentia, fideque 
+      com<lb ed="#C" n="2" break="no"/>plectitur. Ita haec prima Bellarmini tatio nullas in se vires habuit. Sed 
+      vn<lb ed="#C" n="3" break="no"/>de istam distinctionem probat Bellarminus? ex Act. 2. 41. vbi testatur 
+      <lb ed="#C" n="4"/>Lucas tria hominum millia vno die baptizata, &amp; Ecclesiae apposita fuisse. 
+      <lb ed="#C" n="5"/>Illi procul dubio (inquit) non omnia intelligebant, sed illa tantum 
+      ne<lb ed="#C" n="6" break="no"/>cessaria. Quare dicuntur post Baptismum perseverasse in doctrina 
+      Apo<lb ed="#C" n="7" break="no"/>stolorum, hoc est, reliqua didicisse, quae nondum audierant. Respondeos 
+      <lb ed="#C" n="8"/>primo, Hoc est Scripturas tractare Iesuitice. Vult enim probare, non 
+      om<lb ed="#C" n="9" break="no"/>nia esse omnibus simpliciter necessaria; &amp; in hunc finem affert Act. 2. 41. 
+      <lb ed="#C" n="10"/>Sed nihil eiusmodi ex hoc loco concludi potest. Num enim sequitur, 
+      hi<lb ed="#C" n="11" break="no"/>norant quae sibi necessaria fuerunt; ergo non quae omnibus necessaria? 
+      <lb ed="#C" n="12"/>Video autem quid velit, non potuisse eos omnia simpliciter necessaria ex 
+      <lb ed="#C" n="13"/>vna concione discere; ac proinde ea tantum, quae sibi erant necessatia, 
+      <lb ed="#C" n="14"/>didicisse. Sed ille potuit ex ipsis verbis intelligere, hoc fuisse 
+      extraordina<lb ed="#C" n="15" break="no"/>rium. Nam si fuisset ordinarium, non potuissent tam cito vel illa 
+      necessa<lb ed="#C" n="16" break="no"/>ria discere. Et hoc patet ex 38. vers. vbi Petrus ille dixit, e Accipietu 
+      de<lb ed="#C" n="17" break="no"/>num Spiritus sancti. Secundo, quod interpretatur, perseverabant, id est, 
+      dis<lb ed="#C" n="18" break="no"/>cebant quae prius nescierant, ridiculum est. Nam perseverate, est in 
+      do<lb ed="#C" n="19" break="no"/>ctrina cognita permanere &amp; persistere, non addiscere ea, quae nondum 
+      <lb ed="#C" n="20"/>audivimus. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e313">
+               <lb ed="#C" n="21"/>Quidergo( inquiet aliquis) nonne alia in Episcopo, alia in Laico scientiai 
+      <lb ed="#C" n="22"/>requititur? Respondeo: Alia scientia non est ad salutem necessaria Episcopo, 
+      <lb ed="#C" n="23"/>alia Laico, sed eadem; licet maior quidem in Episcopo, quia ille debet alios 
+      <lb ed="#C" n="24"/>docere. Si enim alia esset, tum specie differret: at scientia istorum non diffent 
+      <lb ed="#C" n="25"/>specie, sed tantum in eo, quod est secundum magis &amp; minus. Atquehic 
+      <lb ed="#C" n="26"/>Jobservanda est Iesuitae ἀυπλονία quaedam: primo, concedit istos necessana 
+      <lb ed="#C" n="27"/>omnia scivisse, antequam baptizati sunt: deinde, ait postea eos 
+      perseve<lb ed="#C" n="28" break="no"/>rasse, id est, mysteria Christiana didicisse: at haec quoque necessaria sunt  
+      <lb ed="#C" n="29"/>Quorsum vero necessaria aliqua postea discerent, praesertim homines. 
+      <lb ed="#C" n="30"/>laici, si antea omnia sibi necessaria didicissent? Deinde, probat idem 
+      <lb ed="#C" n="31"/>Bellarminus, ex 1. Thess. 3. 10. vbi Paulus optat venire ad eos, vesupple 
+      <lb ed="#C" n="32"/>ret, quae illorum fidei deerant. Respondeo: Antea huic locoresponsum 
+      <lb ed="#C" n="33"/>est. Quaero autem vtrum haec necessaria fuerunt, quae Paulus docete 
+      vo<lb ed="#C" n="34" break="no"/>luit, necne? Si nec essaria, tum non debebant baptizari, priusquam haec 
+      di<lb ed="#C" n="35" break="no"/>dicissent. Hoc Bellarminus ipse fatetur de adultis, non debere illos 
+      bap<lb ed="#C" n="36" break="no"/>tizari sine explicita cognitione ac fide eorum, quae sunt nec essaria. Atsi 
+      <lb ed="#C" n="37"/>non erant necessaria, tum Apostolus non tantopere ad eos venite 
+      studu<lb ed="#C" n="38" break="no"/>isset. Neutro modo potest consistere haec responsio, seu potius tergiversa¬ 
+      <!--518.xml-->
+      <pb ed="#L" n="509"/>
+               <lb ed="#C" n="1"/>tio Adversarii abienire ergo voluit Apostolus, ut certisadoceret, ea, quae 
+      <lb ed="#C" n="2"/>ptius didicerant, &amp; ut fidem ac ceptam, confirmatet, non vinovam 
+      fi<lb ed="#C" n="3" break="no"/>demeradetetoi, aiuit calidia omomnoi oo milo eniis 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e366">
+               <lb ed="#C" n="4"/>Secundo, respondet Bellarminus, Apostolos praedicasse omnibus, quae 
+      <lb ed="#C" n="5"/>sunt simpliciter necessaria: sed quae damsolis Praelatis, Episcopis, &amp; 
+      Pres<lb ed="#C" n="6" break="no"/>byteris. Respondeo. Haec sunt falsissima, &amp; planc haeretica. Nam 
+      Tertulli<lb ed="#C" n="7" break="no"/>anus, in Lib, de Praescript, ait haeretigorum sententiam esse, Apostolos aut 
+      <lb ed="#C" n="8"/>non scivisse onia, aut, non omnibus omnia tradidisse. Et Paulus, Galat. 1. 8. 9. 
+      <lb ed="#C" n="9"/>denunciat anathema omnibus illis, etiamsi angeli fuerint, qui 
+      annuncia<lb ed="#C" n="10" break="no"/>verint praeterquam quod ipse praedicarat, &amp; illi acceperant: significans se 
+      <lb ed="#C" n="11"/>nihil praedicasse, quod non illi accepissent: &amp; illi erant populus. 
+      Popu<lb ed="#C" n="12" break="no"/>lus ergo accepit illud Evangelium, &amp; quidem totum, quod Paulus 
+      prae<lb ed="#C" n="13" break="no"/>edicavit. Atque hic notanda estinsignis Adversariorim ενηλοκα. Illi 
+      di<lb ed="#C" n="14" break="no"/>cunt non omnia esse populotradita, quod omnia non sint, populo 
+      neces<lb ed="#C" n="15" break="no"/>saria. Et tamen proferunt has Scripturas, ex quibus suas Traditiones 
+      pro<lb ed="#C" n="16" break="no"/>bent, nempe 1. Cor. 11. 2. Laudovos, quod mei per omnia memores estis, &amp; 
+      <lb ed="#C" n="17"/>sicut tradidi vobis, Traditiones retinetis. At haec verba ad populum 
+      perti<lb ed="#C" n="18" break="no"/>nent, vt patet ex primo capite: Et proferunt etiam 2. Thess. 2. 15. Tenetes 
+      <lb ed="#C" n="19"/>Traditiones: At Apostolus haec loquitur laicis &amp; populo, vtpatet ex 
+      pri<lb ed="#C" n="20" break="no"/>moversuprimi capitis, Ergo cum hae Traditiones populo fuerunt 
+      praedi<lb ed="#C" n="21" break="no"/>catae, non possunt horum locorum testimoniis suas, Lraditiones 
+      confip<lb ed="#C" n="22" break="no"/>mare. Has vero Apostolum praedicasse populo, ex eo patet, quia aliter 
+      <lb ed="#C" n="23"/>non laudaret popuium, quod eas teneret. Si vero fuerunt praedicatae, tum 
+      <lb ed="#C" n="24"/>scriptae etiam sunt, ex testimonio Irenaei, &amp; consensu Bellarmini. 
+      Praete<lb ed="#C" n="25" break="no"/>rea, diligenter animadvertendum est, &amp; memoria tenendum, quod 
+      cogi<lb ed="#C" n="26" break="no"/>tur Bellarminus, necessaria ratione, convictus, fateri, omnia illa, quaes 
+      <lb ed="#C" n="27"/>omnibus &amp; simpliciter necessatia sunt, esse scripta: vnde sequitur, 
+      Tradi<lb ed="#C" n="28" break="no"/>tiones non esse aut simpliciter, aut omnibus necessarias. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e423">
+               <lb ed="#C" n="29"/>Sed videamusiam eiunsrationes, quibus probat eadem non esse 
+      om<lb ed="#C" n="30" break="no"/>nibus necessaria. Primaratio est, quia alia in scholis docentur, alia in 
+      con<lb ed="#C" n="31" break="no"/>cione apud populum praedicantur: Ergo eadem non sunt omnibus 
+      ne<lb ed="#C" n="32" break="no"/>cessaria. Respondeo: Modus alius est tractandi, sed res caedem, 
+      tractan<lb ed="#C" n="33" break="no"/>tur. Eadem enim in Scholis docentur, quae in Ecclesiis, sed alig, modo 
+      po<lb ed="#C" n="34" break="no"/>pulariter in Ecclesiis, accurate &amp; subtiliter in scholis. Secunda ratio: 
+      su<lb ed="#C" n="35" break="no"/>mitur ex Act. 20. 17. 18. vbi Paulus seorsim a populo docebat 
+      Presbyte<lb ed="#C" n="36" break="no"/>ros Ecclesiae Ephennae. Respondeg: Seorsim quidem docebat, sed non alia, 
+      <lb ed="#C" n="37"/>quam quae omnes docuerat. Quia enimnon potuit totam Ecclesiam 
+      al<lb ed="#C" n="38" break="no"/>loqui, ac cersebat Bresbyteros: Nonialia vero docuisse, patet ex Luca, 
+      <!--519.xml-->
+      <pb ed="#L" n="510"/>
+               <lb ed="#C" n="1"/>qui summam illius set monis proposuit: Tertia ranosumitut 
+      extiCor<lb ed="#C" n="2" break="no"/>2. 6. Sapientiam loquimur inter perfectos: Respondeo: Henaeus, Lib. 3. cap. 
+      <lb ed="#C" n="3"/>2. testis, est, haereticos olim hoc testimonio abusos fuisse, in 
+      eandempla<lb ed="#C" n="4" break="no"/>ne sententiam, vel potius amentiam, in quam hodie Papistae, ut 
+      anteadi<lb ed="#C" n="5" break="no"/>ctum est. Quarta ratio sumitur ex 2. Tim. 2. 2. Quae audisti ame mmer 
+      <lb ed="#C" n="6"/>multos testes, haec committe fidelibus hominibus, qui fint idonei ad alior quo 
+      <lb ed="#C" n="7"/>que docendor. Respondeo: De hoc loco satis multa nos anterespondimus. 
+      <lb ed="#C" n="8"/>Quiuta ratiosumitur ex Irenaeo, Lib 4. capi43. vbi Irenaeus ait 
+      Aposto<lb ed="#C" n="9" break="no"/>los cum Episcopatu successoribus charismiae veritatis certum, secundum 
+      <lb ed="#C" n="10"/>placitum Patris, tra didisse. Respondeo: Apostolos tradidisse suecessoribus 
+      <lb ed="#C" n="11"/>suis charisma scientiae, at non viva tantum voce, sed etiam scriptis: Ant 
+      <lb ed="#C" n="12"/>enim, Lib. 3. cap. 1. non praeconiasse tantum, sed in Scripturis etiam 
+      trad<lb ed="#C" n="13" break="no"/>disse. Iam his refutatis, Irenae i testimoium integrum remanet: Apostolis 
+      <lb ed="#C" n="14"/>praedicarunt &amp; scripserunt Evanoetum: totum praedicarunt, 
+      totumsen<lb ed="#C" n="15" break="no"/>ipserunt: ideoque subjungit, illud esse fundamentum &amp; columnam fidei 
+      <lb ed="#C" n="16"/>nostrae. Atque ve pateat Irenaeum hoc in loco non de populari Evangelio, 
+      <lb ed="#C" n="17"/>hoc est, quod populo tantum conventret, loqui, ait; Dispostionem falutus 
+      <lb ed="#C" n="18"/>vostrae nos cognovimus, &amp; ad nos pervenit. At ille Episcopus fuit: 
+      Ergolo<lb ed="#C" n="19" break="no"/>quitur de illo Evangelho, quod, quae Episcopis etiam necessaria sunt, 
+      con<lb ed="#C" n="20" break="no"/>neret. Praeterea, auisinmlocis Irenaeus contra Traditiones scribit: Naml 
+      <lb ed="#C" n="21"/>Lib. 2. cap. 47. ait, Scripturas perfectas esse, quippe a verbo Dei &amp; 
+      spritue<lb ed="#C" n="22" break="no"/>ius dictas. Et Lib. 3. cap. 2. illam haeretieorum vocemrefeslit, 
+      quaaffr<lb ed="#C" n="23" break="no"/>mabant, Apostolos quaedam latenter &amp; seorsim tradidisseadquod 3. cap. 
+      <lb ed="#C" n="24"/>ciusdem libri fusuus persequitur. Et in Libi 4. cap. 28. ait consumna 
+      <lb ed="#C" n="25"/>tae vitae praecepta esse eadem in vtroque Testamento: Ergoomma, quae 
+      addo<lb ed="#C" n="26" break="no"/>ctriuam &amp; mores pertinent, in Scripturis habentur; non quaedam 
+      tan<lb ed="#C" n="27" break="no"/>tum. Ait eim, consummat? vitae. Hoc Papistae negant: Et in Lig? cap. 
+      <lb ed="#C" n="28"/>17. ait, oportere nos ad Ecclesiam confugere, in eius fmuedueati; &amp; ¬ 
+      <lb ed="#C" n="29"/>minicis Scripturis enutriri. Tum subjungit? Psantata est enim 
+      Ecclesiapaa<lb ed="#C" n="30" break="no"/>disus in hoc mundo. Ab omni ergo ligno par adifi esc aν manduc abis; at Somius 
+      <lb ed="#C" n="31"/>Dei, id est, ab omni Scriptura Dominica manducare: superetatoσmελρνη¬ 
+      <lb ed="#C" n="32"/>sune manhicaveritis, neque tetigeritis omverfam haereticamdsemsmnm, 
+      <lb ed="#C" n="33"/>Ergo sicufuullus erat alius cibus squo Vesteretur Adiam inparatiso; nis 
+      <lb ed="#C" n="34"/>arborum ffuctus; sic qui in paradiso Ecc lesiae constitutus est tnon debet! 
+      <lb ed="#C" n="35"/>alium animae suae cibum desiderate, praeterquam Scripturas: Sie frenaeum. 
+      <lb ed="#C" n="36"/>Traditionum non scriptarum adverfarium esse liquet; qui etiamesolitus 
+      <lb ed="#C" n="37"/>est nullis contra haereticos armis vtis praeterquam Scripturarum, vt Erasel 
+      <lb ed="#C" n="38"/>mus, in Praetat. in en. vere indicavit: Sossi Serθοενναrum ρrρsηqεpρηασ 
+      <!--520.xml-->
+      <pb ed="#L" n="511"/>
+               <lb ed="#C" n="1"/>adver sus catervam haereticorum. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e540">
+               <lb ed="#C" n="2"/>Secundus noster contra Traditiones tesuis est Origenes, qui multis in locis 
+      <lb ed="#C" n="3"/>cas oppugnat: exempli gratia, in comment. in cap. 3. ad Rom. inhomil. 25. 
+      <lb ed="#C" n="4"/>in Matth. in homil. 3. in benesin, in homil. 10 in sacnesin, in homil. 7. in 
+      Eze<lb ed="#C" n="5" break="no"/>chiel inhomil. 13, in Hdieremiam. Iuhomil. vero 1. in Hieremiam sic scribit: 
+      <lb ed="#C" n="6"/>Nec esse est nobis Scripturas sanctas in testimgnium vocare. Sensus quippae 
+      ne<lb ed="#C" n="7" break="no"/>stri &amp; enarrationes sine jt testibus non babent fidem. Et hoc quod dictum est, 
+      <lb ed="#C" n="8"/>Inore duorum velirium testium stabit omne verbum, magis convenijad 
+      inter<lb ed="#C" n="9" break="no"/>pretantis probationem, quam ad quorumeunqe hom:num numerum, vi sii mem 
+      <lb ed="#C" n="10"/>verbum intellestus mei, accipiens, duos testaes, de novo &amp; vetere Testamentos 
+      <lb ed="#C" n="11"/>accipiens tres testes, de Evargelio, de Propheia, de Apostolo. Sic enim stabit.  
+      <lb ed="#C" n="12"/>omne verbum. Testatut his verbis Origenes, nosros sensus &amp; enamationes &amp; 
+      <lb ed="#C" n="13"/>sententias non habere fidem suie Scripturis, Respondet Bellaminus, eum 
+      <lb ed="#C" n="14"/>loqui de abstusssimis quibusdam quaestionibus, cuiusmodi fere non sunt,  
+      <lb ed="#C" n="15"/>quae Traditonis tessimonio nituntur. Respondeo. Primo, absurdum est, ea 
+      <lb ed="#C" n="16"/>quae in Traditionibus posita sunt, non esse tam abstrusa &amp; obscura, quam quae 
+      <lb ed="#C" n="17"/>in Scripturis tradita fuenint. Quae enim ad Praesules tantuim &amp; Epilcopos 
+      per<lb ed="#C" n="18" break="no"/>tinent, sunt, ne illis faciliora, quae ipsis populis aperte proposita sunt? Quis non 
+      <lb ed="#C" n="19"/>videt pugnantia loqui Bellarminum? Secundo: Ongenesloquitur generatim  
+      <lb ed="#C" n="20"/>de omnibus quaestionibus sive obscutis, sive apertis. Illud etiam fatet ex tius 
+      <lb ed="#C" n="21"/>commentin 3. c. ad Rom. ubi egregiam sententiam habet: aitque Paulum 
+      De<lb ed="#C" n="22" break="no"/>ctoribus Ecclesiae exemplum praebere, vt ea, quae loquuntur ad populum (non 
+      <lb ed="#C" n="23"/>ergo obscuras quaestiones intellexit) non proprus praesumpta sententis, sed 
+      di<lb ed="#C" n="24" break="no"/>uvinis munita testimoniis proferant Praeterea subiungit: Si ipse tantus ac talis 
+      <lb ed="#C" n="25"/>Apostolus authoritatem dictorum suorum sufficere posse non credit, nisi doceat 
+      <lb ed="#C" n="26"/>in Lege &amp; Prophetis scripta esse quae dicit; quanio magis nos minimi hoc 
+      ob<lb ed="#C" n="27" break="no"/>servare debemus, vt non nostras, cum docemus, sed sancti Spiritus sententias 
+      <lb ed="#C" n="28"/>proferamus. Idem in 25, homil. in Matth. sic scribit: Templum gloriae Dei est; 
+      <lb ed="#C" n="29"/>omnis Scriptura diuvinitus inspirata, aurum autem positus sensus in ca. 
+      Debe<lb ed="#C" n="30" break="no"/>mus ergo ad testimonium omnium verborum, quae proferimus in doctrina, 
+      pro<lb ed="#C" n="31" break="no"/>ferre sensum Scripturae, quasi confirmantem, quem exponimus, sensum: Sicut  
+      <lb ed="#C" n="32"/>enim omne aurum, quodquod fuerit extra templum, non est sanctificatum; sic  
+      <lb ed="#C" n="33"/>omnis, qui fuerit extra divinam Scripturam (quamvis admirabilis videatur  
+      <lb ed="#C" n="34"/>quibusdam) non est sanctus, quia non continetur a sensu Scriptura, quae solet 
+      <lb ed="#C" n="35"/>eum solum sensum sanctificare, quem habet in se, sicut templum proprium 
+      au<lb ed="#C" n="36" break="no"/>rum. Non ergodebemus ad confirmandam doctrinam nostram nostros proprios 
+      <lb ed="#C" n="37"/>intellectus iurare, &amp; quasi test imonia assumere, quos vnusquisque nostrum 
+      in<lb ed="#C" n="38" break="no"/>telligit, &amp; secundumveritatem aestimat esse, nisi ostenderit eos sanctos esse ex 
+      <!--521.xml-->
+      <pb ed="#L" n="512"/>
+               <lb ed="#C" n="1"/>eo, quod in Scripturis continentur diuvinis, quasi in templis quibusdam Dei. 
+      <lb ed="#C" n="2"/>Stulti ergo &amp; caeci omnes, qui non cognoscunt: quoniam templum, id est, lectio 
+      <lb ed="#C" n="3"/>Scripturarum, magnum &amp; vener abilem facit sensum, sicut aurum sacratum. 
+      <lb ed="#C" n="4"/>Idem, in homil. 10. in Genesm, in hunc modum scribit, in illa verba, Rebecra 
+      <lb ed="#C" n="5"/>vemebat quotidie ad puteos: Animarum (inquit) est ista eruditio, quae te 
+      insti<lb ed="#C" n="6" break="no"/>tait, &amp; docet quotidie venire ad puteos Scripturarum, ad aquas Spiritus 
+      san<lb ed="#C" n="7" break="no"/>cti, &amp; haurire semper, ac plenum vas domum referre, sicut faciebat &amp; sancta 
+      <lb ed="#C" n="8"/>Rebecca. Et in homil. 3. in Genesin sic scribit: Circumcisus &amp; mundus est, 
+      <lb ed="#C" n="9"/>qui semper verbum Dei loquitur, &amp; sanam doctrinam, Cvangelicis &amp; 
+      Aposto<lb ed="#C" n="10" break="no"/>licis munitam regulis, profert. Atque haec quidem ex Origene, de quibus 
+      te<lb ed="#C" n="11" break="no"/>stimoniis tam enucleatis, tam luculentis, tam accommodatis ad causam, 
+      nul<lb ed="#C" n="12" break="no"/>lum Bellarminus verbum respondet. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e653">
+               <lb ed="#C" n="13"/>Tertium nostrum testimonium est Constantini Magni, apud Theodoret.  
+      <lb ed="#C" n="14"/>L. 1. histor. Eccles. cap. 7. qui Patres in Concilio Niceno congregatos, in hunc 
+      <lb ed="#C" n="15"/>modum alloquutus est: Evangelici &amp; Apostolici libri, quinetiam veterum 
+      <lb ed="#C" n="16"/>Prophetarum oracula, nos plane instruunt, quid de diuvinis rebus sentiendum sit. 
+      <lb ed="#C" n="17"/>Ergo deposita omnihostili discordia, lit erarum diuvinitus inspiratarum 
+      testimo<lb ed="#C" n="18" break="no"/>niis, res in quaestionem adductas dissolvamus. Eυαγγελίκαι ζιζλοι κεποθολελαια 
+      <lb ed="#C" n="19"/>τιι ποιαον ωροοητγι τα θεσισματα ζαρς ημας α χι ωρι το θειν ρρονον εκπα¬ 
+      <lb ed="#C" n="20"/>δνοσι. τιω πολεμοποιον ουυ ἀπελασαντες κειν, αα τγ θεοππευσαν λόγον λαξαμδν ωε 
+      <lb ed="#C" n="21"/>ήτρμθνον τ λυσον. In his verbis duo consideranda sunt. Primum, Scripturas 
+      <lb ed="#C" n="22"/>veteris &amp; novi Testamenti docere nos, &amp; quidem σαρως, plane, quid nos 
+      <lb ed="#C" n="23"/>oporteat de divinis rebus sentire. Secundum, Ergo oportere nos 
+      om<lb ed="#C" n="24" break="no"/>nem controversiam ex verbis divinitus inspiratis definire. Objicit 
+      Bel<lb ed="#C" n="25" break="no"/>larminus, primo, Constantinum fuisse Imperatorem magnum, sed non 
+      <lb ed="#C" n="26"/>magnum Doctorem. Respondeo: primo, Fateor quidem non fuisse 
+      Epis<lb ed="#C" n="27" break="no"/>copum, vel Doctorem Ecclesiae, sed pium tamen, &amp; doctum hominem: 
+      <lb ed="#C" n="28"/>fuisse affirmo, &amp; religionis studiosum, &amp; Ecclesiae maxime vtilem. Id 
+      pa<lb ed="#C" n="29" break="no"/>tet ex Theodoret. 1. Cap. 24. Dum enim Episcopi lacerarent Ecclesiam, 
+      <lb ed="#C" n="30"/>eiusque pacemperturbarent, ille Ecclesiam conservavit, &amp; curavit. 
+      Se<lb ed="#C" n="31" break="no"/>cundo, Hanc Constantini vocem apud Patres Nicenos editam, nullus 
+      <lb ed="#C" n="32"/>Episcopus improbavit, vel eorum, qui interfuerunt Concilio Niceno, vel  
+      <lb ed="#C" n="33"/>eorum, qui postea in Ecclesia clari extiterunt. At si legitimanon fuisset. 
+      <lb ed="#C" n="34"/>aliquis procul dubio aut mox intercessisset, aut aliquando cavendam 
+      es<lb ed="#C" n="35" break="no"/>se monuisset. Vult ille ex Scripturis Evangelicis, Apostolicis, 
+      Propheti<lb ed="#C" n="36" break="no"/>cis, hanc litem componi. Et Evagrius, 22. Lib. Histor. similem 
+      vocem<lb ed="#C" n="37" break="no"/>a Ioanne Antocheno Episcopo, in Concilio Ephesine editam fuisse, 
+      te<lb ed="#C" n="38" break="no"/>statur. Atque eam etiam laudavit Cyrillus Alexandrinus. Secunda, obii¬  
+      <!--522.xml-->
+      <pb ed="#L" n="513"/>
+               <lb ed="#C" n="1"/>cit Bellarminus, eorum dogmatum, quae naturam Dei attingunt, ad 
+      eam<lb ed="#C" n="2" break="no"/>que pertinent, confirmationem posse ex Scripturis deduci; sed verum. 
+      <lb ed="#C" n="3"/>sensum Scripturae pendere ex Traditione Ecclesiae non scripta. Respondeo: 
+      <lb ed="#C" n="4"/>primo, Fortassis hallucinandi occasio nata est ex his verbis, ωοι τοῦ Sειν. Et  
+      <lb ed="#C" n="5"/>ita quidem Hardingus, in libro illo, quem scripsit contra Apologiam 
+      <lb ed="#C" n="6"/>Anglicanam, conatur hoc testimonium eludere. Sed turpiter erravit 
+      Har<lb ed="#C" n="7" break="no"/>dingus: &amp; si in eadem opinione sit Bellarminus, ille etiam turpissime 
+      hal<lb ed="#C" n="8" break="no"/>lucinatus est. Nam ωρι το Sειν non significat tantum, de s, quae ad divinam 
+      <lb ed="#C" n="9"/>naturam pertinent, sed, vt Cassiodorus transtulit, de divina voluntate, vel de 
+      <lb ed="#C" n="10"/>divina lege, hoc est, de omnibus causis ad religionem &amp; fidem 
+      pertinenti<lb ed="#C" n="11" break="no"/>bus. Ipse interpres, quem sequitur Bellarminus, vertit de rebus diuvinis, &amp; 
+      <lb ed="#C" n="12"/>sic omnino verti debet. Ac Theodoretus ipse verbis proxime 
+      praecedenti<lb ed="#C" n="13" break="no"/>bus habet, deι τος θειον ωραγματον, hoc est, de rebus ad religionem fidemque  
+      <lb ed="#C" n="14"/>pertinentibus. Deinde ait, nos habere doctrinam Spiritus sancti in scripto, 
+      <lb ed="#C" n="15"/>το παναγισ πευνματος διδατκαλίαν αναχρατον ἐγονεας. Praeterea, Constantinus 
+      <lb ed="#C" n="16"/>ait; Ex Scripturis sumamus δζητυμηνον τυθλυσν, hoc est, non huius tantum 
+      <lb ed="#C" n="17"/>quaestionis, sed &amp; omnium quaestionum solutionem. Secundo. Quod ait, 
+      <lb ed="#C" n="18"/>verum sensum Scripturae ex Traditione Ecclesiae non scripta pendere, 
+      <lb ed="#C" n="19"/>palam Scripturas Ecclesiae submittit, quod tamen alibi sibi non 
+      probari<lb ed="#C" n="20" break="no"/>significat. Nam si verus sensus Scripturae pendet ex Ecclesia, tum esse 
+      ma<lb ed="#C" n="21" break="no"/>iorem Ecclesiae, quam Scripturae fidem atque authoritatem, manifestum est; 
+      <lb ed="#C" n="22"/>cum Ecclesiae Traditionem non scriptam sensus Scripturae verus 
+      sequa<lb ed="#C" n="23" break="no"/>tur. Et Scriptura quid aliud est, quam Scripturae sensus? Quod tertio 
+      <lb ed="#C" n="24"/>Bellarminus objicit, Arianos non convictos &amp; damnatos fuisse 
+      Scriptu<lb ed="#C" n="25" break="no"/>rarum testimonijs, illud falsum esse, patet ex Theodoret. 8. cap. 
+      eius<lb ed="#C" n="26" break="no"/>dem libri, &amp;ζ ἐγνργφον μιι ευσεξειας οννουμζυον λόζεον κα τεκριθεσον: &amp; ex 
+      So<lb ed="#C" n="27" break="no"/>crate, Lib. 1. Cap. 6. vbi haec verba habentur, ανατυζαντεσ τuς θείας γξα¬ 
+      <lb ed="#C" n="28"/>ρas τολλακις ανετραλαμδν υτός. Evolventes, vel explicantes Scripturas 
+      saepe<lb ed="#C" n="29" break="no"/>illos evertimus. Quod quanquam Socrates non de Niceno 
+      Concilio<lb ed="#C" n="30" break="no"/>scri psit, sed de Alexandrino paucorum Episcoporum &amp; 
+      Presbyte<lb ed="#C" n="31" break="no"/>torum conventu, tamen quis non videt Scripturis apertissime damnati 
+      <lb ed="#C" n="32"/>Arianos, nisiforte Alexandriae plus Scripturae, quam Nic eae, valuissentr 
+      <lb ed="#C" n="33"/>Atque Athanasius quid aliud fecit, quam ex Scripturis Arium damnavit? 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e788">
+               <lb ed="#C" n="34"/>Quartum nostrum testimonium sumitur ex Athanasio in libro contra 
+      <lb ed="#C" n="35"/>Gentes, vel Idola: Scripturae safficiunt ad omnem veritatis instructionem 
+      si<lb ed="#C" n="36" break="no"/>ve institutionem. Bellarminus respondet, Chemnicium addidisse illud (
+      om<lb ed="#C" n="37" break="no"/>nem Jde suo. Respondeo: Addidit quidem, sed non commutavit sensum. 
+      <lb ed="#C" n="38"/>Id enim Athanasium velle, ex ipso loco manifestum est, qui habetur in 
+      <!--523.xml-->
+      <pb ed="#L" n="514"/>
+               <lb ed="#C" n="1"/>principio libri. Deinde, respondet Bellarminus, Athanasium loqui eonis 
+      <lb ed="#C" n="2"/>loco de duobus tantum dogmatibus, quorum vnum est deidolis non 
+      co<lb ed="#C" n="3" break="no"/>lendis, alterum vero est de duplici Christi natura, Christum scilicet esse 
+      <lb ed="#C" n="4"/>Deum &amp; hominem verum. Respondeo, duo quidem haec tractari in illis 
+      <lb ed="#C" n="5"/>ad. Macarium libris. At hoc non impedit, quo minus haec sententia ad 
+      <lb ed="#C" n="6"/>omnia alia dogmata valeat &amp; accommodetur, &amp; verba ipsageneraliter  
+      <lb ed="#C" n="7"/>intelligantur. Tertio, concedit sufficere Scripturas, sed non sine 
+      explicatio<lb ed="#C" n="8" break="no"/>ne Patrum. Res pondeo: At per explicationem Patrum intelligit 
+      Bellami<lb ed="#C" n="9" break="no"/>nus Traditiones non scriptas. Si intelligeret interpretationem Patrum, 
+      <lb ed="#C" n="10"/>minus pugnaremus. Et tamen, non simpliciter sunt necessariae Patrum: 
+      <lb ed="#C" n="11"/>interpretationes, quia aliquando nullae erant Patrum expositiones, &amp; 
+      ta<lb ed="#C" n="12" break="no"/>men Scripturae intelligebantur. Et Athanasius ipse, eodem in loco 
+      diser<lb ed="#C" n="13" break="no"/>te scribit, veritatem Scripturarum esse notam &amp; Sole clariorem. 
+      Tumsub<lb ed="#C" n="14" break="no"/>jungit, Scripturae safficiunt; &amp; poste a ait quidem Patres legendos esse, 
+      pro<lb ed="#C" n="15" break="no"/>pter perversitatem nonnullorum, qui nolunt manifesta recipere. Unde 
+      <lb ed="#C" n="16"/>apparet, cum intelligere, Patres non esse omnino &amp; simpliciter ad 
+      intelli<lb ed="#C" n="17" break="no"/>gendas Scripturas necessarios. Idem etiam, in Lib. 3. contra Arianos, ait; 
+      <lb ed="#C" n="18"/>Audiendo Scripturas inducimur in fidem. Hoc illud est, quod nos supra 
+      pio<lb ed="#C" n="19" break="no"/>bavimus ex Rom. 10. Fides ex auditu, auditus vero per verbum Dei. Etini 
+      <lb ed="#C" n="20"/>Synopsi sua ait, divinam Scripturam certis libris comprehensam, esse anibo 
+      <lb ed="#C" n="21"/>ram &amp; sustentaculum fidei nostrae: Ergo non Traditionibus fides nosti, 
+      <lb ed="#C" n="22"/>sed Scripturis suftentatur.  
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e853">
+               <lb ed="#C" n="23"/>Quintum testimonium est Basilij Magni, in lib. de confessione fidei, ubil 
+      <lb ed="#C" n="24"/>sic scribit: Manifestum est infidelitatis &amp; arrogantiae crimen, vel 
+      rejceredi<lb ed="#C" n="25" break="no"/>quid, quod scriptum est, vel addere aliquid, quod non est scriptum, ωανeργ dο¬ 
+      <lb ed="#C" n="26"/>σις πισεως κι ωρηρανιας κατηγορια, ι αθετεῖν τι τξχεχζαμμδαον,  ἐπειπανεν θοα 
+      <lb ed="#C" n="27"/>νερζαμαηνον. Locuis inptimis egregius. Bellarminus respondet hunc 
+      Basisijlo<lb ed="#C" n="28" break="no"/>cum intelligi, non de Apostolicis Traditionibus, sed de ijs, quae sunt Scriptuis 
+      <lb ed="#C" n="29"/>contrariae, quaeque a privatis hommibus inventae sunt. Respondeo, haec veba 
+      <lb ed="#C" n="30"/>Scupturae perfectionem luculentissime confirmare. Nam pauloprius ait fla 
+      <lb ed="#C" n="31"/>silius: Ego ἀπρ ἔμα τον ακ τ θετενευσς χαρῆς, quae ex divina Scripturarmus 
+      <lb ed="#C" n="32"/>haec vobis pro beneplacito Dei ad communem vtilitatem proponereus 
+      <lb ed="#C" n="33"/>enim Dominus ipse, in quo beneplacitum est patri, in quo sunt ommuiesum, 
+      <lb ed="#C" n="34"/>supientiae &amp; scientiae absconditi, qui omnem potestatem &amp; omnequdicuma. 
+      <lb ed="#C" n="35"/>Patre accepit, Mandatum, inquit, mihi dedit, quid dicam, &amp; quiddoanaο 
+      <lb ed="#C" n="36"/>iterum, Quae igitur ego loquor, sicat dixit mihi Pater, sic loquor; &amp; Smus 
+      <lb ed="#C" n="37"/>sanctus a seipso non loquitur, sed quaecunque audit abipso, haec &amp; loquium, 
+      <lb ed="#C" n="38"/>quanto magis nobis ἐυσεδες α ἀσρδιεε, pium simul est &amp; cautum, hoc sentire &amp; 
+      <!--524.xml-->
+      <pb ed="#L" n="515"/>
+               <lb ed="#C" n="1"/>facere in nomine Domini nostri Iesu Christi. Postea vero ait, Si fidelis est 
+      <lb ed="#C" n="2"/>Dominus in omnibus verbis ipsius, &amp; fidelia sunt omnia mandata illius, 
+      confir<lb ed="#C" n="3" break="no"/>mata in saculum seculi, facta in veritate &amp; aequitate. Tum subiungit illa 
+      <lb ed="#C" n="4"/>verba, quae nos prius introduximus, nempe, Manifestum est perfidiae &amp; 
+      ar<lb ed="#C" n="5" break="no"/>rogantia crimen, vel res puere aliquid eorum, quae Scriptura habet, vel 
+      induce<lb ed="#C" n="6" break="no"/>re quicquam, quod scriptum non est. Tum sequitur, Cum Dominus noster 
+      Ie<lb ed="#C" n="7" break="no"/>sus Christus dicat, Qves meae vocem meam audiunt, &amp; praemiserit, 
+      eAlie<lb ed="#C" n="8" break="no"/>num autem non sequuntur, sed fugiunt ab illo, quoniam non norunt vocem 
+      ali<lb ed="#C" n="9" break="no"/>enorum Et Apostolus per humanum exemplum vehementer prohibeat; aliquid I 
+      <lb ed="#C" n="10"/>diuvinis Scripturis vel addere, vel demere, cum dicit, Hominis tamen 
+      Testa<lb ed="#C" n="11" break="no"/>mentum corroboratum nemo reprobat, aut aliquid illi superstruit; Proinde 
+      <lb ed="#C" n="12"/>quamcunque alienam a doctrina Domini vocem ac mentem ita nos semper, &amp; 
+      <lb ed="#C" n="13"/>nunc, fugiendam esse cognovimus. Testatur ergo Basilius omnia, 
+      quaecun<lb ed="#C" n="14" break="no"/>que illa sint, fidei dogmata, in Scripturis reperiri, illos ergo violare 
+      Testa<lb ed="#C" n="15" break="no"/>mentum Dei, qui alia quaerunt dogmata extra Scripturas. Damnat ergo 
+      <lb ed="#C" n="16"/>alia omnia, tanquam peregrina, ζeνa &amp; αιοτεια. At Bellarminus ait 
+      Basili<lb ed="#C" n="17" break="no"/>lum eodem in loco dicere, se contra haereticos coactum esse vti 
+      sermoni<lb ed="#C" n="18" break="no"/>bus non scriptis. Respondeo. Vsus quidem est non sermonibus, sed 
+      voci<lb ed="#C" n="19" break="no"/>bus non scriptis, quae tamen a Scriptura eiusque pio sensu alienae non 
+      e<lb ed="#C" n="20" break="no"/>trant. Non nova dogmata, sed nova tantum vocabula quaedam adhibuit.  
+      <lb ed="#C" n="21"/>huiusmoditamen quae sensum peregrinum non inducerent. Nam ait, has 
+      <lb ed="#C" n="22"/>ροvas non fuisse ἀπεζεναμηυας τχι χαρην ευσεζῆς διανίας. Etsi illa vocabula 
+      <lb ed="#C" n="23"/>Seva erant λζει, tamen non habebant ζενον νοu, sed servabant διώνοιαν ἐγ¬ 
+      <lb ed="#C" n="24"/>xειαθίυιν τς γοαρς Illa ergo omnia statuit esse ζiva, &amp; falsa, &amp; respuenda, 
+      <lb ed="#C" n="25"/>quae non habent sententiamin Scripturis insitam. Ergo intelligit palam 
+      <lb ed="#C" n="26"/>non dogmata, sed nomina quaedam αγζαρα, cuiusmodi est qμήσον, &amp; 
+      hu<lb ed="#C" n="27" break="no"/>iusmodi alia, quibus disputans contra haereticos vti solitus est. Alius 
+      lo<lb ed="#C" n="28" break="no"/>cus Bafilij est in Epist. 89. ad Eustathium medicum, ubi Basilius in hunc 
+      <lb ed="#C" n="29"/>modum scribit: Non putamus aequum esse, vt quae apud ipsos obtinuit 
+      loquen<lb ed="#C" n="30" break="no"/>di consuetudo, pro lege ac Canone habeatur rectae doctrinae. Si enim ad 
+      proban<lb ed="#C" n="31" break="no"/>dam doctrinam rectam valet consuetudo, dicet &amp; nobis omnino hac in re illos 
+      <lb ed="#C" n="32"/>imitari. Stemus itaque arbitratu inspiratae a Deo Scripturae, &amp; apud quos 
+      in<lb ed="#C" n="33" break="no"/>veniuntur dogmata diuvinis oraculis consona, illis omnino veritatis 
+      adiudice<lb ed="#C" n="34" break="no"/>tur sententia. Bellarminus ait eum loqui, non de aliqua Traditione a tota 
+      <lb ed="#C" n="35"/>Ecclesia recepta, sed de particularibus consuetudinibus. Respondeo: 
+      <lb ed="#C" n="36"/>Quaestio magna hoc loco tractatur &amp; agitatur, nempe vtrum liceat 
+      di<lb ed="#C" n="37" break="no"/>cere τεις οτεσει κι μιαν θεθτηα. Quidam consuetudinem afferebant  
+      <lb ed="#C" n="38"/>atque vrgebant, sed ille ait non aequum esse, vt consustudo sit regula, 
+      <!--525.xml-->
+      <pb ed="#L" n="516"/>
+               <lb ed="#C" n="1"/>γομος κικανον το ὀρθο λόγη, Tum ait, Θυκουσ η θεοποδσος ημιν διαετεσάτυγξαοη: 
+      <lb ed="#C" n="2"/>&amp; tum pulcherrime, χπαρ δις αν ἐυρεθς τα δξγματα ζυυωα τυις θειοις λόγοις, 
+      <lb ed="#C" n="3"/>ἐτῆ τοτοις κζει παντως τ δηηθειας η διῳ ο. Stemus arbitratu diuvinitus inspiratae 
+      <lb ed="#C" n="4"/>Scripturae, &amp; apud quos inveniuntur doomata diuinis oraculis consona, illis 
+      <lb ed="#C" n="5"/>omnino veritatis adiudicetur sententia. Ubi primo ostendit, sermones 
+      divi<lb ed="#C" n="6" break="no"/>nos &amp; ipsas Scripturas esse idem: secundo, dogmata illa, quae consentiunt 
+      <lb ed="#C" n="7"/>cum Scripturis, esse recipienda, alia vero rejicienda esse. Et de 
+      Basilijtesti<lb ed="#C" n="8" break="no"/>monio hactenus. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1000">
+               <lb ed="#C" n="9"/>Sextum nostrum testimonium est ex nonnullis Chrysostomi sententiis. 
+      <lb ed="#C" n="10"/>In Homil. 11. in Matth. ait, Scripturis opus esse, quia multi doctrinam 
+      cor<lb ed="#C" n="11" break="no"/>rumpunt. In Homil. 13. in Genesin ait: Scriptura non sinit auditoremerrare 
+      <lb ed="#C" n="12"/>Tum subiungit, Sed quia plerique, non vt commodi quippiam ex sacris literis. 
+      <lb ed="#C" n="13"/>aucupentur, sed voluptatis gratia aures accommodant his qui taliatractant, 
+      <lb ed="#C" n="14"/>&amp; propterea non eos, qui magis prosunt, sed qui magis oblectant, vt audire 
+      pos<lb ed="#C" n="15" break="no"/>sint, quaerunt; oro igitur, vt omnibus illis praeclusis auribus, ad amussim. 
+      Cano<lb ed="#C" n="16" break="no"/>nem sacrae Scripturae sequamur. In Homil. 32. in 217. Epist. ad 
+      Thessaloni<lb ed="#C" n="17" break="no"/>censes ait, omnia in Scripturis manifesta esse, quae sunt necessaria. Ad 
+      haec<lb ed="#C" n="18" break="no"/>omnia Bellarminus nihil respondet, nisi, quorsum haece Respondeo, &amp; 
+      o<lb ed="#C" n="19" break="no"/>stendo quorsum: Nempe si ideo scriptum est Evangelium, ne 
+      comumpe<lb ed="#C" n="20" break="no"/>retur, tum omnia sunt scripta, quia nihil debet corrumpi: Si Scriptura 
+      lite<lb ed="#C" n="21" break="no"/>ris mandata est, ne erremus, tum omnia sunt scripta, quia nulla 
+      inteer<lb ed="#C" n="22" break="no"/>rare debemus: Si ad hunc Canonem Scripturarum omnia referri debent, 
+      <lb ed="#C" n="23"/>tum Scriptura omnium actionum nostrarum &amp; dogmatum 
+      perfectare<lb ed="#C" n="24" break="no"/>gula est: Si in Scripturis omnia necessaria sint manifesta, tum nihil 
+      neces<lb ed="#C" n="25" break="no"/>sarium est extra Scripturas. Idem in 49. Homil. in opere imperfecto in 
+      <lb ed="#C" n="26"/>Matth. sic scribit: Tunc cum videritis abominationem desolationis stantem? 
+      <lb ed="#C" n="27"/>in loco sancto, id est (inquit) cum viderit is haeresin impiam, quae est exercitus 
+      <lb ed="#C" n="28"/>Antichristi, stantem in locis sanctis Ecclesiae; in illo tempore, qui in 
+      ludaea<lb ed="#C" n="29" break="no"/>sunt, fugiant ad montes, id est, qui sunt in Christianitate, conferant se ad 
+      Seri<lb ed="#C" n="30" break="no"/>pturas. Sicut enim verus Iudaeus est Christianus, dicente Apostolo; 
+      Nonqui<lb ed="#C" n="31" break="no"/>in manifesto Iudaeus est, sed qui in occultos sic vera Iudaea Christianitas est,
+      eu<lb ed="#C" n="32" break="no"/>ius nomen intelligitur confessio. Montes autem sunt Scripturae eApostalomam 
+      <lb ed="#C" n="33"/>aut Prophetarum, de quibus dictum est, Illuminas tu mirabiluer aamibus: 
+      <lb ed="#C" n="34"/>eternis: &amp; iterum de Ecclesia dicit, Fundamenta eius in montibus sanctis μe: 
+      <lb ed="#C" n="35"/>spondet Bellarminus, non Chrysostomum, sed haereticum fuissetharum 
+      <lb ed="#C" n="36"/>homiliarum authorem. Respondeo. Re vera quidam existimanthas 
+      homi<lb ed="#C" n="37" break="no"/>li asesse Maximini cuiusdam, qui fuit Arianus: sed vtilis liber est, &amp; haec 
+      senten<lb ed="#C" n="38" break="no"/>tia pia est, non modo Scripturis, sed &amp; aliis Patribus consentiens. Augu¬ 
+      <!--526.xml-->
+      <pb ed="#L" n="517"/>
+               <lb ed="#C" n="1"/>stinus, cap. 12. de Pastoribus ait, Audite vocem Pastoris: colligite vos ad 
+      <lb ed="#C" n="2"/>montes Scripturae sanctae. Et ratio, qua vtitur, comprobat huius sententiae 
+      <lb ed="#C" n="3"/>verit atem, quae sequitur illo in loco: et quare (inquit) iubet in hoc tempore 
+      <lb ed="#C" n="4"/>omnes Christianos conferre se ad Scripturas? Quia in tempore hoc, ex quo 
+      ob<lb ed="#C" n="5" break="no"/>tinuit haeresis illas Ecclesias, nulla probatio potest esse verae Christianitatis, 
+      ne<lb ed="#C" n="6" break="no"/>que re fugium potest esse Christianorum aliud, volentium cognoscere fidei 
+      ve<lb ed="#C" n="7" break="no"/>ritatem, nisi Scripturae divinae. e Antea enim multis modis ostendebatur, quae 
+      <lb ed="#C" n="8"/>esset Ecclesia Christi, &amp; quae Gentilitas: nunc autem, nullo modo cognoscitur,  
+      <lb ed="#C" n="9"/>volentibus cognoscere quae sit vera Ecclesia Christi, msi tantummodo per 
+      Scri<lb ed="#C" n="10" break="no"/>pturas. Quare? Quia omnia quae sunt proprie Christi in veritate, habent &amp; 
+      <lb ed="#C" n="11"/>haereses illae in schismate, similiter Ecclesias, similiter &amp; ipsas Scripturas 
+      divi<lb ed="#C" n="12" break="no"/>nas, similiter Episcopos, caeterosque ordines clericorum, similiter Baptismum, 
+      si<lb ed="#C" n="13" break="no"/>militer Eucharistiam, &amp; caetera omnia; denique ipsum Christum. Oolens ergo 
+      <lb ed="#C" n="14"/>quis cognoscere quae sit vera Ecclesia Cbristi, unde cognoscat in tantae 
+      confusi<lb ed="#C" n="15" break="no"/>one similitudinis, nisi tantummodo per Scripturas? Et in eandem sententiam 
+      <lb ed="#C" n="16"/>plura sequuntur apud eundem authorem. Alius locus Chrysostomi 
+      ha<lb ed="#C" n="17" break="no"/>betur in homilia sua, in Psal. 95. vbi sic scribit: Non oportet quicquam 
+      di<lb ed="#C" n="18" break="no"/>cere sine testibus, solaque animi cogitatione. Nam si quid dicitur absque Scriptura, 
+      <lb ed="#C" n="19"/>auditorum cogitatio claudicat, nunc annuens, nunc haesitans, &amp; interdum 
+      ser<lb ed="#C" n="20" break="no"/>monem vt frivolum aversans, interdum vi probabilem recipiens. Derum ubi 
+      e<lb ed="#C" n="21" break="no"/>Scriptura divinae vocis prodist testimonium, &amp; loquentis sermonem, &amp; 
+      audien<lb ed="#C" n="22" break="no"/>tis animum confirmat. Haec Chrysostomus. Nihil ergo extra Scripturam 
+      <lb ed="#C" n="23"/>dicendum est, ne auditorum cogitatio claudicet aut vacillet. Bellarminus 
+      <lb ed="#C" n="24"/>respondet, hic prohiberi, ne quid ex nostra inventione dicamus, quia non 
+      <lb ed="#C" n="25"/>tam fatise persuadetur, quod ex inventione nostra dicitur, quamquod 
+      ex<lb ed="#C" n="26" break="no"/>Scripturis confirmatur. Respondeo: Quam hoc ridiculum subterfugium 
+      <lb ed="#C" n="27"/>Nam quod ex propria inventione dicitur, ommno respuendum est. Sed  
+      <lb ed="#C" n="28"/>Chrysostomus ait, nihil oportere dici sine testibus, &amp; sola cogitatione, &amp; 
+      <lb ed="#C" n="29"/>sine Scriptura: indicans id sola animi cogitatione, &amp; sine testibus, &amp; ex 
+      <lb ed="#C" n="30"/>propria inventio ne dici, quod sine Scripturae testimonio dicitur. Nam 
+      <lb ed="#C" n="31"/>si quid eiusmodi dicetur, incertum erit, &amp; animos auditorum in 
+      ancipi<lb ed="#C" n="32" break="no"/>tem haesitationem inducet. Idem etiam Chrysostomus, in Homil. 13. in 
+      <lb ed="#C" n="33"/>vν. Epist. ad Corinth: sic scribit: Quomodo non absurdum est propter 
+      pecu<lb ed="#C" n="34" break="no"/>nias alijs non credere, sed ipsas numerare &amp; supputare, pro rebus autem 
+      am<lb ed="#C" n="35" break="no"/>plioribus aliorum sententiam sequi simpliciter, prae sertim cum habeamus 
+      om<lb ed="#C" n="36" break="no"/>niumo exactissimam trutinam, &amp; gnomonem, ac regulam, divinarum (
+      in<lb ed="#C" n="37" break="no"/>quam) legum assertiorem. Ideo obsecro &amp; oro omnes vos, vt relinquatis 
+      <lb ed="#C" n="38"/>quidnam huic velilli videatur, deque his a Scripturis haec omnia inquirite. 
+      <!--527.xml-->
+      <pb ed="#L" n="518"/>
+               <lb ed="#C" n="1"/>Bellarminus miseram &amp; ineptam responsionem adhibet. Ait eum 
+      lo<lb ed="#C" n="2" break="no"/>qui de ijs, qui opes paupertati anteponunt, cum Scriptura secus doceat.  
+      <lb ed="#C" n="3"/>Respondeo: Non de hac tantum re loquitur Chrysostomus, sed ait nos 
+      ha<lb ed="#C" n="4" break="no"/>bere ἀπαίτον, omnium exactissimam trutinam, &amp; perfectissunam regulam, 
+      <lb ed="#C" n="5"/>σεθρατν ττν θειον νομον, assertionem legum divinarum. Quam vero assertuo. 
+      <lb ed="#C" n="6"/>nem intelligat, post ostendit, quando ait, ωζα τῶχεαρον ταθτα ταθταπον: 
+      <lb ed="#C" n="7"/>θεiνeθe. Ergo admonet ne τῶς τον τολλῶν ωριριρωυαν δοζασ, sed 
+      omniaige<lb ed="#C" n="8" break="no"/>τωιοο, idque silitudine illustrat: Nummos ἀριθμα &amp; ιρῳ explorare 
+      <lb ed="#C" n="9"/>solemus: at hisce de rebus nos multo magis solicitos esse convenit. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1178">
+               <lb ed="#C" n="10"/>Septimum nostrum testimonium est Epiphanij, in haeres. 61. Hoc profert! 
+      <lb ed="#C" n="11"/>Bellarminus. Sed est illustrius testimonium, haeres. 69. vbi Epiphanius 
+      <lb ed="#C" n="12"/>ostendit, cur librum αἀγμυρωτὸν inscripserit, quia ex Scriptura vniversa 
+      congre<lb ed="#C" n="13" break="no"/>gavit doctrinam Dei, veluti anchoram. Erco Scriptura est anchora 
+      fideimo<lb ed="#C" n="14" break="no"/>strae. Et in eodem loco, aliquanto post, ait Christum dici lapidem angularem, 
+      <lb ed="#C" n="15"/>quia construxit nobis vetus &amp; novum Testamentum. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1194">
+               <lb ed="#C" n="16"/>Octavum nostrum testimonium est Cyrilli, in libro de fide ad Reginas, vbii 
+      <lb ed="#C" n="17"/>haec verba habet: Necessarium nobis est sequidivinas literas, &amp; innullare 
+      <lb ed="#C" n="18"/>discedere ab carum praescripto. Bellarminus ait eum tantum affimare, non 
+      no<lb ed="#C" n="19" break="no"/>va dogmata proferenda esse Scripturis contraria. Respondeo: Cyrillus nos 
+      ad<lb ed="#C" n="20" break="no"/>Scripturae praescripta, tanquam perfecta, revocat. Nam sufficere Scripturas, 
+      <lb ed="#C" n="21"/>aperte ait in lib. 12. in loann. cap. 68. Non omnia, quae Dominus ficit, 
+      <lb ed="#C" n="22"/>conscripta sunt, sed quae scribentes tam ad mores, quam ad dogmataputarunt 
+      <lb ed="#C" n="23"/>sufficere, vt recta fide &amp; operibus ac virtute rutilantes ad regnum colorum: 
+      <lb ed="#C" n="24"/>perveniamus. Idem etiam, in homil. 5, in Levit. in hunc modumsctibit: Ego 
+      <lb ed="#C" n="25"/>(prout sensus mei capacitas habet) in hoc biduo puto duo Testamenta 
+      posseis<lb ed="#C" n="26" break="no"/>telligi, in quibus liceat omne verbum, quod ad Deum pertinet (hocenimest; 
+      <lb ed="#C" n="27"/>sacrificium) requiri &amp; discuti, atque ex ipsis omnem rerum scientiamacapi 
+      <lb ed="#C" n="28"/>Si quid autem super fuerit, quod non Scriptura divina decernat, nullamaliam 
+      <lb ed="#C" n="29"/>debere tertiam Scripturam ad authoritatem scientiae suscipi, quae hic dus 
+      ten<lb ed="#C" n="30" break="no"/>tia nominatur, sed ignitradamus quod superest, id est, Deo reservemis. 
+      Res<lb ed="#C" n="31" break="no"/>pondet duo Bellarminus. Primo, Cyrillum non fuisse harum homilianman 
+      <lb ed="#C" n="32"/>thorem, sed Origenem, vel nescio quem, qui vt sensum suum mysicumsin 
+      <lb ed="#C" n="33"/>quit) stabiliat, literam passim destrut. Respondeg: Sivae Cyrilli, sneuge 
+      <lb ed="#C" n="34"/>nis sit, non multum interest. Par enim authoritas vuriusque. Consectaturre 
+      <lb ed="#C" n="35"/>vera allegorias, vt alij Patres, sed haec sententia vera est &amp; pia. Secundos aiti 
+      <lb ed="#C" n="36"/>non damnari hic omnem non scriptam doctrinam, sed tertiam; Scripturam 
+      <lb ed="#C" n="37"/>quae se pro divina venditat, cum humana sit. Respondeo: verba 
+      manifesta<lb ed="#C" n="38" break="no"/>sunt: non modo tertiam Scripturam rejicit, sed clare affirmat, in duobus Te¬ 
+      <!--528.xml-->
+      <pb ed="#L" n="519"/>
+               <lb ed="#C" n="1"/>stamentis omne verbum requiri posse, quod ad Deum pertineat. Ergo quae 
+      <lb ed="#C" n="2"/>non possunt in his duobus Testamentis inveniti, ea nullo modo ad Deum 
+      per<lb ed="#C" n="3" break="no"/>tinent. Ad quem igitur Traditiones non scriptas pertinere exisiimemus? 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1257">
+               <lb ed="#C" n="4"/>Nonum nostrum testimonium est Theophili Alexandini, Ism a 
+      Pas<lb ed="#C" n="5" break="no"/>chali sic scribit: Diabolicis piritus est, extra Scripturarum sacrarum 
+      authori<lb ed="#C" n="6" break="no"/>tatem diuvnum aliquid putare. Bellarminus ait, eum loquide libris 
+      Apociy<lb ed="#C" n="7" break="no"/>phis, quos nonnulli introducere conatisunt. Respondeo: Verba sunt aperta, 
+      <lb ed="#C" n="8"/>nihil divinum esse extra Scripturas: At Traditiones sunt extra Scripturas: non 
+      <lb ed="#C" n="9"/>ergo divinae sunt,  
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1273">
+               <lb ed="#C" n="10"/>Decimum nostrum testimonium est Apollinaris cuiusdam, de quo Euseb. 
+      <lb ed="#C" n="11"/>lib. 5. cap. 15. Ille ait se distulisse scribere diu contra Montanum, ne 
+      videre<lb ed="#C" n="12" break="no"/>tur aliquid addere Evangelicosermoni. Respondet Bellarminus primo, haec  
+      <lb ed="#C" n="13"/>verba non reperri in omnibus libris. Respondeo: In Graeco codice 
+      reperi<lb ed="#C" n="14" break="no"/>untur in cap. 16. in versione Christophorsoni &amp; Musculi in cap. 15. Et libri: 
+      <lb ed="#C" n="15"/>qui non habent, sunt vitiosi. Secundo, ait eum non dicere Evangelico Dei 
+      <lb ed="#C" n="16"/>verbo scripto, sed tantum Evangelico Dei verbo. Respondeo: At intelligit: 
+      <lb ed="#C" n="17"/>verbum scriptum, vtpatet ex verbis. Ait enim se veritum esse, ne videretur. 
+      <lb ed="#C" n="18"/>επσθγγργφειν, vel θεδιατάωσεο ττ τκ ευαγγρισ καυῆς διαθικηλόγα: hoc est, 
+      <lb ed="#C" n="19"/>addere aliquid ad Evangelium scriptum. Deinde, non potuit veteri, ne 
+      scri<lb ed="#C" n="20" break="no"/>bendo aliquid adderet doctrinae non scriptae, sed libris scriptis. Tertio: ait 
+      <lb ed="#C" n="21"/>eum intelligere contrarium dogma Scripturis, &amp; cavisse ne contrarium 
+      ali<lb ed="#C" n="22" break="no"/>quid scriberet. Respondeo. Hoc facile cavere potuit, ne contrarium 
+      scribe<lb ed="#C" n="23" break="no"/>ret: sed ille verebatur, ne librum ab eo scriptum quisquam putaret addere 
+      <lb ed="#C" n="24"/>aliquid ad Canonem, vt multa Mentanus addidit. Tum subiungit: Non 
+      <lb ed="#C" n="25"/>potest quisquam veladdere, vel detrahere Scripturae veteris &amp; novi 
+      Testa<lb ed="#C" n="26" break="no"/>menti, μῆτε ωροδειναι, μητε αρθειν δυνατον, Ergo perfectam esse doctrinam 
+      <lb ed="#C" n="27"/>Scripturarum constat.  
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1315">
+               <lb ed="#C" n="28"/>Ondecimum nostrum testimonium est Tettulliani (jam enim venio ad 
+      Pa<lb ed="#C" n="29" break="no"/>tres Latinos, Jex libro contra Hermogenem haereticum, vbi haec verba 
+      haben<lb ed="#C" n="30" break="no"/>tur: Adoro Scripturae plenitudinem, quae mihi factorem manifestat &amp; 
+      facta<lb ed="#C" n="31" break="no"/>In Evangelio vero amplius &amp; ministrum atque arbitrum rectoris invenio 
+      <lb ed="#C" n="32"/>sermonem, An autem de aliqua subiacenti materia facta sint omnia, nusquam 
+      <lb ed="#C" n="33"/>adhuc leci. Scriptum esse doceat Hermogenis officina, aut timeat vae illud, 
+      ad<lb ed="#C" n="34" break="no"/>icientibus, aut detrahentibus, destinatum. In his verbis duo sunt 
+      consideran<lb ed="#C" n="35" break="no"/>da. Primum est, Scripturam esse plenam ac perfectam, quod patet exhis 
+      ver<lb ed="#C" n="36" break="no"/>bis, Adoro plenitudinem Scripturae. Alterum est, quicunque aliquid afferunt 
+      <lb ed="#C" n="37"/>aut tradunt, quod non sitscriptum, iis timendum esse illud vae, quod 
+      habe<lb ed="#C" n="38" break="no"/>tur Apocalyp. 24. 18. Non illos tantum timere vult, qui afferunt aliquid J 
+      <!--529.xml-->
+      <pb ed="#L" n="520"/>
+               <lb ed="#C" n="1"/>contra Scripturas, sed &amp; eos etiam qui aliquid afferunt, quod non sit 
+      scr<lb ed="#C" n="2" break="no"/>ptum. Bellarminus ait Tertullianum loqui de vno tantum dogmate, nempe 
+      <lb ed="#C" n="3"/>Deum ex nihilo, non ex praeexistente aliqua materia, omnia condidisse. 
+      Scri<lb ed="#C" n="4" break="no"/>ptura (inquit) satis perfecta est ad hoc probandum. Aes pondeo: Tractat,  
+      <lb ed="#C" n="5"/>quidem Tertillianus eo in ibro hanc causam, sed verba ista generalia sunt, 
+      <lb ed="#C" n="6"/>de omni causa religionis: neque ad hanc tantum causam, sed ad aliis 
+      om<lb ed="#C" n="7" break="no"/>nes pertinent. Nisi vero hoc oporteret valere in omnibus causis, nihili 
+      <lb ed="#C" n="8"/>dixisset. Potuisset enim Hermogenes illi objicere, non esse in 
+      omnicausa<lb ed="#C" n="9" break="no"/>ad Scripturas recurrendum: &amp; quorsum moneret metuendum esse vae 
+      il<lb ed="#C" n="10" break="no"/>lud, destinatum adiicientibus, aut detrahentibus, nisi scriptum esse 
+      osten<lb ed="#C" n="11" break="no"/>deret, si non sumeret pro concesso, scripta esse omnia. Disputat enim 
+      <lb ed="#C" n="12"/>Tertullianus negative ab authoritate Scripturarum. Hennogenes non 
+      <lb ed="#C" n="13"/>potest docere hoc esse scriptum; ergo timeat vae illud: quod nullarum, 
+      <lb ed="#C" n="14"/>virium argumentum esset, nisi Scripturas esse plenissimas &amp; 
+      perfectissi<lb ed="#C" n="15" break="no"/>mas &amp; nullum dogma suscipi debere, quod non sit in Scripturis 
+      tradi<lb ed="#C" n="16" break="no"/>tum, constaret. Et idem etiam alibi, in libro de praescriptionibus advera 
+      <lb ed="#C" n="17"/>sus haereticos, sic scribit: Nobis vero nmhil ex nostro arburio indusgerelicet, )  
+      <lb ed="#C" n="18"/>sed nec eligere, quod aliquis de arbitrio suo induxerit. Apostolos Dominihas 
+      <lb ed="#C" n="19"/>bemus authores, qui nec ipsi quicquam ex suo arbitrio, quodinducerent, elege, 
+      <lb ed="#C" n="20"/>runt, sed acceptam a Christo disciplinam fideliter nationibus, assignaverut 
+      <lb ed="#C" n="21"/>Itaque etiamsi eAngelus e coelis aliter evangeli zaret, anathema 
+      diceretura<lb ed="#C" n="22" break="no"/>nobis. Apostoli disciplinam Christi fidelicet nationibus tradiderunt, idest) 
+      <lb ed="#C" n="23"/>non paucis, certisque personis, sed vniversis. Et paulo post ait, omnia Deis 
+      <lb ed="#C" n="24"/>mini dicta omnibus posita esse. Ergo non quaedam quibusdam (utvultde 
+      <lb ed="#C" n="25"/>suita) sed omnia omnibus. Idem, in Lib. de resurrectione carnis, haeneneos. 
+      <lb ed="#C" n="26"/>voc at lucifugas Scripturarum. Quod quidem nostris. Papistis aptissime 
+      <lb ed="#C" n="27"/>convenit. Qderunt enim Scripturarum lucem, &amp; sive scribentes, siuedise 
+      <lb ed="#C" n="28"/>putantes, volunt nos a Scripturis ad Patres, vel Traditiones, vel 
+      aliatesti<lb ed="#C" n="29" break="no"/>monia traducere. Et in eodem libro ait: Aufer haereticis quecumfibuim, 
+      <lb ed="#C" n="30"/>sapiunt, vt de solis Scripturis questiones suas sistant, &amp; stare nonpessuntademi 
+      <lb ed="#C" n="31"/>de Papistis dici potest: Nam si illi cogantur omnia dogmatasuadeθσ 
+      <lb ed="#C" n="32"/>pturis sistere, actum erit de Traditionibus, totoque Papismo-Sie Tequsse 
+      <lb ed="#C" n="33"/>anus ybique Scripturis suam perfectionem atque authoritatem dendicat,  
+      <lb ed="#C" n="34"/>quamdiu Catholicus esset. In libro de Carne Christi, 
+      Sinonprohasin<lb ed="#C" n="35" break="no"/>quit) quia nec scriptum est. Et mox, Sed nihil de eo constat, quia Scripuranos 
+      <lb ed="#C" n="36"/>exhibet. Et iterum, Non recipio quod extra Scripturam, de tuoinferis, 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1425">
+               <lb ed="#C" n="37"/>Deo decimum nostrum testimonium est Cypriani, in Epist: τ4e ad 
+      pom<lb ed="#C" n="38" break="no"/>peium contra Stephanum, de rebaptizandis ijs, qui ab haereticis ad Ecs 
+      <!--530.xml-->
+      <pb ed="#L" n="521"/>
+               <lb ed="#C" n="1"/>clesiam redierant. In illa vero Epistola sic scribit: Unde est ista Traditio? 
+      <lb ed="#C" n="2"/>virumne de Dominica &amp; Evangelica authoritate de scendens, an de 
+      eAposte<lb ed="#C" n="3" break="no"/>lorum mandatis atque Epistolis veniens? Ca enim facienda esse, quae scripta 
+      <lb ed="#C" n="4"/>sut, Deus testatur, &amp; proponit ad lesum Nave dicens; Non recedet liber 
+      Le<lb ed="#C" n="5" break="no"/>gishuius ex ore tuo, sed medit abris in eodie ac nocte, vi observes facere 
+      om<lb ed="#C" n="6" break="no"/>nia, quae scripta sunt in eo. Item Dominus eApostolos suos mittens, mandat 
+      <lb ed="#C" n="7"/>baptizari Gentes, &amp; doceri, vi observentomnia, quaecunque ile praecepit. Tum 
+      <lb ed="#C" n="8"/>subjungit, Si ergo aut in Evangelio praecipitur, aut in Apostolorum Epistolis 
+      <lb ed="#C" n="9"/>aut eActibus continetur, vt a quacunque haeresivenientes non baptizentur,  
+      <lb ed="#C" n="10"/>sed tantum manus illis imponatur in poenitentiam, observetur divina haec &amp; 
+      <lb ed="#C" n="11"/>sancta Traditio. In his verbis duo animadvertenda sunt. Primo, omnem. 
+      <lb ed="#C" n="12"/>Evangelicam &amp; Apostolicam Traditionem esse quaerendam in 
+      Evange<lb ed="#C" n="13" break="no"/>lijs, Actis, aut Epistolis. Secundo, Omnia illa, quae non possunt in his 
+      li<lb ed="#C" n="14" break="no"/>bris reperiri, rejicienda &amp; contemnenda esse. Respondet Bellarminus, 
+      pri<lb ed="#C" n="15" break="no"/>mo, Cyptianum, quando hanc Epistolam scripsit, fuisse in errore, &amp; 
+      ero<lb ed="#C" n="16" break="no"/>rem defendisse; quare more errantium ratiocinari. Respondeo: Erravit 
+      qui<lb ed="#C" n="17" break="no"/>dem: sed argumentum fuit bonum ad causam non bonam 
+      confirman<lb ed="#C" n="18" break="no"/>dam. Non in propositione erravit, sed in assumptione. Sic enim 
+      ratiocina<lb ed="#C" n="19" break="no"/>tus est: Non scripta non sunt recipienda. Hoc quidem verumest. Tum 
+      as<lb ed="#C" n="20" break="no"/>sumit illud, quod Stephanus tenuit, non esse scriptum, nempe baptizatos 
+      <lb ed="#C" n="21"/>ab haereticis non esse rebaptizandos. Illud vero falsum fuit. Ergo bonum 
+      <lb ed="#C" n="22"/>argumentum ad malam causam accommodatum fuit. Secundo, ait 
+      Bel<lb ed="#C" n="23" break="no"/>larminus Augustinum, in Lib. 55. de Baptism. contra Donatist. Cap. 23. 
+      <lb ed="#C" n="24"/>hanc Epistolam refellere. Res pondeo: Befellit ille quidem &amp; damnat, non 
+      <lb ed="#C" n="25"/>propter hanc sententiam, sed propter ipsum Epistolae scopum, quia in illa 
+      <lb ed="#C" n="26"/>Epistola contendit, rebaptizandos esse eos, qui ab haereticis baptizati i 
+      <lb ed="#C" n="27"/>siant. Imo Augustinus approbat &amp; laudat hanc Cypriani sententiam. 
+      <lb ed="#C" n="28"/>Nam in eodem libro, Cap. 26. Omnino hoc optimum est (inquit) quod dixit I 
+      <lb ed="#C" n="29"/>Cyprianus, Redeamus ad fontem. Si fecisset Cyprianus, quod ipse monuit 
+      <lb ed="#C" n="30"/>esse faciendum, id est, ad Scripturae Canonicae Traditionem sesetotum! 
+      <lb ed="#C" n="31"/>contulisset, nequaquam in hac opimone permansisset, aut baptismum, 
+      <lb ed="#C" n="32"/>quantum vis abshaeretico homine collatum, repetendum esse 
+      contendis<lb ed="#C" n="33" break="no"/>set. Ergo disputat Bellarminus a non causa ad causam. Tertio, in hunc 
+      <lb ed="#C" n="34"/>modum respondet. Etsi damnat (nquit) hanc Traditionem, nontamen: 
+      <lb ed="#C" n="35"/>damnat alias Traditiones. Respondeo: Cyprianus non vnam modo, sed  
+      <lb ed="#C" n="36"/>omnes damnat Traditiones, quae non possunt ex Scripturis confirmaii 
+      <lb ed="#C" n="37"/>Evangelicis &amp; Apostolicis. Et in Epist. 63. ad Cecilium, idem ait, 
+      Chri<lb ed="#C" n="38" break="no"/>stum selum audiendum esse, &amp; nullum praeterea; illud faciendum esse, quod  
+      <!--531.xml-->
+      <pb ed="#L" n="522"/>
+               <lb ed="#C" n="1"/>ille fecit, &amp; quod faciendum esse mandavit. Ubi revocat nos ad Christi 
+      vo<lb ed="#C" n="2" break="no"/>cem, eamquescriptam. Et in eadem Epistola ait, dandam nobis operam: 
+      <lb ed="#C" n="3"/>esse, vt cum Christus venerit, inveniat nos tenere quod monuit, observe 
+      <lb ed="#C" n="4"/>quod docuit, facere quod fecit. Et paulo ante ait, Dominicam Traditionem, 
+      <lb ed="#C" n="5"/>nobis sequendam esse. Nullam vero aliam Traditionem intelligit, quam 
+      <lb ed="#C" n="6"/>Scripturam, vt in Epistola ad Pompeium. Ergo si volumus Dominicem? 
+      <lb ed="#C" n="7"/>Traditionem servare, ad Scripturas semper solas redeundum est. 
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e1538">
+               <lb ed="#C" n="8"/>Venio nunc ad Hieronymum &amp; Augustinum, qui soli restant exiis, quos 
+      <lb ed="#C" n="9"/>Bellarminus recitat. Decimum tertium ergo testimonium nostrum est 
+      Hic<lb ed="#C" n="10" break="no"/>ronymi, in comment. in 1. cap. Epist. ad Titum, in comment. inag. cap. 
+      <lb ed="#C" n="11"/>Matth. in comment. in Prophetam Aggaeum, in comment. inDsaloo 
+      <lb ed="#C" n="12"/>&amp; aliis locis. Haec vero, quae recitavimus, sunt omnia testimonia Hie: 
+      <lb ed="#C" n="13"/>ronymi, ad quae respondet Bellarminus. In primo vero 
+      testimonioHieo<lb ed="#C" n="14" break="no"/>nymus ait: Sine authoritate Scripturarum garrulitas fidem nonhabet. 
+      Bel<lb ed="#C" n="15" break="no"/>larminus ait hoc quadrare in nos: homines gartulos non invenire fidem 
+      <lb ed="#C" n="16"/>apud vllos, nisi suos ermores ex Scripturis confirmare nitantur. Respondeos, 
+      <lb ed="#C" n="17"/>At his verbis Traditiones palam removentur, &amp; garruli esse pronunti 
+      <lb ed="#C" n="18"/>antur, qui sine Scripturarum authoritate aliquid defendunt, quodetiam, 
+      <lb ed="#C" n="19"/>ipsa Bellarminiana horum verborum expositione confirmatur. Num 
+      <lb ed="#C" n="20"/>enim haeretici viderentur garruli, quando aliquid sine Scripturis docent,? 
+      <lb ed="#C" n="21"/>nec fidem apud vllos invenirent, nisi quaevis doctrina esset authonate 
+      <lb ed="#C" n="22"/>Scripturarum confirmata? Secundus Hieronymi locus habeturinaeius, 
+      <lb ed="#C" n="23"/>coniment. in 23. cap. Math. Quod de Scripturis authoritatemnonhabeus 
+      <lb ed="#C" n="24"/>eadem facilitate contemnitur, qua probatur. Loquitur vero destathanai 
+      <lb ed="#C" n="25"/>occiso inter templum &amp; altare, quem quidem patrem loannis Baga 
+      <lb ed="#C" n="26"/>tistae esse, statuebant ex Traditione. Respondet Bellarminus, eum loqui  
+      <lb ed="#C" n="27"/>de particulari quadam Traditione, ex quodam Apoctypho libro de 
+      <lb ed="#C" n="28"/>sumpta. Respondeo: At loquitur generaliter, e a omnia facilereiiciposse; 
+      <lb ed="#C" n="29"/>quae Scripturis non nituntur. Quid enim, eesi illa Traditio 
+      fueratina<lb ed="#C" n="30" break="no"/>pocrypho libro perscripta, num ideo sequitur, eam fuisse reficiendama, 
+      <lb ed="#C" n="31"/>quasi vero Papistarum vllae Traditiones in Canonicis libris habeantus 
+      <lb ed="#C" n="32"/>Tertium Hieronymi testimonium habetur in Comment. indeapi 
+      <lb ed="#C" n="33"/>Haggaei. Verba sunt huiusmodi: Sed &amp; alia, quae absque authoritasgusti 
+      <lb ed="#C" n="34"/>moniis Scripturarum, quasi Traditione Apostolica, sponte reperiunt atquecons: 
+      <lb ed="#C" n="35"/>fingunt, percutit gladius Dei. Per gladium vero Dei Scripturas intelligit 
+      <lb ed="#C" n="36"/>Respondet Bellarminus, eum agere contra illos, qui exsuo ingemo, 
+      gon<lb ed="#C" n="37" break="no"/>fingunt aliquid, &amp; volunt id videri Apostolicum. Sic Hardingus etiamd 
+      <lb ed="#C" n="38"/>respondet, in libro suo, quem scripsit contra Apologiam Anglicanam, sted 
+      <!--532.xml-->
+      <pb ed="#L" n="523"/>
+               <lb ed="#C" n="1"/>spondeo: Hoc testimonium Papistas maxime attingit, &amp; contra ipsos 
+      fa<lb ed="#C" n="2" break="no"/>cit. Nam illi multa confinxere, quae authoritate Scripturarum non 
+      pos<lb ed="#C" n="3" break="no"/>sunt confirmari, &amp; tamen volunt Apostolica haberi. Et vtmelius adhuc 
+      <lb ed="#C" n="4"/>constet, quid intelligat Hieronymus; subiungit omnem laborem eorum, 
+      <lb ed="#C" n="5"/>&amp; ieiunia, &amp; observationes varias, &amp; χαμινίας, id est, humi dormitiones 
+      <lb ed="#C" n="6"/>damnati. Haec quidem non sunt palam Scripturis contraria, &amp; tamen 
+      <lb ed="#C" n="7"/>haec ait percuti glactio Dei. At his omnibus Papistae vtuntur, &amp; magnam 
+      <lb ed="#C" n="8"/>pietatis ac religionis partem iniis ponunt. Manifestum ergo est 
+      Hiero<lb ed="#C" n="9" break="no"/>nymum damnare omnia, quae non possunt apertis Scripturae testimonijs 
+      <lb ed="#C" n="10"/>probari. Alius locus Hieronymi est in Psal. 86. Etsi Erasmus quidem &amp; 
+      <lb ed="#C" n="11"/>alij Commentarios illos in Psalmos non esse Hieronymi putant, sed 
+      alte<lb ed="#C" n="12" break="no"/>rius cuiusdam. Sed Bellarminus non vtitur illa exceptione, neque minuit:  
+      <lb ed="#C" n="13"/>huius libri authoritatem. Sic ergo Hieronymus in illo loco: Videte quid  
+      <lb ed="#C" n="14"/>dicat: Qui fuerunt, non qui sunt: vt exceptis Apostolis, quodcunque aliud 
+      po<lb ed="#C" n="15" break="no"/>stea dicetur, abscindatur, non habeat postea authoritatem. Quamvis ergo 
+      <lb ed="#C" n="16"/>sanctus sit aliquis post Apostolor, quamnis disertus su, non habet 
+      authorita<lb ed="#C" n="17" break="no"/>tem; quoniam Dominus narrat in Scriptura populorum, &amp; principum horum, 
+      <lb ed="#C" n="18"/>qui fuerunt in ea. Bellarminus respondet, rejici ea, quae Scripturis 
+      contra<lb ed="#C" n="19" break="no"/>na &amp; repugnantia sunt, non alia. Respondeo: VerbaPsalmi, quae tractat  
+      <lb ed="#C" n="20"/>Hieronymus, haec sunt: Narrabit Dominus in Scriptura populorum, &amp; 
+      prin<lb ed="#C" n="21" break="no"/>cipum horum, qui fuerunt inea. At quomodo natrabit? inquit 
+      Hierony<lb ed="#C" n="22" break="no"/>mus. Non verbo, sed Scriptura: Ergo verbum omne non scriptum 
+      abscin<lb ed="#C" n="23" break="no"/>dendum &amp; amputandum est. Sed Bellarminus haec verba omisit, quia 
+      <lb ed="#C" n="24"/>contra illum faciebant. At quare Scriptura populorum dicitur? inquit  
+      <lb ed="#C" n="25"/>Hieronymus: quia populis omnibus legitur, vt omnes intelligant. Quaret 
+      <lb ed="#C" n="26"/>principum? quia ea Apostoli &amp; Evangelistae, principes Ecclesiae, 
+      scripse<lb ed="#C" n="27" break="no"/>runt. Et ait, Fuerunt, non sunt, vt nihil iam addatur.  
+      <lb ed="#C" n="28"/> Accedonunc ad Augustinum, ex quonostri multa testimonia 
+      profe<lb ed="#C" n="29" break="no"/>runt. In 28. lib. de Doctr. Christ. cap. 9. sfic scribit: In iis, quae aperte in 
+      Scri<lb ed="#C" n="30" break="no"/>pturaposita sunt, inveniantur illa omnia, quae continent fidem moresque 
+      viven<lb ed="#C" n="31" break="no"/>di, spem scilicetatque charitatem. Respondet Bellarminus, Augustinum 
+      <lb ed="#C" n="32"/>loqui de dogmatibus; quae funt simpliciter necessaria omnibus. 
+      Respon<lb ed="#C" n="33" break="no"/>deo: De hoc ante nonnulla diximus. Et hoc quidem merum est 
+      iniferum<lb ed="#C" n="34" break="no"/>que subterfugium. Loquitur: enim Augustmus de ijs dogmatibus, quae 
+      <lb ed="#C" n="35"/>non tantumomnibus, sed cuivis necessatia sunt: Et ait imprincipio huius: 
+      <lb ed="#C" n="36"/>capitis? In his omnibus libris timentes Deum, &amp; pietate mansueti, quaerunt 
+      <lb ed="#C" n="37"/>voluntatem Dei. Atque vt Dei voluntatem rectius quaeramus, duo praecepta 
+      <lb ed="#C" n="38"/>tradit. Primum: est, vt noscamus, legamus, &amp; memoriae etiam mande¬ 
+      <!--533.xml-->
+      <pb ed="#L" n="524"/>
+               <lb ed="#C" n="1"/>mus libros Canonicos. Secundum est, vtea, quae in illis aperta sunt, 
+      inve<lb ed="#C" n="2" break="no"/>stigemus. Tum subiungit haec verba: In js enim (inquit) quae aperte in 
+      Scri<lb ed="#C" n="3" break="no"/>ptura posita sunt, inveniuntur illa omnia, quae continent fidem moresque vivendi, 
+      <lb ed="#C" n="4"/>spem scilicet atque charitatem. Tamen non est contemnendum, quod 
+      haberi<lb ed="#C" n="5" break="no"/>in Scripturis Bellarminus omnia dogmata omnibus simpliciter 
+      necessa<lb ed="#C" n="6" break="no"/>ria fateatur: ex quo colligi potest, nullas Traditiones esse omnibus. 
+      <lb ed="#C" n="7"/>simpliciter necessarias. Sed Augustinus aperte concedit, in Scripturis 
+      tra<lb ed="#C" n="8" break="no"/>di aperte, quae cunque fidem simpliciter moresque ivendi continent. 
+      <lb ed="#C" n="9"/>Quam vero illud impium atque ἀθεολογον est, quaedam esse simpliciter 
+      ne<lb ed="#C" n="10" break="no"/>cessaria omnibus ad salutem, quaedam non omnibus? Quasi fides 
+      alia<lb ed="#C" n="11" break="no"/>sit Praesulum, alia populi. Atque eiusmodi est, quod ait in Lib. 2. de 
+      paec<lb ed="#C" n="12" break="no"/>catorum merit. &amp; remission. Cap. vltimo: Illudcredo (inquit) quod enam 
+      <lb ed="#C" n="13"/>hinc (id est de hac re) divinorum eloquiorum clarissima authoritas esset, siho 
+      <lb ed="#C" n="14"/>mo illud sine dispendio promisse salutis ignorare non posset. Ubi affirmat; ea 
+      <lb ed="#C" n="15"/>quae non possunt ignorari sine jactura salutis, aperte in Scripturis 
+      inveni<lb ed="#C" n="16" break="no"/>ri. Loquitur enim de quaestione satis difficili, quomodo scilicet tueri 
+      <lb ed="#C" n="17"/>possimus, Deum non esse authorem reatus peccati, sianima non sitex  
+      <lb ed="#C" n="18"/>traduce. Ex hoc loco Augustini duo colligo: Vnum, in obscura aliqua 
+      <lb ed="#C" n="19"/>quaestione inter nos &amp; Papistas, vel alios aliquos Adversarios; qui deresi 
+      <lb ed="#C" n="20"/>gione disserunt, oportere nos assensionem cohibere, nisi res certis &amp; 
+      cla<lb ed="#C" n="21" break="no"/>ris Scripturae testimoniis confirmetur. Sic enim Augustinus ait verbis, 
+      <lb ed="#C" n="22"/>proxime praecedentibus: Ubi de re obscurissima disputatur (inquity nonadi 
+      <lb ed="#C" n="23"/>vantibus divinarum Scriptur arum claris certisque documentis, cohiberesedi 
+      <lb ed="#C" n="24"/>bet humana praesumptio, nihil faciens, in partem alteram declinando.Aεque 
+      <lb ed="#C" n="25"/>hinc quidem consequitur, omnia ex Scripturis probanda esse Muerumt 
+      <lb ed="#C" n="26"/>hinc colligo, eorum omnium, quae nesciri nequeunt sine dispendio salus 
+      <lb ed="#C" n="27"/>tis, clara testimonia in Scripturis haberi. Valeant ergo Traditiones, 
+      vt<lb ed="#C" n="28" break="no"/>pote nullo modo necessariae ad salutem. Alius locus Augustinihabetur  
+      <lb ed="#C" n="29"/>in 3. Libr. contra literas Petiliani, Cap. 6. vbi in hunc modumscribita 
+      <lb ed="#C" n="30"/>Proinde sive de Christo, sive de eius Ecclesia, sive de quacunque aliarequa 
+      <lb ed="#C" n="31"/>pertinet ad fidem vitamque nostram, non dicum sinos, nequaquam, comoa 
+      <lb ed="#C" n="32"/>ei qui dixit, licet si nos, sed omnino quod sequutus adiecit, si eAngelsdecas 
+      <lb ed="#C" n="33"/>vobis annunciaverit praeterquam quod in Scripturis Legalibus &amp; Evanesim, 
+      <lb ed="#C" n="34"/>accepistis, anathema sit. Respondet Bellarminus, Ego antea ostenduallu, 
+      <lb ed="#C" n="35"/>praeterquam idem valere quod contra quam. Respondeo: Et ego antenosten 
+      <lb ed="#C" n="36"/>damnari omnia dogmata, quae non Scripturis Evangelicis &amp; Legasibus 
+      <lb ed="#C" n="37"/>nitantur. Proferunt praeterea nostri ex Augustino alia testimonia, vtera 
+      <lb ed="#C" n="38"/>Lib. 19. de civit. Dei, C.18. vbi sic scribit: Credit etiam (scilicet civitasDemi 
+      <!--534.xml-->
+      <pb ed="#L" n="525"/>
+               <lb ed="#C" n="1"/>Scripturis sanctis &amp; veteribus &amp; novis, quas Canonicas appellamus, unde 
+      si<lb ed="#C" n="2" break="no"/>des ipsa concepta est, ex qua justus vivit, per quam sine dubitatione 
+      ambula<lb ed="#C" n="3" break="no"/>mus, quamdiu per egrinamur a Domino, qua salva atque certa de quibusdam, 
+      <lb ed="#C" n="4"/>rebus, quas neque sensu, neque ratione percipimus, neque nobis per Scripturam ! 
+      <lb ed="#C" n="5"/>Canonicam claruerunt, nec per testes, quibus non credere absurdum est, 
+      in<lb ed="#C" n="6" break="no"/>nostram notitiam pervenerunt, sine iusta reprehensione dubitamus. 
+      Pro<lb ed="#C" n="7" break="no"/>ferunt etiam praeterea alia multa adhuc testimonia, vt ex tractat. 2. 
+      in<lb ed="#C" n="8" break="no"/>Epist. Ioan. ex 163. Epistola, ex Lib. de Pastoribus, Cap. 14. ex 6. 
+      <lb ed="#C" n="9"/>Libro confess. cap. 5. Bellarminus ad haec omnia testimonia respondet, 
+      <lb ed="#C" n="10"/>nihil in his dici contra Traditiones, sed Augustinumid tantum affirmare, 
+      <lb ed="#C" n="11"/>quando haberi possunt testimonia Scripturarum ad dogmata aliqua 
+      con<lb ed="#C" n="12" break="no"/>firmanda, ijs vti nos potius debere, quam aliis. Praeclara vero 
+      respon<lb ed="#C" n="13" break="no"/>sio: Tum Scripturae proferendae sunt, quando possunt proferri. Sic certe 
+      <lb ed="#C" n="14"/>Papistae faciunt in suis causis defendendis: quando habent Scripturas, 
+      <lb ed="#C" n="15"/>(quod rarum est) proferunt. Sed quid tum demum faciendum est, 
+      quan<lb ed="#C" n="16" break="no"/>do non possunt proferri testimonia Scripturae? Scilicet tum ex hac 
+      re<lb ed="#C" n="17" break="no"/>sponsione, non multum curandum aut laborandum est, quibus 
+      testimo<lb ed="#C" n="18" break="no"/>niis vtamur. Sed Augustinus in omni re testimonia vult ex Scripturis 
+      pro<lb ed="#C" n="19" break="no"/>ferri, quemadmodum ex ipsis locis patet, quae nos singula proponemus, 
+      <lb ed="#C" n="20"/>vt huius responsionis futilitas &amp; falsitas appareat. In primo igitur 
+      te<lb ed="#C" n="21" break="no"/>stimonio (quod desumptum est ex Lib. 19. De Civit. Dei, cap. 18) ait: 
+      <lb ed="#C" n="22"/>Ecclesiam Dei credere libris veteris &amp; novi testamenti, Ex quibus fides 
+      <lb ed="#C" n="23"/>concipitur, qua iustus vivit. Ergo quaerunt novam fidem, qui praeter 
+      Scri<lb ed="#C" n="24" break="no"/>pturas aliquid quaerunt, quandoquidem haec illa fides est, quam omnes 
+      <lb ed="#C" n="25"/>Christiani tenent, qui &amp; re, &amp; professione Christiani sunt. In secundo 
+      ve<lb ed="#C" n="26" break="no"/>ro testimoniosquod sumitur ex secundo tractat. in Epist. loan.) ait Deum, 
+      <lb ed="#C" n="27"/>contra insidiosos errores voluisse ponere firmamentum in Scripturis, contra 
+      <lb ed="#C" n="28"/>quas nullus audet loqui, qui quoquo modo se vult videri Christianum. Hic ergo 
+      <lb ed="#C" n="29"/>Scripturae finis est, vt defendat nos contra emores. In tertio 
+      testimonio<lb ed="#C" n="30" break="no"/>(quod depromptum est ex eius Epistola 163) ait Canonicos codices. 
+      <lb ed="#C" n="31"/>praesto esse debere, ex quibus (caeteris postpositis) si qua proferri potuerint 
+      <lb ed="#C" n="32"/>ex utraque parte documenta, res ad inquisitionis terminum perducatur. In 
+      <lb ed="#C" n="33"/>libro vero de Pastoribus, cap. 14. (unde quartum testimonium 
+      de<lb ed="#C" n="34" break="no"/>promitur) sic scribit: Lege hoc mihi de Propheta, lege de Psalmo, recita 
+      <lb ed="#C" n="35"/>de Lege, recita de Euangelio, recita de Apostolo. Inde ego recito 
+      Eccle<lb ed="#C" n="36" break="no"/>siam toto orbe diffusam, &amp; Dominum dicentem, Quae sunt oves meae, 
+      vo<lb ed="#C" n="37" break="no"/>cem meam audiunt, &amp; sequuntur me. Et paulo post ait: Auferantur 
+      char<lb ed="#C" n="38" break="no"/>tae humanae, sonent voces divinae: Ergo vox divina, quam oves Christii¬ 
+      <!--535.xml-->
+      <pb ed="#L" n="526"/>
+               <lb ed="#C" n="1"/>audiunt, in Scripturis sonat, &amp; Traditiones non scriptae nihili sunt ab 
+      o<lb ed="#C" n="2" break="no"/>vibus aestimandae. In sexto vero libro Confess. cap. 5. ait se hac 
+      persuasi<lb ed="#C" n="3" break="no"/>one inter reliquas a Manichaeis abductum esse, quod credere coepisset,  
+      <lb ed="#C" n="4"/>Deum nullo modo fuisse tributurum tam excellentem Scripturae 
+      perom<lb ed="#C" n="5" break="no"/>nes terras authoritatem, nisi &amp; per ipsam sibi credi, &amp; per ipsam se 
+      quae<lb ed="#C" n="6" break="no"/>ri voluisset. Alius Augustini locus aBellarmino citatus sumitur ex L. de 
+      ho<lb ed="#C" n="7" break="no"/>no viduitatis, c. 1. estque huiusmodi: Sancta Scriptura (inquit Augustinus) 
+      <lb ed="#C" n="8"/>nostrae doctrinae regulam figit, ne audeamus sapere plus, quam oportet sapere, sed  
+      <lb ed="#C" n="9"/>sapiamus (ut ipse ait) ad temperantiam, sicut unicuique Deus partitus est 
+      <lb ed="#C" n="10"/>mensuram fidei. Non sit ergo mihi aliud te docere, nisi verba tibi Doctoris 
+      ex<lb ed="#C" n="11" break="no"/>ponere &amp; de iis, quod Dominus dederit, disputare. Bellarminus vult eum 
+      <lb ed="#C" n="12"/>loqui ibi de illo tantum vno dogmate, nempe de professione viduitatis 
+      <lb ed="#C" n="13"/>Respondeo: Augustini verba sunt generalia, sacram Scripturam doctrinae 
+      <lb ed="#C" n="14"/>nostrae regulam in omni sano dogmate figere. Non enim ait huius 
+      tan<lb ed="#C" n="15" break="no"/>tum dogmatis, sed doctrinae nostrae regulam figit: Ne audeamus sapere 
+      <lb ed="#C" n="16"/>plus, quam oportet. Hoc (inquit) contra illos dictum est, qui proprio 
+      iu<lb ed="#C" n="17" break="no"/>dicio aliquid fingunt. At Augustinus ait, in Scripturis figi regulam 
+      docti<lb ed="#C" n="18" break="no"/>nae: Ergo sive nostro iudicio, sive vteunque aliquid doceamus, quod nonsit.  
+      <lb ed="#C" n="19"/>positum in Scripturis, alienum est a regula doctrinae. Alius 
+      Augustinilo<lb ed="#C" n="20" break="no"/>cus habetur in L. 3. contra Maximin. Arian. c. 14. Verba sunt huiusmodi, 
+      <lb ed="#C" n="21"/>Nec ego Nic enum, nec tu debes Ariminense, tanquam praeiudicaturus, proser¬i 
+      <lb ed="#C" n="22"/>re Concilium: Nec ego huius authoritate, nec tu illius detineris. Scripturarum 
+      <lb ed="#C" n="23"/>autboritatibus, non quorumcunque propriis, sed vtrisque communibus testibus, 
+      <lb ed="#C" n="24"/>res cum re, causa cum causa, ratio cum ratione concertet. Respondet 
+      Bellar<lb ed="#C" n="25" break="no"/>minus, haec verba videri posse contra authoritatem Conciliorum aliquid  
+      <lb ed="#C" n="26"/>facere, sed non contra Traditiones. Res povdeo. Quando provocat 
+      Au<lb ed="#C" n="27" break="no"/>gustinus a Conciliis ad Scripturas, certe Traditiones multomagis rejicit,  
+      <lb ed="#C" n="28"/>quia Conciliorum authoritas proxime ad Scripturae authoritatem 
+      acce<lb ed="#C" n="29" break="no"/>dit. Atque si Traditiones quidem parem cum Scripturis authornitatem 
+      ha<lb ed="#C" n="30" break="no"/>berent (quod Papistae dicunt) tum earum Augustinus mentionem fecis¬t 
+      <lb ed="#C" n="31"/>set, &amp; dixisset, Scripturarum &amp; Traditionum authoritatibus. Sic enimi 
+      <lb ed="#C" n="32"/>Augustinus saepe rejicit alia omnia, &amp; Scripturas proferri subet. Incomese 
+      <lb ed="#C" n="33"/>ment. in Psal. 57. sic scribit Augustinus: eAuferantur de medghi 
+      <lb ed="#C" n="34"/>nostrae, procedat in medium codex Dei, audi Christum dicentem, audivema 
+      <lb ed="#C" n="35"/>tem loquentem. Ubi in humanis vocibus numerat omnia praeterScris 
+      <lb ed="#C" n="36"/>pturas. Similia verba sunt in Lib. de Vnitat. Eccles. capitibus, 3.6. 10.4. 
+      <lb ed="#C" n="37"/>16. 20. Alius locus Augustini est in lib. 2. de Merit. &amp; Remiss. peccat 
+      <lb ed="#C" n="38"/>cap. vlt. qui locus antea propositus est. Atque haec illa sunt testimonia, 
+      <!--536.xml-->
+      <pb ed="#L" n="527"/>
+               <lb ed="#C" n="1"/>quae eludere conatur Adversarius. Liceret nobis multo plura proferre, 
+      <lb ed="#C" n="2"/>tum ex Augustino, tum ex aliis: ac proinde non valet, quod primo 
+      nota<lb ed="#C" n="3" break="no"/>ti Bellarminus veluit. Ait enim primo duplo plura esse testimonia, quae 
+      <lb ed="#C" n="4"/>pro Traditionibus citavit, quam quae nos contra Traditiones. Respondeo: 
+      <lb ed="#C" n="5"/>prina, Victoriam non conistere in multitudine &amp; numero 
+      testimonio<lb ed="#C" n="6" break="no"/>rum, sed in veritate, Misse homines a centum saepe fugatos esse legimus. 
+      <lb ed="#C" n="7"/>Secundo, Dico &amp; nos etiam posse duplo plura proferre testimonia, quam 
+      <lb ed="#C" n="8"/>ille protuit. Serundo, notat Bellarminus illorum testimonia expresse 
+      do<lb ed="#C" n="9" break="no"/>cere, recipiendas esse Traditiones, at nostra non docere, tejiciendas esse, 
+      <lb ed="#C" n="10"/>ea presce, sed per malas consequentias. Res pondeo: Fateor Patres multa 
+      <lb ed="#C" n="11"/>de Traditionibus commemorare, sed in illorumtestimoniis haec 
+      quatu<lb ed="#C" n="12" break="no"/>porsunt, observanda. Primo, Traditionis nomen atiquando doctrinam 
+      <lb ed="#C" n="13"/>scriptam significare, &amp; dogma aliquod, quod firmo Scripturae 
+      testimo<lb ed="#C" n="14" break="no"/>nio nititur. Secundo, illas Traditiones, quas Patres commemorant, esse 
+      <lb ed="#C" n="15"/>fere omnes liberas consuetudines, non necessaria dogmata. Tertio, 
+      ali<lb ed="#C" n="16" break="no"/>quando deceptos fuisse ipsos Patres. At hoc fortasse contumeliosum 
+      <lb ed="#C" n="17"/>Patribus videri potest. Sed res patet, quia inter se dissentiunt. Quarto, 
+      <lb ed="#C" n="18"/>abrogatas iam esse abipsis Papistis multas ex his Traditionibus, quas 
+      Pa<lb ed="#C" n="19" break="no"/>tres commemorant. Aliqua ex his quatuor observationibus sufficiet ad 
+      <lb ed="#C" n="20"/>singulaBatrumtestimonia solvenda. Postremo ait, nos concedere, a 
+      Pa<lb ed="#C" n="21" break="no"/>tribus esse defensas Traditiones, illos autem non concedere esse ab ipsis 
+      <lb ed="#C" n="22"/>oppugnatas. Respondeo: Nos concedimus, defensas esse Ttraditiones a 
+      <lb ed="#C" n="23"/>Patribus, sed eo modo, quo dictum est. At quod ait, Patres 
+      nonoppugna<lb ed="#C" n="24" break="no"/>re Traditiones, illud falsum est. Nam qui dicunt Scripturas esse perfectas 
+      <lb ed="#C" n="25"/>&amp; sufficientes, &amp; omnia dogmata religionis ex Scripturis petenda esse, 
+      <lb ed="#C" n="26"/>ij Traditiones rejiciunt.  
+      </p>
+            <p xml:id="wWpoi1-e46461-d1e2015">
+               <lb ed="#C" n="27"/>Sed: quia testimoniorum paucitatem nobis exprobrat, placet 
+      <lb ed="#C" n="28"/>nonnihil adhuc progredi, &amp; plura testimonia cumulare. Origenes in 
+      <lb ed="#C" n="29"/>cap. 16. ad Rom. lib. 10. sic scribit: Oide quam proximi periculis fiani hi, 
+      <lb ed="#C" n="30"/>qui exereeri indiuvnis literis negligunt, ex quibus solis (sic enim subiungit) 
+      <lb ed="#C" n="31"/>huiusmodi examinationis agnoscenda discretio est. Chrysostomus, in homil. 
+      <lb ed="#C" n="32"/>58. in principium decimi capitis Evangelij secundum loanasic scribit: 
+      <lb ed="#C" n="33"/>Merito ostium Scripturas appellat, quoniam nos ad Deum ducunt, &amp; eius 
+      <lb ed="#C" n="34"/>nobis cognitionem aperiunt: ipsae oves faciunt, ipsae custodiunt, neque lupos 
+      in<lb ed="#C" n="35" break="no"/>rumpere permittunt. Tanquam enim ostium firmissimum haereticos arcert, &amp; 
+      <lb ed="#C" n="36"/>in tuto constituunt, neque nos, modo velimus, aberrare sinent. Tum 
+      subiun<lb ed="#C" n="37" break="no"/>git: Qui sacranonvtitur Scriptura, sed ascendit aliunde, id est, non concessa. 
+      <lb ed="#C" n="38"/>via, fur est. Magnificae certe Scripturae laudes in illo locohabentur. Ait  
+      <!--537.xml-->
+      <pb ed="#L" n="528"/>
+               <lb ed="#C" n="1"/>esse ostium cognitionis Dei: ait oves facere, &amp; factas custodise: ait nos 
+      <lb ed="#C" n="2"/>per illas dirigi, ne incidamus in errores: ait illas nos defendere ab 
+      haereti<lb ed="#C" n="3" break="no"/>cis, &amp; ipsos arcere: ait denique eos, qui ascendunt aliunde (hoc est, qui aliis 
+      <lb ed="#C" n="4"/>ytuntur testimoniis) fures esse. Ergo Papistae quales (quaeso) homines 
+      <lb ed="#C" n="5"/>sunt? Idem, in homil. 9. in epist. ad Colossen. ait: Noli expectare alium 
+      magi<lb ed="#C" n="6" break="no"/>strum, habes verba Dei. Nemo potest te sic docere. Et paulo post ait: hoc  
+      <lb ed="#C" n="7"/>malorum omnium causam esse, quod Scripturae ignorantur, μη ωριμεινας ἐταρον 
+      <lb ed="#C" n="8"/>διδατκλγον, εχεις τα λογια το δες τοτο παντον ἀπον τῆς κακον τό μι ειδενασ τuς 
+      <lb ed="#C" n="9"/>ζαρας. Ubi ergo illi sunt, qui contenti Scripturis esse nolunt, cum iubeat  
+      <lb ed="#C" n="10"/>nos Chrysostomus nullum alium magistrum expectare? in quo satis 
+      a<lb ed="#C" n="11" break="no"/>perte indicat, omnia necessaria in Scripturis inveniri. Hieronymus, in 
+      e<lb ed="#C" n="12" break="no"/>pistola ad Ctesiphontem in fine, sic scribit: De caeteris non est huius 
+      tem<lb ed="#C" n="13" break="no"/>poris scribere, neque enim a me librum, sed Epistolam flagitasti, qui dictandus 
+      <lb ed="#C" n="14"/>est ex ocio, &amp; omnes oblatrationes eorum Christi auxilio destruendae, 
+      quodno<lb ed="#C" n="15" break="no"/>bis sanctarum Scripturarum testimoniis asserendum est, in quibus quotidie 
+      <lb ed="#C" n="16"/>credentibus loquitur Deus. Ex quibus verbis duo colligo. Primum: 
+      Om<lb ed="#C" n="17" break="no"/>nia, quae vllus Doctor Ecclesiae asserit, ex Scripturis examinanda esse. 
+      Se<lb ed="#C" n="18" break="no"/>cundum: Deum nunc etiam in Scripturis loqui. Idem, in comment. in 1. 
+      <lb ed="#C" n="19"/>cap. Micheae, ait Ecclesiam habere vrbes Legis, Prophetarum, Evangels, 
+      <lb ed="#C" n="20"/>&amp; eApostolorum, &amp; non egressam esse de finibus suis, id est, de Scripturis 
+      san<lb ed="#C" n="21" break="no"/>ctis. Ubi diserte scribit, Ecclesiam esse Scripturae finibus 
+      circumscri<lb ed="#C" n="22" break="no"/>ptam, extra quos egredi ei non liceat. Ambrosius, in comment. in 16 
+      <lb ed="#C" n="23"/>cap. Lucae, explicans verba mulieris Chananeae ad Christum, Vtique 
+      <lb ed="#C" n="24"/>Domine, nam &amp; catelli edunt de micis, quae cadunt de mensa Dominorum 
+      <lb ed="#C" n="25"/>suorum, sic scribit: Micae istae de illo pane sunt: &amp; quia panis Derbum est, &amp; 
+      <lb ed="#C" n="26"/>fides Oerbi est, micae velut quaedam dogmata fidei sunt. Iam ne Verbum 
+      <lb ed="#C" n="27"/>aliquis de non scripto Verbo interpretetur, Aquinas in Catena aurea, 
+      in<lb ed="#C" n="28" break="no"/>haec verba, eadem plane allegoria vsus, ait mensam parabolice 
+      signifi<lb ed="#C" n="29" break="no"/>care sacram Scripturam, micas esse minima praecepta vel 
+      internamyste<lb ed="#C" n="30" break="no"/>ria Scripturarum, quibus sancta Ecclesia pascitur; catulos 
+      veroessefide<lb ed="#C" n="31" break="no"/>les. Sensus ergo est, fideles praeceptis fidei pasci, sed illis tantum, quae 
+      <lb ed="#C" n="32"/>cadunt e mensa Domini, id est, e sacra Scriptura sumuntur. Itaquefideles 
+      <lb ed="#C" n="33"/>illis tantum dogmatibus pascuntur, quae in Verbo Dei, id est Scriptur 
+      <lb ed="#C" n="34"/>tis, traduntur. Idem etiam Ambrosius, in Lib. 1. ad Gratianum defide, 
+      <lb ed="#C" n="35"/>c. 4. in hunc modum scribit: Nolo argumento credas (Sancte Imperatorθu 
+      <lb ed="#C" n="36"/>nostrae dis putationi: Scripturas interrogemus, interrogemus Apostolos; intera 
+      <lb ed="#C" n="37"/>rogemus Prophetas, interrogemus Christum. Augustinus, in 112. aepistesic 
+      <lb ed="#C" n="38"/>scribit; Si divinarum Scripturarum, earum scilicet, quae Canonicam Ecclesiat 
+      <!--538.xml-->
+      <pb ed="#L" n="529"/>
+               <lb ed="#C" n="1"/>nominantur, per spicua firmatur authoritate, sine ulla dubitatione credendum 
+      <lb ed="#C" n="2"/>est. Alijs vero testibus vel testimoniis, quibus aliquid credendum esse 
+      suade<lb ed="#C" n="3" break="no"/>tur, libi credere, vel non credere, liceat, quantum ea momenti ad faciendam 
+      fi<lb ed="#C" n="4" break="no"/>dem vel habere, vel non habere, perpenderis. Haec Augustinus. Quibus 
+      ver<lb ed="#C" n="5" break="no"/>bis docet, singularem quandam esse Scripturae authoritatem, vt 
+      quic<lb ed="#C" n="6" break="no"/>quid ex ea confirmetur, sit continuo recipiendum: at caeteros testes &amp; 
+      <lb ed="#C" n="7"/>caetera testimonia non habere tantam authoritatem, sed oportere illa 
+      ex<lb ed="#C" n="8" break="no"/>aminare &amp; tantum iis tribuere, quantum ex insa examinatione 
+      tribuen<lb ed="#C" n="9" break="no"/>dum esse intelligemus. Ergo falsissimum est, quod Adversarij dicunt,  
+      <lb ed="#C" n="10"/>parem esse Scripturarum ac Traditionum authoritatem: quia Scripturis 
+      <lb ed="#C" n="11"/>sine vlla dubitatione credendum est, reliqua vero testimonia, 
+      qualiacun<lb ed="#C" n="12" break="no"/>que tandem fuerint, diligenter perpendenda &amp; examinanda sunt. Idem 
+      <lb ed="#C" n="13"/>etiam alibi, in Lib. de natura &amp; gratia, Cap. 61., sic scribit: Ego solis 
+      Ca<lb ed="#C" n="14" break="no"/>nonicis Scripturis debeo sine recusatione consensum. Quanti hic (quaeso)  
+      <lb ed="#C" n="15"/>Traditiones aestimavit, quando dixit, se solis Scripturis Canonicis 
+      de<lb ed="#C" n="16" break="no"/>bere consensum sine recusatione? Vincentius Lyrinensis author 
+      anti<lb ed="#C" n="17" break="no"/>quus, cuius libello Papistae maxime confidunt, in Cap. 41. sic ait: 
+      Solus<lb ed="#C" n="18" break="no"/>Scripturae Canon sibi ad universa sufficit. Sed apertius in Cap. 2. Solus 
+      Ca<lb ed="#C" n="19" break="no"/>non Scripturae ad omnia satis superque sufficit. Non video quid apertius 
+      di<lb ed="#C" n="20" break="no"/>ci possit. Ait Scripturae Canonem satis superque sufficere, ad omnia 
+      <lb ed="#C" n="21"/>sufficere, &amp; solum sufficere. Theodoretus in 2. Dialog. contra haeret. 
+      <lb ed="#C" n="22"/>sic ait: Non audeo dicere aliquid, quod tacuit divina Scriptura. ἐχετυσ ειμι 
+      <lb ed="#C" n="23"/>θρασυσ, ωσε φανασ τ σεσεγημδιον ωοα τς δεια γαρς Audaces ergo sunt, qui  
+      <lb ed="#C" n="24"/>aliquid extra Scripturam dicunt: Damascenus, in Lib. 1. de 
+      Orthodoxa<lb ed="#C" n="25" break="no"/>fide, Cap. 1. sic scribit: Nos ea omnia, quae tradita sunt &amp; per legem, &amp; 
+      per<lb ed="#C" n="26" break="no"/>Prophetas, &amp; per Apostolos, &amp; per Evangelistas, recipimus, agnoscimus, 
+      co<lb ed="#C" n="27" break="no"/>limus, approbamus: tum subjungit: Nihil praeter haec aliud quaerentes, ὕσον 
+      <lb ed="#C" n="28"/>ποργετερω τάτον ἐπζετοντες. Idem etiam in Lib. 4. de Orthodoxa fide, 
+      <lb ed="#C" n="29"/>cap. 18. sic scribit: Quemadmodum arbor plantata secus decur sus 
+      aqua<lb ed="#C" n="30" break="no"/>rum, sic anima divina irrigata Scriptura impinguatur, &amp; maturum fructum, 
+      <lb ed="#C" n="31"/>affert, τισιν δξθυδοζον, και θεαρισκς ωραζεις, fidem orthodoxam, &amp; semper 
+      vi<lb ed="#C" n="32" break="no"/>rentibus folijs decoratur id est, deo placentibus actionibus, eAd actionem enim 
+      <lb ed="#C" n="33"/>studiosam &amp; contemplationem synceram ex diuvinis Scripturis apti evadimus. 
+      <lb ed="#C" n="34"/>Nam virtutis omnis exhortationem, &amp; omnis vitij aver sionem in illis 
+      compe<lb ed="#C" n="35" break="no"/>rimus. <name xml:id="wWpoi1-e46461-Nd1e2210">Hugo de Sancto Victore</name>, in Prolog. Lib. 1. de Sacrament. Cap. 
+      <lb ed="#C" n="36"/>2. comparat Christum Regi, qui medius incedit, vt Rex, inter satellites 
+      <lb ed="#C" n="37"/>suos, stipatus veteris &amp; novi Testamenti Sacramentis; &amp; ait materiam 
+      <lb ed="#C" n="38"/>Scripturarum esse opera restaurationis, opus autem restaurationis esse 
+      <!--539.xml-->
+      <pb ed="#L" n="530"/>
+               <lb ed="#C" n="1"/>verbi incarnationem cum omnibus suis Sacramentis. Ubi diserte 
+      testa<lb ed="#C" n="2" break="no"/>tur, omnia Sacramenta in Scripturis contineri, contra Papistas, qui 
+      vo<lb ed="#C" n="3" break="no"/>lunt quaedam Sacramenta peti ex Traditionibus. In 7. Cap. illius 
+      libri<lb ed="#C" n="4" break="no"/>ait, dicta Patrum in corpore textus non computari, eosque non addere: 
+      <lb ed="#C" n="5"/>aliquid ad Scripturas, sed explanare manifestius, &amp; tractare latius, quod  
+      <lb ed="#C" n="6"/>in Scripturis continetur. Docet ergo non esse quaerendum aliud in 
+      Pa<lb ed="#C" n="7" break="no"/>tribus, quam in Scripturis, quia illi tantum Scripturas interpretantur,  
+      <lb ed="#C" n="8"/>non addunt aliquid de proprio. <name xml:id="wWpoi1-e46461-Nd1e2241">Scotus</name>, in prologo in Lombardum, ait  
+      <lb ed="#C" n="9"/>Scripturas sufficienter continere doctrinam viatori necessariam. Atque ita 
+      <lb ed="#C" n="10"/>Thomas in Comment. in 2. Tim. 3. Cap. ait Scripturas facere hominem 
+      <lb ed="#C" n="11"/>Dei perfectum. Antoninus, 3. part. tit. 18. cap. 3. in Summa: Materia 
+      con<lb ed="#C" n="12" break="no"/>grua praedicationis est sacra Scriptura. Semel enim loquitur Deus (inquit Iob. 
+      <lb ed="#C" n="13"/>22. )loquitur autem Deus in Scriptura sacra, &amp; ita copiose, vt Gregor, exponis 
+      <lb ed="#C" n="14"/>22. Moral. quod non oportet Deum iterum loqui aliquid nobis necessarium, 
+      <lb ed="#C" n="15"/>cum ibi omnia habeantur. Driedo, in 1. Lib. Cap. 1. de Catalogo, ait  
+      <lb ed="#C" n="16"/>Scripturam instrumentum vocari, quia instruit hominem quid debeat 
+      cre<lb ed="#C" n="17" break="no"/>dere, sperate, agere. Sic ad exitum huius Controversiae pervenimus, 
+      at<lb ed="#C" n="18" break="no"/>que ita sententiam Scripturae, quam nobis initio proposuimus, satis 
+      ex<lb ed="#C" n="19" break="no"/>plic atam esse arbitramur. Hactenus illos Papistarum errores 
+      refutavi<lb ed="#C" n="20" break="no"/>mus, qui Propheticum Christi munus attingunt: iam illi proximo 
+      loco<lb ed="#C" n="21" break="no"/>sequuntur, qui ad eius Regium munus spectant.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="386"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e35628"><!-- con1q6c7 -->
+            <head xml:id="wWpoi1-e35628-Hd1e106">Caput 7</head>
+            <p xml:id="wWpoi1-e35628-d1e109">
+               <lb ed="#C" n="23"/>CAPTTTII 
+      <lb ed="#C" n="24"/>Argumenta Adversariorum, quibus probant Scripturas sue Tradi¬ 
+      </p>
+            <p xml:id="wWpoi1-e35628-d1e116">
+               <lb ed="#C" n="25"/>tiguibus esse necessariaspecsuffiguuus, 
+      <lb ed="#C" n="26"/>Dipsam disputationem tandem accedit Iesuita noster, iqua 
+      <lb ed="#C" n="27"/>AAduo sibi probanda assumit: Primum, Scripturas non esse 
+      necessa<lb ed="#C" n="28" break="no"/>tias nec sufficientes sine Traditionibus. Alterum, Multas esse Apostolicas 
+      <lb ed="#C" n="29"/>tum de fide, tum de moribus Traditiones. Utrumque ordine probare 
+      <lb ed="#C" n="30"/>instituit. Prima pars (ut patet) bipartita est, nempe Primo, nonesse 
+      ne<lb ed="#C" n="31" break="no"/>cessarias Scripturas. Secundo, non esse sufficientes sine Traditionibus. 
+      <lb ed="#C" n="32"/>Primo, probat Scripturas non esse necessarias: ubi quo res deductasit 
+      vi<lb ed="#C" n="33" break="no"/>demus. Ita enim necessarias statuit Traditiones, vt non necessarias 
+      Scri<lb ed="#C" n="34" break="no"/>pturas esse constituat, atque ita praeponit Traditiones Scripturis, vt 
+      ne<lb ed="#C" n="35" break="no"/>cessarium non necessario. Sed Jesuita quid agis? &amp; quam tem 
+      aggrede<lb ed="#C" n="36" break="no"/>tis? Scripturas negas esse necessarias? nec negas tantum, sed argumen¬ 
+      <!--396.xml-->
+      <pb ed="#L" n="387"/>
+               <lb ed="#C" n="1"/>tis etiam probare ac confirmare conaris? Sic a blasphemia istam 
+      dispu<lb ed="#C" n="2" break="no"/>tationem ordiri voluisti? Hic intelligimus quam praeclare ac honorifice 
+      <lb ed="#C" n="3"/>de sacris Scripturis sentiant Adversarij nostri, cum dicant eas posse 
+      desi<lb ed="#C" n="4" break="no"/>derari, posse removeri, nec essarias non esse. Vnico tantum hic vtitur 
+      ar<lb ed="#C" n="5" break="no"/>gumento, sed a varijs Ecclesiae temporibus ducto. 
+      </p>
+            <p xml:id="wWpoi1-e35628-d1e160">
+               <lb ed="#C" n="6"/>Primo ait, ab Adamovsque ad Mosen nullam suisse Scripturam, &amp; 
+      ta<lb ed="#C" n="7" break="no"/>men fuisse tum dei verbum ac puram religionem; ergo Scripturas non esse 
+      <lb ed="#C" n="8"/>si mpliciter necessarias. Antecedens probat, quia nulla sit mentio Scripture 
+      <lb ed="#C" n="9"/>in libro Geneseos, sed 18. Genes. Deus ait, Scio fore vt Abrahamus doceat: 
+      <lb ed="#C" n="10"/>liberos suos. Ita bis mille annos (inquit) conservata est religio pura 
+      ante<lb ed="#C" n="11" break="no"/>Christum sine Scripturis; quidni ergo &amp; conservari potuit post Christum 
+      <lb ed="#C" n="12"/>per mille quingentos annos? Respondeo. Quod affirmat ante Mosen 
+      nul<lb ed="#C" n="13" break="no"/>lam fuisse Scripturam, de hoc non contendo: video enim idem 
+      affirmari<lb ed="#C" n="14" break="no"/>a Chrysost. in 1. Homil. in Matth. &amp; a Theophylacto etiam. At August. L. 
+      <lb ed="#C" n="15"/>15. de Civit. Dei. C. 23. quaedam ab Enocho scripta fuisse affirmat. Et 
+      lo<lb ed="#C" n="16" break="no"/>sephus scribit, Antiquit. L. 1. C. 3. Adami posteros ante diluvium duas 
+      <lb ed="#C" n="17"/>columnas, vnam lateritiam, alteram lapideam, erexisse, atque in ijs 
+      quae<lb ed="#C" n="18" break="no"/>dam insculpsisse. Et literarum quidem vsum aeternum fuisse asserit Plinius, 
+      <lb ed="#C" n="19"/>L. 7. C56. Et Sixtus Senensis, L. 2. Biblioth. librum Bellorum Domini 
+      li<lb ed="#C" n="20" break="no"/>bris Mofaicis antiquiorem fuisse putat. Sed concedo nullam esse 
+      Scri<lb ed="#C" n="21" break="no"/>pturam Mosaicis libris antiquiorem, &amp; tot annos religionem sine 
+      Scri<lb ed="#C" n="22" break="no"/>pturis puram permansisse. Quid ex eo sequitur? num ideinco non 
+      necessa<lb ed="#C" n="23" break="no"/>riae erant Scripture? nullo modo. Duplice in hac argumentatione fallaciam 
+      <lb ed="#C" n="24"/>agnosco. Prima est consequentis. Sic enim disputat Adversarius. 
+      Scriptu<lb ed="#C" n="25" break="no"/>ra non est simpliciter necessaria: ergo non est necessaria. Sed in eo errat.  
+      <lb ed="#C" n="26"/>Iesuita. Nam omnis necessitas non est absoluta: est quaedam necessitas 
+      ex<lb ed="#C" n="27" break="no"/>hypothesi. Potuit nos Deus sine sacris Scripturis docere, &amp; ad aeternam. 
+      <lb ed="#C" n="28"/>vitam perducere; sed voluit ille nobis suam doctrinam in Scripturis 
+      pro<lb ed="#C" n="29" break="no"/>ponere. Ergo hoc posito ex hypothesi, necesse est vt Dei voluntatem &amp; 
+      do<lb ed="#C" n="30" break="no"/>ctrinam ex Scripturis discamus &amp; hauriamus Sic nec cibus simpliciter 
+      ne<lb ed="#C" n="31" break="no"/>cessarius est, quia sine cibo Deus nos facile nutrire potest; sed ex 
+      hypo<lb ed="#C" n="32" break="no"/>thesi. Patribus quide olim deus sese familiariter ostendit, &amp; assidue 
+      quo<lb ed="#C" n="33" break="no"/>dammodo cum magnis quibusdam viris versatus, atque ijs per se 
+      volunta<lb ed="#C" n="34" break="no"/>tem suam patefecit; &amp; tum Scripturas non fuisse nec essarias fateor: At 
+      po<lb ed="#C" n="35" break="no"/>stea mutavithanc docendae Ecclesiae rationem, &amp; scribi suam volunt 
+      a<lb ed="#C" n="36" break="no"/>tem voluit; &amp; tum necessaria esse Scriptura coepit. Aliera fallacia est 
+      ab<lb ed="#C" n="37" break="no"/>ignoratione Elenchi. Tempus enim mutatur, cum sic disputat: Fperunt  
+      <lb ed="#C" n="38"/>Scripturae aliquando non necessariae; Ergo &amp; iam non sunt necessariae: 
+      <!--397.xml-->
+      <pb ed="#L" n="388"/>
+               <lb ed="#C" n="1"/>Sed haec ratio non sequitur. Docuit enim Deus olim Ecclesiam suam 
+      vi<lb ed="#C" n="2" break="no"/>va voce, at nunc aliter illi visum est suos docere. Alia ergo illorum, alia, 
+      <lb ed="#C" n="3"/>horum temporum ratio est. Visum enim iam est Deo omnem illam 
+      do<lb ed="#C" n="4" break="no"/>ctrinam, quam Patribus olim viva voce tradidit, literis ac libris 
+      consig<lb ed="#C" n="5" break="no"/>nari. Ratio vero fuit, vt eius doctrina putior atque in corruptior 
+      servare<lb ed="#C" n="6" break="no"/>tur. Nam doctrina voce, sine literis tradita, non tam facile potuit a 
+      cor<lb ed="#C" n="7" break="no"/>ruptelis vindicari, &amp; mox varie depravata fuit, &amp; apud paucissimos 
+      inte<lb ed="#C" n="8" break="no"/>gra remansit Dei religio, vt eandem Deus cogeretur saepius repetere 
+      at<lb ed="#C" n="9" break="no"/>que instaurare. Nobis ergo necessariae iam Scripturae sunt, quia 
+      nobis<lb ed="#C" n="10" break="no"/>Deus necessarium esse praevidit ad pietatis in columitatem, vt Scripturas 
+      <lb ed="#C" n="11"/>in manibus haberemus, adeo vt aliter quidem sentire, sit Deumerroris 
+      <lb ed="#C" n="12"/>&amp; incogitantiae accusare. 
+      </p>
+            <p xml:id="wWpoi1-e35628-d1e264">
+               <lb ed="#C" n="13"/>Deinde progreditur Iesuita ad secundam Ecclesiae aetatem, quae 
+      inter<lb ed="#C" n="14" break="no"/>cessit inter Mosen &amp; Christum, in qua negare non potest editas esse 
+      a<lb ed="#C" n="15" break="no"/>sanctissimis Prophetis Scripturas, quas tamen non fuisse necessarias 
+      con<lb ed="#C" n="16" break="no"/>tendit. Ait enim, Primo, illo tempore Scripturas fuisse proprias ludaeorum, 
+      <lb ed="#C" n="17"/>&amp; imen fuisse tum alios homines religiosos, etiam inter Gentes, quid  
+      <lb ed="#C" n="18"/>Scripturas non habuerunt, quod patet ex lobo &amp; eius amicis. Et huc 
+      ad<lb ed="#C" n="19" break="no"/>ducit Augustin. Lib. 2. de originali peccat. Cap. 24. &amp; de Civit. Lib. 
+      <lb ed="#C" n="20"/>18. cap. 47. Respondeo. Fatemur inter Gentes fuisse pios nonnullos &amp; 
+      re<lb ed="#C" n="21" break="no"/>ligionis verae studiosos: at ab illis etiam lectas fuisse Scripturas patet 
+      ex<lb ed="#C" n="22" break="no"/>historia illa Eunuchi, quae habetur Act. 8. Deinde, pauci tales fuenunt,  
+      <lb ed="#C" n="23"/>quales Iesuita commemorat. Utcunque vero se res habebat, qui ad 
+      Ec<lb ed="#C" n="24" break="no"/>clesiam pertinebant, non ignorabant Scripturas. Secundo, ait Iudaeos, etsi 
+      <lb ed="#C" n="25"/>Scripturas legebant, Traditionibus tamen magis, quam Scripturis vsos 
+      <lb ed="#C" n="26"/>fuisse, vt patet ex Psal. 44. 1. 2. &amp; 78. 3. 4. vbi legimus Patres narrasse 
+      fi<lb ed="#C" n="27" break="no"/>lijs Dei opera: &amp; ex Deut. 6. 20. vbi Patres jubentur filijs narrare, quae 
+      <lb ed="#C" n="28"/>Deus pro illis fecerat, quando ab iis rogarentur. Respondeo: Ex 
+      eiusmo<lb ed="#C" n="29" break="no"/>di testimoniis nihil concludi potest. Quid enim si parentes iussi sunt 
+      nar<lb ed="#C" n="30" break="no"/>rare opera Dei libetis, &amp; liberi interrogare parentes? Quae illi namabant  
+      <lb ed="#C" n="31"/>erant eadem in Scripturis proposita. In Psalmo 44: ostendit Bropheta, 
+      <lb ed="#C" n="32"/>quae ipsi a Patribus audiverant. Sequitur enim Deum expulisse Gentes. 
+      <lb ed="#C" n="33"/>coram illis, &amp; plantasse ipsos. Hoc vero scriptum est. Et in Psalj8: 
+      om<lb ed="#C" n="34" break="no"/>nia quae recensentur scripta sunt, vt de liberatione populi ex Augypto; 
+      <lb ed="#C" n="35"/>&amp;c. Deuteronomij vero sexto iubetur populus de Scripturis loqui, &amp; 
+      fi<lb ed="#C" n="36" break="no"/>lios suos in ijs erudire. Ita Patres de Scripturis narrabant filijs, &amp; illi de 
+      <lb ed="#C" n="37"/>Scripturis eos interrodabant. Tertio, causam homo prudentissimus 
+      sub<lb ed="#C" n="38" break="no"/>iungit, cur Traditionibus olim veteres Iudaei magis vsi sunt, quam Seri¬ 
+      <!--398.xml-->
+      <pb ed="#L" n="389"/>
+               <lb ed="#C" n="1"/>pturis. Prima causa est, quia Scripturae illo tempore nondum erant in 
+      for<lb ed="#C" n="2" break="no"/>mam librorum redactae, sed in chartis iacebant disiectae ac dissipatae. 
+      Se<lb ed="#C" n="3" break="no"/>cunda causa est, quod sacerdotes ac Levitae negligentes fuerunt, adeo 
+      <lb ed="#C" n="4"/>vt tota nonnunquam Scriptura non inveniretur, quod apparet ex 2. Reg. 
+      <lb ed="#C" n="5"/>22. vbi legimus inventum esse volumen legis. Post captivitatem vero 
+      <lb ed="#C" n="6"/>(inquit) Esdras in formam librorum Scripturas redegit, &amp; multa adjecit,  
+      <lb ed="#C" n="7"/>vt illud quod habetur in fine Deuteronomij de morte Mosis. Respondeo 
+      <lb ed="#C" n="8"/>Vt concedamus negligentes fuisse Sacerdotes ac Levitas: num ideo aut 
+      <lb ed="#C" n="9"/>totas periisse Scripturas, aut non esse necessarias sequitur? Negligentia 
+      <lb ed="#C" n="10"/>Sacerdotum ac Levitarum non arguit Scripturas non esse ne cessarias, sed  
+      <lb ed="#C" n="11"/>illos fuisse horrendi cuiusdam sacrilegij reos. Sic nunc Papistae surripiunt. 
+      <lb ed="#C" n="12"/>populo Scripturas: num ergo illae non sunt necessariae? Ineptus esset, 
+      <lb ed="#C" n="13"/>qui id diceret. Sed Scripturae non fuerunt penitus amissae, neque id 
+      pro<lb ed="#C" n="14" break="no"/>bat inventio libri Legis. Liberenim ille, qui inventus est in templo, cum 
+      <lb ed="#C" n="15"/>purgaretur, aut αυτόγραρον fuit Mosis, aut tantum liber Deuteronomisj. 
+      <lb ed="#C" n="16"/>Quod vero ait ita difiectas ac dissipatas fuisse Scripturas illo tempore, 
+      vt<lb ed="#C" n="17" break="no"/>legi non possent, flictum plane est, &amp; nulla ratione dicitur. Etsi enim 
+      Es<lb ed="#C" n="18" break="no"/>dras Psalmos &amp; alios libros in ordinem redegit, non tamen sequitur,  
+      <lb ed="#C" n="19"/>Scripturas antea fuisse ita perturbatas, vt legi non possent. Quod ad 
+      clau<lb ed="#C" n="20" break="no"/>sulam Deuteronomij attinet, eam alij dicunt a Iosua additam ese, vti  
+      <lb ed="#C" n="21"/>Sixtus Senensis, Lib. 1. alij a Mose ante mortem, vt raptus, non mortuus. 
+      <lb ed="#C" n="22"/>fuisse vide atur. 
+      </p>
+            <p xml:id="wWpoi1-e35628-d1e376">
+               <lb ed="#C" n="23"/>Accedit deinceps Bellarminus ad tertiam Ecclesiae aetatem, a 
+      Christi<lb ed="#C" n="24" break="no"/>adventu ductam, aitque per multos annos caruisse Ecclesiam Scripturis 
+      <lb ed="#C" n="25"/>etiam post Christum. Quod tamen ab illo falsissime palam dici 
+      nemo<lb ed="#C" n="26" break="no"/>non intelligit. Habuerunt enim fideles hoc omni tempore veteris 
+      Testa<lb ed="#C" n="27" break="no"/>menti libros integros, &amp; post Christum statim caepta est edi novi 
+      Testa<lb ed="#C" n="28" break="no"/>menti Scriptura, semperque Ecclesia habuit plenam salutis doctrinam 
+      <lb ed="#C" n="29"/>descriptam. Quod ad summam vero doctrinae attinet, nihil interest 
+      inter<lb ed="#C" n="30" break="no"/>vetus ac novum Testamentum. Promissiones enim in veteri 
+      Testamen<lb ed="#C" n="31" break="no"/>to describuntur, &amp; complementum harum promissionum in novo. Nec 
+      <lb ed="#C" n="32"/>itamultis annis post Christum Ecclesia Scripturis novi Testamenti 
+      ca<lb ed="#C" n="33" break="no"/>fuit. Nam octavo anno post Christi ascensionem Matthaeus scripsit 
+      E<lb ed="#C" n="34" break="no"/>vangelium suum, si verum sit quod Theophylactus ait, &amp; ἐκτῶ ἐτη τσοῦ χι¬ 
+      <lb ed="#C" n="35"/>ρdανaηηεαt, in1. cap Matth. Nicephonis vero, Lib. 2. cap. 45. 
+      anno<lb ed="#C" n="36" break="no"/>decimo quintos sed Eusebius, Lib. 5. cap. 6. ex Irt naeo, post annum 
+      vige<lb ed="#C" n="37" break="no"/>simum, cum iamBetrus atque Paulus Romam venissent. 
+      <!--399.xml-->
+      <pb ed="#L" n="390"/>
+               <lb ed="#C" n="1"/>At Iesuita suam assertionem probat ex Irenaeo, Lib. 3. Cap. 4. vbi.  
+      <lb ed="#C" n="2"/>scribit Irenaeus, aetate sua nonnullas Gentes Barbarorum solis 
+      Traditio<lb ed="#C" n="3" break="no"/>nibus, sine Scripturis, optime vixisse. Respondeo: Fateor Irenaeum in 
+      illo<lb ed="#C" n="4" break="no"/>loco dicere, nonnullas Gentes, assentientes illis Traditionibus, quas 
+      A<lb ed="#C" n="5" break="no"/>postoli tradiderunt ijs, quibus Ecclesias committebant, sine characteret 
+      <lb ed="#C" n="6"/>vel atramento scriptam habuisse per Spiritum in cordibus suis salutem. 
+      <lb ed="#C" n="7"/>Sed ne putetis Traditiones illas fuisse Pontificias, subiungit, &amp; recitat  
+      <lb ed="#C" n="8"/>Articulos fidei de Deo vno, creatore coeli &amp; terrae, de Christo eius filio, 
+      <lb ed="#C" n="9"/>deque eius passione, resurrectione, ascensione, &amp;c. Tumaddit. Hanc 
+      fi<lb ed="#C" n="10" break="no"/>dem qui sine literis crediderunt, quantum ad sermonem nostrum, barbari sunit; 
+      <lb ed="#C" n="11"/>quantum autem ad sententiam, &amp; consuetudinem, &amp; conversationem, propter, 
+      <lb ed="#C" n="12"/>sidem perquam sapientissimi sunt, &amp; placent Deo, conversantes in omi iustitia, 
+      <lb ed="#C" n="13"/>&amp; castitate, &amp; sapientia. Sed etsinonnulli barbari homines ad tempus 
+      <lb ed="#C" n="14"/>caruerunt Scripturis, non tamen ob id sequitur, Scripturas omnino non 
+      <lb ed="#C" n="15"/>esse necessarias. Multi nesciunt literas, &amp; tamen sanam fidem retinent. 
+      <lb ed="#C" n="16"/>ex praedicatione Pastorum ac Doctorum; ergone Scripturae non 
+      necessa<lb ed="#C" n="17" break="no"/>riae? At unde illi Pastores ac doctores suam illam, quam habent, 
+      religio<lb ed="#C" n="18" break="no"/>nis scientiam hauserunt? certe ex Scripturis: sunt ergo Scripturae valde 
+      <lb ed="#C" n="19"/>necessariae. Atque etsi quidem ad tempus doctrina sine literis integra 
+      <lb ed="#C" n="20"/>servari potest, non est tutum tamen id diutius fieri, nec perpetuo potest. 
+      <lb ed="#C" n="21"/>Praeterea, paulo post Scripturae conversae sunt in illas Barbatorum 
+      lin<lb ed="#C" n="22" break="no"/>guas, vthis lectis atque expositis sanam doctrinam meliss tuerentum 
+      <lb ed="#C" n="23"/>Hinc concludit, Ergo Scripturas non esse simpliciter necessarias, Becte: 
+      <lb ed="#C" n="24"/>sed annon sunt igiturnecessariae? Id plane vult, sed proloqui non audet,  
+      <lb ed="#C" n="25"/>cum statim Chrysostomo scribenti, non Patriarchis Sctipturas, sed nobis 
+      <lb ed="#C" n="26"/>necessarias esse; respondeat, hanc necessitatem intelligide bene esse, id est, 
+      <lb ed="#C" n="27"/>de vtilitate, Ita vtiles duntaxat Scripturae sunt, &amp; ad bene esse conferunt, 
+      <lb ed="#C" n="28"/>necessariae non sunt. Ex tota igitur hac Adversarij dispitatione id verum: 
+      <lb ed="#C" n="29"/>esse videmus, quod apud eundem Irenaeum legimus, Lib. 32. Cap.φι 
+      <lb ed="#C" n="30"/>Haereticos, quando ex Scripturis arguuntur, in ipsarum Scripturarumacet 
+      <lb ed="#C" n="31"/>cusationem converti. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="1"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de1265"><!-- con1q1c1 -->
+            <head xml:id="wWpoi1-de1265-Hd1e106">Caput 1</head>
+            <p xml:id="wWpoi1-de1265-d1e109">
+      <!--20.xml-->
+               <pb ed="#L" n="1"/>
+               <lb ed="#C" n="1"/>CAPUT PRIMUM 
+      <lb ed="#C" n="2"/>In quo Controversia haec omnia in suas particulares 
+      <lb ed="#C" n="3"/>quaestiones distribuitur,  
+  </p>
+            <p xml:id="wWpoi1-de1265-d1e122">
+               <lb ed="#C" n="4"/>HVius controversiae fundamentum in illis Christi 
+      ver<lb ed="#C" n="5" break="no"/>bis ponemus, quae apud Iohannem Evangelistam 
+      <lb ed="#C" n="6"/>habentur, cap. 5. 39. Epδνάτε τῶς χζαρας, Scrutamini 
+      <lb ed="#C" n="7"/>Scripturas, Fuerat enim Christus lohannis Baptistae 
+      <lb ed="#C" n="8"/>testimonio Iudaeis commendatus; quod quidem 
+      ve<lb ed="#C" n="9" break="no"/>rissimum amplissimumque fuit, nec a Iudaeis ipsis 
+      <lb ed="#C" n="10"/>Jcontemnipotuit, apud quos summo in honore 
+      Io<lb ed="#C" n="11" break="no"/>hannes precioque vixit. Hoc tamen lohannis testimonio alia se Christus. 
+      <lb ed="#C" n="12"/>habere affirmat maiora, certiora, augustiora: eaque tria commemorat.  
+      <lb ed="#C" n="13"/>Primum, opera, quae fecit. Secundum, patrem suum, a quo missus fuit. 
+      <lb ed="#C" n="14"/>Tertium, sacras ipsas Scripturas, quas testes suas vocat. Et quidem de 
+      <lb ed="#C" n="15"/>Scripturis ludaei honorifice sentiebant, in iisque vitam aeternam 
+      inve<lb ed="#C" n="16" break="no"/>niri posse sperabant. Quod illorum de Scripturis iudicium Christus 
+      ini<lb ed="#C" n="17" break="no"/>nime reprehendit, sed laudat potius, iubetque vt pergant Scripturas 
+      <lb ed="#C" n="18"/>scrutari, eorumque omnino erga Scripturas studium infiammat, 
+      indu<lb ed="#C" n="19" break="no"/>striamque acuit. Hortatur enim vt Scripturas non legant modo, sed 
+      scru<lb ed="#C" n="20" break="no"/>tentur etiam, penitusque excutiant: ita eos non tenui lectione contentos 
+      <lb ed="#C" n="21"/>esse vult, sed assiduam, acrem, laboriosam investigandi perscrutandique  
+      <lb ed="#C" n="22"/>diligentiam requirit, qualem illi adhibere solent, qui defossum in terra 
+      <lb ed="#C" n="23"/>thesaurum diligentissime quaerunt.  
+      </p>
+            <p xml:id="wWpoi1-de1265-d1e168">
+               <lb ed="#C" n="24"/>Et quando Christus sine exceptione iussit scrutari sacras Scripturas, 
+      <lb ed="#C" n="25"/>non has modo, aut illas, aut quasdam; manifestum est his verbis 
+      prae<lb ed="#C" n="26" break="no"/>scribi, vt vniversas scrutemur, non in certis Scripturarum partibus 
+      hae<lb ed="#C" n="27" break="no"/>rentes contemnamus aut praetermittamus reliquas. Omnes enim 
+      Chri<lb ed="#C" n="28" break="no"/>sto non obscurum testimonium dicunt. Scripturas autem &amp; Papistae 
+      <lb ed="#C" n="29"/>celebrant, &amp; nos in maximo precio habemus: &amp; scrutandas esse 
+      Scri<lb ed="#C" n="30" break="no"/>pturas a nobis nulla omnino controversia est: verum de modo quo eas 
+      <lb ed="#C" n="31"/>Iscrutarioporteat, &amp; ad quos ea cura spectet, deque ipsis Scripturis, quas 
+      <lb ed="#C" n="32"/>Iscrutandas, esse summa consensione omnes affirmamus, est 
+      gravissima<lb ed="#C" n="33" break="no"/>Jcontroversia, quam nunc explicare aggredimur. Quam vtperspicue 
+      <!--21.xml-->
+      <pb ed="#L" n="2"/>
+               <lb ed="#C" n="1"/>&amp; certa methodo tractemus, eam omnem in sex quaestiones hac 
+      ratio<lb ed="#C" n="2" break="no"/>ne distribui posse iudicamus. Iubemur Scripturas scrutari: quod vt recte 
+      <lb ed="#C" n="3"/>fiat, primum intelligendum est, quinam illi sint Scripturarum libri 
+      ge<lb ed="#C" n="4" break="no"/>nuini, in quibus scrutandis &amp; versandis nos occupatos esse oporteat.  
+      <lb ed="#C" n="5"/>Ergo haec erit prima quaestio, De numero Canonicorum librorum Scripturae. 
+      </p>
+            <p xml:id="wWpoi1-de1265-d1e207">
+               <lb ed="#C" n="6"/>lubemur Scripturas scrutari: in quo proxime videndum est, quibus 
+      <lb ed="#C" n="7"/>hoc praeceptum fuerit, vtrum doctis tantum &amp; linguarum peritis, 
+      an<lb ed="#C" n="8" break="no"/>piis omnibus: Ergo secunda quaestio erit, De Scripturaerum versionibus, 
+      <lb ed="#C" n="9"/>sacrisque vernaculis. 
+      </p>
+            <p xml:id="wWpoi1-de1265-d1e219">
+               <lb ed="#C" n="10"/>lubemur Scripturas scrutari: Ex quo manifestum est, scripturas 
+      dig<lb ed="#C" n="11" break="no"/>nitate atque authoritate summa praeditas esse, quando ad eas nos 
+      Chri<lb ed="#C" n="12" break="no"/>stus ipse revocat ac remittit. Ergo tertia quaestio erit, De authoritate 
+      Scri<lb ed="#C" n="13" break="no"/>pturae, vtrum hanc tantam fidem atque dignitatem ex se habeat, suoque 
+      <lb ed="#C" n="14"/>authore Spiritu sancto, an ex Ecclesiae testimonio. 
+      </p>
+            <p xml:id="wWpoi1-de1265-d1e232">
+               <lb ed="#C" n="15"/>lubemur Scripturas scrutari: vnde spes nonnulla ostenditur, fore 
+      vt<lb ed="#C" n="16" break="no"/>eas intelligamus, multumque in ills scrutandis proficiamus, si facimus 
+      <lb ed="#C" n="17"/>quod iubemur. Ergo quarta quaestio erit, De perspicuitate Scripturae. 
+      </p>
+            <p xml:id="wWpoi1-de1265-d1e241">
+               <lb ed="#C" n="18"/>lubemur Scripturas scrutati, hoc est, verum Scripturae sensum 
+      quae<lb ed="#C" n="19" break="no"/>rere, &amp; investigare, quandoquidem Scriptura in sensu tota posita est: 
+      <lb ed="#C" n="20"/>Ergo quinta quaestio erit, Deinterpretatione Scripturae, quomodo 
+      inter<lb ed="#C" n="21" break="no"/>pretanda sit, &amp; quis habeat ius atque authoritatem interpretandi 
+      Scri<lb ed="#C" n="22" break="no"/>pturas. 
+      </p>
+            <p xml:id="wWpoi1-de1265-d1e254">
+               <lb ed="#C" n="23"/>lubemur Scripturas scrutari: Scripturarum vero nomine verbum Dei. 
+      <lb ed="#C" n="24"/>scriptum intelligi constat: ubi postremo tractandum est, utrum 
+      Scrip<lb ed="#C" n="25" break="no"/>turas solas scrutari oporteat, an praeter Scripturas aliud aliquid nobis 
+      <lb ed="#C" n="26"/>scrutandum commendetur. Ergo sexta, &amp; postrema quaestio erit, 
+      Deper<lb ed="#C" n="27" break="no"/>fectione Scripturarum, quas ita esse in se numeris omnibus absolutas, 
+      <lb ed="#C" n="28"/>vt in iis acquiescendum sit, nihilque aliudomnino desiderandum, &amp; 
+      tra<lb ed="#C" n="29" break="no"/>ditiones non scriptas minime nobis necessarias esse, demonstrabo. 
+      <lb ed="#C" n="30"/>Has quaestiones ordine eo tractare institui, quo a me propositae sunt.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="129"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e12086"><!-- con1q2c11 -->
+            <head xml:id="wWpoi1-e12086-Hd1e106">Caput 11</head>
+            <p xml:id="wWpoi1-e12086-d1e109">
+               <lb ed="#C" n="6"/>CAPTTTIII 
+      <lb ed="#C" n="7"/>ECCAAAPTTI 
+    </p>
+            <p xml:id="wWpoi1-e12086-d1e116">
+               <lb ed="#C" n="8"/>IN <name xml:id="wWpoi1-e12086-Nd1e120">Calvinum</name> deinceps <name xml:id="wWpoi1-e12086-Nd1e123">Bellarminus</name> invehitur, &amp; pro Latina 
+      Psal<lb ed="#C" n="9" break="no"/>Tmorum editione respondet, quam Calvinus, in Antidoto Concilij 
+      <lb ed="#C" n="10"/>Tridentini, corruptam &amp; vitiosam esse verissime dixit, atque exemplis 
+      <lb ed="#C" n="11"/>nonnullis demonstravit. Et quis tandem est, nisi desperatae causae 
+      pa<lb ed="#C" n="12" break="no"/>tronus, qui hanc editionem possit defendere tanquam authenticam &amp; 
+      <lb ed="#C" n="13"/>incorruptam? Omnino enim exploratum est, eam non esse ex Hebraeo, 
+      <lb ed="#C" n="14"/>sed Graeco, Latinam factam: nec ab Hieronymo, sed ab alio quodam 
+      <lb ed="#C" n="15"/>incerto &amp; incognito authore. Nonne vero magis rationi 
+      consentane<lb ed="#C" n="16" break="no"/>um est, vt Graecam editionem, ex qua illa fluxit, authenticam isti 
+      face<lb ed="#C" n="17" break="no"/>rent? Illius enim haec non nisi filia est, vel imago potius. Cur illi in 
+      reli<lb ed="#C" n="18" break="no"/>quis Hieronymianam, vt arbitrantur, versionem recipiunt, in hoc 
+      respu<lb ed="#C" n="19" break="no"/>unt? Hieronymus in Psalmorum libro Latine reddendo non minus 
+      ela<lb ed="#C" n="20" break="no"/>boravit, quam in caeteris. Et Latina illa editio, quae ante Hieronymum. 
+      <lb ed="#C" n="21"/>vsitatissima fuit, non minus in Psalmis vitiosa extirit, quam in caeteris 
+      <lb ed="#C" n="22"/>partibus. Sed propter vsum &amp; consuetudinem eorum, quae pristinam 
+      <lb ed="#C" n="23"/>illam Latinam in Ecclesiis passim propagarat, tritamque fecerat, 
+      Hiero<lb ed="#C" n="24" break="no"/>nymiana Psalmorum versio Latina publice recepta non fuit. Num ergo 
+      <lb ed="#C" n="25"/>haec melior in Psalmis habenda est, quam Hieronymiana? Nullo 
+      modo<lb ed="#C" n="26" break="no"/>Non enim retenta est, quia melior, sed quia communior fuit, nec tam 
+      fa<lb ed="#C" n="27" break="no"/>cile mutari potuit. Eadem ratione si in reliquis priscam illam versionem 
+      <lb ed="#C" n="28"/>vsus firmasset, non nunc Hieronymiana, sed illa, quantumvis depravata, 
+      <lb ed="#C" n="29"/>tamen authentica habita fuisset. Sic enim plane in Psalmorum libris 
+      se<lb ed="#C" n="30" break="no"/>res habet. Latina editio iubetur esse authentica: quare? Habemus enim &amp; 
+      <lb ed="#C" n="31"/>Hebraieam &amp; Graecam: quarum Hebraica fuit Prophetarum, Davidis. 
+      <lb ed="#C" n="32"/>Mosis, Asaphi, Salomonis, &amp; aliorum, qui Psalmos scripserunt: 
+      Graeca<lb ed="#C" n="33" break="no"/>fuit Septuaginta interpretum, vtplerique existimant. Et quanquam non 
+      <lb ed="#C" n="34"/>omnino contemnenda est, tamen Hebraicae veritatis puros fontes 
+      cor<lb ed="#C" n="35" break="no"/>rupit pessime inmultis locis. Latina vero haec multo adhuc inquinatior  
+      <lb ed="#C" n="36"/>est, vtpote a fontibus remotior, &amp; ex rivulo, non fonte, derivata. Tame 
+      <!--139.xml-->
+      <pb ed="#L" n="130"/>
+               <lb ed="#C" n="1"/>non Hebraicam, non Graecam, sed hanc Latinam, scilicet talem, Patres 
+      <lb ed="#C" n="2"/>Tridentini authenticam Psalmorum Scripturam fecerunt. Quod 
+      quan<lb ed="#C" n="3" break="no"/>quam impudentissime fieri omnes perspiciunt, tamen illorum 
+      inconsi<lb ed="#C" n="4" break="no"/>deratissima temeritas atque audacia melius apparebit, si editionis huius 
+      <lb ed="#C" n="5"/>errores aliquot oboculos propositi fuerint. Et quando Bellarminus eos 
+      <lb ed="#C" n="6"/>excusare conatus est, quos Calvinus notavit, quam id praeclare ac 
+      pro<lb ed="#C" n="7" break="no"/>babiliter praestiterit, age, videamus. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e207">
+               <lb ed="#C" n="8"/>Primus locus est Psal. 7. ver. 12. Apprehendite disciplinam: &amp; 
+      Bellar<lb ed="#C" n="9" break="no"/>minus ait in Hebraeo esse osculamini, sive adorate, filium: sed sensum eius 
+      <lb ed="#C" n="10"/>loci rectissime redditum esse per, apprehendite disciplinam. Nam 
+      agnosce<lb ed="#C" n="11" break="no"/>re filium esse Messiam non aliter possumus, quam fidem &amp; doctrinam 
+      e<lb ed="#C" n="12" break="no"/>ius recipiendo, Respondeo: primo, Interpreti Scripturae non licet 
+      verba<lb ed="#C" n="13" break="no"/>mutare, atque hac defensione deinceps vti, sensum esse a se redditum. 
+      <lb ed="#C" n="14"/>Non enim quem ipse reddiderit, sed quem verba θειτῶσα postulent, 
+      vi<lb ed="#C" n="15" break="no"/>dendum est. Secundo, non idem sensus est. Quis enim dixerit, 
+      apprehen<lb ed="#C" n="16" break="no"/>dere disciplinam, esse idem quod osculari filium? Non enim quia necesset 
+      <lb ed="#C" n="17"/>est Christi disciplinam amplecti, si Christum Messiam regemque nostrum 
+      <lb ed="#C" n="18"/>agnoscimus, propterea erit idem horum verborum sensus. Ita quae sunt  
+      <lb ed="#C" n="19"/>consentanea, eadem omnino erunt. Tertio, Pulcherrimum de 
+      Christo<lb ed="#C" n="20" break="no"/>testimonium, quo Christi hostes refellantur, nobis hac versione 
+      eripi<lb ed="#C" n="21" break="no"/>tur. Nam disciplina sic intelligi potest, vt nihil ad Christum pertineat: 
+      <lb ed="#C" n="22"/>sed quod filium osculari iubemur, in eo nobis eius &amp; divina natura, &amp; 
+      <lb ed="#C" n="23"/>imperium commendatur.  
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e244">
+               <lb ed="#C" n="24"/>Secundus locus est Psal. 4. 3. Vsque quo gravi corde? In Hebraeo est, usque quoo 
+      <lb ed="#C" n="25"/>gloriam meam in ignominiam? Bellarminus ait primo, verisimile esse 
+      corru<lb ed="#C" n="26" break="no"/>ptum esse textum Hebraeum: secundo, sensum eundem esse. Respondeo 
+      <lb ed="#C" n="27"/>ad primum: textus Hebraeus in hoc loco non alius est, quam 
+      Hieronymi<lb ed="#C" n="28" break="no"/>tempore fuit, quemadmodum ex illius Psalterio constat. 
+      Septuaginta<lb ed="#C" n="29" break="no"/>locum male legerunt ac verterunt, eosque sequutus est iste interpres. 
+      <lb ed="#C" n="30"/>Lindanum de hoc loco cavillantem &amp; calumniantem, Isaacus ejus 
+      prae<lb ed="#C" n="31" break="no"/>ceptor satis refutavit. Quod ad sensum vero, quis non 
+      mutationemma<lb ed="#C" n="32" break="no"/>gnam videt, praesertim ve locum Bellarminus exponit? Ait enim Deum; 
+      <lb ed="#C" n="33"/>conqueri de hominibus. At hoc falsum est. Non enim Dei sermo hic est, 
+      <lb ed="#C" n="34"/>sed Davidis, de Adversariorum suorum audacia &amp; nequitia 
+      conqueren<lb ed="#C" n="35" break="no"/>tis. Itaque ait, O filij vitorum, vos mei insolentes hostes, qui arrogantia 
+      <lb ed="#C" n="36"/>furoreque subnixi, reliquos omnes despicitis, quousque gloriam meam 
+      <lb ed="#C" n="37"/>ignominia afficitis? Bellarminus vero fingit Deum loqui, &amp; conqueri 
+      <lb ed="#C" n="38"/>de hominibus, quod aeterna negligant, temporalia diligant: &amp; eos esset 
+      <!--140.xml-->
+      <pb ed="#L" n="131"/>
+               <lb ed="#C" n="1"/>graves corde, vitio suo, sed Dei gloriam esse, beneficio divino. Quis 
+      Bel<lb ed="#C" n="2" break="no"/>larminum non agnoscat egregium Psalmorum interpretem? Num deus, 
+      <lb ed="#C" n="3"/>qui corde graves sunt, eos suam gloriam diceret? Num qui coelestia 
+      con<lb ed="#C" n="4" break="no"/>temnunt, terrena consectantur, hos homines Deus suam gloriam ducit: 
+      <lb ed="#C" n="5"/>Quis non istam interpretationem rideat? Genebrardus tamen melius 
+      <lb ed="#C" n="6"/>sensum exposuit, qui per gloriam Davidis Deum ipsum intelligit, 
+      in<lb ed="#C" n="7" break="no"/>quem ist ihomines erant contumeliofi. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e300">
+               <lb ed="#C" n="8"/>Tertius locus est Psal. 31.4. Conversus sum in aerumna mea, dum 
+      configi<lb ed="#C" n="9" break="no"/>tur spina. Haec verba sic vertenda erant, vt ipse Bellarminus ex 
+      Hebraeo<lb ed="#C" n="10" break="no"/>vertit: Succus meus sine humore, &amp; viror meus versus est in ficcitates estivas. 
+      <lb ed="#C" n="11"/>Satis quidem hae versiones dissentaneae sunt. Sed tamen Bellarminus ait: 
+      <lb ed="#C" n="12"/>vulgatum interpretem non posse in hoc loco reprehendi. Duas autem 
+      <lb ed="#C" n="13"/>affert defensiones: Vna est, quod non verterit ex Hebraeo, sed ex 
+      Graeco<lb ed="#C" n="14" break="no"/>transtulerit in Latinum: Altera, esse errorem scribarum in Hebraeo. 
+      Re<lb ed="#C" n="15" break="no"/>spondeo de prima: quod verterit ex Graeco, non ex Hebraeo, id multo 
+      ma<lb ed="#C" n="16" break="no"/>gis ad accusandam, quam defendendam illam interpretationem valet.  
+      <lb ed="#C" n="17"/>Quanto enim Graeca Hebraeis authoritate, fideque cedunt, tanto 
+      neces<lb ed="#C" n="18" break="no"/>se est hanc versionemex Graeco non Hebraeo factam minus estimari. 
+      De<lb ed="#C" n="19" break="no"/>inde, quod textum Hebraicum esse in hoc loco corruptum suspicatur a 
+      <lb ed="#C" n="20"/>scribis, id Genebrardus non est ausus dicere, nec quisquam, credo, 
+      prae<lb ed="#C" n="21" break="no"/>ter Bellarminum diceret, nisi qui nimium sunt in fontes Hebraeos iniqui: 
+      <lb ed="#C" n="22"/>nec id sane Bellarminus suspicari videretur, si etrorem hunc aliter 
+      excu<lb ed="#C" n="23" break="no"/>sare posset. Verba Hebrae a certum facilemque sensum praebent. Latina. 
+      <lb ed="#C" n="24"/>satis commode exponi vix possunt. Quid enim est, dum configitur spinat 
+      <lb ed="#C" n="25"/>Spinam veteres peccatum interpretati sunt: Bellarminus spnam 
+      cala<lb ed="#C" n="26" break="no"/>mitatis intelligi dicit. Esto: quid tum erit, dum configitur spina? 
+      Grae<lb ed="#C" n="27" break="no"/>ca lectio etsi non debet probari, tamen intelligi potest, ἐν τῶ ἐμπαγυθαι 
+      <lb ed="#C" n="28"/>μoι ἀκανθαν, id est, dum mihi infigitur spina. Hoc quid sit, video; at illud, 
+      <lb ed="#C" n="29"/>dum configitur spina, velim nobis Bellarminus ex legibus grammaticis: 
+      <lb ed="#C" n="30"/>interpretetur. Et quod prius versiculi membrum, Conversus sum in 
+      aerum<lb ed="#C" n="31" break="no"/>na, sic Bellarminus exponit, Conversus sum ad poenitentiam tempore 
+      aerum<lb ed="#C" n="32" break="no"/>na, hanc expositionem nec Hieronymi versio admittit, nec 
+      Genebrar<lb ed="#C" n="33" break="no"/>dus probat, quia verbum Haphac vix (inquit) dicitur de resipiscentia. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e359">
+               <lb ed="#C" n="34"/>Quartus locus est in eodem Psalmo, v. 9. In chamo &amp; fraeno maxillas 
+      eo<lb ed="#C" n="35" break="no"/>rum astringe, qui non approximant adte. Locus erat sic vertendus, Lupato. 
+      <lb ed="#C" n="36"/>&amp; fraeno oreorum astringendum est, ne accedant ad te. Bellarminus mitam? 
+      <lb ed="#C" n="37"/>esse hac in re Calvini impudentiam ait. Quamobrem? Nam &amp; 
+      Sep<lb ed="#C" n="38" break="no"/>tuaginta(inquit) &amp; beatus Hieronymus, &amp; omnes Patres sic semper lege¬ 
+      <!--141.xml-->
+      <pb ed="#L" n="132"/>
+               <lb ed="#C" n="1"/>trunt, vt nunc legitur. Respondeo: primo, Septuaginta ab Hebraeo 
+      longis<lb ed="#C" n="2" break="no"/>sime multis in locis dissenserunt, idque Hieronymus abunde testatur. 
+      Se<lb ed="#C" n="3" break="no"/>cundo, Hieronymus in hoc loco non mutavit veterem versioneni, non 
+      <lb ed="#C" n="4"/>quod eam emendari non posse iudicaret, sed quod tolerabilem esse 
+      exi<lb ed="#C" n="5" break="no"/>stimaret. Tertio, quod Patres sic legunt, vtnunc legitur, quid hoc ad 
+      remi<lb ed="#C" n="6" break="no"/>Nam illi versionem tritam sequuntur, quae ex Graecis non bonis Latina; 
+      <lb ed="#C" n="7"/>facta est deterior. Deinde vero, quod Bellarminus ait Hebraea verba, 
+      eti<lb ed="#C" n="8" break="no"/>am vt nunc habentur, sic posse comodissime exponi, Respondeo, id 
+      do<lb ed="#C" n="9" break="no"/>ceri, non dici oportuisse. Equidem Pagninus, Vatablus, Montanus, 
+      Tre<lb ed="#C" n="10" break="no"/>mellius, aliter opinati sunt, &amp; Genebrardus ait dissolutam esse a 
+      Septua<lb ed="#C" n="11" break="no"/>ginta sententiam, sed facilitatis causa. Verum illi sententiam sua 
+      dissela<lb ed="#C" n="12" break="no"/>tione multomagis difficilem &amp; implicatam reddiderunt. Nam 
+      Prophe<lb ed="#C" n="13" break="no"/>ta admonet, ne simus rationis &amp; iudicij expertes, equo muloque similes, 
+      <lb ed="#C" n="14"/>quibus os freno &amp; chamo coercendumest, ne in nos irruant. Vetus 
+      inter<lb ed="#C" n="15" break="no"/>pres omnino alium verborum sensum proposuit, quasi Davidi 
+      praecipe<lb ed="#C" n="16" break="no"/>ret Deus, ut eorum omnium fauces fraeno chamoque constringeret, qui  
+      <lb ed="#C" n="17"/>non ac cedunt (ut Genebrardi verbis vtar) ad tuam hominis naturam, 
+      ratio<lb ed="#C" n="18" break="no"/>nem, &amp; virtutem. Qua expositione nihil afferri potuit a Prophetae menter 
+      <lb ed="#C" n="19"/>magis alienum. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e418">
+               <lb ed="#C" n="20"/>Quintus locus est in Psalmo 37. 8. Quoniam lumbi mei impleti sunt 
+      illu<lb ed="#C" n="21" break="no"/>sionibus. Quaerit Calvinus quomodo sit intelligendum, lumbos 
+      impleri<lb ed="#C" n="22" break="no"/>illusionibus. Bellarminus ait verbum Hebraicum significare non modo 
+      <lb ed="#C" n="23"/>ignominiam, sed &amp; ardorem. Respondeo, hoc quidem verum esse, sed  
+      <lb ed="#C" n="24"/>quomodotunc lumbos impleri illusionibus interpretatur? Nimirum 
+      po<lb ed="#C" n="25" break="no"/>nendo effectum pro causa. Davidem enim loqui de pruritu &amp; ardore 
+      li<lb ed="#C" n="26" break="no"/>bidinis, qui illusiones in mente gignit. Apage: Nihil minus. Multo 
+      ad<lb ed="#C" n="27" break="no"/>huc melius Genebrardus, qui per illusiones intelligit morbos, propter  
+      <lb ed="#C" n="28"/>quos illi erat ab inimicis insultatum atque illusum. Davidis enim, is 
+      <lb ed="#C" n="29"/>sensus est, lumbos vel renes suos gravissimo acerbissimoque 
+      morbore<lb ed="#C" n="30" break="no"/>pletos esse. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e444">
+               <lb ed="#C" n="31"/>Sextus locus est Psalmo 67. v. 7. Qui inhabitare facit unius moris in 
+      do<lb ed="#C" n="32" break="no"/>mo. Vertendus erat locus, Qui unicos vel solitarios collecat in familia. 
+      Bel<lb ed="#C" n="33" break="no"/>larminus ait verba Hebraica optime recipere plures sensus. Respondeos 
+      <lb ed="#C" n="34"/>verba non nisi vnum verum sensum recipiunt, eumque planum &amp; 
+      expe<lb ed="#C" n="35" break="no"/>ditum. Nam inter Dei laudes Propheta commemorat, quod unicos, id  
+      <lb ed="#C" n="36"/>est, orbos, ac solitatios, nulla cognatione, nulla amicitia, nullis 
+      facultati<lb ed="#C" n="37" break="no"/>bus praeditos sic augeat, locupletet, omet, vtiam familias, in quibus &amp; 
+      <lb ed="#C" n="38"/>liberi sint, &amp; servi, habeant. Sic verba Pagninus vertit, &amp; Vatablus, &amp; 
+      <!--142.xml-->
+      <pb ed="#L" n="133"/>
+               <lb ed="#C" n="1"/>Montanus, &amp; antiquis seculis Hieronymus: vocabulum Hebraeum non 
+      <lb ed="#C" n="2"/>significat μονοτροπες (υt Septuaginta verterunt) hoc est, unius moris, sed  
+      <lb ed="#C" n="3"/>solitatios, aut vnicos. Itaque quae hic de morum similitudine, 
+      studiorum<lb ed="#C" n="4" break="no"/>que coniunctione disputantur, ea quanquam vera sunt, tamen aliena 
+      <lb ed="#C" n="5"/>sunt, nec ad institutum pertinent. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e479">
+               <lb ed="#C" n="6"/>Septimus locus est in eodem Psalmo, v. proximo: Qui habitant in 
+      sepul<lb ed="#C" n="7" break="no"/>chris. Calvinus contendit esse legendum, in siticuloso loco. Sic voluit 
+      in<lb ed="#C" n="8" break="no"/>terpres (ait Bellarminus) horrorem deserti illius exponere, vnde Deus 
+      <lb ed="#C" n="9"/>populum suum eduxit. Respondeo: Iste opinatur Latinam Psalmorum: 
+      <lb ed="#C" n="10"/>versionem, qualis hodie est, praeclare a se defensam esse, suoque 
+      mune<lb ed="#C" n="11" break="no"/>ri egregie satisfactum a se esse, si verborum aliquam qualemcunque, 
+      <lb ed="#C" n="12"/>modo non impiam aut haereticam sententiam reddiderit: quasi nihil 
+      a<lb ed="#C" n="13" break="no"/>liud in interprete Scripturarum requiratur, nisi vt sensum aliquem, non 
+      <lb ed="#C" n="14"/>omnino absurdum, quamvis a mente Spiritus sancti alienum, exprimat.  
+      <lb ed="#C" n="15"/>Quid enim alienius a mente Davidis fingi potuit, quam hic sensus est 
+      <lb ed="#C" n="16"/>quem adversarius istis verbis tribuit? Nam Propheta non loquitur de 
+      il<lb ed="#C" n="17" break="no"/>lo deserto, vnde suum populum Deus eduxit, quemadmodum 
+      Bellarmi<lb ed="#C" n="18" break="no"/>nus existimat, quod propter horrorem sepulchris comparetur; sed ait 
+      <lb ed="#C" n="19"/>eos qui rebelles sunt, a Deo in loca arida &amp; siticulosa detrudi. Quid hoc  
+      <lb ed="#C" n="20"/>ad illud desertum, per quod populum suum Deus in terram Cananeam: 
+      <lb ed="#C" n="21"/>eduxit? Sed hoc non totum fuit, quod in isto versu Calvinus 
+      reprehen<lb ed="#C" n="22" break="no"/>dit. Sic enim se verba habent in Hebraeo, Educit vinctos compedibus, at 
+      re<lb ed="#C" n="23" break="no"/>belles inhabitant locum aridissimum. Latinus interpres sic transtulit falso 
+      at<lb ed="#C" n="24" break="no"/>que inepte, Qui educit vinctos in fortitudine, similiter eos qui exasperant, qui  
+      <lb ed="#C" n="25"/>habitant in sepulchris. Quid magis perturbatum dici potuit? Sed hoc 
+      loco<lb ed="#C" n="26" break="no"/>Genebrardus nonnullam scholij sui medicinam adhibet, quae Latinae 
+      <lb ed="#C" n="27"/>versionis morbo medeatur. Sic enim ait verba esse interpretanda, 
+      Re<lb ed="#C" n="28" break="no"/>belles, qui in sepulchris vel locis aridis habitant, educi ac liberari a 
+      mor<lb ed="#C" n="29" break="no"/>te, &amp; Diabolo, vel a periculis &amp; malis. Ita poenam tristissimam iste sual 
+      <lb ed="#C" n="30"/>expositione in beneficium laetissimum incundissimumque convertit. Si 
+      <lb ed="#C" n="31"/>hoc sit Scripturas interpretari, non sane difficile erit quidvis e 
+      Scrip<lb ed="#C" n="32" break="no"/>turis elicere. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e540">
+               <lb ed="#C" n="33"/>Octavus locus est in eodem Psalmo, v. 12. &amp;c. Dominus dabit verbum, 
+      <lb ed="#C" n="34"/>Svangelizantibus virtute multa. Rex virtutum dilecti, dilecti, &amp; 
+      specierdo<lb ed="#C" n="35" break="no"/>mus divide spolia. Si dormiatis inter medios cleros, pennae columbae 
+      dear<lb ed="#C" n="36" break="no"/>gentatae, &amp; posteriora dorsi eius in pallore auri. Haec non Spiritus sancti 
+      ora<lb ed="#C" n="37" break="no"/>cula sunt, sed potius aenigmata, vnde se nullus Oedipus expedire potest, 
+      <lb ed="#C" n="38"/>vt merito scripsit Calvinus. Cum enim difficile est aliquam omnino¬ 
+      <!--143.xml-->
+      <pb ed="#L" n="134"/>
+               <lb ed="#C" n="1"/>consentaneam horum verborum sententiam explicare at que evolvere, 
+      <lb ed="#C" n="2"/>adeo nihil secum cohaeret; tum ea sic torqueri, vt Prophetae mentem 
+      at<lb ed="#C" n="3" break="no"/>tingant nulla arte possunt. Sed tamen Bellarmini expositionem, si 
+      pla<lb ed="#C" n="4" break="no"/>cet, audiamus. Rer virtutum dilecti, dilecti, hoc est, Rex potentissimus, &amp; 
+      <lb ed="#C" n="5"/>Pater Messiae dilectissimi sui filij: &amp; speciei domus divide spolia, hoc est, 
+      <lb ed="#C" n="6"/>dabit praedicatoribus, vt dividant spolia gentium, ad speciem domus 
+      <lb ed="#C" n="7"/>suae, id est, decorem Ecclesiae. Illud enim speciei, est casus dativi, &amp; idem 
+      <lb ed="#C" n="8"/>valet quod ad speciem. Mirifice: primum vnde repetit suum illud, 
+      da<lb ed="#C" n="9" break="no"/>bit, &amp;, praedicatoribus, qui in hoc versu ambituque verborum non 
+      conti<lb ed="#C" n="10" break="no"/>nentur? Nam versus superior ab isto divisus est in Hebraeo, &amp; in Graeco. 
+      <lb ed="#C" n="11"/>&amp; in Hieronymi versione, &amp; illa verba in hunc locum nullo modo 
+      tra<lb ed="#C" n="12" break="no"/>duci possunt. Deinde, speciei, idem valere, quod, ad speciem, vt dividere 
+      <lb ed="#C" n="13"/>spolia speciei domus, sit idem quod dividere spolia ad speciem, hoc est, ad 
+      <lb ed="#C" n="14"/>decus &amp; ornamentum domus, quae est Ecclesia, ne tolerabile quidem, 
+      <lb ed="#C" n="15"/>est. Quis enim sic Latine loquitur? Genebrardus aliam excogitavit:  
+      <lb ed="#C" n="16"/>tolerabiliorem interpretationem, etsi a Prophetae mente alienam. 
+      Re<lb ed="#C" n="17" break="no"/>gem enim virtutum negat hic significare Deum, sed quemlibet 
+      poten<lb ed="#C" n="18" break="no"/>tissimum &amp; fortissimum regem. Hic igitur erit sensus, Reges 
+      potentissi<lb ed="#C" n="19" break="no"/>mi erunt dilecti, hoc est, cedent dilecto Deo, vel Dei filio: &amp; specci non 
+      <lb ed="#C" n="20"/>dativi casus facit, sed genitivi, reclamante licet authoritate Graeci 
+      tex<lb ed="#C" n="21" break="no"/>tus, qui habet π ωροιώn: atque hoc modo exponit: Speciei domus est, 
+      <lb ed="#C" n="22"/>dividere spolia, hoc est, ad gloriam domus Dei pertinet, dividere 
+      spolia<lb ed="#C" n="23" break="no"/>regum devictorum, id est, daemonum. Nonne haec concinna 
+      interpre<lb ed="#C" n="24" break="no"/>tatio fuit? Iam vero reliqua sic Bellarminus exponit. Si dormiatis 
+      inter<lb ed="#C" n="25" break="no"/>medios cleros, id est, Sivos, o praedicatores, maneatis inter duas sortes, 
+      <lb ed="#C" n="26"/>coelestem &amp; terrenam, id est, nec toti in actione, nec totiin 
+      contempla<lb ed="#C" n="27" break="no"/>tione, sed in medio sitis, tunc erit Ecclesia quasi columba 
+      formosissi<lb ed="#C" n="28" break="no"/>ma, &amp;c. Sed, num praedicatores in medio actionis &amp; contemplationis 
+      <lb ed="#C" n="29"/>esse debent? Hoc autem quid aliud est, quam ab actione &amp; 
+      contempla<lb ed="#C" n="30" break="no"/>tione vacare, nimirum omnino inutiles esse? dormire inter medios 
+      cle<lb ed="#C" n="31" break="no"/>ros, novo modo exponitur, dormire inter duas sortes: &amp; tum hae sortes 
+      <lb ed="#C" n="32"/>de actione &amp; contemplatione ineptissime intelliguntur. Sed similes 
+      ha<lb ed="#C" n="33" break="no"/>bent labra lactucas: conveniens versioni expositio. Genebrardus 
+      fate<lb ed="#C" n="34" break="no"/>tur de hoc loco, tanquam de cruce, omnium ingenia pependisse, dum 
+      <lb ed="#C" n="35"/>commodas interpretationes quaererent. Et Bellarminum locus sine 
+      du<lb ed="#C" n="36" break="no"/>bio torsit. Sed quemadmodum hanc crucem sustulit Genebrardus? 
+      <lb ed="#C" n="37"/>Dormire inter medios cleros, nihil aliud est, si Genebrardo fidem 
+      habe<lb ed="#C" n="38" break="no"/>mus, quam versari in praesentissimis &amp; certissimis periculis. Nostri voca¬ 
+      <!--144.xml-->
+      <pb ed="#L" n="135"/>
+               <lb ed="#C" n="1"/>bulum illud, quod Latinus transtulit Cleros, fere vertunt ollas. Sed 
+      Bellar<lb ed="#C" n="2" break="no"/>minus ait illam vocem non posse significare ollas: quod contra visum est, 
+      <lb ed="#C" n="3"/>Genebrardo, Regio literarum Hebraicarum in Parisiensi Academia 
+      pro<lb ed="#C" n="4" break="no"/>fessori, qui nomen Hebraicum ait significare, lebetes, tripodas, ollas. Haec 
+      <lb ed="#C" n="5"/>quam sint perplexa, &amp; perturbata, &amp; distracta, accepimus. Hebraicus 
+      <lb ed="#C" n="6"/>vero textus nihil in se eiusmodi difficultatis habet; quem sic Pagninus &amp; 
+      <lb ed="#C" n="7"/>Montanus transtulerunt: Reges exercituum fugiebant, fugiebant, &amp; 
+      habita<lb ed="#C" n="8" break="no"/>trix domus dividebat spolia. Si dormieritis inter tripodas, eritis sicut pennae 
+      co<lb ed="#C" n="9" break="no"/>lumbae, quae tecta est argento, &amp; alae eius flavo auro. Hic textus nullam 
+      inter<lb ed="#C" n="10" break="no"/>pretibus figit crucem, qualis in Latino torsit omnes, teste Genebrardo. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e669">
+               <lb ed="#C" n="11"/>Nonus locus est in eodem Psalmo, v. 17. Vt quid suspicamini montes. 
+      <lb ed="#C" n="12"/>coagulatos? Calvinus ait legendum esse, cur invidetis montibus opimis? Dei. 
+      <lb ed="#C" n="13"/>quo loco Bellarminus nihil aliud habet quod respondeat, quam verbum; 
+      <lb ed="#C" n="14"/>Hebraicum nunquam nisi hic inveniri: quare cum interpretum 
+      indicio<lb ed="#C" n="15" break="no"/>standum sit, Septuaginta interpretes omnibus aliis anteponendos esse. 
+      <lb ed="#C" n="16"/>Quod si ita sit, quamobrem hoc vocabulum aliter Hieronymus 
+      interpre<lb ed="#C" n="17" break="no"/>tatus est, &amp; Vatablus, &amp; Pagninus, &amp; Montanis, &amp; quotquot Psalmos. 
+      <lb ed="#C" n="18"/>ex Hebraeo transtulerunt? Si vero standum esset iudicio Septuaginta 
+      in<lb ed="#C" n="19" break="no"/>terpretum, vel propter ipsorum, vel Ecclesiae authoritatem, defendi non 
+      <lb ed="#C" n="20"/>possunt, qui aliam huic verbo significationem tribuerunt. Sed sequamur  
+      <lb ed="#C" n="21"/>interpretes Septuaginta, &amp; de verborum sensu quaeramus. In 
+      Graeco<lb ed="#C" n="22" break="no"/>Psalterio sic verba habent, ἵνα τ κσολαμθανετε ἐρη τετυρουθυνα, quae sic 
+      La<lb ed="#C" n="23" break="no"/>tinus interpres reddidit, vt quid suspicamini montes coagulatos? Cur nos 
+      <lb ed="#C" n="24"/>hoc loco horum verborum sententiam celavit Bellarminus? Quid est 
+      e<lb ed="#C" n="25" break="no"/>nim suspicari montes coagulatos? Gratum nobis faceret Bellarminus, 
+      <lb ed="#C" n="26"/>si diceret.  
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e706">
+               <lb ed="#C" n="27"/>Decimus locus ibidem, v. 19. Etenim non credentes inhabitare dominum 
+      <lb ed="#C" n="28"/>Deum. Quae interpretatio nec cum Hebraeo congruit, nec cum 
+      Graeco<lb ed="#C" n="29" break="no"/>&amp; cum Hebraeo non congruere, minime mirum est, cum non sit ex 
+      He<lb ed="#C" n="30" break="no"/>braeo derivata. At a Graeco saltem, vnde deducta fuit, non dissideret.  
+      <lb ed="#C" n="31"/>Sed dissidet, &amp; sane multum. Sic enim liber Craecus habet, χ δο ἀπιθονuς, 
+      <lb ed="#C" n="32"/>τοκατασκηώσαν, υbi plenum punctum est: &amp; tum nova sententia incipit,  
+      <lb ed="#C" n="33"/>νριος ο δι&amp;ς ενλογπτος. Si in Latino nullum aliud esset, nisi ambiguitatis 
+      <lb ed="#C" n="34"/>atque obscuritatis vitium, defendi non deberet.  
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e726">
+               <lb ed="#C" n="35"/>Undecimus est ibidem, v. 23. Convertam in profundum maris. Hebraea 
+      <lb ed="#C" n="36"/>verba contrarium significant, Reducam e profundis maris. In quo errorem 
+      <lb ed="#C" n="37"/>Bellarminus agnoscit, aitque libros quosdam vulgatae editionis non in 
+      <lb ed="#C" n="38"/>profundum, sed in profundis habere: &amp; convertere in profundis maris, 
+      <!--145.xml-->
+      <pb ed="#L" n="136"/>
+               <lb ed="#C" n="1"/>interpretatur, extrahere eos, qui sunt in profundis maris. Quae lectio atque  
+      <lb ed="#C" n="2"/>interpretatio si verior sit, quemadmodum Bellarminus confitetur, cur 
+      <lb ed="#C" n="3"/>Censores Bibliorum Lovanienses non eam alteri, quae falsa est, 
+      praetu<lb ed="#C" n="4" break="no"/>lerunt? Etsi forsan Grammatici non concedunt Bellarmino, in 
+      profun<lb ed="#C" n="5" break="no"/>do maris convertere, idem esse quod e maris profundis extrahere. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e752">
+               <lb ed="#C" n="6"/>Duodecimus est in hoc eodem Psal. v. 28. Ibi Beniamin adolescentulus. 
+      <lb ed="#C" n="7"/>in mentis excessu. Quam interpretationem Bellarminus acriter defendit, 
+      <lb ed="#C" n="8"/>&amp; verba de Apostolo Paulo, qui erat de tribu Benjamin, intelligenda, 
+      <lb ed="#C" n="9"/>esse dicit. Ille autem tam alte in mentis excessu dormiisse legitur, vt 
+      ne<lb ed="#C" n="10" break="no"/>sciret an esset in corpore. Et quia vox Hebraica, quam vetus interpres 
+      <lb ed="#C" n="11"/>transtulit, In mentis excessu, Principem vel dominatorem eorum 
+      signi<lb ed="#C" n="12" break="no"/>ficat, hanc quoque interpretationem cum superiore conjungit, quia 
+      <lb ed="#C" n="13"/>Paulus fuit praecipuus Dominus, sive Princeps spiritualis Ecclesiae 
+      gen<lb ed="#C" n="14" break="no"/>tium. Ita nihil est, cum quo non possit suas Bellarminus 
+      interpretatio<lb ed="#C" n="15" break="no"/>nes praeclare conciliare. Sed quis credat Davidem de Paulo nunc loquit  
+      <lb ed="#C" n="16"/>aut vocabulum Hebraicum ita vertendum, vt in Latino interprete 
+      legi<lb ed="#C" n="17" break="no"/>mus? Aliter Hieronymus vertit, Continens eos: aliter Aquila, Imperans 
+      ip<lb ed="#C" n="18" break="no"/>sis: aliter Theodotion, praeceptor illorum, vt apud Theodoritum legimus, 
+      <lb ed="#C" n="19"/>in commentariis in Psalmos: aliterrecentiores omnes, Dominus, 
+      Domi<lb ed="#C" n="20" break="no"/>nator, Princeps: nullus, In exstasi. Sed hoc nimiae solertiae fuit, qua 
+      Bel<lb ed="#C" n="21" break="no"/>larminus vsus est, vtramque interpretationem miscere. Vox enim 
+      He<lb ed="#C" n="22" break="no"/>braea non significat vtrumque, sed saltem alterutrum. Ergo est erratum 
+      <lb ed="#C" n="23"/>vel in nostris editionibus, vel in Latina vetere. 
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e794">
+               <lb ed="#C" n="24"/>Decimustertius locus est Psal. 131. v. 15. Qiduam eius benedicens 
+      bene<lb ed="#C" n="25" break="no"/>dicam, In Hebraeo est, Victum eius. Quo nullum singi turpius erratum 
+      po<lb ed="#C" n="26" break="no"/>tuit. Cum enim Dominus promittat, velle se victum nobis abunde 
+      sub<lb ed="#C" n="27" break="no"/>ministrare, &amp; quodammodo de viatico nobis necessario prospicere, quid 
+      <lb ed="#C" n="28"/>hoc ad viduam? Et quanquam Bellarminus erratum apertum non potest. 
+      <lb ed="#C" n="29"/>non agnoscere, tamen non putat locum mutari oportere, quia in 
+      Eccle<lb ed="#C" n="30" break="no"/>sia lectum &amp; cantatum semper fuit, viduam. Sic cine errores vetustate 
+      <lb ed="#C" n="31"/>defenduntur: Siccine Ecclesia potuit Dei verbum perperam interpretant 
+      <lb ed="#C" n="32"/>Siccine pravae interpretationes, si semel vsu in Ecclesia corroborantur,  
+      <lb ed="#C" n="33"/>mutari non debent? Legendum esse non viduam, sed victum, vox ipsa 
+      <lb ed="#C" n="34"/>Hebraic a clamat, Hieronymus testatur in Psalterio, &amp; in Quaest. in Gen. 
+      <lb ed="#C" n="35"/>Symmachus apud Theodoritum in Psalmis, Chrysostomus, ipseque 
+      The<lb ed="#C" n="36" break="no"/>odoritus. Quod autem libri Latini nonnulli vulgatae editionis viduam 
+      ha<lb ed="#C" n="37" break="no"/>bent, id Graecorum quorundam exemplarium vitio contigit, in quibus 
+      <lb ed="#C" n="38"/>χιρον legebatur, pro Sυραν. Sic sunt autem adversarij in omnium errorum 
+      <!--146.xml-->
+      <pb ed="#L" n="137"/>
+               <lb ed="#C" n="1"/>desensione pertinaces, vtquantumvis &amp; error manifestus sit, &amp; causa 
+      er<lb ed="#C" n="2" break="no"/>roris apertissima, tamen nihil mutari, nihil emendari patiantur. Atque 
+      ha<lb ed="#C" n="3" break="no"/>ctenus Bellarminus pro Latina vetere Psalmorum editione decertavit: 
+      <lb ed="#C" n="4"/>in quo ninil est, quod suo munere defunctum se esse arbitretur. Pauca 
+      e<lb ed="#C" n="5" break="no"/>nim haec sunt, quae Calvinus atrigit, si cum ea multitudine conferantur,  
+      <lb ed="#C" n="6"/>quae in Latina Psalmorum editione vetere reperitur.  
+      </p>
+            <p xml:id="wWpoi1-e12086-d1e846">
+               <lb ed="#C" n="7"/>Quod quo melius intelligi possit, vnius Psalmi testimonium 
+      addu<lb ed="#C" n="8" break="no"/>cam. Atque is erit Nonagesimus, vel ut ipsi numerant, Octogesimus 
+      no<lb ed="#C" n="9" break="no"/>nus, quem Psalmum Moses vir Dei composuit. Huius Psalmi versus 
+      ali<lb ed="#C" n="10" break="no"/>quot breviter percurramus, Latinamque veterem eorum versionem cum 
+      <lb ed="#C" n="11"/>textu Hebraico conferamus. Versu tertio Latini codices legunt, iuxta 
+      <lb ed="#C" n="12"/>versionem Septuaginta interpretum, Ne convertas hominem in 
+      humilita<lb ed="#C" n="13" break="no"/>tem: &amp; dixisti, convertimini filij hominum. Hebraei fontes longe aliter 
+      ha<lb ed="#C" n="14" break="no"/>bent: Convertis hominem ad contritionem, &amp; dicis, convertimini silij 
+      homi<lb ed="#C" n="15" break="no"/>minum. Quam sunt hae dissimiles sententiae? Versu quinto, Latina vetus. 
+      <lb ed="#C" n="16"/>habet, Quae pro nihilo habentur, eorumannierunt: quorum verborum 
+      ne<lb ed="#C" n="17" break="no"/>scio an sensus aliquis reddi possit. Hebraice sic, Inundatione abripis eos, 
+      <lb ed="#C" n="18"/>somnus sunt. Versu octavo, vulgata habet; Posuisti seculum nostrum 
+      inillu<lb ed="#C" n="19" break="no"/>minationem vultui tui, quae sic in Hebraeo textu leguntur, Posuisti 
+      occulta<lb ed="#C" n="20" break="no"/>nostra in lumine faciei tuae. Versu nono &amp; decimo sic in vulgata: Quoniam 
+      <lb ed="#C" n="21"/>omnes dies nostri defecerunt, &amp; in ira tua defecimus. Anni nostri sicut aranea 
+      <lb ed="#C" n="22"/>meditabantur: dies annorum nostrorum in ipsis Septuaginta anni: si autem in 
+      <lb ed="#C" n="23"/>potentatibus, octoginta anni: &amp; amplius eorum labor &amp; dolor: quoniam 
+      super<lb ed="#C" n="24" break="no"/>venit mansuetudo, &amp; corripiemur. Quid haec sibi tandem volunt? aut quis 
+      <lb ed="#C" n="25"/>tam peritus interpres est (ynum excipio Genebrardum) qui se haec 
+      com<lb ed="#C" n="26" break="no"/>mode interpretari posse promittat? Verba Hebraea alium sonum, 
+      sen<lb ed="#C" n="27" break="no"/>sumque habent: Quoniam omnes dies nostri declinaverunt in ira tua: 
+      con<lb ed="#C" n="28" break="no"/>sumpsimus annos nostros. tanquam sermonem. Dies annorum nostrorum in 
+      <lb ed="#C" n="29"/>ipsis septuaginta anni sunt, aut ad summum octogintaanni: etiam exce 
+      llentissi<lb ed="#C" n="30" break="no"/>mumeorum labor &amp; molestia: cum abierit, avolamus illico. Versu 
+      vndecimo<lb ed="#C" n="31" break="no"/>&amp; duodecimo vulgata sic: Et prae timore tuo iram tuam dinumerare. 
+      Dex<lb ed="#C" n="32" break="no"/>tram tuam sic notam fac, &amp;, eruditos corde in sapientia. Hebraice sic: Et sicut  
+      <lb ed="#C" n="33"/>timor tuus, ira tua: numerare dies nostros sic doce, &amp; adducemus cor in 
+      sapien<lb ed="#C" n="34" break="no"/>tiam. Versu decimo sexto vulgata sic: Respice in servos tuos, &amp; in 
+      opera<lb ed="#C" n="35" break="no"/>tua, &amp; dirige filios eorum: Hebraice vero, Perspicuum sit erga servos tuos 
+      <lb ed="#C" n="36"/>opus tuum, &amp; decor tuus in filiis eorum. Satis hinc constare potest, quam 
+      <lb ed="#C" n="37"/>praeclare inter Hebraeos fontes &amp; Latinam editionem conveniat. Sunt 
+      <lb ed="#C" n="38"/>huius Psalmi versus septendecim: ausim dicere, ermata esse in vetere 
+      <!--147.xml-->
+      <pb ed="#L" n="138"/>
+               <lb ed="#C" n="1"/>versione huius Psalmi plura, quam sunt in Psalmo versus. Si quis vero 
+      <lb ed="#C" n="2"/>suspicatur Hebraea, quae nobis hodie in manibus sunt, corrupta esse, is 
+      <lb ed="#C" n="3"/>Hieronymi versionem in Psalterio, &amp; in Epist. 139. ad Cyprianum 
+      <lb ed="#C" n="4"/>consulat, vbi eundem huius Psalmi textum Hebraicum inveniet, quem 
+      <lb ed="#C" n="5"/>nos nunc habemus. Atque est reliquorum etiam Psalmorum similis 
+      ra<lb ed="#C" n="6" break="no"/>tio. Itaque vere dici potest, non esse hos Davidicos Psalmos, quos illi in 
+      <lb ed="#C" n="7"/>suis sacris lectitant, atque cantitant, sed Graeci Latinique interpretis 
+      erro<lb ed="#C" n="8" break="no"/>res. Et quia Bellarminus in fine huius defensionis magnopere nos 
+      vr<lb ed="#C" n="9" break="no"/>get &amp; premit testimonio Pellicani, ego illi pro hoc vno testimonio 
+      bina<lb ed="#C" n="10" break="no"/>referam, ατ τῳ μιτρα κα λίον. Primum est Brunonis Amerbachij in 
+      Prae<lb ed="#C" n="11" break="no"/>fat. ad Lectorem, quam Hieronymi Psalterio praefixit: ubi de 
+      Graeca<lb ed="#C" n="12" break="no"/>Latinaque vetere Psalmorum editione verba faciens, Graecum item, 
+      in<lb ed="#C" n="13" break="no"/>quit, adiecimus, cui respondot e regione translatio, quae passim legitur αδυλος, 
+      <lb ed="#C" n="14"/>hoc est, authore incerto, nonnunquam, vt dicam id quod res est, δis δια πατον 
+      ab<lb ed="#C" n="15" break="no"/>exemplari Graeco dissidens. (uius rei culpa in interpretis oscitantiam, an in 
+      li<lb ed="#C" n="16" break="no"/>brariorum incuriam, aut quod verisimilius sit, alicuius nebulonis audacem 
+      im<lb ed="#C" n="17" break="no"/>peritiam rejci debeat, nolo excutere in praesentia. Secundum est Lindani, 
+      <lb ed="#C" n="18"/>hominis Papistae, qui in libro tertio de optimo genere interpretandi, 
+      <lb ed="#C" n="19"/>Cap. 6. &amp; Graecam Psalmorum editionem non esse Septuaginta 
+      inter<lb ed="#C" n="20" break="no"/>pretum, sed Symmachi Apostatae, &amp; Latinam hanc veterem a Graeculo. 
+      <lb ed="#C" n="21"/>quodam factam esse existimat. Sic enim ait: Saepo multumque de nostrae 
+      La<lb ed="#C" n="22" break="no"/>tinae editionis interprete cogitans, plurima videre videor, quae ad suspicandum 
+      <lb ed="#C" n="23"/>me invitant, vt non Latinum hominem, sed Graeculum quempiam fuisse ex 
+      isti<lb ed="#C" n="24" break="no"/>mem. Siquidem illa prisca Ecclesia ante annos 1500. hac versione vsa, haud 
+      <lb ed="#C" n="25"/>ita potuit a Romanae linguae puritate intra tantillum temporis degenerare. 
+      <lb ed="#C" n="26"/>Nam quae cum in Psalmis, tum in novo Testamento occurrunt versionis 
+      offen<lb ed="#C" n="27" break="no"/>dicula, maiora sunt, quam vt ab homine Latinae linguae, etiam quae non iam ex 
+      <lb ed="#C" n="28"/>lectione, sed ex sermone discitur, potuerint peccari. Et tum probat deinceps 
+      <lb ed="#C" n="29"/>hanc Graecam editionem Psalmorum, quae nunc extat, non illam esse 
+      <lb ed="#C" n="30"/>antiquam, cuius authores erant 70. interpretes. Unde quid de 
+      Gene<lb ed="#C" n="31" break="no"/>brardo sentiendum sit, iudicare possumus, qui in Epist. ad Castellinum 
+      <lb ed="#C" n="32"/>Ariminensem Episcopum, hanc Graecam defendit non modo esse 
+      Ca<lb ed="#C" n="33" break="no"/>tholicam, sed aut Apostolicam, aut Septuaginta. Atque hactenus de 
+      li<lb ed="#C" n="34" break="no"/>bro Psalmorum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

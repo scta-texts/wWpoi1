@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="316"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e29242"><!-- con1q5c5 -->
+            <head xml:id="wWpoi1-e29242-Hd1e106">Caput 5</head>
+            <p xml:id="wWpoi1-e29242-d1e109">
+               <lb ed="#C" n="31"/>CAPPUI 
+      <lb ed="#C" n="32"/>EsXzesigqua ex novo reffaeeiodeponpia 
+    </p>
+            <p xml:id="wWpoi1-e29242-d1e116">
+               <lb ed="#C" n="33"/>SEcundum eius argumentum ex authoritate novi Testamenti sumitur.  
+      <lb ed="#C" n="34"/>Ex novo vero Testamento novem testimonia profert, quae a nobis 
+      sin<lb ed="#C" n="35" break="no"/>gula sunt suo ordine examinanda. Primum testimonium habetur Matth. 
+      <lb ed="#C" n="36"/>16. 19. vbi Christus Petro ait, Tibi dabo claves regni coelorum,&amp; quic¬ 
+       
+      <!--326.xml-->
+      <pb ed="#L" n="317"/>
+               <lb ed="#C" n="1"/>quid ligaveris in terra, erit ligatum in coelis: &amp; quicquid solveris in terra, erit 
+      <lb ed="#C" n="2"/>solutum in coelis. Ex his verbis colligit Iesuita, Petro, &amp; omnibus eius 
+      suc<lb ed="#C" n="3" break="no"/>cessoribus, authoritatem interpretandi Scripturas datam fuisse, &amp; 
+      sum<lb ed="#C" n="4" break="no"/>mum quasi Scripturarum iudicium. Respondeo: De clavium potestate 
+      ali<lb ed="#C" n="5" break="no"/>ibi nobis copiose dicendum erit. Quantum vero ad hunc locum attinet, 
+      <lb ed="#C" n="6"/>sic respondemus breviter. Primo, Claves hic non significant, vt vult 
+      Ie<lb ed="#C" n="7" break="no"/>suita, authoritatem interpretandi Scripturas, &amp; aperiendi ea omnia, quae 
+      <lb ed="#C" n="8"/>sunt in Scripturis obscura; sed significant authoritatem praedicandi 
+      Evan<lb ed="#C" n="9" break="no"/>gelium. Quando enim Evangelium praedicatur, ijs qui credunt, aperitur 
+      <lb ed="#C" n="10"/>regnum coelorum; ijs vero, qui nolunt credere, clauditur. Secundo: 
+      Au<lb ed="#C" n="11" break="no"/>thoritas ista clavium, non Petro tantum, sed &amp; reliquis etiam Apostolis, 
+      <lb ed="#C" n="12"/>commissa fuit. Hoc enim in loco claves non dedit, sed promisit tantum 
+      <lb ed="#C" n="13"/>se daturum. Postea vero, ubi dat (Matth. 28. 18. 19. Ioan. 20. 21. 22. 
+      <lb ed="#C" n="14"/>23. )omnes Apostolos aequaliter alloquitur. Ergo si Papa authoritatem 
+      <lb ed="#C" n="15"/>habet interpretandi Scripturas, quia claves Petro datae sunt, tum &amp; alij. 
+      <lb ed="#C" n="16"/>etiam Episcopi ac ministri, qui reliquorum Apostolorum successores 
+      fu<lb ed="#C" n="17" break="no"/>erunt, eandem authoritatem acceperunt, quia reliquis Apostolis, 
+      perin<lb ed="#C" n="18" break="no"/>de ac Petro, datae claves sunt. Tertio, Augustinus ait, in 124. tractat. 
+      in<lb ed="#C" n="19" break="no"/>Ioan. vt in alijs multis locis, Petrum significasse univer salem Ecclesiam, 
+      <lb ed="#C" n="20"/>quando illi claves datae sunt: ergo non Papae tantum, sed toti Ecclesiae; 
+      <lb ed="#C" n="21"/>potestas haec clavium data fuit. Sed de hoc loco alibi copiosius. 
+      </p>
+            <p xml:id="wWpoi1-e29242-d1e177">
+               <lb ed="#C" n="22"/>Secundus locus, quem citat Bellarminus ex novo Testamento, 
+      habe<lb ed="#C" n="23" break="no"/>tur Matth. 18. 17. Qui non audierit Ecclesiam, sit tibi sicut ethnicus &amp; 
+      pub<lb ed="#C" n="24" break="no"/>licanus. Loquitur (inquit) Dominus de iniurijs privatis, sed a majori 
+      in<lb ed="#C" n="25" break="no"/>telligendus est de publicis iniurijs, qualis est haeresis. Per Ecclesiam 
+      ve<lb ed="#C" n="26" break="no"/>ro non totum corpus fidelium intelligit, sed Pastores tantum &amp; 
+      Episco<lb ed="#C" n="27" break="no"/>pos. Respondeo: primo, Loquitur illic Christus, non de interpretatione 
+      <lb ed="#C" n="28"/>Scripturae, sed de fraterna correctione &amp; admonitione, quam qui 
+      con<lb ed="#C" n="29" break="no"/>temnunt &amp; nihil faciunt, de ijs ad Ecclesiam ipsam referendum est: &amp; si 
+      <lb ed="#C" n="30"/>ne Ecclesiam quidem audire, atque in Ecclesiae monitis acquiescere 
+      <lb ed="#C" n="31"/>voluerint, tum illi excommunicandi sunt. Secundo: Fateor quidem 
+      Ec<lb ed="#C" n="32" break="no"/>clesiam audiendam esse, &amp; semper esse audiendam, sed cum duplice 
+      ex<lb ed="#C" n="33" break="no"/>ceptione. Primo:oportet nos certos esse, illam Ecclesiam, quam audimus, 
+      <lb ed="#C" n="34"/>esse veram Christi Ecclesiam, idque ex Scripturis: nam aliunde hoc 
+      con<lb ed="#C" n="35" break="no"/>stare non potest, &amp; alias omnino audienda non est. Secundo: audienda 
+      <lb ed="#C" n="36"/>quidem est Ecclesia, non simpliciter in omnibus dictis, pronunciatis, 
+      de<lb ed="#C" n="37" break="no"/>cretis, sententiis, aut praeceptis suis, sed tum demum, &amp; solummodo, 
+      <lb ed="#C" n="38"/>quando praecipit ea, quae Christus probat &amp; praescribit. Nam si aliquid  
+      <!--327.xml-->
+      <pb ed="#L" n="318"/>
+               <lb ed="#C" n="1"/>suum praecipiat, in eo audienda non est. Ecclesiae enim non nisi propter 
+      <lb ed="#C" n="2"/>Christum, Christique verbum, fides adhibenda eit: erge si semel a 
+      mente<lb ed="#C" n="3" break="no"/>Christi discesserit, audienda non est: immo ne Angelo quidem eoietus 
+      <lb ed="#C" n="4"/>si aliter doceat, quam Scriptura tradidit, credendum est, ut monet 
+      Pau<lb ed="#C" n="5" break="no"/>lus, Galat. 1. 8. 
+      </p>
+            <p xml:id="wWpoi1-e29242-d1e231">
+               <lb ed="#C" n="6"/>Tertius locus novi Testamenti a Iesuita citatus, habetur Matth. 23. 2. 
+      <lb ed="#C" n="7"/>verba haec sunt: Scribae &amp; Pharisaei sedent in Cathedra Mosis, omnia quae 
+      <lb ed="#C" n="8"/>dixerint vobis vt servetis, servate &amp; facite. Ergo si illi audiendi sunt s(
+      n<lb ed="#C" n="9" break="no"/>quit Iesuita) qui sedent in Cathedra Mosis, tum multo magis qui sedent 
+      <lb ed="#C" n="10"/>in Cathedra Petri. Respondeo: In Cathedra Mosis sedere, est Mosi in 
+      do<lb ed="#C" n="11" break="no"/>cendo succedere: per Cathedram enim Mosis, doctrina a Mose tradita, &amp; 
+      <lb ed="#C" n="12"/>docendi functio intelligitur. In hac Cathedra Scribae &amp; Pharisaei 
+      sede<lb ed="#C" n="13" break="no"/>bant, &amp; recte quaedam ac legitime docebant, Audiendi ergo illi erant,  
+      <lb ed="#C" n="14"/>non tamen per omnia, sed tunc duntaxat, quando docebant secundum 
+      <lb ed="#C" n="15"/>legem, &amp; quando in docendo Mosem sequebantur, non quicquid 
+      sim<lb ed="#C" n="16" break="no"/>pliciter mandabant. Nam tum Christus ipse secum pugnasset. 
+      Matthaei<lb ed="#C" n="17" break="no"/>enim quinto, sexto, &amp; septimo Cap. illorum falsam legis 
+      interpretatio<lb ed="#C" n="18" break="no"/>nem refellit, &amp; dogmata quaedam contra verum legis sententiam ab 
+      il<lb ed="#C" n="19" break="no"/>lis in Ecclesiam invecta, prorsus removet: &amp; quis tandem istos Scribas 
+      <lb ed="#C" n="20"/>ac Pharisaeos semper in Mosis Cathedra docentes sedisse diceret, cum 
+      <lb ed="#C" n="21"/>Moses, Deut. 18. 15. Prophetam a Deo suscitandum esse 
+      praemonstra<lb ed="#C" n="22" break="no"/>ret sibi similem, quem audiendum esse monuit; at Scribae &amp; Pharisaeiex 
+      <lb ed="#C" n="23"/>Cathedra quotidie Christum non esse audiendum pertinacissime 
+      cla<lb ed="#C" n="24" break="no"/>marent? Quare Christus fuos discipulos cavere voluit a 
+      fermetoPharisae<lb ed="#C" n="25" break="no"/>orum, Mat. 16. 6. Summa haec est: doctores ac pastores audiendos semper 
+      <lb ed="#C" n="26"/>esse, recta &amp; vera praescribentes, etsi ipsi interim non ea faciunt, quae aliis 
+      <lb ed="#C" n="27"/>praecipiunt, nec vitam degunt suae professioni consentaneam: quod 
+      con<lb ed="#C" n="28" break="no"/>tra eos valet, qui malorum pastorum ministerio vti nolunt. Hoc nos 
+      sane<lb ed="#C" n="29" break="no"/>concedimus quod notari Iesuita voluit. Notat vero postea Iesuita ex 
+      Cy<lb ed="#C" n="30" break="no"/>priano, L. 4. Epistolarum, Epist. 9. Christum nunquam 
+      reprehendissesa<lb ed="#C" n="31" break="no"/>cerdotes &amp; Pontifices, nisi sub nomine Scribarum &amp; 
+      Pharisaeonumne<lb ed="#C" n="32" break="no"/>ipsam Cathedram &amp; sacerdotium reprehendere videretur, Respondea 
+      pri<lb ed="#C" n="33" break="no"/>mo, ipsum ius ac munus docendi non esse revera reprehendendum, sed 
+      e<lb ed="#C" n="34" break="no"/>os qui hoc munere non recte funguntur; non Cathedram, sed qui hac 
+      <lb ed="#C" n="35"/>cathedra abutuntur. Legis enim interpretatio divinitus instituta fuit. Illa 
+      <lb ed="#C" n="36"/>pergo si vera sit, non est reprehendenda: sin falsa, reprenendi debet 
+      perver<lb ed="#C" n="37" break="no"/>sa legis interpretatio. Christus quidem sacerdotes non reprehendit, cum 
+      <lb ed="#C" n="38"/>legem recte interpretarentur: sed cum falsa admiscerent, legemque comm¬ 
+      <!--328.xml-->
+      <pb ed="#L" n="319"/>
+               <lb ed="#C" n="1"/>perent suis placitis, eos libere &amp; acerbe satis perstrinxit. Secundo, dico 
+      Ie<lb ed="#C" n="2" break="no"/>suitam ementiri Cyprianum. Nam ille non itascribit, quem admodum is 
+      <lb ed="#C" n="3"/>fingit eum scribere, vt ex ipso loco facile constare potest, si quis ipsum 
+      ve<lb ed="#C" n="4" break="no"/>lit inspicere. Quod vero a fortiori ista accommodat ad Cathedram Petri, 
+      <lb ed="#C" n="5"/>hoc modo: Si audiendi illi fuerunt, qui sedebant in Cathedra Mosis 
+      mul<lb ed="#C" n="6" break="no"/>to magis qui in Cathedra Petri; Respondeo: audiendos illos quidem esse, 
+      <lb ed="#C" n="7"/>sed cum superiori illa exceptione, quae antea posita est, de ijs qui sedebat,  
+      <lb ed="#C" n="8"/>in Cathedra Mosis, nempe si id quod verum est doceant: aliter audiendi 
+      <lb ed="#C" n="9"/>non sunt, Objicit vero deinceps Augustinum, Epist. 165. vbi ait, In 
+      <lb ed="#C" n="10"/>successione Ecclesiae Romanae, a Petro vsque ad Anastasium, qui tum 
+      <lb ed="#C" n="11"/>fuit Episcopus Romanus, nullum fuisse proditorem, nullum Donatistam. 
+      <lb ed="#C" n="12"/>Respondeo, istud Augustini testimonium nihil ad tem facere. Nos enim 
+      <lb ed="#C" n="13"/>fatemur ad illud vsque tempus Episcopos Romanos pios ac bonos 
+      exti<lb ed="#C" n="14" break="no"/>tisse: at postea malos suc cessisse, atque in Ecclesiam irrepsisse dicimus. 
+      <lb ed="#C" n="15"/>Sententia Augustini ea est; Ecclesiam aut Christianos non maculari, 
+      si<lb ed="#C" n="16" break="no"/>forte Episcopus fuissetraditor, cum Dominus dicat, etiam malos 
+      audi<lb ed="#C" n="17" break="no"/>endos esse, &amp; faciendum, non quod faciunt, sed quod dicunt. Ait ergo 
+      <lb ed="#C" n="18"/>primo, nullum fuisse traditorem in illa successione a Petro ad 
+      Anasta<lb ed="#C" n="19" break="no"/>sium: secundo, si fuisset, ea tamen re Ecclesiam non laedi, cum Dominus 
+      <lb ed="#C" n="20"/>providerit Ecclesiae, dicens de praepositis malis, Quae dicunt, facite; quae 
+      <lb ed="#C" n="21"/>faciunt, facere nolite. Augustinus nec facit mentionem de argumento a 
+      <lb ed="#C" n="22"/>fortiori ducto, nec ait Petrisuccessores non posse legem male 
+      interpreta<lb ed="#C" n="23" break="no"/>ri; sed dum recte doceant, Ecclesiam mala illorum vita non 
+      contamina<lb ed="#C" n="24" break="no"/>ti. Atque haec de tertio loco¬ 
+      </p>
+            <p xml:id="wWpoi1-e29242-d1e362">
+               <lb ed="#C" n="25"/>Quartus locus novi Testamenti, quem Iesuita profert ad sententiae 
+      <lb ed="#C" n="26"/>suae confirmationem, scribitur loannis vitimo capite, versu 16. vbi 
+      Chri<lb ed="#C" n="27" break="no"/>stus in hunc modum Petrum alloquitur: Simon Petre, amas merpasce oves. 
+      <lb ed="#C" n="28"/>meas. Ex his verbis Iesuita vult tria observanda esse. Primum est, quod  
+      <lb ed="#C" n="29"/>Petro dictum fuit, id Petri etiam successoribus dictum esse. Respondeo: 
+      <lb ed="#C" n="30"/>primo, ad vnum Petrum haec verba peculiariter pertinere. His enim 
+      ver<lb ed="#C" n="31" break="no"/>bis Petrus pristinae Apostolici muneris dignitati restituitur, a qua tum 
+      <lb ed="#C" n="32"/>exciderat: &amp; sic Patres ipsi hunc locum interpretati sunt. Dicunt enim 
+      <lb ed="#C" n="33"/>Petrum, ideo ter juberi pascere, quia ter negaverat Christum, vt 
+      trina<lb ed="#C" n="34" break="no"/>scilicet confessio trinae negationi responderet. Secundo, Fateor haec 
+      ver<lb ed="#C" n="35" break="no"/>ba, vi applicationis, aut collectionis, ad Petri etiam suc cessores 
+      accom<lb ed="#C" n="36" break="no"/>modariposse. Si enim Petrum oportebat Christi agnos ovesque pascere; 
+      <lb ed="#C" n="37"/>ergo &amp; suecessores Petri hac in re Petro similes esse debent. Tertio: 
+      dico<lb ed="#C" n="38" break="no"/>hoc aeque ad omnes Episcopos &amp; ministros, atque ad ipsum Pontificem  
+      <!--329.xml-->
+      <pb ed="#L" n="320"/>
+               <lb ed="#C" n="1"/>Romanum pertinere: quia omnes hac in re, id est, in praedicatione verbi, 
+      <lb ed="#C" n="2"/>Petro succedunt, eiusque diligentiam in pascendis Christi ovibus imitai 
+      <lb ed="#C" n="3"/>debent. Secundum illud, quod Iesuita in superiori loco observat, quodque 
+      <lb ed="#C" n="4"/>a nobis etiam observari vult, hoc est: nempe pascendi actionem hoc in 
+      <lb ed="#C" n="5"/>loco docendi munus praecipue significare, quod hoc tantum modo 
+      rati<lb ed="#C" n="6" break="no"/>onales oves, id est homines, a Pastore spirituali pascuntur. Respondeo: hoc  
+      <lb ed="#C" n="7"/>recte quidem ab eo notatum esse, atque ideo dico haec verba minime 
+      <lb ed="#C" n="8"/>omnium ad Pontificem Romanum pertinere, quia is minime omnium 
+      <lb ed="#C" n="9"/>docet. Tertio loco observat Iesuita (oves) hoc loco omnes fideles, 
+      omnes<lb ed="#C" n="10" break="no"/>que adeo Christianos significare. Respondeo: Christus non dicit Petro, 
+      <lb ed="#C" n="11"/>omnes oves meas pasce: nam id nec Petrus vnus praestare potuit, nec 
+      a<lb ed="#C" n="12" break="no"/>liquis quivis Apostolus: sed loquitur in definite ac dicit. Pasce oves meas. 
+      E<lb ed="#C" n="13" break="no"/>adem Petro Christus mandata dat de ovibus suis pascendis, quae aliis 
+      A<lb ed="#C" n="14" break="no"/>postolis dedit, vt quisque pro sua rata portione gregem Christi pasceret. 
+      <lb ed="#C" n="15"/>Nam cum pascere sit docere, vt Bellarminus monuit, Matthaei quidem 
+      <lb ed="#C" n="16"/>vltimo, vers. 19. authoritatem hoc modo pascendi Christus omnibus 
+      A<lb ed="#C" n="17" break="no"/>postolis ex aequo concessit; cum omnibus indifferenter diceret, profecti 
+      <lb ed="#C" n="18"/>docete omnes gentes. Ergo si idem sit pascere quod docere, eadem etiam 
+      <lb ed="#C" n="19"/>&amp; reliquis Apostolis docendi authoritas concessa est, quae &amp; Petro: &amp; 
+      si<lb ed="#C" n="20" break="no"/>oves significant omnes Christianos, Apostoli etiam reliquiiussi sunt 
+      om<lb ed="#C" n="21" break="no"/>nes Christianos docere: sed illud praeceptum intelligendum est de 
+      omni<lb ed="#C" n="22" break="no"/>bus Apostolis simul &amp; coniunctim, non de singulis seorsim, quia non 
+      <lb ed="#C" n="23"/>potuerunt singuli seorsim omnes Gentes percurrere, &amp; omnes 
+      Christi<lb ed="#C" n="24" break="no"/>anos docere. Hinc concludit Iesuita, Pontificem Romanum non posse 
+      <lb ed="#C" n="25"/>docere omnes concionando, quod quidem nos verissimum esse 
+      conce<lb ed="#C" n="26" break="no"/>dimus (nec enim Papa solus, nec quisquam alius per se potest 
+      omni<lb ed="#C" n="27" break="no"/>bus concionari) sed adiungit, immo neque commentariis scribendis: 
+      <lb ed="#C" n="28"/>quia tum (inquit) multi pij Papae accusandi essent, qui nullam in hoc  
+      <lb ed="#C" n="29"/>genere operam posuerunt. Sed nos eum hoc metu liberabimus. 
+      Chri<lb ed="#C" n="30" break="no"/>stum enim istum pascendi modum non intellexisse libenter sponte 
+      no<lb ed="#C" n="31" break="no"/>stra fatemur. Ergo statuit, singulare quoddam docendi genus his verbis: 
+      <lb ed="#C" n="32"/>Petro, eiusque successoribus, commendatum esse, quod nimirum 
+      consi<lb ed="#C" n="33" break="no"/>stit in constituendo &amp; decernendo, quid quisque docere &amp; credere 
+      debe<lb ed="#C" n="34" break="no"/>at. Respondeo. Isto modo non Praetoriam, sed plane Dictatoriam Papaesuo. 
+      <lb ed="#C" n="35"/>potestatem tribuunt, quam soli Christo Deus vindicavit, cum diceret,  
+      <lb ed="#C" n="36"/>Matth. 17. 5.) Ipsum audite. Ex quibus verbis concludit Cyprianas, 
+      <lb ed="#C" n="37"/>Epist. 63. Christum solum audiendum esse, quia de eo solo Deus dixit, 
+      Ip<lb ed="#C" n="38" break="no"/>sum audite: ac proinde non esse curandum, quid alij ante nos dixerint, sed quid 
+      <lb ed="#C" n="39"/>Christus dixit, qui ante omnes fuit. Admirabile hoc sane, &amp; vere singulare 
+      <!--330.xml-->
+      <pb ed="#L" n="321"/>
+               <lb ed="#C" n="1"/>officium est docendi, non concionari, non scribere commentarios, sed V 
+      <lb ed="#C" n="2"/>decemere &amp; praescribere quid credendum sit ab aliis. Immane 
+      commen<lb ed="#C" n="3" break="no"/>tum: Quis hoc officium instituit, vt esset vnus homo, qui quid alij 
+      om<lb ed="#C" n="4" break="no"/>nes docerent, praescriberet, ipse non doceret? Hoc officium non 
+      Scri<lb ed="#C" n="5" break="no"/>ptura, non Patres, non Ecclesia agnoscit. Nil Petro Christus vnice 
+      man<lb ed="#C" n="6" break="no"/>davit, nullum huiusmodi Papale genus pascendi commisit. Nam Petrus 
+      <lb ed="#C" n="7"/>revera &amp; docuit, quantum potuit, viva voce, &amp; Epistolas scripsit: quod ei 
+      <lb ed="#C" n="8"/>non fuisset necessarium, sitantum decernere &amp; constituere debuisset, quid  
+      <lb ed="#C" n="9"/>alij docerent. 
+      </p>
+            <p xml:id="wWpoi1-e29242-d1e508">
+               <lb ed="#C" n="10"/>Quintus locus, quem citat Iesuita ex novo Testamento, habetur  
+      <lb ed="#C" n="11"/>Luc. 22. 32. continetque verba Christi ad Petrum paulo ante mortem, quae 
+      <lb ed="#C" n="12"/>sunt huiusmodi: ego rogavi pro te, Petre, ne fides tua deficeret. Ex his verbis 
+      <lb ed="#C" n="13"/>(inquit Iesuita ) Petrum ex Cathedra docentem, &amp; per consequens eius 
+      e<lb ed="#C" n="14" break="no"/>tiam successores errate non posse, Bernardus deducit, Epist. 190. cui 
+      Epi<lb ed="#C" n="15" break="no"/>stolae etiam Decretales consentiunt. De authoritate Bernardi &amp; 
+      Decre<lb ed="#C" n="16" break="no"/>talium Epistolarum, nihil hic statuo: ad rem ipsam breviter respondeo Et  
+      <lb ed="#C" n="17"/>quidem primo dico, hoc, qualecunque tandem fuit, ad Petrum tantum, 
+      <lb ed="#C" n="18"/>non ad eius successores pertinere. Ait enim Christus, Rogavi prote, Petre, 
+      <lb ed="#C" n="19"/>non, pro successoribus tuis. Oravit ille pro caeteris etiam (procul dubio) 
+      <lb ed="#C" n="20"/>Apostolis, sed praecipue pro Petro, quod ille prae reliquis periculosissima 
+      <lb ed="#C" n="21"/>fuit tentatione oppugnandus, ideoque peculiari quodam auxilio 
+      precum<lb ed="#C" n="22" break="no"/>adiuvandus. Secundo, Affirmo hanc fidem, de qua Christus hic loquitur,  
+      <lb ed="#C" n="23"/>veram fidem esse, qua quis firmus &amp; constans ad finem vsque 
+      perseve<lb ed="#C" n="24" break="no"/>rat, fidem ipsam iustificantem, fidem denique cordis, non oris, 
+      quemad<lb ed="#C" n="25" break="no"/>modum &amp; locus ipse ostendit, &amp; Patres etiam in illum locum. At 
+      Papi<lb ed="#C" n="26" break="no"/>stae non hanc fidem intelligunt, sed fidem historicam, quae veram 
+      tan<lb ed="#C" n="27" break="no"/>tum doctrinae sententiam tenet. Fatentur enim Papam hominem 
+      impi<lb ed="#C" n="28" break="no"/>um ac sceleratum esse posse; sed in Scripturarum interpretatione, 
+      quan<lb ed="#C" n="29" break="no"/>do in Cathedra nimirum sedet, errate tamen non posse. Tertio, Si petiit 
+      <lb ed="#C" n="30"/>hoc Christus pro omnibus Pontificibus Romanis, nempe vt non 
+      erra<lb ed="#C" n="31" break="no"/>rent, tum non impetravit, quod petit; Constat enim multos Pontifices. 
+      <lb ed="#C" n="32"/>Romanos errasse, etiam ex Cathedra docentes, id est, controversias 
+      de<lb ed="#C" n="33" break="no"/>cementes, vt asserit Alphons. 1. Libro contra haeres. cap. 4. vbi Papam! 
+      <lb ed="#C" n="34"/>non modo errare, verumetiam haereticum esse posse, affirmat. Idem 
+      scri<lb ed="#C" n="35" break="no"/>bitur &amp; tenetur abjaliis etiam Papistis. Tum quis quaeso erit summus 
+      Ec<lb ed="#C" n="36" break="no"/>clesiae iudex, cum Pontifex summus in haeresin inciderit. Num ille 
+      idone<lb ed="#C" n="37" break="no"/>us est, qui sit summus iudex in relioione, &amp; in cuius iudicio 
+      acquiesca<lb ed="#C" n="38" break="no"/>mus, qui haereticus esse potest, &amp; est, quemadmodum ipsi etiam Papistae! 
+      <!--331.xml-->
+      <pb ed="#L" n="322"/>
+               <lb ed="#C" n="1"/>fatentur? Nequaquam certe. Summus enim omnium controversiarum. 
+      <lb ed="#C" n="2"/>iudex talis esse debet, qui nec errare, nec haereticus esse potest: 
+      cuiusmodi<lb ed="#C" n="3" break="no"/>Christus ipse est, summus ille Pontifex, &amp; sacra Scriptura. Iam vero, cum 
+      <lb ed="#C" n="4"/>Papa possit errare, atque in haeresin etiam incidere, quod posse 
+      Adversa<lb ed="#C" n="5" break="no"/>tii nostri concedunt; quid de Christi petitione statuemus? Petiit enim 
+      ne<lb ed="#C" n="6" break="no"/>fides deficeret Petri, quod isti in Petri quoque successoribus valere 
+      vo<lb ed="#C" n="7" break="no"/>lunt. At cum fide haeresis stare non potest: ergo Christus non potuit 
+      ob<lb ed="#C" n="8" break="no"/>tinere, quod petiit, si horum interpretatio recipitur.  
+      </p>
+            <p xml:id="wWpoi1-e29242-d1e595">
+               <lb ed="#C" n="9"/>Sextus locus, quem Iesuita ex novo Testamento objicit, habetur  
+      <lb ed="#C" n="10"/>Act. 15. 5. 6. 7. 28. vbi, orta quaestione de lege Mosis &amp; circumcisione, 
+      <lb ed="#C" n="11"/>Christiani, qui inter se dissentiebant, non remittuntur (inquit Iesuita) ad 
+      <lb ed="#C" n="12"/>privatum spiritum, sed ad Concilium Christianum, cui praefuit Petrus, 
+      <lb ed="#C" n="13"/>quod quidem in hunc modum conclusum est, vers. 28. Visum est Spiritut: 
+      <lb ed="#C" n="14"/>sancto, &amp; nobis, &amp;c. Hinc colligit lesuita, Spiritum sanctum semper 
+      inter<lb ed="#C" n="15" break="no"/>esse illi Concilio, cui Petrus, id est, Petri successores praesunt. Respondeo. 
+      <lb ed="#C" n="16"/>primo, Nos non remittimus quenquam, de re aliqua dubitantem, ad 
+      spm<lb ed="#C" n="17" break="no"/>tum suum privatum, neglectis mediis inveniendi veri, quod Iesuita non 
+      <lb ed="#C" n="18"/>bis falso obiicit; sed ad ipsam Scripturam, &amp; ad Spiritum sanctum 
+      publi<lb ed="#C" n="19" break="no"/>ce in Scripturis loquentem, quem audiendum esse &amp; ex cuius 
+      authorita<lb ed="#C" n="20" break="no"/>te controversias omnes esse definiendas dicimus. Quod idem in hoc  
+      <lb ed="#C" n="21"/>Concilio factum est. Idem fiat, quod hic, si fieri potest. Pastores &amp; 
+      Epis<lb ed="#C" n="22" break="no"/>copi congregentur, vt de quaestione dispiciant, &amp; definiant, non ex 
+      iudi<lb ed="#C" n="23" break="no"/>cio suo, sed ex authoritate Spiritus sancti loquentis in Scripturis. Sic 
+      e<lb ed="#C" n="24" break="no"/>nim illi controversiam ex Scripturis definiebant, vt nos intelligamus 
+      <lb ed="#C" n="25"/>summum indicium Scripturis esse deferendum. Nihil enim in illo, nisi ex 
+      <lb ed="#C" n="26"/>Scripturae authoritate, conclusum est. Secundo, Quod ait Iesuita huic 
+      <lb ed="#C" n="27"/>Concilio praefuisse Petrum, falsum est. Prae fuit enim lacobus potius, 
+      <lb ed="#C" n="28"/>quam Petrus: quia in eius verba decretum faciunt, vtpatet vers. 132. &amp; 
+      <lb ed="#C" n="29"/>222. &amp; nulla vsquam in Concilio ωροτεία tribuuntur, aut ωροsμσια Petro. 
+      <lb ed="#C" n="30"/>Quod vero hinc probat Petrum praefuisse, quia is primo loquutus esse 
+      <lb ed="#C" n="31"/>dicitur; Respondeo Etsi Petri verba prinio in loco a Luca recitantur, 
+      pa<lb ed="#C" n="32" break="no"/>tere tamen ex vers. 7. multos ante Petrum loquutos esse. Diciurenim 
+      <lb ed="#C" n="33"/>ibi, post longam disceptationem hinc atque illinc factam, Petrus 
+      sumexis<lb ed="#C" n="34" break="no"/>se. Hoλλῆs inquit Lucas, συτ σεως γενουθιης. Tertio, Fateor huic Concilio 
+      <lb ed="#C" n="35"/>Spiritum sanctum interfeisse, atque praefuisse: &amp; hanc sententiam fuisse 
+      <lb ed="#C" n="36"/>Spiritus saucti, cum sit Scripturae testimonio comprobata. Sed quid hoc  
+      <lb ed="#C" n="37"/>ad Pipistica Concilia attinet, quibus nec Petrus prae est, nec Spiritus 
+      <lb ed="#C" n="38"/>sanctus interesty 
+      <!--332.xml-->
+      <pb ed="#L" n="323"/>
+               <lb ed="#C" n="1"/>Septimus lesuitae locus scribitur, Galat. 2. 2. vbi Paulus ait, se 
+      Hieroso<lb ed="#C" n="2" break="no"/>lymis Evangelium suum contulisse συν τὸίς δοκοη, hoc est, cum jis, qui 
+      ali<lb ed="#C" n="3" break="no"/>quo erant in precio, vel quorum aliqua erat existimatio. Ex hoc locor 
+      in<lb ed="#C" n="4" break="no"/>quit Iesuita Patres concludunt, Ec clesiam non suisse Evangeiio Pauli, 
+      <lb ed="#C" n="5"/>credituram, nisi id a Petro confirmatum fuisset: ergo erat Petri tunc, &amp; 
+      <lb ed="#C" n="6"/>est Petri successoris nunc, de doctrina fidei indicare. Respondeo: primo, 
+      <lb ed="#C" n="7"/>Profectus est Hierosolymam Paulus, non vt Petrum vnum conveniret, &amp; 
+      <lb ed="#C" n="8"/>cum eo solo Evangelium suum conferret, atque ab illo authoritatem 
+      <lb ed="#C" n="9"/>mutuaretur; sed vt cum tota Ecclesia publice de doctrina illa ageret, 
+      <lb ed="#C" n="10"/>quam ipse praedicabat. Sic enim, vers. 2. 4 αναθιμιν αυτυις τό Eυαγγιλιον,  
+      <lb ed="#C" n="11"/>quod vetus interpres transtulit, &amp; contuli cum illis Svangelium, hoc est, 
+      <lb ed="#C" n="12"/>cum Ecclesia omni: quod hinc etiam apparet, quia subjungit, &amp;ν iδίαν 
+      de<lb ed="#C" n="13" break="no"/>τοiς δοκήσι, privatim cum iis, qui sunt in precio: ergo quod sequitur μή εἰt κενὸν  
+      <lb ed="#C" n="14"/>τρεχω ηεδραμον, ne frustra currerem, aut cucurrissem: non magis ad Petrum, 
+      <lb ed="#C" n="15"/>quam ad totam Ecclesiam, aut illos praecipuos Apostolos pertinet. 
+      Se<lb ed="#C" n="16" break="no"/>cundo, igitur etsi non interpretemur locum de tota Ecclesia, tamen 
+      de<lb ed="#C" n="17" break="no"/>solo Petro interpretari non possumus. Ait enim diserte Paulus, se non 
+      <lb ed="#C" n="18"/>cum vno tantum Petro, sed cum pluribus Evangelium suum contulisse, 
+      <lb ed="#C" n="19"/>nempe συν τοίς δοκοο: &amp; postea ostendit qui illi fuerunt, nempe Iacobus, 
+      <lb ed="#C" n="20"/>Petrus, loannes. Ergo falsum est, ab vno Petro confirmatum fuisse 
+      Pau<lb ed="#C" n="21" break="no"/>li Evangelium; &amp; honumerat non minus de doctrina indicare, quam 
+      Pe<lb ed="#C" n="22" break="no"/>tri. Tertio. Quod ait Iesuita, Ecclesiam non fuisse Pauli Evangelio 
+      credi<lb ed="#C" n="23" break="no"/>turam, nisi a Petro confirmatum fuisset; id duplicem sensum habere 
+      po<lb ed="#C" n="24" break="no"/>test. Si intelligat Ecclesiam non debuisse credere, nisi Petrus approbasset, 
+      <lb ed="#C" n="25"/>falsum est: debuit enim semper veritatem praedicanti Apostolo fidem 
+      ad<lb ed="#C" n="26" break="no"/>hibere. Sin vero intelligat, non tam facile fuisse credituram, assentior. 
+      <lb ed="#C" n="27"/>Haec enim causa fuit, cur Paulus Hierosolymam proficisci, ibique 
+      Euan<lb ed="#C" n="28" break="no"/>gelium suum Ecclesiae, quae illic erat, exponere voluit, quod quidam 
+      exi<lb ed="#C" n="29" break="no"/>stimabant eum aliter praedicasse ac docuisse, quam reliquos Apostolos; 
+      <lb ed="#C" n="30"/>quam ille multorum suspicionem hoc modo prorsus sustulit.  
+      </p>
+            <p xml:id="wWpoi1-e29242-d1e732">
+               <lb ed="#C" n="31"/>Octavus locus a lesuita prolatus habetur, 1. Cor. 12. 8. 9. &amp;c. vbi 
+      Pau<lb ed="#C" n="32" break="no"/>lus ait, aliis per spiritum dari sermonem sapientiae, aliis sermonem cognitionis, 
+      <lb ed="#C" n="33"/>aliis fidem, aliis interpretationem sermonum, &amp;c. Ex hoc loco concludit,  
+      <lb ed="#C" n="34"/>non omnibus dari Spirituminterpretationis, ac proinde non posse omnes. 
+      <lb ed="#C" n="35"/>Scripturas interpietati. Respondeo: Hoc nos vltro quidem concedimus. 
+      <lb ed="#C" n="36"/>Sed fallit nos lesuita ἐμνυμια vocis. Nam est privata, &amp; est publica 
+      inter<lb ed="#C" n="37" break="no"/>pretatio. Fatemuromnes non habere donum Scripturas publice 
+      inter<lb ed="#C" n="38" break="no"/>pretandi: sed privatuim omnes pii, a Spiritu sancto edocti, Scripturas pos¬  
+      <!--333.xml-->
+      <pb ed="#L" n="324"/>
+               <lb ed="#C" n="1"/>sunt intelligere, &amp; verum sensum Scripturarum agnoscere. 
+      </p>
+            <p xml:id="wWpoi1-e29242-d1e758">
+               <lb ed="#C" n="2"/>Nonus locus &amp; vltimus, quem Iesuita ex novo Testamento profert, 
+      <lb ed="#C" n="3"/>habetur 1. Ioh. 4. 1. vbi monemur, vt non cuivis spiritui credamus, sed 
+      pro<lb ed="#C" n="4" break="no"/>bemus spiritus, num ex Deo sint: ergo privatus spiritus (inquit lesuita) 
+      <lb ed="#C" n="5"/>non potest esse iudex (vel interpres) Scripturarum, quia de eo est 
+      iudi<lb ed="#C" n="6" break="no"/>candum. Respondeo: Nescit Iesuita statum quaestionis. Nos enim non 
+      <lb ed="#C" n="7"/>dicimus, debere quemque in illa interpretatione ac quiescere, quam suus 
+      <lb ed="#C" n="8"/>cuique privatus spiritus format &amp; dictat; hoc enim esset fenestram 
+      pha<lb ed="#C" n="9" break="no"/>naticis ingeniis ac spiritibus aperire: sed dicimus Spiritum illum 
+      iudi<lb ed="#C" n="10" break="no"/>cem esse debere, qui palam &amp; diserte in Scripturis loquitur, quemque 
+      <lb ed="#C" n="11"/>omnes audire possunt: per illum volumus omnes alios spiritus, id est, 
+      <lb ed="#C" n="12"/>omnes doctrinas (sic enim verbum hoc loco sumitur) examinandas 
+      es<lb ed="#C" n="13" break="no"/>se. Nos enim publicum iudicem nullum agnoscimus, nisi Scripturam, 
+      <lb ed="#C" n="14"/>&amp; Spiritum nos in Scriptura docentem: hic loquitur, quasi nos 
+      inter<lb ed="#C" n="15" break="no"/>num Spiritum aliorum iundicem faceremus, quod nunquam fieri debet.  
+      <lb ed="#C" n="16"/>Non enim sic insani aut fatui sumus, vt hoc modo agamus: Tu debes 
+      ac<lb ed="#C" n="17" break="no"/>quiescere huic doctrinae, quia meus spiritus hanc esse veram iudicat: sed  
+      <lb ed="#C" n="18"/>hanc doctrinam suscipias oportet. quia Spiritus sanctus in Scripturis nos 
+      <lb ed="#C" n="19"/>sic sentire &amp; credere docuit. Atque haec sufficiat dixisse contra secundum 
+      <lb ed="#C" n="20"/>Iesuitae argumentum, quod ab authoritate novi Testamenti sumitur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="298"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e27527"><!-- con1q5c1 -->
+            <head xml:id="wWpoi1-e27527-Hd1e106">Caput 1</head>
+            <p xml:id="wWpoi1-e27527-d1e109">
+      <!--307.xml-->
+               <pb ed="#L" n="298"/>
+               <lb ed="#C" n="1"/>CONTROVERSIAE PRIMA 
+      <lb ed="#C" n="2"/>QVAESTIO QVINTA. DE INTER 
+      <lb ed="#C" n="3"/>pretatione Scripturarum. 
+      <lb ed="#C" n="4"/>CAPVT PAIMUM 
+      <lb ed="#C" n="5"/>DestauQuesfigis.
+  </p>
+            <p xml:id="wWpoi1-e27527-d1e127">
+               <lb ed="#C" n="6"/>SCribitur Iohan. 5. 39. Epdνατε τας χαρας: Scrutamini, 
+      <lb ed="#C" n="7"/>Scripturas. Christus servator noster hoc eo dixit, 
+      vt<lb ed="#C" n="8" break="no"/>ludaeos excitaret, nosque etiam omnes, ad verum. 
+      <lb ed="#C" n="9"/>Scripturae sensum investigandum, Scriptura enim 
+      <lb ed="#C" n="10"/>non in nudis verbis, sed in sensu, interpretatione, ac 
+      <lb ed="#C" n="11"/>mente verborum consistit, Hoc patet ex Basilio, 2. 
+      <lb ed="#C" n="12"/>JLibr. contra Eunomuum, vbi ait, non in sono aeris, sed  
+      <lb ed="#C" n="13"/>in vi seu virtute rerum significatarum, pietatem esse. Idem etiam ex 
+      Hiero<lb ed="#C" n="14" break="no"/>nymo apparet, in Comment. in 1. Cap. ad Galat. vbi in hunc modum 
+      <lb ed="#C" n="15"/>scubit: Ne putemus in verbis Scripturarum esse Cvangelium, sed in sensus 
+      <lb ed="#C" n="16"/>non in super ficie, sed in medulla; non in sermonum folijs, sed in radicerationis., 
+      <lb ed="#C" n="17"/>Cum ergo Scriptura non in verbis, sed in vero verborum sensu versetur,  
+      <lb ed="#C" n="18"/>quem vere ipsam Scripturae animam ac vitam appellare possumus; 
+      con<lb ed="#C" n="19" break="no"/>stat hoc Christi praeceptum, quo nos Scripturas scrutai iubet, de 
+      ipso<lb ed="#C" n="20" break="no"/>sensu ac δαννία Scripturarum, non de nudis tantum verbis, intelligendum 
+      <lb ed="#C" n="21"/>esse. Hinc emergit haec Quaestio, de qua inter nos ac Papistas disceptatur,  
+      <lb ed="#C" n="22"/>Unde nempe vera Scripturae interpretatio petenda sit? Hic primo 
+      quae<lb ed="#C" n="23" break="no"/>rendus est quaestionis status deinde, ad argumenta vtriusque partis 
+      veni<lb ed="#C" n="24" break="no"/>endum est. Tridentini Patres, sessione quarta, prohibent ne quis sacram 
+      <lb ed="#C" n="25"/>Scripturam interpretati audeat contra eum sensum, quem tenuit &amp; tenet 
+      <lb ed="#C" n="26"/>sancta mater Ecclesia, cuius est iudicare (ut aiunt) de vero sensu &amp; 
+      inter<lb ed="#C" n="27" break="no"/>pretatione Scripturatum sanctarum, aut contra vnanimem consensum 
+      <lb ed="#C" n="28"/>Patrum. Videnturitaque statuere, Scripturae interpretationem essepenes 
+      <lb ed="#C" n="29"/>Ecclesiam, eamque veram esse, quae cum Patribus consentiat. Sed adhuc 
+      <lb ed="#C" n="30"/>nobis in dubio res est. Quaerimus enim viterius, quae haec Ecclesiasit, &amp; 
+      <lb ed="#C" n="31"/>qui isti Patres? Alij ergo Papistae a nobis consulendi sunt, vt verum 
+      Quae<lb ed="#C" n="32" break="no"/>stionis statum plene ac perfecte cognitum habeamus. Sequar vero hac 
+      <lb ed="#C" n="33"/>in re potissimum Iesuitam Bellarminum &amp; Stapletonum. In duas au¬ 
+      <!--308.xml-->
+      <pb ed="#L" n="299"/>
+               <lb ed="#C" n="1"/>tem partes totam hanc huius Quaestionis tractationem dividam, Agam: 
+      <lb ed="#C" n="2"/>enim primo, de authoritate &amp; summo indicio interpretandi Scripturas, 
+      <lb ed="#C" n="3"/>penes quos sit: deinde, de mediis, quibus in interpretandis Scripturis 
+      v<lb ed="#C" n="4" break="no"/>tendumest. Sed prius quaedam quasi ωρλεγιαεια praemittenda sunt, 
+      quae<lb ed="#C" n="5" break="no"/>ad huius Quaestionis cognitionem plurimum faciunt.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

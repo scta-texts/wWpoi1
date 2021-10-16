@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="72"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de6848"><!-- con1q1c15 -->
+            <head xml:id="wWpoi1-de6848-Hd1e106">Caput 15</head>
+            <p xml:id="wWpoi1-de6848-d1e109">
+               <lb ed="#C" n="24"/>CAPUIII 
+      <lb ed="#C" n="25"/>Zubcefsalaa
+    </p>
+            <p xml:id="wWpoi1-de6848-d1e116">
+               <lb ed="#C" n="26"/>DE Libris Apoeryphis veteris Testamenti, quos Papistae 
+      Cano<lb ed="#C" n="27" break="no"/>Enicos esse contendunt, diximus, eosque vere Apocryphos 
+      esse<lb ed="#C" n="28" break="no"/>conclusimus. Nunc restat vt ad illa Apocrypha veteris Testamenti σ
+      ui<lb ed="#C" n="29" break="no"/>τεγμα τα veniamus, quae ab ipsis etiam Papistis Apocrypha judicantur,  
+      <lb ed="#C" n="30"/>de quibus nulla est inter nos contentio. Ista tamen proponam breviter,  
+      <lb ed="#C" n="31"/>vt quae sint, &amp; cujusmodi, intelligatis. Sunt autem haec: Tertius &amp; quartus 
+      <lb ed="#C" n="32"/>liber Esdrae: Tertius &amp; quartus Maccabaeorum, quorum tertius in 
+      non<lb ed="#C" n="33" break="no"/>nullis exemplaribus Bibliorum reperitur, quarti Athanasius meminit 
+      in<lb ed="#C" n="34" break="no"/>Synopsi. His addenda est oratio Manassis post Libros Paralip. posita: 
+      <lb ed="#C" n="35"/>Psalmus 151. Appendix Libri lob in Graecis codicibus. Est &amp; 
+      praefati<lb ed="#C" n="36" break="no"/>uncula quaedam in Threnos leremiae Apocrypha. Haec omnia in vetere¬ 
+      <!--82.xml-->
+      <pb ed="#L" n="73"/>
+               <lb ed="#C" n="1"/>Testamento Apocrypha esse conceduntur, quia non inveniuntur in 
+      He<lb ed="#C" n="2" break="no"/>braeo: nec ponuntur in Canone ab vllo Concilio, aut Pontifice. 
+      Quan<lb ed="#C" n="3" break="no"/>quam tertius Maccabaeorum in Canone numeratur a Clemente, quem 
+      <lb ed="#C" n="4"/>Apostolorum Canones collegisse nonnulli putant, &amp; is suit summus 
+      <lb ed="#C" n="5"/>Pontifex: de quo quid respondeant, non inveniunt. Esdrae Liber 
+      quar<lb ed="#C" n="6" break="no"/>tus in cap. 6. ficta quaedam tradit de duobus piscibus Enoch &amp; 
+      Levia<lb ed="#C" n="7" break="no"/>than, tantae magnitudinis atque vastitatis, vt eos aquae nullae capere 
+      pos<lb ed="#C" n="8" break="no"/>sint. Ejusmodi in his libris multa sunt, quae possunt humanam 
+      curiosita<lb ed="#C" n="9" break="no"/>tem delectare &amp; pascere, sed a sana ac solida doctrina dissentiunt. 
+      Qua<lb ed="#C" n="10" break="no"/>le enim est, quod cap. 4. scribit, animas Iustorum in subterraneis 
+      qui<lb ed="#C" n="11" break="no"/>busdampiomptuariis servari, donec iustorum numerus impleatur. Tunc 
+      <lb ed="#C" n="12"/>illas non posse amplius his locis ac sedibus teneri, quemadmodum 
+      v<lb ed="#C" n="13" break="no"/>terus foetum non retinet post nonum mensem. Et quod Lib. 4. cap. 24. 
+      <lb ed="#C" n="14"/>sacros libros esse perditos in Captivitate narrat, eosque esse ab Esdra, 
+      a<lb ed="#C" n="15" break="no"/>gente in solitudine dies quadraginta, suae integritati restitutos. Nam sit 
+      <lb ed="#C" n="16"/>amissi libri fuissent, &amp; ab Esdra de integro conscripti, non Hebraice, sed  
+      <lb ed="#C" n="17"/>Chaldaice Scripturae loquerentur, de qua re postea disseremus. Sed haec 
+      <lb ed="#C" n="18"/>commenta falsa &amp; incredibilia sunt, atque ab ipsis Papistis respuuntur,  
+      <lb ed="#C" n="19"/>qui tamen soliti sunt hujusmodi fabulas admirari &amp; venerari. Sane 
+      Ge<lb ed="#C" n="20" break="no"/>nebrardus in sua Chronolog. Anno Mundi3 749. librum hunc vtrunque  
+      <lb ed="#C" n="21"/>Canonicum vocat: quod mitum videri possit, quando id non 
+      modo<lb ed="#C" n="22" break="no"/>cum aperta ratione, &amp; communi omnium doctorum opinione pugnat,  
+      <lb ed="#C" n="23"/>sed etiam contra Tridentini Concilij authoritatem asseritur. Et 
+      rationi<lb ed="#C" n="24" break="no"/>busiisdem nititur Genebrardus, quibus supra Bellarminus probare 
+      <lb ed="#C" n="25"/>conatus est, Librum Tobiae &amp; Sapientiae cum aliis Canonicum esse. 
+      O<lb ed="#C" n="26" break="no"/>stendit enim in illo loco Genebrardus hos libros citari ab antiquis 
+      pa<lb ed="#C" n="27" break="no"/>tribus, &amp; Ecclesiam solere aliquid ex istis libris in sacris solemnibus 
+      re<lb ed="#C" n="28" break="no"/>citare. Quod omnino verum est, quandoquidem in feria tertia 
+      Pente<lb ed="#C" n="29" break="no"/>costes, &amp; in solemnibus Martyrum ex quarto Esdrae lectio sumitur: 
+      <lb ed="#C" n="30"/>Quare aut hoc argumentum, quo hactenus tam saepe vsus Bellarminus 
+      <lb ed="#C" n="31"/>est, non evincit quod institutum fuit, aut hi libri Esdrae simili ratione 
+      <lb ed="#C" n="32"/>Canonici erunt, quod tamen Iesuitae minime concedunt, &amp; tanquam  
+      <lb ed="#C" n="33"/>vehementerfalsum improbant. Quanquam non solus in hoc errore 
+      <lb ed="#C" n="34"/>Genebrardus fuit. Nam etiam <name xml:id="wWpoi1-de6848-Nd1e219">Iohannes Benedictus</name>, in principio 
+      suo<lb ed="#C" n="35" break="no"/>rum bibliorum tertium &amp; quartum Esdrae ponit in eorum librorum 
+      nu<lb ed="#C" n="36" break="no"/>mero, qui etsi non sunt in Canone Hebraeorum, tamen ab Ecclesia 
+      <lb ed="#C" n="37"/>Christiana recipiuntur. Similiter <name xml:id="wWpoi1-de6848-Nd1e229">Renatus Benedictus</name> L. 1. C9. Stromat.  
+      <lb ed="#C" n="38"/>Biblicorum, tertium &amp; quartum Esdrae in libris Canonicis numerat.  
+      <!--83.xml-->
+      <pb ed="#L" n="74"/>
+               <lb ed="#C" n="1"/>Manassis oratio nec in Hebraeo, nec in Graeco legitur: &amp; quanquam  
+      <lb ed="#C" n="2"/>pia videtur, tamen quemadmodum defendi illud possit, non satis 
+      intel<lb ed="#C" n="3" break="no"/>ligo, quod ait, Non posuisti poenitentiam iustis, Abrahamo, Isaaco, &amp; lacobo, 
+      <lb ed="#C" n="4"/>ius qui tibi non peccaverunt: nisi ista forsan comparate dici 
+      comminisce<lb ed="#C" n="5" break="no"/>mur. Nam &amp; illi peccaverunt, &amp; poenitentia opus habuerunt.  
+      </p>
+            <p xml:id="wWpoi1-de6848-d1e250">
+               <lb ed="#C" n="6"/>Psalmus 151. in Graecis, non Hebraeis exemplaribus invenitur, 
+      con<lb ed="#C" n="7" break="no"/>tinetque gratias Deo post Goliam devictum redditas. Eum Apolinarius 
+      <lb ed="#C" n="8"/>transtulit in Metaphrasi sua. Apocryphus vero semper habitus est. 
+      </p>
+            <p xml:id="wWpoi1-de6848-d1e259">
+               <lb ed="#C" n="9"/>Appendix libri lob ab Hieronymo improbatur, quia transsata de 
+      <lb ed="#C" n="10"/>Syro sermone, non in Hebraeo inventa fuit: &amp; quia Iob dicitur esse 
+      <lb ed="#C" n="11"/>quartus ab Esau, cum fuerit ortus ex stirpe Hux, qui filius fuit Nachor,  
+      <lb ed="#C" n="12"/>Sic Hieronymus in quaest. &amp; tradit: in Genes. Etsi in Epistola ad 
+      Evagri<lb ed="#C" n="13" break="no"/>lum, quaest. 126. ab Esauo illum potius oriundum esse scribit: sed 
+      He<lb ed="#C" n="14" break="no"/>braeis aliter videri affirmat.  
+      </p>
+            <p xml:id="wWpoi1-de6848-d1e276">
+               <lb ed="#C" n="15"/>Haec igitur omnia Papistae esse Apocrypha concedunt: &amp; his ea quo- 
+      <lb ed="#C" n="16"/>que adiungere possunt, quae nos Apocrypha esse dicimus. Argumenta. 
+      <lb ed="#C" n="17"/>enim non minus valida ac firma sunt contra illa, quam haec, vt 
+      intellexi<lb ed="#C" n="18" break="no"/>stis. Et hinc perspicuum est, non quicquid in illorum Latinis Bibliis 
+      le<lb ed="#C" n="19" break="no"/>gitur, Canonicum esse: multa enim Apocrypha inveniri. Sed hoc 
+      modo<lb ed="#C" n="20" break="no"/>factum est, vt ista Apocrypha cum Canonicis in eodem volumine 
+      con<lb ed="#C" n="21" break="no"/>glutinata, fidei plus &amp; authoritatis paulatim obtinerent, ac tandem 
+      pro<lb ed="#C" n="22" break="no"/>Canonicis haberentur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

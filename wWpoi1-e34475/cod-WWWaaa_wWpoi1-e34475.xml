@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="374"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e34475"><!-- con1q6c3 -->
+            <head xml:id="wWpoi1-e34475-Hd1e106">Caput 3</head>
+            <p xml:id="wWpoi1-e34475-d1e109">
+      <!--383.xml-->
+               <pb ed="#L" n="374"/>
+               <lb ed="#C" n="1"/>CAPVT TERTIVM. 
+      <lb ed="#C" n="2"/>Quomado Papistae Tradiugipati
+  </p>
+            <p xml:id="wWpoi1-e34475-d1e120">
+               <lb ed="#C" n="3"/>NON sunt omnes Papistarum Traditiones ejusdem generis, ordinis, 
+      <lb ed="#C" n="4"/>Paut authoritatis, sed variam ac multiplicem distinctionem sortiuntur.  
+      <lb ed="#C" n="5"/>Lindan. 4. lib. Panopliae, cap. 100. multus in hac causa est: sed ille rudi 
+      Mi<lb ed="#C" n="6" break="no"/>nerva omnia tractat. Bellarminus duplicem Traditionum partitionem 
+      pro<lb ed="#C" n="7" break="no"/>ponit; altera quidem ex authoribus, alteram vero ex materia ductam, Ex 
+      au<lb ed="#C" n="8" break="no"/>thoribus ait esse vel divinas, vel Apostolicas, vel Ecclesiasticas: in quo sequutus 
+      <lb ed="#C" n="9"/>est Peresium, qui eodem plane modo Taditiones dividit, in Part. 2. Assert. 
+      <lb ed="#C" n="10"/>6. vbi ait esse tres fontes sanctarum Traditionum: 17, Divinam 
+      authorita<lb ed="#C" n="11" break="no"/>tem. 29, Magisterium Apostolicum. 3P, Episcoporum &amp; maxime 
+      Roma<lb ed="#C" n="12" break="no"/>norum, potestatem. Divinas vocat, quas ipse Christus instituit quae 
+      tamen<lb ed="#C" n="13" break="no"/>nusquam in sacris literis reperiuntur, cuiusmodi illa omnia esse ait, quae ad 
+      <lb ed="#C" n="14"/>materiam &amp; formam sacramentorum pertinent: quae procul dubio (
+      in<lb ed="#C" n="15" break="no"/>quit) Christus instituit, scripta tamen non reliquit. Credendum autem est; 
+      <lb ed="#C" n="16"/>Christum haec instituisse, quia certum est. Sed quaero, vnde hoc certum. 
+      <lb ed="#C" n="17"/>nobis esse possit. Sacramentorum quidem authorem fuisse Christum, 
+      ne<lb ed="#C" n="18" break="no"/>mo dubitat: sed illorum materiam &amp; formam in sacris literis nos 
+      reperiri<lb ed="#C" n="19" break="no"/>dicimus. Bellarminus vero &amp; Papistae concedunt, quae illi credunt 
+      de<lb ed="#C" n="20" break="no"/>inateria &amp; forma Sacramentorum, ea nusquam in sacris literis 
+      inveniri<lb ed="#C" n="21" break="no"/>posse: vt quae credunt de materia &amp; forma Confirmationis, Poenitentiae, 
+      <lb ed="#C" n="22"/>Matrimonij, &amp;c. Sed nos omnem Sacramentorum cssentiam sacris in 
+      li<lb ed="#C" n="23" break="no"/>teris traditam esse atfirmamus. Atqui observatione quidem dignum est 
+      <lb ed="#C" n="24"/>argumentum eius, quo probat ea omnia, quibus ipsi in Baptismo, 
+      Cen<lb ed="#C" n="25" break="no"/>firmatione Poenitentia, Matrimonio, ac reliquis illorum Sacramentis 
+      <lb ed="#C" n="26"/>tytuntur, a Christo instituta esse; quod quidem est huiusmodi: Paulus ait, 
+      <lb ed="#C" n="27"/>I. Cor. 11. 23. Hoc accepi a Domino, quod etiam tradidi vobis: ergo 
+      creden<lb ed="#C" n="28" break="no"/>dum est ista omniaa Domino praescripta esse. Sed quomodo hoc sequitur? 
+      <lb ed="#C" n="29"/>Paulus a Domino accepit, quae ille Corinthijs tradidit obseruanda; 
+      Ergo<lb ed="#C" n="30" break="no"/>omnia etiam quae illi tradunt, a Domino acceperunt. At quae Apostolus 
+      <lb ed="#C" n="31"/>tradidit, eain scriptis reliquit, eodemque in loco commemorat. Id illi desu 
+      <lb ed="#C" n="32"/>is Traditionibus non possunt ostedere, Apostolicas vero Traditiones vocat,  
+      <lb ed="#C" n="33"/>quas Apostoli non sine Spiritus S. authoritate praescripserunt, non tamen 
+      <lb ed="#C" n="34"/>in Epistolis suis reliquerunt. Cuiusmodi ait esse jeiunium Quadragesimae, 
+      <lb ed="#C" n="35"/>&amp; quatuor temporum, &amp; multa ejusde generis alia. Sed ipse tamen 
+      postea<lb ed="#C" n="36" break="no"/>sui oblitus, quartum jeiunij tempus a Calixto institutum essefaretur. Hicvero 
+      <lb ed="#C" n="37"/>observandum est, Bellarminum concedere, Quadragesima non a Christo, 
+      <lb ed="#C" n="38"/>sed ab Apossolis inssitutam fiisse: cum alij Papista, xemplo&amp; authontate 
+      <!--384.xml-->
+      <pb ed="#L" n="375"/>
+               <lb ed="#C" n="1"/>Christi, Quadragesimam soleant defendere: quia quemadmodum ille 
+      <lb ed="#C" n="2"/>quadraginta dies ieiunavit, sic &amp; nobis etiam similiter ieiunandum esse 
+      <lb ed="#C" n="3"/>contendunt, atque ita hanc de Quadragesima Traditionem, non 
+      Apo<lb ed="#C" n="4" break="no"/>stolicam, sed divinam faciunt <name xml:id="wWpoi1-e34475-Nd1e213">Rhemenses</name>, in Matth. 4. ex Hieronymo, 
+      <lb ed="#C" n="5"/>afferunt, Christum jejunasse quadraginta dies, vt suo exemplo nobis 
+      re<lb ed="#C" n="6" break="no"/>linqueret solennes dies ieiuniorum. <name xml:id="wWpoi1-e34475-Nd1e220">Alphonsus de Castro</name>, Lib. 8. contra 
+      <lb ed="#C" n="7"/>haereses, ait multos graves Theologos affirmare, Quadragesimam 
+      a<lb ed="#C" n="8" break="no"/>Christo institutam esse, &amp; nominat Maximum quendam, qui ait se 
+      exem<lb ed="#C" n="9" break="no"/>plis Scripturarum hunc Quadragenatium numerum approbasse. Quod  
+      <lb ed="#C" n="10"/>si verum sit, tum non erit Traditio, quia scripta est. Hosius vero, in 
+      Con<lb ed="#C" n="11" break="no"/>fessione Petrocoviensi, cap. 4. Ecclesiasticam hanc Traditionem esse 
+      di<lb ed="#C" n="12" break="no"/>cit, his verbis: Mater Ecclesia quadraginta dierum ieiunium instituit, Ita, 
+      <lb ed="#C" n="13"/>quid de hac Traditione statuant, incertisunt. Ecclesiasticas vero 
+      Tradi<lb ed="#C" n="14" break="no"/>tiones vocat, quae paulatim, consensupopulorum vim legum 
+      obtinue<lb ed="#C" n="15" break="no"/>runt. Harum nullum exemplum proponit. 
+      </p>
+            <p xml:id="wWpoi1-e34475-d1e244">
+               <lb ed="#C" n="16"/>Subiungit deinceps, divinas. Traditiones non scriptas patem cum 
+      Scri<lb ed="#C" n="17" break="no"/>pturis authoritatem habere, sic &amp; Apostolicas cum ipsorum 
+      Apostolo<lb ed="#C" n="18" break="no"/>rum scriptis. Ratio eius haec est; quia verbi divini authoritas, non ex eo 
+      <lb ed="#C" n="19"/>pendet quod sit scriptum, sed quod a Deo sit profectum. Concedimus 
+      <lb ed="#C" n="20"/>istam bonam esse rationem; si potest probare, Traditiones istas a Christo 
+      <lb ed="#C" n="21"/>aut Apostolis institutas fuisse. At Ecclesiasticarum Traditionum quae 
+      tan<lb ed="#C" n="22" break="no"/>dem est authoritas? Illas ait esse eiusdem authoritatis, cuius sunt 
+      constitu<lb ed="#C" n="23" break="no"/>tiones Ecclesiae scriptae, &amp; decreta scripta. Sed quanta illavis est? Non 
+      <lb ed="#C" n="24"/>aequabunt, opinor, Ecclesiasticas constitutiones divinis praeceptis, 
+      Ta<lb ed="#C" n="25" break="no"/>men Patres Trident, sess. 4 praecipiunt, vt pari pietatis affectu Traditiones. 
+      <lb ed="#C" n="26"/>non scriptas suscipiamus ac veneremur, atque ipsos libros sacrae Scripturae. 
+      <lb ed="#C" n="27"/>Quaerendum ab illis Patribus est, quas illi Traditiones intelligant. 
+      Nul<lb ed="#C" n="28" break="no"/>lum discrimen faciunt, verbis communibus vtuntur. Forsan ergo volunt  
+      <lb ed="#C" n="29"/>Ecclesiasticas etiam Traditiones patem cum divinis Scripturis 
+      authori<lb ed="#C" n="30" break="no"/>tatem habere. Huic dubitationi Patres illi non occurrunt. At illud erat  
+      <lb ed="#C" n="31"/>explicandum, quo discrimine istae Traditiones tam multiplices 
+      gradu<lb ed="#C" n="32" break="no"/>ique habendae sint. Ad alteram deinde partitionem ac cedit Bellarminus, 
+      <lb ed="#C" n="33"/>a materia nempe ductam, atque hic multas Traditionum species 
+      recen<lb ed="#C" n="34" break="no"/>Iset, Aitenim, alias esse de fide, de moribus alias; alias perpetuas, alias 
+      <lb ed="#C" n="35"/>Itemporales: alias vniversales, alias particulares: alias necessatias, alias 
+      li<lb ed="#C" n="36" break="no"/>beras. Defide, vtbeatam Mariam semper Virginem, quatuor tantum 
+      <lb ed="#C" n="37"/>Jesse Evangelia, &amp; non plura. Quod ad priorem Traditionem attinet, 
+      Hie<lb ed="#C" n="38" break="no"/>ronymus, Ambrosius, &amp; Epiphanius, qui hac de re contra Helvidiumj 
+      <!--385.xml-->
+      <pb ed="#L" n="376"/>
+               <lb ed="#C" n="1"/>scripserunt, testimonia ex Scripturis afferunt, quibus perpetuam Mariae 
+      <lb ed="#C" n="2"/>virginitatem probent. Basilius vero, in Homilia de Nativitate Domini, 
+      <lb ed="#C" n="3"/>affirmat hoc dogma esse ὑτολν ωραλαόνητον τα το μυσηειολογῳ, quod perinde 
+      <lb ed="#C" n="4"/>est, ac si diceret, fidem non atcingere. Posterior vero Traditio (quatuor  
+      <lb ed="#C" n="5"/>esse Evangelia, &amp; non plura) non nititur tantum doctrina non scripta. Ipsi 
+      <lb ed="#C" n="6"/>enim libri indicant se divinitus esse scriptos: &amp; si illi voluntplura nobis 
+      E<lb ed="#C" n="7" break="no"/>vangelia obtrudere, nos illapossumus ex Scripturis refellere. Traditiones. 
+      <lb ed="#C" n="8"/>de moribus sunt, vt signum crucis, celebratio festorum, &amp; huiusmodi. 
+      Per<lb ed="#C" n="9" break="no"/>petuas facit Traditiones, quae nullum finem habiturae sunt, vteae quas 
+      <lb ed="#C" n="10"/>narravit: temporales vero, ceremonias illas legales, quas ad tempus 
+      Chri<lb ed="#C" n="11" break="no"/>stiani servabant, vt posset ex Iudaeis &amp; Gentibus Ecclesia coalescere. At 
+      <lb ed="#C" n="12"/>hae non sunt non scriptae. Legimus enim de Timotheo citcumciso, &amp; de 
+      <lb ed="#C" n="13"/>praecepto illo, quod ab Apostolis praescriptum est Gentibus, Vt 
+      abstine<lb ed="#C" n="14" break="no"/>rent a suffocato &amp; sanguine. Sed inquiet Bellarminus nobis scriptas esse, 
+      <lb ed="#C" n="15"/>non illis. Immo &amp; illis etiam scriptae fuerant, Lex enim illa, quae 
+      chari<lb ed="#C" n="16" break="no"/>tatem a nobis mutuam postulat, &amp; hoc etiam requirit, vi in rebus mediis 
+      <lb ed="#C" n="17"/>fratrum infirmitati succurramus ac consulamus, ab ijsque rebus 
+      cavea<lb ed="#C" n="18" break="no"/>mus, quibus illi offenduntur: ergo non pendent ista tantum ex 
+      doctrina<lb ed="#C" n="19" break="no"/>non scripta. Vniversales vocat, quas tota Ecclesia ubique observat, 
+      cu<lb ed="#C" n="20" break="no"/>iusinodi est celebratio Paschatis &amp; Pentecostes. Particulares vero, quas 
+      <lb ed="#C" n="21"/>certae quaedam Ecclesiae observant, vt ieiunare sabbato, Romanae 
+      Eccle<lb ed="#C" n="22" break="no"/>siae peculiare olim erat. Vecessarias vocat, quae in forma praecepti 
+      tradun<lb ed="#C" n="23" break="no"/>tur, vt pascha esse die Dominico celebrandum. Lberas vero quaetraditae 
+      <lb ed="#C" n="24"/>sunt in forma consilij, non praecepti cuiusmodi est aspersio aquae lust 
+      ra<lb ed="#C" n="25" break="no"/>lis. Quid Traditionis nomine intelligant Adversarij nostri, &amp; quot 
+      ge<lb ed="#C" n="26" break="no"/>nera Traditionum faciant, diximus: Reliquum iam est proximo loco, 
+      <lb ed="#C" n="27"/>vt regulas illas quaeramus, quibus ipsi Traditiones veras ab adulterinis: 
+      <lb ed="#C" n="28"/>distinguendas esse docent.. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

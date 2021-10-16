@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="79"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de7514"><!-- con1q2c2 -->
+            <head xml:id="wWpoi1-de7514-Hd1e106">Caput 2</head>
+            <p xml:id="wWpoi1-de7514-d1e109">
+               <lb ed="#C" n="29"/>LEQUDU 
+      <lb ed="#C" n="30"/>De Hebraica Editione.
+    </p>
+            <p xml:id="wWpoi1-de7514-d1e116">
+               <lb ed="#C" n="31"/>LIngua Hebraica prima est omnium linguarum: quae unica etiam 
+      <lb ed="#C" n="32"/>fuitante diluvium, &amp; arcis Babylonicae extructionem. Name 
+      a<lb ed="#C" n="33" break="no"/>vsus Adamus est, hominesque vniversi ante dilivium, vt ex Scripturis 
+      <lb ed="#C" n="34"/>ipsis facile constat, &amp; Patres testantur. Augustinus in Libro de Mirab. 
+      <lb ed="#C" n="35"/>Scripturae, cap. 9. Cum ad illud (inquit; tempus esset unius linguae cunctus 
+      <lb ed="#C" n="36"/>populus universorum, lingalas in diversa verba divisit. Et Lib. 16. cap. 4. de 
+      <!--89.xml-->
+      <pb ed="#L" n="80"/>
+               <lb ed="#C" n="1"/>Civitate Dei, Tempus fuit quando vna omnium lingua fuit. At que hoc 
+      eti<lb ed="#C" n="2" break="no"/>am illo Sybillae testimonio confirmatur, quod a Iosepho positum est, 
+      <lb ed="#C" n="3"/>Lib. 1. Antiquit. cap. 6. τῶγτον δμορώνον ὀντον τιγ ανθρωπον, τυργον φ κοσορον 
+      <lb ed="#C" n="4"/>σαντινος ψλψηλθτάτον, ως οπι τ α ραγον αναξεσομηυοι δι αυτό: δι ῆ θεοl ἀγόμοως δτεπιμ¬ 
+      <lb ed="#C" n="5"/>αντεε, ανιτζε καν 7 τυργον, χιιδιαν οκαστῳ εοτῆν ιδυκαν. Cum linguam uvnam 
+      ho<lb ed="#C" n="6" break="no"/>mines universi haberent, quidam turram altissimam aedificarunt, per quam in 
+      <lb ed="#C" n="7"/>Coelum ascenderent. Sed dij turrim tempestate everterunt, &amp; vocem 
+      unicui<lb ed="#C" n="8" break="no"/>que propriam dederunt. Quod anus fatidicae testimonium, quia cum 
+      Scri<lb ed="#C" n="9" break="no"/>pturae veritate consentit, non est respuendum. Itaque Philastrius de 
+      <lb ed="#C" n="10"/>Haeres. cap. 106. proculdubio vehementer erravit, quando plures ab 
+      in<lb ed="#C" n="11" break="no"/>itio linguas fuisse contendit, &amp; haereticum esse ait, si quis vnicam fuisset 
+      <lb ed="#C" n="12"/>linguam ante Babel extructam dixerit. Nam id Scriptura aperte docet.  
+      <lb ed="#C" n="13"/>Gen. 11. 1. his verbis. Fuit universa terra sermonis eiusdem, &amp; verba 
+      ea<lb ed="#C" n="14" break="no"/>demerant. Hanc autem communem linguam, Augustinus, De Civitate 
+      <lb ed="#C" n="15"/>Dei, Lib. 16. cap. 11. in familia Heber permansisse, ab eoque 
+      Hebrae<lb ed="#C" n="16" break="no"/>am esse dictam scribit. Quod etiam Eucherius in Genes. Lib. 2. cap. 2. 
+      <lb ed="#C" n="17"/>diserte affirmat, Eo tempore quo linguarum facta est varietas, in solo domo 
+      <lb ed="#C" n="18"/>Heber, quae antea fait lingua commansit. Ita cum alij linguarum repentina 
+      <lb ed="#C" n="19"/>mutatione plecterentur, Heber suam illam antiquam servavit, eamque 
+      <lb ed="#C" n="20"/>posteris suis reliquit, non quidem omnibus, sed iis ex quibus ortus est; 
+      <lb ed="#C" n="21"/>Abraham. Cum lingua vero etiam pura religio in illa Abrahae familia 
+      <lb ed="#C" n="22"/>propagata est. Atque in illa perturbatione confusioneque linguarum 
+      <lb ed="#C" n="23"/>Babylonica, fuit Hebraea quidem mater reliquarum. Sunt enim fere 
+      cae<lb ed="#C" n="24" break="no"/>terae quasi huius quaedam ἰδυματα &amp; dialecti, quarum aliae affiniores 
+      <lb ed="#C" n="25"/>sunt, suaeque matri similiores, aliae longius ab origine sua deflexerunt. Sed  
+      <lb ed="#C" n="26"/>ex hac reliquae omnes natae sunt. Hieronym. in cap. 3. Sophoniae, Nosse 
+      <lb ed="#C" n="27"/>(inquit) possumus, esse Hebraicam linguam omnium matricem. Id vno 
+      exem<lb ed="#C" n="28" break="no"/>plo docet, Nugei Hebraicum idem esse quod Latinum Nugae. 
+      </p>
+            <p xml:id="wWpoi1-de7514-d1e197">
+               <lb ed="#C" n="29"/>In hac lingua, quam fideles post illud tempus deinceps in vna 
+      fami<lb ed="#C" n="30" break="no"/>lia incorruptam retinuerunt, editum fuit vetus Testamentum, quod nulli 
+      <lb ed="#C" n="31"/>dubitant: de qua re sic Hieronymus scribit, Epist. 142. Initium oris &amp; 
+      <lb ed="#C" n="32"/>communis eloquij, &amp; hoc omne quod loquimur, Hebraeam esse linguam, 
+      qua<lb ed="#C" n="33" break="no"/>vetus Test anentum scriptum est, universa antiquitas tradidit. Et 
+      scripto<lb ed="#C" n="34" break="no"/>rem primum fuisse Mosen constat, etsi aliter aliqui putant, &amp; 
+      nomina<lb ed="#C" n="35" break="no"/>quaedam librorum proferunt, quae in Scripturis reperiuntur. Verum de 
+      <lb ed="#C" n="36"/>iis facile responderi potest: sed quia non est huius instituti, praetermittam. 
+      <lb ed="#C" n="37"/>Et Deus ipse scribendi exemplum modumque ostendit, quando legem 
+      <lb ed="#C" n="38"/>suis digitis conscriptam Mosi tradidit. In hac opinione Chrysostomus, 
+      <!--90.xml-->
+      <pb ed="#L" n="81"/>
+               <lb ed="#C" n="1"/>&amp; Theophilactus in Cap. 1. Math. atque alij versantur, eamque Papistae 
+      <lb ed="#C" n="2"/>etiam amplectuntur, vt Hosius in Confessione Petrocoviensi, cap. 15. &amp; 
+      <lb ed="#C" n="3"/>Screchius lesuita, Thes. 13. de verbo Dei. Quod autem Augustinus de 
+      <lb ed="#C" n="4"/>Civit. Lib. 15. c. 23. Enoch quaedam scripsisse certum esse affirmat, cum 
+      <lb ed="#C" n="5"/>hoc in Epistola Canonica ludas dicat, id ex hoc ludae testimonio 
+      colli<lb ed="#C" n="6" break="no"/>gi non potest. Non enim ludas ait, Recte scripsit Enoch, sed recteroρ
+      i<lb ed="#C" n="7" break="no"/>ρητώσε. Ita hoc, aut eius dictum aliquod ἀχεαρον, aut ab alio quopiam? 
+      <lb ed="#C" n="8"/>scriptuin esse intelligitur. Librum aliquem ab Enocho scriptum, eo 
+      tem<lb ed="#C" n="9" break="no"/>pore in manibus fuisse, quo hanc Epistolam Iudas scripsit, nullo modo 
+      <lb ed="#C" n="10"/>dicendum est: fuisset enim Canonicus, vtpote ab Enocho conscriptus. 
+      <lb ed="#C" n="11"/>Sed Iudaei nullum huiusmodi librum in Canone suo habuerunt. Primum. 
+      <lb ed="#C" n="12"/>ergo librum Scripturae Canonicum Moses ille maximus Propheta 
+      con<lb ed="#C" n="13" break="no"/>scripsit. Post quem alij Prophetae varia volumina ediderunt. Aliqui 
+      an<lb ed="#C" n="14" break="no"/>te captivitatem, vt Samuel, Nathan, Efaias. Hoseas, multique alij. 
+      Ali<lb ed="#C" n="15" break="no"/>qui in captivitate, vt Ezechiel, Daniel. Alij post captivitatem ad 
+      ali<lb ed="#C" n="16" break="no"/>quod tempus, vt Esdras, Aggeus, Zacharias, Malachias. Et haec 
+      qui<lb ed="#C" n="17" break="no"/>dem illi omnia scripserunt Hebraice, praeterquam pauca, quae a Daniele 
+      <lb ed="#C" n="18"/>&amp; Esdra Chaldaice scripta legimus. Sed lingua Chaldaica vicina est? 
+      <lb ed="#C" n="19"/>Hebraicae, &amp; ea tum lingua nota fuit Ecclesiae. Et hoc non est tanti, quo 
+      <lb ed="#C" n="20"/>minus Hieronymus dixerit, vetus Testamentum esse totum Hebraice 
+      <lb ed="#C" n="21"/>scriptum. 
+      </p>
+            <p xml:id="wWpoi1-de7514-d1e271">
+               <lb ed="#C" n="22"/>Sunt vero qui putant in captivitate veterem omnem Scripturam 
+      peni<lb ed="#C" n="23" break="no"/>tus intercidisse. Haec suspicio inde forsan manavit, quod cum Templum 
+      <lb ed="#C" n="24"/>esset incensum, omnia quae in Templo erant, eodem incendio 
+      consum<lb ed="#C" n="25" break="no"/>pta fuerint. Et tum sacros etiam Scripturae codices his flammis 
+      confla<lb ed="#C" n="26" break="no"/>grasse credunt. At vero post captivitatem, Esdram a Spiritu sancto 
+      edo<lb ed="#C" n="27" break="no"/>ctum, eosdem hos libros quasi postliminio novos edidisse dicunt. 
+      Sic<lb ed="#C" n="28" break="no"/>quidem opinatus est Clemens Alexandr. Lib. 1. Stromat. &amp; Irenaeus lib.  
+      <lb ed="#C" n="29"/>3. ca. 25. Sic enim habet: In ea captivitate populi, quae facta est a 
+      Nabucho<lb ed="#C" n="30" break="no"/>donosor, corruptis Scripturis, &amp; post 70. annos Iudaeis descendentibus in 
+      re<lb ed="#C" n="31" break="no"/>gionem suam, &amp; post deinde temporibus Artaxerxis Persarum Regis, 
+      inspira<lb ed="#C" n="32" break="no"/>vit Esdra tribui Levi, Prophetarum omnes rememorare sermones, &amp; 
+      re<lb ed="#C" n="33" break="no"/>stituere populo eam legem quae data esset per Mosem. Similia Leontinus 
+      ha<lb ed="#C" n="34" break="no"/>bet in lib. de Sectis. Act. 2. 8δFσδρασ ελθυν εἰς το Ιοροστελθμα, χι ευσον οη 
+      <lb ed="#C" n="35"/>πώθταλιθεια ήσον κανθεθτα, τννίκα ηχμαλστηθεσον, θτι μνημης, λγεται συτγροααο 
+      <lb ed="#C" n="36"/>τAκο ριθλια, απρεν τοις ἀνο ἀπηριθμησαιηα. Eadem scribit Isidorus de 
+      Offi<lb ed="#C" n="37" break="no"/>ciis, &amp; Rabanus Maurus de Instit. Cleric. c. 54. Duo igitur affirmant: 
+      <lb ed="#C" n="38"/>Alterum, sacram omnem &amp; Canonicam Scripturam in Captivitate 
+      <!--91.xml-->
+      <pb ed="#L" n="82"/>
+               <lb ed="#C" n="1"/>Babylonica penisse: Alterum vero, eandem fuisse ab Esdra postea 
+      divi<lb ed="#C" n="2" break="no"/>nitus &amp; admirabiliter edocto atque inspirato suae integritati redditam. 
+      </p>
+            <p xml:id="wWpoi1-de7514-d1e320">
+               <lb ed="#C" n="3"/>Sed hanc opinionem esse falsam, manifestum est. Nam pij procul 
+      du<lb ed="#C" n="4" break="no"/>bio penes se multa Scripturarum exemplaria habebant, eaque facile 
+      ab<lb ed="#C" n="5" break="no"/>illa incendij calamitate vindicare poterant. Nullum enim fuisse 
+      Scriptu<lb ed="#C" n="6" break="no"/>rarum exemplar, praeterquam in Templo, quis sanus dixerit? Tum, si 
+      in<lb ed="#C" n="7" break="no"/>Templo positi hi libri fuissent, nonne illos vel Sacerdotes, vel alij 
+      flam<lb ed="#C" n="8" break="no"/>mis eripuissent? Pios autem, dum agerent Babylone, incredibile est 
+      tam<lb ed="#C" n="9" break="no"/>fuisse pietatis &amp; religionis immemores, vt nulla omnino Scripturarum 
+      <lb ed="#C" n="10"/>exemplaria servarent, praesertim cum inter eos Ezechiel &amp; Daniel essent. 
+      <lb ed="#C" n="11"/>Sed fuisse illis multa in manibus exemplaria, certum est. Nam omnia 
+      ne<lb ed="#C" n="12" break="no"/>Antiochus quidem vel delere potuit, quamvis id maxime cuperet, &amp; 
+      <lb ed="#C" n="13"/>laboraret. Ita passim fuisse plurima exemplaria liquet. Babylonij vero in 
+      <lb ed="#C" n="14"/>libros sacros nullum ejusmodi impetum fecerunt. Atque ita Nehemiae 
+      <lb ed="#C" n="15"/>8. Esdras dicitur librum Mosis attulisse, &amp; legisse. Quare libri Mosis, &amp; 
+      si<lb ed="#C" n="16" break="no"/>militer alij Scripturarum libri fuerunt in captivitate salvi, &amp; sic nos non 
+      <lb ed="#C" n="17"/>alios jam Scripturarum veteris Testamenti libros habemus, quam 
+      eos<lb ed="#C" n="18" break="no"/>dem illos, quos Moses ipse &amp; reliqui Prophetae scripserunt. 
+      </p>
+            <p xml:id="wWpoi1-de7514-d1e357">
+               <lb ed="#C" n="19"/>Sed fieri omnino tamen potuit, vt libn qui ante fuerant perturbate 
+      di<lb ed="#C" n="20" break="no"/>spositi, ab Esdra repurgati, suoque ordini restituti, ac certa ratione 
+      distributi<lb ed="#C" n="21" break="no"/>fuerint, quod nominatim de Psalmis Hilarius in Prologo affirmat. Et 
+      for<lb ed="#C" n="22" break="no"/>san etiam Esdras characterum formas ac figuras vel mutavit, vel 
+      emen<lb ed="#C" n="23" break="no"/>davit. Hieronymus quidem in Epistola ad Paulinum ait, Esdram novas 
+      <lb ed="#C" n="24"/>quasdam characterum formas post reditum invenisse: nam ante Iudaeis 
+      <lb ed="#C" n="25"/>ac Samaritanis communes characteres fuisse. Ita si fidem habemus 
+      Hie<lb ed="#C" n="26" break="no"/>ronymo, Esdras characterum novas formas introduxit, elegantiores 
+      at<lb ed="#C" n="27" break="no"/>que faciliores illis, quibus ante vsi fuerant, ijsque sacros libros descripsit: 
+      <lb ed="#C" n="28"/>veteres vero Samaritanis reliquit. Atque his accommodate 
+      Hierony<lb ed="#C" n="29" break="no"/>mus in Ezechiel. 9. ait vltimam Alphabeti literam fuisse olim similem 
+      <lb ed="#C" n="30"/>τuο Graeco: &amp; nunc eam ita esse apud Samaritanos. At vero Hebraeorum. 
+      <lb ed="#C" n="31"/>nunc vitima longe aliam ac dissimilem figuram habet. Sed quanquam,  
+      <lb ed="#C" n="32"/>Esdram Hieronymus affirmat novos characteres invenisse, nusquam 
+      ta<lb ed="#C" n="33" break="no"/>men illum dicit nova omnia fecisse. Potuit enim eadem illa antiqua 
+      no<lb ed="#C" n="34" break="no"/>vis quidem literis describere ac proponere. Ergo id tenendum est, nos 
+      <lb ed="#C" n="35"/>nunc habere illas ipsas veteres Scripturas, quas Moses, caeterique 
+      Prophe<lb ed="#C" n="36" break="no"/>tae ediderunt, etsi forsan non habemus easdem omnino formas 
+      figu<lb ed="#C" n="37" break="no"/>rasque characterum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

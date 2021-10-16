@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="179"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e16620"><!-- con1q2c16 -->
+            <head xml:id="wWpoi1-e16620-Hd1e106">Caput 16</head>
+            <p xml:id="wWpoi1-e16620-d1e109">
+               <lb ed="#C" n="19"/>CAPVT DECIMVM SEXTVM. 
+      <lb ed="#C" n="20"/>Status quaestionis, De precibus publicis &amp; Sacris lingua 
+      </p>
+            <p xml:id="wWpoi1-e16620-d1e116">
+               <lb ed="#C" n="21"/>vernacula peragendis. 
+      <lb ed="#C" n="22"/>OErvenimus jam tandem ad secundum membrum secundae partis 
+      </p>
+            <p xml:id="wWpoi1-e16620-d1e123">
+               <lb ed="#C" n="23"/>huius Quaestionis, quae est de Sacris, hoc est, de publicis precibus 
+      <lb ed="#C" n="24"/>&amp; officiis Ecclesiasticis, vulgata omnium Ecclesiarum lingua 
+      peragen<lb ed="#C" n="25" break="no"/>dis. Latina lingua passim in omnibus suis omnium gentium Ecclesiis. 
+      <lb ed="#C" n="26"/>Papistae vtuntur: quod quanquam impium, absurdumque est, 
+      tamen<lb ed="#C" n="27" break="no"/>Concilij Tridentini authoritate confirmatur, Sessione 22. Cap. 8. 
+      Ubi<lb ed="#C" n="28" break="no"/>negant visum Patribus expedire, vt Missa vulgari passim lingua 
+      celebra<lb ed="#C" n="29" break="no"/>retur. Missae autem nomine totam Liturgiam, &amp; omnia officia 
+      Ecclesi<lb ed="#C" n="30" break="no"/>astica intelligunt. Conceditur tamen ibidem venia Pastoribus, &amp; 
+      sin<lb ed="#C" n="31" break="no"/>gulis animarum curam gerentibus vt frequenter inter Missarum 
+      cele<lb ed="#C" n="32" break="no"/>brationem, vel per se, vel per alios, aliqua ex ijs quae in Missa leguntur 
+      ex<lb ed="#C" n="33" break="no"/>ponant. Et Canone 9. illius Sessionis, Concilium inquit, e Anathema sit, 
+      <lb ed="#C" n="34"/>si quis dixerit, lingua tantum vulgari Missam celebrari debere. Hac etiam 
+      <lb ed="#C" n="35"/>de re scripsit librum Hosius, quem inscripsit De sacro vernac. legend.vbi 
+      <!--189.xml-->
+      <pb ed="#L" n="180"/>
+               <lb ed="#C" n="1"/>ait linguam Latinam tantum vsurpatam semper fuisse in Occidentalis 
+      <lb ed="#C" n="2"/>Ecclesia, Graecam vero in Orientali. Nos contra asserimus, in omnibus. 
+      <lb ed="#C" n="3"/>semper Ecclesijs antiquis Christianorum lectiones &amp; preces publicas ea 
+      <lb ed="#C" n="4"/>lingua habitas fuisse, quam populus intellexit, atque ita semper fieri 
+      o<lb ed="#C" n="5" break="no"/>portere. Quare haec Latina sacra Reformatae Ecclesiae merito 
+      profliga<lb ed="#C" n="6" break="no"/>runt. Status ergo Controversiae est, Vtrum preces publicae sint lingua 
+      <lb ed="#C" n="7"/>tantum Latina habendae, an lingua vernacula quarumvis Gentium. 
+      <lb ed="#C" n="8"/>Scripturas in linguam vernaculam vertendas esse, antea 
+      demonstravi<lb ed="#C" n="9" break="no"/>mus: &amp; cum eadem plane ratio sit precum celebrandarum, &amp; 
+      Scriptura<lb ed="#C" n="10" break="no"/>rum vernacule transferendarum, eadem argumenta hanc causam 
+      con<lb ed="#C" n="11" break="no"/>firmabunt, quae &amp; priorem. Ac proinde Iesuita hanc quaestionem cum 
+      <lb ed="#C" n="12"/>superiore miscuit, &amp; coniunctim de vtraque egit. Nobis autem 
+      consul<lb ed="#C" n="13" break="no"/>tius visum est, separatim hisce de rebus dicere. Atque haec de 
+      Quaestio<lb ed="#C" n="14" break="no"/>nis statu praemittenda esse duximus: Iam ad vtriusque partis argumenta 
+      <lb ed="#C" n="15"/>veniamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

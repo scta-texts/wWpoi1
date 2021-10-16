@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="299"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e27629"><!-- con1q5c2 -->
+            <head xml:id="wWpoi1-e27629-Hd1e106">Caput 2</head>
+            <p xml:id="wWpoi1-e27629-d1e109">
+               <lb ed="#C" n="6"/>CAPTTTI 
+      <lb ed="#C" n="7"/>γεεζιηδοη τεοιρροησις ad Quastionis ffatum uncm: 
+      <lb ed="#C" n="8"/>gendum pecessaris 
+    </p>
+            <p xml:id="wWpoi1-e27629-d1e118">
+               <lb ed="#C" n="9"/>DHimum ωρολεγλμσνον erit, de multitudine sensuum Scripturae, quos 
+      <lb ed="#C" n="10"/>varios esse, Patres statuerunt; nempe historicum, quem etiam 
+      <lb ed="#C" n="11"/>Grammaticum vel literalem dixerunt, κl ωἀπολογιαν, και ἀναλογίαν, και¬ 
+      <lb ed="#C" n="12"/>θροειαν De hac quadruplice Scripturae interpretatione, vide <ref xml:id="wWpoi1-e27629-Rd1e128">August. lib. 
+      <lb ed="#C" n="13"/>de Vtilitate credendi, cap. 3</ref>. vbi ait historicum sensum esse, cum 
+      doce<lb ed="#C" n="14" break="no"/>tur quid scriptum, aut quid gestum sit, quid non gestum: καν αἰπολογίαν,  
+      <lb ed="#C" n="15"/>vero Scripturas explicari, cum ostenditur quid qua de causa vel factum, 
+      <lb ed="#C" n="16"/>vel dictum sit: καν αναονίαν vero, cum vtriusque Testamenti congruentia 
+      <lb ed="#C" n="17"/>postenditur: καν αξηγνειαν, cum docetur, non ad literam esse ac cipienda 
+      <lb ed="#C" n="18"/>quaedam quae scripta sunt, sed figurate intelligenda. Alij vero alias 
+      my<lb ed="#C" n="19" break="no"/>stici sensus species recensent, nempe sensum Tropologicum, 
+      Allegori<lb ed="#C" n="20" break="no"/>cum, Anagogicum, de quibus multa apud Origenem legimus &amp; alios. 
+      <lb ed="#C" n="21"/>Iesuita vero hos omnes sensus in duas species distribuit; in historicum 
+      <lb ed="#C" n="22"/>nempe seu literalem, &amp; mysticum seu spiritualem, Historicum vero seu 
+      <lb ed="#C" n="23"/>literalem eum esse definit, quem verba ipsa immediate prae se ferunt, 
+      <lb ed="#C" n="24"/>mysticum vero seu spiritualem, qui alio refertur, quam verba ipsa sonant: 
+      <lb ed="#C" n="25"/>atque hunc vel Tropologicum, vel Anagogicum, vel Allegoricum esse 
+      <lb ed="#C" n="26"/>ait. Thomas Aquinas, prima parte Summae, prima Quaestione, &amp; Art. 10. 
+      <lb ed="#C" n="27"/>ex Gregorio, Lib. 20. Moral. cap. 1. ait hoc solius Scripturae proprium esse, 
+      <lb ed="#C" n="28"/>non aliorum authorum, vt non modo voces, sed &amp; res ipsae aliquid 
+      sig<lb ed="#C" n="29" break="no"/>nificent: atque hoc ait significari per librum illum, cuius mentio sit 
+      E<lb ed="#C" n="30" break="no"/>zech. 2. 10, &amp; Apocalyps. 5. 1. qui intus &amp; extra scriptus fuit. Verba 
+      Gre<lb ed="#C" n="31" break="no"/>gotija Thoma citata sunt huiusmodi: Sacra Scriptura reliquas scientias 
+      ip<lb ed="#C" n="32" break="no"/>soloquutionis suae more transcendit, quia vno eodemque sermone, dum gestum, 
+      <lb ed="#C" n="33"/>narrat, prodit mysterium. Nazianzenus literalem sensum corpori, 
+      mysti<lb ed="#C" n="34" break="no"/>cum vero ac spiritualem animae confert. Iesuita alia similitudine vtitur.  
+      <lb ed="#C" n="35"/>Quemadmodum verbum Dei genitum (inquit) duas naturas habet,  
+      <lb ed="#C" n="36"/>alteramhumanam &amp; visibilem, alteram vero divinam &amp; invisibilem: sic 
+      <lb ed="#C" n="37"/>Dei verbum scriptum duplicem habet sensum, alterum externum, hoc  
+      <!--309.xml-->
+      <pb ed="#L" n="300"/>
+               <lb ed="#C" n="1"/>est, historicum seu literalem: alterum internum, hoc est, mysticum 
+      seu<lb ed="#C" n="2" break="no"/>spiritualem. Deinde, sensum istum spiritualem triplicem esse statuit, 
+      nem<lb ed="#C" n="3" break="no"/>pe Allegoricum, Anagogicum, &amp; Tropologicum, quemadmodum &amp; 
+      <lb ed="#C" n="4"/>alios statuisse supra dictum est. Ista nos non omnino reiicimus. 
+      Conce<lb ed="#C" n="5" break="no"/>dimus enim esse αξεγθεία, esse ἀναγονας, esse etiam Θοπολονία in Scripturis: 
+      <lb ed="#C" n="6"/>sed negamus interim hos multos esse ac varios Scripturae sensus, 
+      Affir<lb ed="#C" n="7" break="no"/>mamus enim vnicum esse verum, proprium, ac genuinum Scripturae 
+      <lb ed="#C" n="8"/>sensum, ex verbis vere intellectis orientem, quem literalem dicimus: 
+      al<lb ed="#C" n="9" break="no"/>legorias vero, topologias, &amp; anagogas, non varios sensus, sed varias ex 
+      <lb ed="#C" n="10"/>vno sensu collectiones, vel varias vnius sensus applicationes seu 
+      accom<lb ed="#C" n="11" break="no"/>modationes esse contendimus. 
+      </p>
+            <p xml:id="wWpoi1-e27629-d1e214">
+               <lb ed="#C" n="12"/>Quod vero ait Iesuita, literalem sensum eum esse, quem prae se ferunt 
+      ver<lb ed="#C" n="13" break="no"/>ba immediate; id falsum est. Tum enim quis, quaeso, erit literalis sensus horum 
+      <lb ed="#C" n="14"/>verborum, Psal. 91. 13. super aspidem &amp; basiliscum ambulabis, &amp; 
+      conculca<lb ed="#C" n="15" break="no"/>bis leonem ac draconem? Si enim ille sit literalis horum verborum sensus, quem 
+      <lb ed="#C" n="16"/>verba prae se ferunt, idque immediate, ostendant leonem, quem Christus 
+      con<lb ed="#C" n="17" break="no"/>culcaverit, ostendant aspidem vel basicum, super quem ambulaverit, Aut 
+      <lb ed="#C" n="18"/>ergo literalis ille sensus non est, quem verba imme diate prae se ferunt, quod  
+      <lb ed="#C" n="19"/>vult Iesuita; aut certe verba ista nullum habent literalem sensum; quod non 
+      <lb ed="#C" n="20"/>audet affirmare. In omni enim Scripturae loco hos omnes supenores sensus 
+      in<lb ed="#C" n="21" break="no"/>esse affirmant. Deinde quis erit illorum verborum sensus literalis, quae 
+      haben<lb ed="#C" n="22" break="no"/>tur Esal. 11. 6. 7. 8. &amp; 657. vltimo versu? ubi ait Propheta fore, ut lupus cum 
+      <lb ed="#C" n="23"/>agno habitet, &amp; pardus cum hoedo ac cubet, vt vitulus, leo, &amp; ovis 
+      simulmo<lb ed="#C" n="24" break="no"/>rentur, vt vitulus &amp; vrsus simul pascantur, &amp;c. Nemo certe potest ostendere, 
+      <lb ed="#C" n="25"/>vbi &amp; quando hoc Propheticum vaticinium juxta literam impletum 
+      <lb ed="#C" n="26"/>fuerit, si cum literalem huius loci sensum esse statuamus, quem verba 
+      im<lb ed="#C" n="27" break="no"/>mediate prae se ferunt. Denique, si lesuitica haec literalis sensus definitio vera 
+      <lb ed="#C" n="28"/>sit; quem quaeso literalem sensum habebunt illa Christi verba, Math. 5. 29. 
+      <lb ed="#C" n="29"/>3o. Si oculus dexter te offendat, erue eum: Si manus dextera te offendat, 
+      ab<lb ed="#C" n="30" break="no"/>scinde eam? Origenes quidem alibi nimium mysticus &amp; allegoricus, haec 
+      ver<lb ed="#C" n="31" break="no"/>ba secundum literam interpretatus est sed inepte. Ille ergo sensus non est 
+      li<lb ed="#C" n="32" break="no"/>teralis, quem verba immediate prae se ferunt, quemadmodum Iesuita definit, 
+      <lb ed="#C" n="33"/>sed ille potius qui ex ipsis verbis, sive proprie, sive figurative sumptis, nasciti, 
+      <lb ed="#C" n="34"/>Si vero oratio fuerit figurata, non sic exponenda est, quemadmodum verba 
+      <lb ed="#C" n="35"/>statum &amp; imme diate sonant. Atque id Alphonsus de Castro videtur 
+      affirma<lb ed="#C" n="36" break="no"/>re, Lib. 1. contra haeres. Cap. 3. vbi literalem sensum melius definit, quam 
+      <lb ed="#C" n="37"/>lesuita, vtsit nimitum huiusmodi, quem aut voces, aut res vocibus expressae 
+      <lb ed="#C" n="38"/>significant. Exempli gratia, sensus literalis horum verborum (Semen mulie¬ 
+      <!--310.xml-->
+      <pb ed="#L" n="301"/>
+               <lb ed="#C" n="1"/>ris conteret caput serpentis) hic est, nempe, Christus debellabit Satanam, 
+      <lb ed="#C" n="2"/>eiusque vim omnem ac potentiam franget &amp; comminuet, etsi Diabolus 
+      <lb ed="#C" n="3"/>ipse quidem nec serpens sit, nec caput habeat.  
+      </p>
+            <p xml:id="wWpoi1-e27629-d1e286">
+               <lb ed="#C" n="4"/>Quod ad tres illos sensus spirituales attinet, ineptum certe est 
+      dice<lb ed="#C" n="5" break="no"/>re, tot esse sensus Scripturae, ad quot verba ipsa transferri &amp; 
+      accommoda<lb ed="#C" n="6" break="no"/>ri possunt. Etsi enim verba varie accommodari &amp; applicari possunt, 
+      nem<lb ed="#C" n="7" break="no"/>pe vel Tropologice, vel Allegorice, vel Anagogice, vel alio aliquo 
+      mo<lb ed="#C" n="8" break="no"/>do; non tamenob id sunt varij sensus, variae interpretationes, &amp; explic 
+      a<lb ed="#C" n="9" break="no"/>tiones Scripturae, sed sensus tantum vnus est, idemque literalis, qui varie 
+      <lb ed="#C" n="10"/>potest accommodari, &amp; ex quo varia colligi possunt. Apostolus quidem 
+      <lb ed="#C" n="11"/>ad Galat. 4. 24. historiam illam de duabus vxoribus Abrahami 
+      Allego<lb ed="#C" n="12" break="no"/>rice, vel Typice potius, de duobus Testamentis interpretatur: ait enim 
+      <lb ed="#C" n="13"/>disertis verbis, ἀτνα δειν αλληορυυθνα, &amp;c. at ibi non statuit duplicem esse  
+      <lb ed="#C" n="14"/>sensum illius historiae, alium historicum, alium allegoricum, sed ait 
+      <lb ed="#C" n="15"/>tantum, posse istam historiam allegorice accommodari ad institutum 
+      <lb ed="#C" n="16"/>suum, &amp; ad rem illam illustrandam, quam in manibus haber at. 
+      Quam<lb ed="#C" n="17" break="no"/>vis revera in verbo (ἀληγορημζυα) κατυχρισις est, quia historia illa non 
+      al<lb ed="#C" n="18" break="no"/>legorice, sed typice a Paulo eo in loco accommodatur: aliud autem est, 
+      <lb ed="#C" n="19"/>Typus, aliud allegoria. Est ergo illius Scripturae vnicus tantum sensus, 
+      <lb ed="#C" n="20"/>diteralis nempe, seu Grammaticus. Veruntamen &amp; totus integer sensus. 
+      <lb ed="#C" n="21"/>non est in verbis proptie sumptis, sed pars in typo, pars in reipsa, quae 
+      ge<lb ed="#C" n="22" break="no"/>sta fuit. In altero horum, seorsim &amp; per se considerato, pars tantum 
+      sen<lb ed="#C" n="23" break="no"/>sus continetur: ex vtrisque vero simul coniunctis, plenus ac perfectus 
+      sen<lb ed="#C" n="24" break="no"/>sus absolvitur. Atque idem de omnibus illis locis sentiendum est, in 
+      qui<lb ed="#C" n="25" break="no"/>bus Scriptura aliquid allegorice interpretatur. Ex quibus intelligimus, 
+      <lb ed="#C" n="26"/>vnicum esse verum ac genuinum Scripturae sensum, literalem nempe, 
+      seu<lb ed="#C" n="27" break="no"/>Grammaticum, sive ex verbis proptie sumptis, sive ex verbis figurate 
+      in<lb ed="#C" n="28" break="no"/>tellectis, sive ex vtrisque oriatur: allegoricas vero expositiones non esse 
+      <lb ed="#C" n="29"/>varios sensus, sed varias tantum accommodationes &amp; applicationes 
+      <lb ed="#C" n="30"/>Scripturae. Atque huiusmodi quidem allegoriis possumus interdum 
+      vtili<lb ed="#C" n="31" break="no"/>ter &amp; cum fructuvti ad delectandum, non autem ad vrgendum, praecipue 
+      <lb ed="#C" n="32"/>quando Scriptura allegorice explicat aliquid: alioqui in allegoriis 
+      ex<lb ed="#C" n="33" break="no"/>cogitandis parci esse debemus. David pugnavit cum Golia: 
+      Davidty<lb ed="#C" n="34" break="no"/>pus fuit Christi, Golias Diaboli. Haec ergo Davidis pugna eiusque 
+      vi<lb ed="#C" n="35" break="no"/>ctoria, ad Christi cum Satana pugnam illiusque victoriam 
+      significan<lb ed="#C" n="36" break="no"/>dam typice accommodari potest. Sic &amp; eandem etiam historiam 
+      alle<lb ed="#C" n="37" break="no"/>gorice accommodare quis potest in hunc modum: David Goliam 
+      supe<lb ed="#C" n="38" break="no"/>ravit: sic nos affectiones superate debemus, quae Giganteo more in no¬ 
+      <!--311.xml-->
+      <pb ed="#L" n="302"/>
+               <lb ed="#C" n="1"/>bis pugnam exercent contra Spiritum Dei, Fateor haec quidem vera 
+      es<lb ed="#C" n="2" break="no"/>se, &amp; commode dici posse: absurdum autem esse dicere, aut hunc aut 
+      il<lb ed="#C" n="3" break="no"/>lum esse illius historiae sensum. Atque haec de allegoriis. 
+      </p>
+            <p xml:id="wWpoi1-e27629-d1e376">
+               <lb ed="#C" n="4"/>Tropologia vero multo minus novus sensus viden debet: quia ex ipsis 
+      ver<lb ed="#C" n="5" break="no"/>bis necessario aperteque fluit, atque adeo ex ipso contextu colligitur. Est enim 
+      <lb ed="#C" n="6"/>nhil aliud, quam ethica Scripturae tractatio, quando scilicet ex Scripturis 
+      ali<lb ed="#C" n="7" break="no"/>quid colligimus, quod faciat ad vitam instituendam, &amp; mores informandos, 
+      <lb ed="#C" n="8"/>quodque in vita communi locum habeat: vt, Abraham exigua 
+      maniquin<lb ed="#C" n="9" break="no"/>que Reges superavit; ergo nec multitudini militum confidendum est, nec 
+      <lb ed="#C" n="10"/>desperandum in paucitate. Sic David ocio deditus, amore captus est, atque 
+      <lb ed="#C" n="11"/>ita in adulterium incidit: ergo nobis ocium fugiendum est. Sic Noah cum 
+      <lb ed="#C" n="12"/>esset ebrus, nudus obscoene iacuit, atque ita ludibrio habitus est filio suot 
+      er<lb ed="#C" n="13" break="no"/>go ebrietas cavenda est, ne in dedecus &amp; incommoda incidamus. Sic 
+      bovi<lb ed="#C" n="14" break="no"/>trituranti os non obligabis: ergo ministri alendi sunt, iisque necessaria 
+      sup<lb ed="#C" n="15" break="no"/>peditati debent. Id enim Paulus ex illis verbis colligit, 1. Cor. 9. 9. &amp; 1. 
+      <lb ed="#C" n="16"/>Tim. 5. 18. Sic Petrus in aula Pontificis Christum negavit, egressus 
+      doluitier<lb ed="#C" n="17" break="no"/>co malorum hominum consortium est fugiendum. Hoc etiam 
+      interpretan<lb ed="#C" n="18" break="no"/>di modo vsus est Christus, Matth. 12. 41. 42. vbi ad ipsos Iudaeos, quium 
+      <lb ed="#C" n="19"/>illi praesentes aderant, Ninivitarum resipiscentiam statim audito lona, &amp; 
+      <lb ed="#C" n="20"/>longum iter Reginae Sabae ad Salomonem, accommodat. In hac 
+      tractatio<lb ed="#C" n="21" break="no"/>ne, &amp; huiusmodi admonitionum atque exhortationum diductione, pars 
+      <lb ed="#C" n="22"/>maxima ministerij versatur: Ista autem omnia &amp; huiusmodiex ipsis verbis 
+      <lb ed="#C" n="23"/>fluunt &amp; concluduntur. Non est ergo iste sensus novus, varius, atque alienus 
+      <lb ed="#C" n="24"/>ab ipsis verbis, sed vnus plane atque idem cum sensu literali. 
+      </p>
+            <p xml:id="wWpoi1-e27629-d1e424">
+               <lb ed="#C" n="25"/>De typo seu anagoge similiter iudicandum est, in Psal. 95. Deus ait, 
+      <lb ed="#C" n="26"/>Iuravi eos non ingressuros esse in requiem meam. Ibi requies intelligi potest 
+      <lb ed="#C" n="27"/>tum de terra Canaan, tum etiam typice de regno coelorum. Regnum 
+      e<lb ed="#C" n="28" break="no"/>nim Cananaeum fuit typus regni coelorum. Non tamen ideo duplex 
+      sen<lb ed="#C" n="29" break="no"/>sus est: sed cum signum ad rem signatam refertur, apertius exprimitur,  
+      <lb ed="#C" n="30"/>quod in signo latebat. Quando a signo ad tem signatam progredimur, 
+      <lb ed="#C" n="31"/>non novum sensum afferimus, sed quod in signo latuit, in lucem apera 
+      <lb ed="#C" n="32"/>tam producimus. Cum vero de signo per se loquimur, partem tantumsen 
+      <lb ed="#C" n="33"/>sus exponimus: sic etiam cum rei signatae tantum mentionem facimus: 
+      <lb ed="#C" n="34"/>sed cum sit mutua relatio inter signum &amp; rem signatam, tum totus &amp; 
+      in<lb ed="#C" n="35" break="no"/>teger sensus proponitur, in similitudine quadam &amp; convenientia positus. 
+      <lb ed="#C" n="36"/>Paulus 1. Cor. 10. 11. ait. Haec autem omnia typice eveniebant ut, τυποι, 
+      <lb ed="#C" n="37"/>σνλζανον iκεινοις, &amp;c. Sensus loci est, oportere nos veteris populi Iudaici 
+      <lb ed="#C" n="38"/>gesta ad nostram institutionem ac commodare, vt illorum exemplo nos 
+      <!--312.xml-->
+      <pb ed="#L" n="303"/>
+               <lb ed="#C" n="1"/>moniti, discamus Deo placere, idololatiriam, aliaque peccata fugere, non 
+      <lb ed="#C" n="2"/>ve sensum (nescio quem) novum &amp; spiritualem colligamus ex islis 
+      om<lb ed="#C" n="3" break="no"/>nibus. Nam etsi hic spiritualis sensus est, non tamen alius est, sed vere 
+      li<lb ed="#C" n="4" break="no"/>teralis. Nam hunc sensum litera ipsa fundit, vi similitudinis aut 
+      argumen<lb ed="#C" n="5" break="no"/>ti. Iudei peccantes puniti funt: nos ergosi peccamus similiter, poenas 
+      quo<lb ed="#C" n="6" break="no"/>que similes perferemus, ac Deo persolvemus. Iudaeorum poenam nobis 
+      <lb ed="#C" n="7"/>Deus tanquam in tabula depictam proposuit, quam perpetuo 
+      intuere<lb ed="#C" n="8" break="no"/>mur. Illi quidem multa unxa habebant, nubem, transitum per mare, 
+      a<lb ed="#C" n="9" break="no"/>quam ex Petra, Manna: quae omnia pijs erant symbola rerum 
+      coelesti<lb ed="#C" n="10" break="no"/>um. Sicut aqua ex petra manans populum languentem refecit, &amp; 
+      Man<lb ed="#C" n="11" break="no"/>na pavit; sic nos Christus recreat &amp; conservat: sicut illi erant nube 
+      cir<lb ed="#C" n="12" break="no"/>cunfusi, &amp; in medijs maximi matis fluctibus constituti, sic pij omnes. 
+      <lb ed="#C" n="13"/>Christi sanguine abluuntur. Haec illis sacramenta erant, eaque pij sic 
+      in<lb ed="#C" n="14" break="no"/>telligebant. Quando ergo haec literaliter de rebus ipsis, spiritualiter de 
+      <lb ed="#C" n="15"/>donis caelestibus exponuntur, non facimus duos diversos sensus, sed 
+      per<lb ed="#C" n="16" break="no"/>similitudinis explicationem signum cum re significata comparamus, &amp; 
+      <lb ed="#C" n="17"/>sic verum atque integrum verborum sensum proferimus. Sic in 
+      no<lb ed="#C" n="18" break="no"/>stris sacramentis non duo sensus sunt, literalis, &amp; mysticus; sed vnicus, 
+      <lb ed="#C" n="19"/>in signorum rerumque comparatione ac coniunctione positus. Vt 
+      cor<lb ed="#C" n="20" break="no"/>pora lavantur aqua, sic animae purgantur sanguine Christi: vt 
+      corpora<lb ed="#C" n="21" break="no"/>pane vinoque recreantur, sic nos toti carne &amp; sanguine Servatoris 
+      nostri<lb ed="#C" n="22" break="no"/>sustentamur. Sic ex illis τυmκois Paulus colligit; Si Iudaei ob sceleta sua 
+      pe<lb ed="#C" n="23" break="no"/>rierunt, nos etiam peribimus, si eadem peccata commiserimus. Non 
+      du<lb ed="#C" n="24" break="no"/>plicem sensum ibi Paulus tradit, sed ex iis, quae in populo Iudaico 
+      evene<lb ed="#C" n="25" break="no"/>tunt, exemplum sumit ac proponit, ex quo Gorinthios, vt sibi caveant,  
+      <lb ed="#C" n="26"/>monet. Simplex ergo Scripturae sensus est literalis: Nam quia multa 
+      <lb ed="#C" n="27"/>consequuntur ex verbis Scripturae recte intellectis, ideo multos sensus 
+      <lb ed="#C" n="28"/>fingere, amentiae est. Dici illa quidem possunt corollaria seu consectaria 
+      <lb ed="#C" n="29"/>quaedam, ex verbis recte intellectis fluentia; novi autem ac diversi sensus 
+      <lb ed="#C" n="30"/>nullo modo. Atque hoc quidem videtur Thomas Aquinas ipse vidisse, 
+      <lb ed="#C" n="31"/>cum inprima parte Summae, prima Quaest. Art. 10. sic scribat: Quia 
+      sen<lb ed="#C" n="32" break="no"/>sus literalis est, quem author intendit, author autem sacrae Scripturae Deus 
+      <lb ed="#C" n="33"/>est, qui omnia simul suo intellectu comprehendit; non est inconveniens, si etiam 
+      <lb ed="#C" n="34"/>secundum literalem sensum in una litera Scripturae plures sint sensus. Cum 
+      <lb ed="#C" n="35"/>ergo ille sit sensus Scripturae, &amp; literalis, quem Spiritus sanctus intendit, 
+      <lb ed="#C" n="36"/>quocunque modo colligatur; certe si Spritus sanctus sensum 
+      tropolo<lb ed="#C" n="37" break="no"/>gicum, anagogieum, vel allegoricum alicuius loci intendebat, hi 
+      sen<lb ed="#C" n="38" break="no"/>lus non alij omnino sunt, quam literalis, quemadmodum nos Thomas 
+      <!--313.xml-->
+      <pb ed="#L" n="304"/>
+               <lb ed="#C" n="1"/>diserte monuit. Sic <name xml:id="wWpoi1-e27629-Nd1e549">Alphonsus de Castro</name>, Lib. 1. contra haereses, cap. 31. 
+      <lb ed="#C" n="2"/>Sensum parabolae, inquit, qui intra literalem circumsepire voluerit, non abs rei 
+      <lb ed="#C" n="3"/>fecerit. Atque haec de primo ωρολεγρμλνῳ. 
+      </p>
+            <p xml:id="wWpoi1-e27629-d1e558">
+               <lb ed="#C" n="4"/>Secundo loco notandum &amp; animadvertendum est, ex sensu duntaxat  
+      <lb ed="#C" n="5"/>literali, firma, valida, &amp; efficacia argumenta sumi posse; id quod 
+      Adver<lb ed="#C" n="6" break="no"/>sarij etiam ipsi concedunt. Sequitur ergo illum tantum esse genuinum 
+      <lb ed="#C" n="7"/>Scripturae sensum, non alium. Nam ex genuino ac proprio sensufirmum 
+      <lb ed="#C" n="8"/>semper argumentum sumi potest. Cum ergo ex renquis illis sensibus non 
+      <lb ed="#C" n="9"/>possint firma argumenta colligi, constat eos non esse veros ac genuinos 
+      <lb ed="#C" n="10"/>sensus. Ergo Tropologia, &amp; Allegoria, &amp; Anagoge, si veri sensus sint, 
+      lite<lb ed="#C" n="11" break="no"/>rales sunt. Ratio vero, cur ex literali sensu firma semper ducantur 
+      argu<lb ed="#C" n="12" break="no"/>menta, haec est, quod constat semper illum esse Spiritus sancti sensum, 
+      <lb ed="#C" n="13"/>qui ex ipsis verbis elicitur: sed non ita certi sumus de quovis mystico 
+      <lb ed="#C" n="14"/>sensu, nisi quando id nos ipse Spiritus sanctus docet. Exempli gratia, 
+      scri<lb ed="#C" n="15" break="no"/>bitur Oseae, 117. 1. Ex AEgypto vocavi filium meum: &amp; Exod. 12. 46Oε 
+      <lb ed="#C" n="16"/>illius non confringetis. Priorem locum de populo Israelitico, posteriorem 
+      <lb ed="#C" n="17"/>vero de agno Paschali intelligi satis constat. Quis iam auderet ista ad 
+      <lb ed="#C" n="18"/>Christum transferre, &amp; accommodare, nisi Spiritus sanctus id prius 
+      fe<lb ed="#C" n="19" break="no"/>cisset, &amp; nobis mentem ac sententiam suam declara sset? nempe filium in 
+      <lb ed="#C" n="20"/>priore loco non populum modo Israeliticum, sed &amp; Christum significare; 
+      <lb ed="#C" n="21"/>&amp; os in posteriori loco non agni illius tantum, sed &amp; Christi intelligi. Qui  
+      <lb ed="#C" n="22"/>tantum de populo Israelitico, &amp; de agno Paschali, illos locos 
+      interpretan<lb ed="#C" n="23" break="no"/>tur, partem tantum sensus afferunt, non totum sensum: quia totus 
+      sen<lb ed="#C" n="24" break="no"/>sus de signo &amp; re ipsa simul intelligendus est: consistit enim in 
+      accommo<lb ed="#C" n="25" break="no"/>datione signi ad signatum. Hic tamen non diversi sensus sunt, sed vnus 
+      <lb ed="#C" n="26"/>emergit sensus integer. Argumentandum autem est ex sensuliterali. Hinc 
+      <lb ed="#C" n="27"/>tritum illud ac vulgare dictum, Metaphoricam &amp; Symbolicam 
+      Theo<lb ed="#C" n="28" break="no"/>logiam non esse argumentativam: quod Thomas, in loco supra citato, ex 
+      <lb ed="#C" n="29"/>Augustino probat, Epist. 48. contra Vincentium Donatistam, &amp; 
+      Hiero<lb ed="#C" n="30" break="no"/>nymus, in 13. cap. Matth. Hinc etiam Dionysius ille Areopagita ait quo- 
+      <lb ed="#C" n="31"/>dam in loco, mysticam Theologiam non arguere. Hac de re Alphonsus 
+      copi<lb ed="#C" n="32" break="no"/>ose disserit, lib. 1. cap. 3. &amp; Andradius ait, Lib. 2. Trident. Defenseseasum 
+      <lb ed="#C" n="33"/>literalem solum suppeditare argumenta ad religionis dogmata confirmanda 
+      </p>
+            <p xml:id="wWpoi1-e27629-d1e626">
+               <lb ed="#C" n="34"/>Tertium ωρλλερομηνον est, non esse afferendos privatos aliquos sensus, 
+      <lb ed="#C" n="35"/>&amp; privatas interpretationes, sed huiusmodi, quae cum mente, sententia, 
+      <lb ed="#C" n="36"/>&amp; dictamine Spiritus sancti conveniant. Is enim Scripturarum author: 
+      <lb ed="#C" n="37"/>est: ergo aequum est in interpretanda Scriptura eum sequi. Hoc 
+      conce<lb ed="#C" n="38" break="no"/>dunt Adversarij. Nam &amp; aperta ratio cos convincit, &amp; locus etiam ille, 
+      <!--314.xml-->
+      <pb ed="#L" n="305"/>
+               <lb ed="#C" n="1"/>qui habetur 2. Pet. 1. 20. id satis ostendit, vbi Petrus ait Scripturam 
+      nul<lb ed="#C" n="2" break="no"/>lam esse iδίας ττελυσεως. Sed quis est sensus Spiritus sancti? quae eius 
+      men<lb ed="#C" n="3" break="no"/>est ac sententia, cum qua omnes nostrae interpretationes congruere ac 
+      <lb ed="#C" n="4"/>convenire debent? Nam in eo tota Controversia sita est. Iam ergo ad 
+      dis<lb ed="#C" n="5" break="no"/>putationem veniendum est. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="74"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de7042"><!-- con1q1c16 -->
+            <head xml:id="wWpoi1-de7042-Hd1e106">Caput 16</head>
+            <p xml:id="wWpoi1-de7042-d1e109">
+               <lb ed="#C" n="23"/>CAPTII 
+      <lb ed="#C" n="24"/>XUbygressanet
+    </p>
+            <p xml:id="wWpoi1-de7042-d1e116">
+               <lb ed="#C" n="25"/>HOc loco sequitur, vt de novi Testamenti libris disseramus. Sed 
+      <lb ed="#C" n="26"/>Iquia nulla est inter Papistas &amp; nos de his controversia, 
+      praeter<lb ed="#C" n="27" break="no"/>mittam. Nam quos illi Canonicos esse statuunt, eosdem nos quoque sine 
+      <lb ed="#C" n="28"/>aliqua exceptione agnoscimus. Quos Tridentina Synodus novi 
+      Testa<lb ed="#C" n="29" break="no"/>menti libros recensuit, hos Ecclesia nostra omnes &amp; solos recipit. 
+      Si<lb ed="#C" n="30" break="no"/>Lutherus, aut qui Lutherum sequuti sunt nonnulli aliter senserint, aut 
+      <lb ed="#C" n="31"/>scripserint de quibusdam libris novi Testamenti, vt de Epistola lacobi, 
+      <lb ed="#C" n="32"/>aut Iudae, aut de aliis quibusdam partibus, ij pro se respondeant, nihil 
+      ista<lb ed="#C" n="33" break="no"/>res ad nos pertinet, qui hac in re Lutherum nec sequimur, nec 
+      defendi<lb ed="#C" n="34" break="no"/>mus, quique meliore ratione ducimur. Sed hi tamen hac in re proferunt 
+      iu<lb ed="#C" n="35" break="no"/>dicium atque exemplum veteris Christianorum Ecclesiae, &amp; quorundam 
+      <!--84.xml-->
+      <pb ed="#L" n="75"/>
+               <lb ed="#C" n="1"/>Pattum. Satis enim aperte constat, quasdamolim, Ecclesias, &amp; Patres 
+      <lb ed="#C" n="2"/>doctrina ac pietate florentes, extra Canonem ea omnia removisse, quae 
+      <lb ed="#C" n="3"/>Lutherus in dubium vocavit. Nihil ergo est quamobrem Adversarij 
+      in<lb ed="#C" n="4" break="no"/>Lutherum tam vehementer acerbeque noc nomine invehantur, qui hac 
+      <lb ed="#C" n="5"/>in re gravius non peccavit, quam &amp; olim Catholicae aliquot Ecclesiae; 
+      <lb ed="#C" n="6"/>sanctique nonnulli Patres, &amp; hodie etiam aliqui insigniores Papistae. 
+      <lb ed="#C" n="7"/>Nam ex novi Testamenti Canone plura sustulit Cajetanus quam 
+      Lu<lb ed="#C" n="8" break="no"/>therus. Nam Cajetanus haec omnia palam rejicit, Epistolam lacobi, 
+      Se<lb ed="#C" n="9" break="no"/>cundam Petri, secundam &amp; tertiam lohannis, Epistolam Iudae, 
+      Episto<lb ed="#C" n="10" break="no"/>lam ad Hebraeos, (quod nunquam certe Lutherus fecit) historiam 
+      ad<lb ed="#C" n="11" break="no"/>ulterae, Ioan. 8. caput vltimum Marci, &amp; passim in Evangeliis, aliisque 
+      <lb ed="#C" n="12"/>libris nonnulla, de quibus Luthero nunquam venit in mentem 
+      dubita<lb ed="#C" n="13" break="no"/>re. Non omnes tamen haeretici olim habiti fuerunt, qui de libro aliquo 
+      <lb ed="#C" n="14"/>Canonico dubitarent. Sed non ista persequar, quia causam nostram 
+      <lb ed="#C" n="15"/>non attingunt. Alios lacessant, nobis posthac ne molesti sint. Itaque 
+      de<lb ed="#C" n="16" break="no"/>authoritate nullius libri, qui pertinet ad novum Testamentum, 
+      dubita<lb ed="#C" n="17" break="no"/>mus: nec vero de authore, praeterquam Epistolae ad Hebraeos. 
+      Episto<lb ed="#C" n="18" break="no"/>lam hanc esse omni modo Canonicam concedimus vniversi; sed num 
+      <lb ed="#C" n="19"/>a Paulo Apostolo conscripta fuerit, non perinde liquet. Sunt qui 
+      Pau<lb ed="#C" n="20" break="no"/>linam esse statuant, sunt quibus aliter videatur. Initio fuit in 
+      Ecclesia<lb ed="#C" n="21" break="no"/>hac de re dubitatum. Eusebius lib. 3. cap. 3. scribit Romanam 
+      Ecclesi<lb ed="#C" n="22" break="no"/>am negasse hanc esse Pauli: at nunc mutavit sententiam, &amp; Paulo 
+      Epi<lb ed="#C" n="23" break="no"/>stolam hanc vendicat. Heronymus in Catal. in Paulo sic habet: 
+      Cpisto<lb ed="#C" n="24" break="no"/>la quae fertur ad Hebraeos, non eius creditur, propter stili sermonisque 
+      dissonanti<lb ed="#C" n="25" break="no"/>am. Similiter scribit in Epistola ad Paulinum, &amp; in Ieremiae cap. 13. 
+      <lb ed="#C" n="26"/>Tertullianus illam Barnabae tribuit, aliqui Lucae Evangelistae, vt testis est 
+      <lb ed="#C" n="27"/>Hieronymus. Sic Cailus quidam antiquus &amp; doctus author, Pauli non 
+      <lb ed="#C" n="28"/>plures quam tredecim Epistolas recensuit, vt de illo testatur 
+      Hierony<lb ed="#C" n="29" break="no"/>mus in Catal. In eodem (inquit) volumine Epistolas quoque Pauli enumerans. 
+      <lb ed="#C" n="30"/>tredecim tantum, decimam quartam, quae fertur ad Hebraeos, dicit non eius 
+      <lb ed="#C" n="31"/>esse. Sed &amp; apud Romanos usque hodie quasi Pauli eApostoli nim habetur. De 
+      <lb ed="#C" n="32"/>hoc Calo Eusebius etiam meminit, Lib. 6. cap. 16. Hinc perspicuum 
+      <lb ed="#C" n="33"/>est, multis olim visam hanc Epistolam non esse Pauli. 
+      </p>
+            <p xml:id="wWpoi1-de7042-d1e218">
+               <lb ed="#C" n="34"/>lam vero si vellem eos omnes percensere, qui hanc Epistolam 
+      Pau<lb ed="#C" n="35" break="no"/>lo Apostolo tribuunt, infinitus essem. Hieronymus in Epistola ad 
+      Dar<lb ed="#C" n="36" break="no"/>danum omnes authores Graecos affirmare ait hanc esse Pauli: &amp; in hac 
+      <lb ed="#C" n="37"/>opinione est Origenes apud Eusebium, lib. 6. cap. 18. Clemens 
+      Alex<lb ed="#C" n="38" break="no"/>andrinus apud Euseb. lib. 6. cap. 11. Eusebius ipse lib. 2. cap. 3. Syno¬ 
+      <!--85.xml-->
+      <pb ed="#L" n="76"/>
+               <lb ed="#C" n="1"/>dus Laodicena, cap. 59. Athanasius in Synopsi, &amp; alibi, Irenaeus, 
+      Cyril<lb ed="#C" n="2" break="no"/>lus in Thesauro, Lib. 12. cap. 9. Chrysostomus in hanc Epistolam: 
+      Naxi<lb ed="#C" n="3" break="no"/>anzenus in multis locis. Theophylactus mitatur illorum impudentiam, 
+      <lb ed="#C" n="4"/>qui negant. Damascenus ex hac testimonium profert, vt ex Paulina. Et  
+      <lb ed="#C" n="5"/>Latinietiam celebriores idem sentiunt. Augustinus de doctrina 
+      Chri<lb ed="#C" n="6" break="no"/>sti. Lib. 2. cap. 8. &amp; in multis locis. Ambrosius in hanc Epistolam, vt 
+      Pau<lb ed="#C" n="7" break="no"/>linam, commentarios scripsit, eamque Paulinam vocat. in Psal. 119. 
+      <lb ed="#C" n="8"/>Gregorius lib. 5. Moral. cap. 3. &amp; Petrus Apostolus testari videtur hanc 
+      <lb ed="#C" n="9"/>esse Pauli, his verbis. 2. Petr. 3. 15. vt frater noster Paulus scripsit vobis. 
+      Hi<lb ed="#C" n="10" break="no"/>autem erant Hebrei: nam ad Hebraeos Petrus scripsit quemadmodum ex 
+      <lb ed="#C" n="11"/>inscriptione prioris Epistolae constat: &amp; secunda epistola missa est ad 
+      e<lb ed="#C" n="12" break="no"/>osdem. Nam ait, Ecce iam vobis hanc secundam epistolam scribo. cap. 3. 1. 
+      <lb ed="#C" n="13"/>Quod tamen relinquo in medio, nec ausim aliquid in alterutram 
+      par<lb ed="#C" n="14" break="no"/>tem affirmare aut statuere certi. Scio a nonullis afferri rationes, quibus 
+      <lb ed="#C" n="15"/>hanc non esse Pauli persuadeant: sed illas a nonnullis dilui ac 
+      refutari<lb ed="#C" n="16" break="no"/>video, Illyrico, Hyperio, &amp; aliis. Non valde hac de re contendamus: 
+      ne<lb ed="#C" n="17" break="no"/>que enim necesse est: &amp; res in dubio relinqui potest, vtinterim sua 
+      Epi<lb ed="#C" n="18" break="no"/>stolae authoritas constet arque conservetur. Hieronymus hac de re 
+      pru<lb ed="#C" n="19" break="no"/>denter praemonuit, in Epistola ad Dardanum, nihil interesse cuius sit, 
+      <lb ed="#C" n="20"/>cum ecclesiastici viri sit, &amp; quotidie Ecclesiarum lectione celebretur. De libro 
+      <lb ed="#C" n="21"/>Iobi similiter Gregorius egregie scripsit, quando de illius libri 
+      scripto<lb ed="#C" n="22" break="no"/>re quaerentibus respondet in Praefat, comment. in lob. cap 10. Quis 
+      <lb ed="#C" n="23"/>haec scripserit, valde supervacanee quaeritur, cum tamen author libri Spiritus 
+      <lb ed="#C" n="24"/>sanctus fideliter credatur. Ipse igitur haec scripsit, qui haec scribenda dictavit.  
+      <lb ed="#C" n="25"/>Si magni cuiusdam viri susceptis epistolis legeremus verba, eaque quo calamo 
+      <lb ed="#C" n="26"/>essent scripta, quaereremus, ridiculum profecto esset, si non epist olarum 
+      autho<lb ed="#C" n="27" break="no"/>rem scire, sensumque cognoscere, sed quali calamo earum verba impressa fuerint, 
+      <lb ed="#C" n="28"/>indagare studeremus. Cum igitur authorem huius Epistolae esse Spiritum 
+      <lb ed="#C" n="29"/>sanctum intelligamus; &amp; supervacaneum est, tam anxie ac curiose de 
+      <lb ed="#C" n="30"/>calamo quaerere, &amp; sine certo argumento aliquid affirmare, temeratium. 
+      </p>
+            <p xml:id="wWpoi1-de7042-d1e301">
+               <lb ed="#C" n="31"/>Sunt vero etiam Apocrypha, opinione ac confessione omnium, illa 
+      <lb ed="#C" n="32"/>adulterina tam multa Evangelia, Thomae, Andreae, Nicodemi, 
+      Nazarae<lb ed="#C" n="33" break="no"/>orum, &amp;c. de quibus apud Gratianum, Distinct. 15. cap. Sancta Romana. 
+      <lb ed="#C" n="34"/>legimus. Ista nunc non extant, etsi olim legebantur, &amp; magni a multis 
+      <lb ed="#C" n="35"/>aestimabantur. Sed ita Dominus Ecclesiae suae consuluit, vt veris 
+      Evan<lb ed="#C" n="36" break="no"/>gelijs perpetuo salvis, illa commentitia penitus interciderint. Praeterea 
+      <lb ed="#C" n="37"/>Apocrypha illa est quae citcumfertur ad Laodicenses Epistola, de qua 
+      <lb ed="#C" n="38"/>Hieronymus in Catal. in Paulo, Legunt quidam ad Laodicenses, sed ab 
+      <!--86.xml-->
+      <pb ed="#L" n="77"/>
+               <lb ed="#C" n="1"/>omnibus exploditur. Et Patres Nicenae synod. 2. Act. 6. Inter Epistolas 
+      <lb ed="#C" n="2"/>(inquiunt) Apostoli quaedam fertar ad Laodicenses, quam Patres nostri, 
+      tan<lb ed="#C" n="3" break="no"/>quam alienam reprobaverunt. Et nescio vnde illa nata fuerit opinio de 
+      <lb ed="#C" n="4"/>Epistola illa, nisi forte ex errore vitioque Latinae versionis, Colos. 4. 16. 
+      <lb ed="#C" n="5"/>Nam vulgata versio habet, &amp; illa quae est Laodicensium, quasi fuisset 
+      ali<lb ed="#C" n="6" break="no"/>qua ad Laodicenses a Paulo scripta. Latina enim verba ambigua sunt,  
+      <lb ed="#C" n="7"/>&amp; eo modo intelligi possunt. Sed textus Graecus hanc suspicionem 
+      sta<lb ed="#C" n="8" break="no"/>tim removet, χτιν ἐκ λαοικείας. Ergo haec epistola, de qua nunc meminit  
+      <lb ed="#C" n="9"/>Paulus, qualiscunque tandem fuerit, non ad Laodicenses, sed ex 
+      Laodi<lb ed="#C" n="10" break="no"/>cea scripta est: quod &amp; Graeci omnes interpretes observarunt.  
+      </p>
+            <p xml:id="wWpoi1-de7042-d1e348">
+               <lb ed="#C" n="11"/>Est etiam liberHermae, qui &amp; Pastor vocatur, quem laudat 
+      Hierony<lb ed="#C" n="12" break="no"/>mus in Catal. in Herma: hunc quoque Apocryphum esse concedunt 
+      Pa<lb ed="#C" n="13" break="no"/>pistae, sed ita vt Canonicus iudicari fierique possit ab Ecclesia. Sic enim 
+      <lb ed="#C" n="14"/>Stapletonus de hoc libro scribit, Lib. 9. cap. 24. Doctrinal. Princip. &amp; 
+      de<lb ed="#C" n="15" break="no"/>Clementis constitutionibus idem affirmat. Nec vero mirum, cum 
+      Gra<lb ed="#C" n="16" break="no"/>tianus ex Augustini loco, quem ipse turpissime atque impudentissime 
+      <lb ed="#C" n="17"/>deptavavit, epistolas decretales connumerati inter Scripturas 
+      Canoni<lb ed="#C" n="18" break="no"/>cas asserat, Dist. 19. Quam intollerandam corruptelam huius 
+      consar<lb ed="#C" n="19" break="no"/>cinatoris Alphonsus de Castro, Lib. 1. cap. 2. contra haeres. &amp; 
+      Andra<lb ed="#C" n="20" break="no"/>dius Lib. 3. Defens. Trid. agnoscunt atque improbant. Tamen adhuc 
+      Pa<lb ed="#C" n="21" break="no"/>pistae aliqui sunt, qui in eadem impudentia &amp; blasphemia persistunt.  
+      <lb ed="#C" n="22"/>Nam alius quidam Alphonsus de Guerero huius loci testimonium 
+      ad<lb ed="#C" n="23" break="no"/>ducit, vt epistolas decretales Pontificum Romanorum sacris 
+      Scriptu<lb ed="#C" n="24" break="no"/>ris aequales esse confirmet, cuius haec verba sunt in Thesauro Christiane 
+      <lb ed="#C" n="25"/>Religionis, cap. 3. num. 5. Et decretales epistola vim authoritatis habent, 
+      <lb ed="#C" n="26"/>&amp; in Canonicis Scripturis decretales epistoiae connumerantur. Et <ref xml:id="wWpoi1-de7042-Rd1e384">
+                  <name xml:id="wWpoi1-de7042-Nd1e386">Iohannes 
+      <lb ed="#C" n="27"/>de Turre Cremota</name>, Lib. 4. p. 2. cap. 9. de Ecclesia</ref>, &amp; <name xml:id="wWpoi1-de7042-Nd1e393">Caietanus</name> in Lib. 
+      <lb ed="#C" n="28"/>de primatu Papae, hoc corrupto loco <name xml:id="wWpoi1-de7042-Nd1e398">Gratiani</name> vtuntur, vt authoritatem 
+      <lb ed="#C" n="29"/>&amp; primatum Pontificis Romani comprobent. Ita novi Testamenti 
+      <lb ed="#C" n="30"/>volumen praeclaris accessionibus augebitur, si omnes Pontificum 
+      epi<lb ed="#C" n="31" break="no"/>stolae decretales sacris Scripturis accenseantur: Sed locum Augustini
+      <lb ed="#C" n="32"/>inspicite, Lib. 2. cap. 8. de Doct. Christ. Et vel inscitiam, vel fraudem 
+      <lb ed="#C" n="33"/>manifestam agnoscite istius <name xml:id="wWpoi1-de7042-Nd1e412">Gratiani</name>. Nullum enim Augustinus de 
+      e<lb ed="#C" n="34" break="no"/>pistolis decretalibus, aut Pontificibus Romanis, verbum fecit, &amp; totius 
+      <lb ed="#C" n="35"/>sententiae scopus alio spectat. Sed primam nos quaestionem, de libris 
+      <lb ed="#C" n="36"/>Canonicis institutam, nunc absolvimus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

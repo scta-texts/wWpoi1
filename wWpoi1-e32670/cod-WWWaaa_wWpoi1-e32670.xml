@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 10</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 10</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="354"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e32670"><!-- con1q5c10 -->
+            <head xml:id="wWpoi1-e32670-Hd1e106">Caput 10</head>
+            <p xml:id="wWpoi1-e32670-d1e109">
+               <lb ed="#C" n="8"/>CAPNT DECIQUU 
+      <lb ed="#C" n="9"/>Argumenta Adversariorum in genere contra haec 
+      <lb ed="#C" n="10"/>media diluantur.
+    </p>
+            <p xml:id="wWpoi1-e32670-d1e118">
+               <lb ed="#C" n="11"/>QVID? num ista nostri Adversarij improbant? Non omnino: sed J 
+      <lb ed="#C" n="12"/>nec omnino recipiunt. <name xml:id="wWpoi1-e32670-Nd1e124">Stapletonus</name>, Lib. 11. C.9. ait haec 
+      plu<lb ed="#C" n="13" break="no"/>rimum conducere, sed non firma, non certa esse, non semper valere, &amp; 
+      <lb ed="#C" n="14"/>decipi aliquando, qui Scripturas isto modo interpretari volunt: quod ille 
+      <lb ed="#C" n="15"/>multis argumentis, contra haec media adductis, persuadere ac 
+      demon<lb ed="#C" n="16" break="no"/>strare conatur. Ea nunc breviter, atque ad institutae dispurationis 
+      ratio<lb ed="#C" n="17" break="no"/>nem accommodate, diluemus. In illo capite tribus argumentis nostra 
+      <lb ed="#C" n="18"/>media labefactat.  
+      </p>
+            <p xml:id="wWpoi1-e32670-d1e141">
+               <lb ed="#C" n="19"/>Primum est, Nostra haec media subjici mediis, quae ipsi ponunt: ea 
+      ve<lb ed="#C" n="20" break="no"/>to sunt (vt postaudietis) Regula fidei, Praxis Ecclesiae, Batrum 
+      consenti<lb ed="#C" n="21" break="no"/>ens sententia, Conciliorum definita interpretatio. Nisi enim regulae fidei, 
+      <lb ed="#C" n="22"/>alijsque medijs a se constitutis conveniant, nec iusta sunt, nec salutaria. 
+      <lb ed="#C" n="23"/>Respondeo: primo, &amp; concedo nostra omnia debere ad fidei regulam 
+      ac<lb ed="#C" n="24" break="no"/>commodari, nec ab ea transversum vnguem discedere. Sed quaenam? 
+      <lb ed="#C" n="25"/>haec regula est? De hac omni re post dicemus. Interim affirmamus 
+      re<lb ed="#C" n="26" break="no"/>Sgulam fidei non aliam esse, quam perpetuam constantemque Scripturae 
+      <lb ed="#C" n="27"/>sententiam, quae in omni interpretatione Scripturae praecipue spectanda: 
+      <lb ed="#C" n="28"/>est. Hoc medium nos ipsi posuimus: eique omnes omnium 
+      interpretati<lb ed="#C" n="29" break="no"/>ones debere esse per omnia consentientes dicimus. Quae non sunt cum 
+      <lb ed="#C" n="30"/>hac regula coniuncta, pro legitimis non habemus. Sed hanc Regulam 
+      <lb ed="#C" n="31"/>St apletonus non vult in Scripturis inclusum esse, vt postea patebis, 
+      ubiae<lb ed="#C" n="32" break="no"/>tiam plura de hac re respondebo. Secundo, praxin Ecclesiae esseincertam, 
+      <lb ed="#C" n="33"/>ac mutabilem, ac saepe vitiosam, Patrum consentientem sententiam, aut 
+      <lb ed="#C" n="34"/>Conciliorum definitam interpretationem verbo jactari ac venditari, re 
+      <lb ed="#C" n="35"/>nonostendi. Nec Patres interpretantur Scripturas omnes ad vnam 
+      ean<lb ed="#C" n="36" break="no"/>demque normam, nec Concilia controversias omnos definierunt, &amp; re¬ 
+      <!--364.xml-->
+      <pb ed="#L" n="355"/>
+               <lb ed="#C" n="1"/>centiores Patres, ac posteriora Concilia ab antiquioribus multum 
+      dissi<lb ed="#C" n="2" break="no"/>dent. Tertio, praxin Ecclesiae, Patrum sententias, Conc iliorum 
+      definiti<lb ed="#C" n="3" break="no"/>ones ad Scripturam exigi debere, non contra. Quare praeposterum est, 
+      <lb ed="#C" n="4"/>Scripturas ex illis interpretati, cum illa sint ex Scripturis iudicanda. 
+      </p>
+            <p xml:id="wWpoi1-e32670-d1e196">
+               <lb ed="#C" n="5"/>Secundum est, Haec nostra esse omnibus haereticis, &amp; Iudaeis, &amp; 
+      paga<lb ed="#C" n="6" break="no"/>nis communia, sua vero Catholicis atque Orthodoxis propria. 
+      Respon<lb ed="#C" n="7" break="no"/>deo: Si hic sensus sit, omnes his posse mediis vti, agnosco quod positum 
+      <lb ed="#C" n="8"/>est in argumento: Nam media interpretandae Scripturae debent 
+      eiusmo<lb ed="#C" n="9" break="no"/>di esse, vt non sint propria certorum hominum, sed aperta, atque 
+      pub<lb ed="#C" n="10" break="no"/>lica. Sin hic sensus sit, haereticos his mediis vtentes posse suas haereses ex 
+      <lb ed="#C" n="11"/>Scripturis confirmare, falsissimum est. Atque aut hic sensus est, aut ad 
+      <lb ed="#C" n="12"/>rem nihil affert Stapletonus. Sed haeretici si vellent his mediis vti 
+      legiti<lb ed="#C" n="13" break="no"/>me, suas haereses in Scripturis damnari perspicerent, &amp; ludaei ac pagani 
+      <lb ed="#C" n="14"/>similiter nostris Scripturis suas impias ac profanas opiniones refutari 
+      in<lb ed="#C" n="15" break="no"/>telligerent. Si vero sensit Stapletonus, quod videtur, haec media favere 
+      <lb ed="#C" n="16"/>haereticis, aut eis aliquid afferre subsidij ad suas partes tuendas, magna 
+      <lb ed="#C" n="17"/>indignaque contumelia Scripturas afficit, quasiessent in vlla causa 
+      hae<lb ed="#C" n="18" break="no"/>reticis, quam Catholicis, aequiores. Scripturae vero sunt Catholicorum 
+      <lb ed="#C" n="19"/>praesidia ac propugnacula, haereticonim omnium crux atque exitium. 
+      <lb ed="#C" n="20"/>Quare medijs illis haeretici vti quidem possunt: sed si legitime vtantur,  
+      <lb ed="#C" n="21"/>aut non erunt, qui fuerant, haeretici; aut erunt prorsus αυτρκατακριτοι. 
+      Im<lb ed="#C" n="22" break="no"/>mo si haereticis aliter, quam ex Scripturis, interpretari Scripturas liceret,  
+      <lb ed="#C" n="23"/>multo se facilius probabiliusque defenderent, quam vnquamhactenus. 
+      <lb ed="#C" n="24"/>facere potuerunt. 
+      </p>
+            <p xml:id="wWpoi1-e32670-d1e243">
+               <lb ed="#C" n="25"/>Tertium est, Nostra esse humana, sua divina: quia Ecclesia non potest: 
+      <lb ed="#C" n="26"/>in fide aut praxi publica errare damnabiliter. Respondeo. Si humana 
+      di<lb ed="#C" n="27" break="no"/>cuntur, quia iis homines ytuntur, hoc modo esse humana fateor: &amp; sic 
+      <lb ed="#C" n="28"/>illorum quoque non alia, quam humana, media sunt. Sin humana ea 
+      Sta<lb ed="#C" n="29" break="no"/>pletonus appellat, quasi in iis nil, nisi industria quaedam humana 
+      requi<lb ed="#C" n="30" break="no"/>ratur, vehementer errat. Nam cum his mediis coniungi nec essano 
+      de<lb ed="#C" n="31" break="no"/>bet magisterium Spiritus sancti, sine quo semper inutilem in Scripturis 
+      <lb ed="#C" n="32"/>discendis operam ponemus, Ideo diximus ante omnia precandum 
+      <lb ed="#C" n="33"/>esse, vteam inscrutandis Scripturis viam teneamus, quaerectissima sit,  
+      <lb ed="#C" n="34"/>vique nobis semper Spiritus sanctus suum lumen ostendat, facemque 
+      <lb ed="#C" n="35"/>clarissimam praeferat. Sed Adversatiorum vere humana media sunt. Nam 
+      <lb ed="#C" n="36"/>praxis Ecclesiae est consuetudo hominum; Patrum sententia est 
+      opinio<lb ed="#C" n="37" break="no"/>hominum; Concilij definito est iudicium hominum, Papae decretum. 
+      <lb ed="#C" n="38"/>est voluntas hominis, idque vnius. Sed Ecclesia(inquiunt) nonerrat: Pa¬ 
+      <!--365.xml-->
+      <pb ed="#L" n="356"/>
+               <lb ed="#C" n="1"/>pa non errat. Utrumque esse falsum, suo loco docebimus. Nos 
+      Scriptu<lb ed="#C" n="2" break="no"/>tam non errare scimus, ideoque eam interpretationem verissimam esse 
+      <lb ed="#C" n="3"/>iudicamus, quae cum Scripturis congruit. Quid nobis cum Ecclesiis, aut 
+      <lb ed="#C" n="4"/>Conciliis, aut Papis, nisi quae definiunt, Scripturis consentanea esse 
+      do<lb ed="#C" n="5" break="no"/>ceant? Nos Ecclesiam non errare vnde ac cepimus? &amp; quam hanc 
+      tan<lb ed="#C" n="6" break="no"/>dem Ecclesiam esse dicemus? Hic certe nihil invenies, nisi humanum, ac 
+      <lb ed="#C" n="7"/>proinde incertum, minimeque tutum, 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

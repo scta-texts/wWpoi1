@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="201"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e18576"><!-- con1q3c2 -->
+            <head xml:id="wWpoi1-e18576-Hd1e106">Caput 2</head>
+            <p xml:id="wWpoi1-e18576-d1e109">
+               <lb ed="#C" n="6"/>CAPVT SECVNDVMA
+      <lb ed="#C" n="7"/>Quanta tum a Papiliis, tum a nobis, Ecclesiae erga¬ 
+      </p>
+            <p xml:id="wWpoi1-e18576-d1e116">
+               <lb ed="#C" n="8"/> 
+               <lb ed="#C" n="9"/>REstat iam ve ad Papistarum argumenta accedamus. Sed prius 
+      <lb ed="#C" n="10"/>Rexplicandum est, quantam Ecclesia authoritatem, tum illorum, 
+      <lb ed="#C" n="11"/>tum nostra opinione, erga Scripturam exerceat. Ex omnibus Pontifi¬ 
+      <lb ed="#C" n="12" break="no"/>cijs Stapletonus acutissime hanc Quaestionem pertractavit: eum ergo 
+      <lb ed="#C" n="13"/>potissimum in hac causa examinabimus. Is 9. Lib. Doctrinal. Princip. 
+      <lb ed="#C" n="14"/>22. Cap. distinctione quadam vtitur, quam a Cocleoaccepit. Ait igitur,  
+      <lb ed="#C" n="15"/>quemadmodum ante attigimus, Scripturam dupliciter 
+      consideran<lb ed="#C" n="16" break="no"/>dam esse, nempe quoad se, &amp; quoad nos. Quoad se, &amp; ex se, ex authore 
+      <lb ed="#C" n="17"/>suo semper sacram esse dicit, sive ab Ecclesia acceptetur, sive non 
+      accepte<lb ed="#C" n="18" break="no"/>tur. Licet enim (inquit) repudiare nunquam potest Ecclesia 
+      Scriptu<lb ed="#C" n="19" break="no"/>ram, quia a Deo profecta est, tamen aliquam Scripturae partem non 
+      <lb ed="#C" n="20"/>acceptare aliquando potest. Sed quid quaeso interest inter non acceptare 
+      <lb ed="#C" n="21"/>ac repudiare? plane nihil. Qui enim Deum non acceptat, is cum 
+      repudi<lb ed="#C" n="22" break="no"/>at: &amp; sic quidem Ecclesia Scripturas illas, quas non acceptavit olim, 
+      <lb ed="#C" n="23"/>plane repudiavit. Quaero enim quare eas non acceptaverit? ratio 
+      certe<lb ed="#C" n="24" break="no"/>haec fuit, quia eas adulterinas esse iudicavit, in quo sane falli potuit. Sed  
+      <lb ed="#C" n="25"/>pergit Stapletonus, &amp; ait Ecclesia iure suo posse aliquos aliquando libros 
+      <lb ed="#C" n="26"/>non ac ceptare, &amp; ostendit dogmata quaedam a recentioribus Ecclesus. 
+      <lb ed="#C" n="27"/>iam acceptari, quae prius acceptata non fuerunt; quae si iam quisquam 
+      re<lb ed="#C" n="28" break="no"/>pudiare vellet post Ecclesiae acceptationem, eum haereticum jure 
+      opti<lb ed="#C" n="29" break="no"/>mo dici &amp; existimari debere. At affirmo nulla dogmata, in articulos 
+      fi<lb ed="#C" n="30" break="no"/>dei relata iam esse, quae ab antiqua Ecclesia Apostolorum temporibus. 
+      <lb ed="#C" n="31"/>ac ceptata non fuerint, adeo vt erraverint omnes illae Ecclesiae, quaecunque 
+      <lb ed="#C" n="32"/>prius non eadem ac ceptarent Sed instat ille in quibusdam, &amp; capita 
+      quae<lb ed="#C" n="33" break="no"/>dam in medium profert, quae primo non acceptata fuisse dicit, nempe 
+      <lb ed="#C" n="34"/>dogma De processione Spiritus sancti, De creatione animarum 
+      imme<lb ed="#C" n="35" break="no"/>diate a Deo, De haereticorum Baptismo non iterando. At affirmo 
+      i<lb ed="#C" n="36" break="no"/>terum, dogmata haec omnibus temporibus vim suam habuisse, adeo vesiu 
+      <lb ed="#C" n="37"/>iam sit haereticum illis non assentiri, idem semper haereticum fuerit.  
+      <!--211.xml-->
+      <pb ed="#L" n="202"/>
+               <lb ed="#C" n="1"/>Dogmata enim Scripturarum non mutantur in Evangelio, sed semper ex 
+      <lb ed="#C" n="2"/>aequo necessaria sunt. Eo recidunt omnia, quae affert Stapletonus, vt 
+      osten<lb ed="#C" n="3" break="no"/>dat, eos libros qui antea ab Ecclesia recepti non fuerunt, esse iam ob 
+      ex<lb ed="#C" n="4" break="no"/>ternum tantum Ecclesiae testimonium recipiendos. Subiungit, Ecclesiae 
+      <lb ed="#C" n="5"/>authoritatem respicere Scripturas tantum materialiter; quod explicat,  
+      <lb ed="#C" n="6"/>quia videlicet Ecclesiae iudicio nos obtemperate convenit, &amp; propter 
+      e<lb ed="#C" n="7" break="no"/>ius iudicium Scripturam pro sacra acceptare. Esset autem (inquit) 
+      in<lb ed="#C" n="8" break="no"/>conveniens, si Scripturae, aut aliorum quae creduntur, veritas sic ab 
+      Ec<lb ed="#C" n="9" break="no"/>clesiae iudicio penderet, vt non alitervera esset, nisi Ecclesia approbaret.  
+      <lb ed="#C" n="10"/>Nunc autem (ait) Ecclesia non facit, vt vera sint in se, sed vtpro veris 
+      cre<lb ed="#C" n="11" break="no"/>dantur. Attendite: Scriptura est vera in se, &amp; dogmata Scripturae omnia 
+      <lb ed="#C" n="12"/>vera sunt: sed non constaret nobis ea esse vera, nos non possemus 
+      Scrip<lb ed="#C" n="13" break="no"/>turae credere, nisi Ecclesia Scripturam &amp; Scripturae dogmata approbaret: 
+      <lb ed="#C" n="14"/>Etsi haec vera in se sint, nobis tamen vera non viderentur, a nobis non 
+      <lb ed="#C" n="15"/>crederentur, neque (ut Stapletoni verbo vtar) acceptarentur, nisi propter  
+      <lb ed="#C" n="16"/>Ecclesiae approbationem. Hoc totum est mysterium iniquitatis. Nos 
+      <lb ed="#C" n="17"/>quidem longe aliter, multoque verius. Quod enim Scripturae nobis 
+      eti<lb ed="#C" n="18" break="no"/>am verae sint, id Ecclesiae acceptum referri pernegamus: sed quod  
+      <lb ed="#C" n="19"/>illas nos veras esse credimus, id Spiritus saucti testimonio instinctuque 
+      <lb ed="#C" n="20"/>fieri dicimus. Stapletonum docuit illam blasphemiam Cocleus, in 
+      Li<lb ed="#C" n="21" break="no"/>bro 29. de authoritate Ecclesiae &amp; Scripturae, vbi multa Scripturae loca 
+      <lb ed="#C" n="22"/>colligit, quae homini incredibilia videri possint, quibus ille affirmat 
+      hu<lb ed="#C" n="23" break="no"/>manam imbecillitatem non posse assentiri, nisi Ecclesiae authoritate 
+      <lb ed="#C" n="24"/>confirmentur: Quale est illud, de innumerabili Davidis exercitu; quod  
+      <lb ed="#C" n="25"/>non esse cuiquam credibile probat, ex angustia regionis illius. Ait enim 
+      <lb ed="#C" n="26"/>terram Iudaeorum tantam hominum multitudinem alere ac sustentare 
+      <lb ed="#C" n="27"/>non potuisse: idque demonstrat ex comparatione illius regionis cum 
+      a<lb ed="#C" n="28" break="no"/>lijs nationibus, ostenditque tot millia hominum non esse censa in tota 
+      <lb ed="#C" n="29"/>Republica Romana, quae multo fuit amplior Iudaea. Quomodo potest, 
+      <lb ed="#C" n="30"/>inquit, humanus intellectus his assentiri, cum apud nullos 
+      historiogra<lb ed="#C" n="31" break="no"/>phos, cosmographos, philosophos, oratores, imo ne Poetas ipsos 
+      simi<lb ed="#C" n="32" break="no"/>le quicquam legatur? Quae enim fabula, inquit, Poetarum, uni populo, 
+      <lb ed="#C" n="33"/>nec toti, tantumnumerum ascripsit fortium virorum? Huc numerum 
+      ta<lb ed="#C" n="34" break="no"/>lentorum refert, quae David filio suo Salomoni ad templi aedificationem: 
+      <lb ed="#C" n="35"/>reliquisse dicitur. Hoc etiam incredibile merito videri posse affirmat,  
+      <lb ed="#C" n="36"/>propterea quod David pauper admodum fuit: idque ex eo probare vult, 
+      <lb ed="#C" n="37"/>quod fortunas suas in aulicis, filijs, vxoribus, ac concubinis, quas ille 
+      <lb ed="#C" n="38"/>multas habuit, sustentandis, &amp; in bello etiam, quod illi omni pene vitae 
+      <!--212.xml-->
+      <pb ed="#L" n="203"/>
+               <lb ed="#C" n="1"/>suae tempore perpetuum erat, dissipavit. Unde, inquit, hae opes Davidi, 
+      <lb ed="#C" n="2"/>quas nec Craesus, nec Alexander, nec Augustus habuit? Hac ille in 
+      re<lb ed="#C" n="3" break="no"/>nimium verbosus ac disertus fuit: &amp; multa huiusmodi loca protulit, quae 
+      <lb ed="#C" n="4"/>piget &amp; pudet commemorare. In fine vero concludit hoc modo, 
+      ad<lb ed="#C" n="5" break="no"/>modum egregie, omnia haec non aliter vera credi, quam quia Ecclesia 
+      sic<lb ed="#C" n="6" break="no"/>credit, &amp; sic credere iussit. Nescio ego certe quid iampudentia sit, si haec 
+      <lb ed="#C" n="7"/>non sit. Non haec aliter credi possunt, quam quia Ecclesiatradidit, 
+      credi<lb ed="#C" n="8" break="no"/>que voluit? Quid ergo de caeteris prope infinitis huinsmodi rebus, 
+      qua<lb ed="#C" n="9" break="no"/>rum Scriptura meminit, dicemus? quid de Iscaelitatum transitu 
+      per<lb ed="#C" n="10" break="no"/>mare? quid de Manna? quid de coturnicibus, quibus populus Israeliticus 
+      <lb ed="#C" n="11"/>in deserto opipare pastus est? quid de omnibus Christi mitaculis? quid. 
+      <lb ed="#C" n="12"/>de tota nostra redemptione, de Christi nimirum incarnatione, morte, 
+      <lb ed="#C" n="13"/>resurrectione, ascensione statuemus? Num haec omnia non alio 
+      testimo<lb ed="#C" n="14" break="no"/>nio aut argumento vera esse credemus, quam quia Ecclesia sic statuit? 
+      <lb ed="#C" n="15"/>lmmanis, &amp; digna Cocleo ac Stapletono blasphemia ! Nos haec 
+      credi<lb ed="#C" n="16" break="no"/>mus, veraque esse non dubitamus, non quia modo sic Ecclesia 
+      confir<lb ed="#C" n="17" break="no"/>mavit, sed propter verbi Divini, &amp; Spiritus sancti authoritatem. Eo ergo 
+      <lb ed="#C" n="18"/>recidunt omnia quae dicunt Papistae, vtomnem sacrarum Scripturarum 
+      <lb ed="#C" n="19"/>authoritatem ex Ecclesiae authoritate suspendant, quod tamen ipsi 
+      ne<lb ed="#C" n="20" break="no"/>gant: sed esse hanc illorum sententiam ex his quae dicta sunt facile 
+      con<lb ed="#C" n="21" break="no"/>stat. Subiungit Stapletonus, non magis inconveniens nobis videri 
+      debe<lb ed="#C" n="22" break="no"/>re, vt Ec clesia Scripturam commendet, &amp; ei testimonium perhibeat,  
+      <lb ed="#C" n="23"/>quam fuit inconveniens, vt Iohannes Baptista testimonium Christo 
+      di<lb ed="#C" n="24" break="no"/>ceret, &amp; vt Evangelium ab hominibus scriberetur. Nos vero confitemur. 
+      <lb ed="#C" n="25"/>Ecclesiam suo testimonio commendare Scripturam, hocque esse 
+      Eccle<lb ed="#C" n="26" break="no"/>siae praeclarum officium: sed longe alia res est, Scripturis non aliter 
+      credi<lb ed="#C" n="27" break="no"/>posse, nisi propter hoc iudicium, testimoniumque Ecclesiae. Illud 
+      con<lb ed="#C" n="28" break="no"/>cedimus, hoc cum summa etiam detestatione pernegamus. 
+      </p>
+            <p xml:id="wWpoi1-e18576-d1e335">
+               <lb ed="#C" n="29"/>Quantum illi Ecclesiae tribuant, accepimus: Iamsequitur, vt quid 
+      re<lb ed="#C" n="30" break="no"/>vera Ecclesiae tribuendum sit, confideremus. Nos quidem non tantum 
+      <lb ed="#C" n="31"/>Ecclesiae tribuimus, quantum illi (neque enim id fas est) sed tamen 
+      offi<lb ed="#C" n="32" break="no"/>cia Ecclesiae egregia erga Scripturas multa agnoscimus, quae ad quatuor  
+      <lb ed="#C" n="33"/>capita revocantur. Primum: Ecclesia testis est &amp; custos sacrarum 
+      litera<lb ed="#C" n="34" break="no"/>rum, atque hac quidem in re instar tabellionis obtinet. In custodibus 
+      <lb ed="#C" n="35"/>summa fides requititur: nemo tamen dicet ob tabellionis tantum 
+      autho<lb ed="#C" n="36" break="no"/>ritatem tabulis credi, sed propter ipsarum dignitatem. Sic Ecclesia 
+      Scri<lb ed="#C" n="37" break="no"/>pturas fideliter custodite debet, nec tamen Scripturis propter Ecclesiae 
+      <lb ed="#C" n="38"/>duntaxat testimonium atque authoritatem fidem adhibemus. Secun¬ 
+      <!--213.xml-->
+      <pb ed="#L" n="204"/>
+               <lb ed="#C" n="1"/>dum Ecclesiae officium est, vt veras, germanas, ac genuinas Scripturas, 
+      <lb ed="#C" n="2"/>a falsis, supposititiis, ac adulterinis dijudicet ac discernat. Qua quidem 
+      <lb ed="#C" n="3"/>in re fungitur officio vindicis, &amp; ad hoc munus obeundum habet 
+      Spiri<lb ed="#C" n="4" break="no"/>tum Christi, quo verum a falso possit distinguere: novit vocem sponsi sui, 
+      <lb ed="#C" n="5"/>iudicio summo pollet, &amp; potest Spiritus dijudicare. Aurifex statera aut 
+      <lb ed="#C" n="6"/>lapide autum a cupro atque aliis metallis dijudicare potest: in quo non 
+      <lb ed="#C" n="7"/>autum ille facit, ne nobis quidem: tantum esse autum indicat, &amp; nos 
+      fa<lb ed="#C" n="8" break="no"/>cilius credimus. Vel si aliud exemplum desideretur, nummum, quem 
+      <lb ed="#C" n="9"/>non agnosco, alius peritus esse bonum ac legitimum docet: iam ego 
+      <lb ed="#C" n="10"/>monitus acquiesco, sed proptermateriam atque formam in nummo 
+      <lb ed="#C" n="11"/>impressam nunc esse rectum &amp; regium intelligo. Similiter Ecclesia 
+      Scri<lb ed="#C" n="12" break="no"/>pturas agnoscit, &amp; divinas esse praedicat: nos moniti &amp; excitati ab 
+      Ec<lb ed="#C" n="13" break="no"/>clesia sic se rem habere perspicimus. Et tamen non hoc iundicium omnes 
+      <lb ed="#C" n="14"/>perinde Ecclesiae habent. Tertium Ecclesiae officium est, Scripturas 
+      di<lb ed="#C" n="15" break="no"/>vulgare, proponere, praedicare, promulgare: qua in re fungitur officio 
+      prae<lb ed="#C" n="16" break="no"/>conis, qui debet alta voce decreta atque edicta regis pronunciare, nihili 
+      <lb ed="#C" n="17"/>praetermittere, nihil mutare, nihil de suo addere, Chrysostomus in 
+      i<lb ed="#C" n="18" break="no"/>Homil. in Epist. ad Titum hanc similitudinem perse quitur, dep (inquit)  
+      <lb ed="#C" n="19"/>οκηρυγ παγτον παρογτον ἐν τῳ θεαζῳχηρθτη, ευτκαι ημεις: vbi ostendit hanc 
+      <lb ed="#C" n="20"/>praeconis virtutem esse, vt omnia quae accepit, afferat, &amp; nihil de suo 
+      ad<lb ed="#C" n="21" break="no"/>dat, nihil detrahat. Iam vero magistratuum edictis populus credit &amp; 
+      ob<lb ed="#C" n="22" break="no"/>temperat, propter se, non propter praeconis vocem. Quartum Ecclesiae 
+      <lb ed="#C" n="23"/>officium est, Scripturas exponere ac interpretari: qua in re fungitur 
+      offi<lb ed="#C" n="24" break="no"/>cio interpretis. Nihil autem debet de suo comminisci, sed Scripturas 
+      ex<lb ed="#C" n="25" break="no"/>Scripturis explicare. Haec sane magna sunt inprimis &amp; ampla Ecclesiae 
+      <lb ed="#C" n="26"/>munera, quae nos illi libenter concedimus: ex quibus tamen minime 
+      se<lb ed="#C" n="27" break="no"/>quetur, nos propter Ecclesiae tantum authoritatem Scripturis assentiri, 
+      <lb ed="#C" n="28"/>quod Papistae volunt, &amp; defendunt. Atque ex his, quae sint Ecclesiae 
+      er<lb ed="#C" n="29" break="no"/>ga Scripturam officia, iuxta &amp; nostram &amp; Papistarum opinionem, satis 
+      <lb ed="#C" n="30"/>constat.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

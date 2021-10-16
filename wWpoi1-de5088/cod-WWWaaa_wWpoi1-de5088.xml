@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="53"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-de5088"><!-- con1q1c9 -->
+            <head xml:id="wWpoi1-de5088-Hd1e106">Caput 9</head>
+            <p xml:id="wWpoi1-de5088-d1e109">
+               <lb ed="#C" n="23"/>CAPI 
+      <lb ed="#C" n="24"/>eaaaλγaa
+    </p>
+            <p xml:id="wWpoi1-de5088-d1e116">
+               <lb ed="#C" n="25"/>AD istarum partium confirmandam authoritatem nullum 
+      Papi<lb ed="#C" n="26" break="no"/>Dstae peculiare argumentum proferre possunt. Nam quod 
+      asse<lb ed="#C" n="27" break="no"/>runt, Patres ex his citare testimonia, vt ex aliis, &amp; haec Scripturae 
+      testi<lb ed="#C" n="28" break="no"/>monia vocare, infirmum est, vt diximus. Citant quidem, &amp; Scripturas 
+      <lb ed="#C" n="29"/>vocant, sed Canonicas esse Scripturas non affirmant, quales sunt 
+      Mo<lb ed="#C" n="30" break="no"/>sis &amp; Prophetarum libri. Dicuntur Scripturae, quia in Ecclesia publice 
+      <lb ed="#C" n="31"/>legebantur, vt inde morum honesta exempla populus sumeret, &amp; quia 
+      <lb ed="#C" n="32"/>omnium tractatorum libris, vt Augustinus quodam in loco ait, 
+      praefe<lb ed="#C" n="33" break="no"/>rebantur. Sed hoc quidem longe abest vt evincat parem essc harum 
+      <lb ed="#C" n="34"/>partium, &amp; reliqui huius libri, qui vere Canonicus est, authoritatem. 
+      <lb ed="#C" n="35"/>Nunc igitur pauca dicamus de Hymno illotrium puetorum, qui in 
+      finci<lb ed="#C" n="36" break="no"/>tertij cap. poni &amp; censeri solitus est: de Susannae, Belis, Draconisque 
+      <!--63.xml-->
+      <pb ed="#L" n="54"/>
+               <lb ed="#C" n="1"/>historia, quae in vulgatis Bibliis cum Danielis Prophetia conjungitur,  
+      <lb ed="#C" n="2"/>ejusque pars esse dicitur. Verum haec omnia esse spuria &amp; Apocrypha, 
+      <lb ed="#C" n="3"/>veris firmisque argumentis demonstrabo. 
+      </p>
+            <p xml:id="wWpoi1-de5088-d1e155">
+               <lb ed="#C" n="4"/>Primum ergo Hieronymum de his partibus audiamus suum 
+      iudici<lb ed="#C" n="5" break="no"/>lum diserte pronunciantem. Sic enim in Prooemio in Danielem, &amp; 
+      in<lb ed="#C" n="6" break="no"/>Praefat. in commentarijs ad Danielem, habet: Danielapud Hebraeos nec 
+      <lb ed="#C" n="7"/>Susanna habet historiam, nec hymnum trium puerorum, nec Belis Draconisque.  
+      <lb ed="#C" n="8"/>fabulas, quas nos, quia in toto orbe dispersae sunt, veru anteposito, eoque iugulante, 
+      <lb ed="#C" n="9"/>subiecimus, ne videremur apud imperitos magnam partem voluminis 
+      detrun<lb ed="#C" n="10" break="no"/>casse. Ex his Hieronymi verbis colligimus, primo, horum nihil in 
+      He<lb ed="#C" n="11" break="no"/>braicis libris inveniri, quod satis arguit esse adulterina. Secundo, haec 
+      <lb ed="#C" n="12"/>visa esse Hieronymo digna veru, eoque iugulante, quo solitus erat a 
+      Ca<lb ed="#C" n="13" break="no"/>nonicis Apocrypha distinguere. Tertio, haec cum eiusmodi essent, 
+      vul<lb ed="#C" n="14" break="no"/>gata tamen &amp; lecta passum fuisse. Quarto, se haec omnino 
+      praetermissu<lb ed="#C" n="15" break="no"/>rum fuisse, nisi quorundam calumnias metueret. Quinto, imperitos 
+      es<lb ed="#C" n="16" break="no"/>se, qui has vllas Danielis partes esse arbitrentur.  
+      </p>
+            <p xml:id="wWpoi1-de5088-d1e186">
+               <lb ed="#C" n="17"/>Secundum, lohannes Driedo, Lib. 1. cap. vit. de Catal. Scripturae, non 
+      <lb ed="#C" n="18"/>ait hanc esse historiam Canonicam, sed non centemnendam: &amp; qui 
+      cre<lb ed="#C" n="19" break="no"/>dit esse veram, non perniciose falli: vt legimus (inquit) gesta Martyrum, 
+      <lb ed="#C" n="20"/>ex quibus non sumimus argumenta, ad ea quae sunt fidei. Quam praeclare 
+      at<lb ed="#C" n="21" break="no"/>que honorifice de hac historia Papistae ipsi iundicent, videtis. Ne nos 
+      qui<lb ed="#C" n="22" break="no"/>dem de hoc genere scriptorum abjectius sentire possumus. Sed vidit 
+      e<lb ed="#C" n="23" break="no"/>ruditus theologus non posse melius de his fragmentis indicari, cum non 
+      <lb ed="#C" n="24"/>in Hebraicis &amp; sacris Scripturae voluminibus reperiantur, sed e 
+      Grae<lb ed="#C" n="25" break="no"/>ca The odotionis, hominis nequam &amp; perfidi, transiatione sumantur.  
+      </p>
+            <p xml:id="wWpoi1-de5088-d1e209">
+               <lb ed="#C" n="26"/>Tertium, Πaρωνομασια illa, de qua Hieronymus in Praefatione 
+      Danie<lb ed="#C" n="27" break="no"/>lis, ὑο σοχενσ χισει, κ το πριναν ανίσει, scriptam hanc esse Graece, non 
+      He<lb ed="#C" n="28" break="no"/>braice, historiolam convincit. Interrogavit Daniel alterum ex 
+      indici<lb ed="#C" n="29" break="no"/>bus, sub qua arbore Susannam cum adultero invenisset: is respondit, 
+      sub<lb ed="#C" n="30" break="no"/>γνο: tum Daniel statim ad nomen arboris alludens, χσει σε (inquit) o θeόs. 
+      <lb ed="#C" n="31"/>Deinde, ad alterum accedit, quaeritque sub qua arbore Susannam vidisset. 
+      <lb ed="#C" n="32"/>tam turpe facinus perpetrantem: ille aliam arborem nominat, &amp; 
+      sub<lb ed="#C" n="33" break="no"/>ivs ait. Tum Daniel simili allusione vtens, sententiam infert, αiσει σεο 
+      <lb ed="#C" n="34"/>Seoς. Haec Graeca etymologia (sic enim ab Hieronymo vocatur) 
+      osten<lb ed="#C" n="35" break="no"/>dit historiam ipsam esse Graeco sermone scriptam. Nam in nominibus. 
+      <lb ed="#C" n="36"/>verbisque Hebraicis talem non invenies. Ergo non fuit scripta a Daniele, 
+      <lb ed="#C" n="37"/>aut aliquo Propheta. Papistae objiciunt, huic argumento olim 
+      respon<lb ed="#C" n="38" break="no"/>sum esse ab Origene in Epistola ad Iulium Africanum, cuius Eusebius in 
+      <!--64.xml-->
+      <pb ed="#L" n="55"/>
+               <lb ed="#C" n="1"/>historia meminit; nimirum fuisse nomina in Hebraeo, quorum 
+      manife<lb ed="#C" n="2" break="no"/>sta esset allusio, interpretem vero Graecum mutasse nomina, vt illam 
+      al<lb ed="#C" n="3" break="no"/>lusionem imitaretur. Sed ista conjectura nihil est levius aut futilius. 
+      <lb ed="#C" n="4"/>Nam primo, etsi fateor Origenem hac de re olim ad lulium Africanum. 
+      <lb ed="#C" n="5"/>scripsisse, tamen quid scripserit ignotum est. Nam libellus ille, qui 
+      nu<lb ed="#C" n="6" break="no"/>per hac de re prodiit, nondum nactus est fidem satis luculentam. 
+      De<lb ed="#C" n="7" break="no"/>inde, quaenam illa sunt Hebraica nomina arborum, ex quibus illa 
+      allusio<lb ed="#C" n="8" break="no"/>nascatur? Hic omnino haereant necesse est. Tertio, Spiritus sanctus non 
+      <lb ed="#C" n="9"/>solet huiusmodi novitatem nominum affectare, aut vim rebus inferre, 
+      <lb ed="#C" n="10"/>aut nomina mutare, praesertim cum criminis refutatio ex ipsa nominum 
+      <lb ed="#C" n="11"/>varietate pedeat. Si enim illi respondeant, visam a se Susannam esse sub 
+      <lb ed="#C" n="12"/>quercu aut ficu, sic rem narrari, vt sublentisco aut ilice dixerint, non 
+      o<lb ed="#C" n="13" break="no"/>portuit, quia falsum est. Ad convincendam horum iudicum 
+      calumni<lb ed="#C" n="14" break="no"/>am, necesse fuit ipsa nomina arborum servari. Quarto, quam haec solida 
+      <lb ed="#C" n="15"/>fuerit falsi criminis convictio, non intelligo, vt quia diversae arbores 
+      no<lb ed="#C" n="16" break="no"/>minatae erant a iudicibus, proinde falso accusatam esse Susannam 
+      con<lb ed="#C" n="17" break="no"/>staret. Dicerent enim seid non curasse, quae arbor esset: ergo falli facile 
+      <lb ed="#C" n="18"/>potuisse. Qui erant tam impij ad excogitandum crimen, in arguendo 
+      <lb ed="#C" n="19"/>tam hebetes non fuissent. Postremo, quando Origenem nobis in hac 
+      <lb ed="#C" n="20"/>causa tam saepe objiciunt, attendant quid de illo Hieronymus in 
+      Prae<lb ed="#C" n="21" break="no"/>fat, in Danielem scripserit. Et miror(inquit) quosdam μαμγιμωίρας mihi 
+      in<lb ed="#C" n="22" break="no"/>dignari, quasiego detruncaverim librum: cum &amp; Origenes &amp; Eusebius, &amp; 
+      Apo<lb ed="#C" n="23" break="no"/>Slinarius, alijque Ecclesiastici viri &amp; Doctores Graeciae has, vt dixi, visiones 
+      non<lb ed="#C" n="24" break="no"/>haberi apud Hebraeos fateantur, nec se debere respondere Porphyrio pro his, quae 
+      <lb ed="#C" n="25"/>nullam Scripturae sacrae authoritatem habeant. Si verum est quod 
+      Hiero<lb ed="#C" n="26" break="no"/>nymus de Origene scribit, nihil est quod huius historiae patronum 
+      O<lb ed="#C" n="27" break="no"/>rigenem appellent. Nam Origenes cum alijs authoribus Grecis diserte 
+      <lb ed="#C" n="28"/>affirmavit, si credimus Hieronymo, haec non haberi apud Hebraeos, nec 
+      <lb ed="#C" n="29"/>habere authoritatem sacrae Scripturae. Denique, quis ille Daniel 
+      fue<lb ed="#C" n="30" break="no"/>rit, qui propter interfectum Draconem, Belemque sublatum, in 
+      leonum<lb ed="#C" n="31" break="no"/>speluncam detruditur, in eaque sex dies remanere sinitur, Papistae inter 
+      <lb ed="#C" n="32"/>se non consentiunt. Bellarminus postquam omnia diligenter 
+      <lb ed="#C" n="33"/>perpendit, eo deductus tandem est, vt alium, non eundem cum 
+      insigni<lb ed="#C" n="34" break="no"/>illo Propheta, fuisse Danielem existimarit. Nam Daniel ille magnus 
+      <lb ed="#C" n="35"/>Propheta fuit ex tribu luda, quod manifestum est: illum vero Danielem 
+      <lb ed="#C" n="36"/>qui cum Cyrorem habuit, fuisse ex tribu Levi sacerdotem, 
+      Septuaginta<lb ed="#C" n="37" break="no"/>interpretes tradunt, quemadmodum Hieronymus in Praefat. in Daniel. 
+      <lb ed="#C" n="38"/>testatur, &amp; hunc illum Danielem esse, qui Belem Draconemque sustulit,  
+      <!--65.xml-->
+      <pb ed="#L" n="56"/>
+               <lb ed="#C" n="1"/>&amp; sex dies in spelunca leonum servatus esse dicitur, doctiores Papistae 
+      <lb ed="#C" n="2"/>opinantur: sic ista probabiliter defendere nequeunt, nisi novum 
+      quen<lb ed="#C" n="3" break="no"/>dam Danielem contra communem omnium opinionem induc ant. 
+      Un<lb ed="#C" n="4" break="no"/>de autem talem fuisse Danielem intelligemus? Nam quod 
+      septuaginta<lb ed="#C" n="5" break="no"/>inte rpretes de hoc novo Daniele commemorant, quam fidem habeta 
+      <lb ed="#C" n="6"/>Et si quae in hoc C.14 narrantur, non ab illo magno Daniele, sed ab alios 
+      <lb ed="#C" n="7"/>quodam gesta sunt, cur in parte illius Danielis ponuntur? cur illius esse 
+      <lb ed="#C" n="8"/>dicuntur? cur illi tribuuntur? Intelligant ergo omnes Danielem illum, 
+      <lb ed="#C" n="9"/>qui Belem evertit, Draconem dirupit, sex dies in spelunca remansit, 
+      ne<lb ed="#C" n="10" break="no"/>quaquam esse illum eximium Danielem, cuius liber Propheticus 
+      ex<lb ed="#C" n="11" break="no"/>tat, omni authoritate dignus, idque Papistarum confessione; sed alium 
+      <lb ed="#C" n="12"/>quendam ignotum, inauditum, incertum Danielem. Verum nos 
+      nun<lb ed="#C" n="13" break="no"/>quam hactenus plures Prophetas Danieles quam vnum accepimus. 
+      <lb ed="#C" n="14"/>Hunc ergo alterum Danielem dimittamus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

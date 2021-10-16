@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="185"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e17144"><!-- con1q2c18 -->
+            <head xml:id="wWpoi1-e17144-Hd1e106">Caput 18</head>
+            <p xml:id="wWpoi1-e17144-d1e109">
+               <lb ed="#C" n="9"/>CAPTTTIII 
+      <lb ed="#C" n="10"/>Xοstra agionenta, quibus probamis offcia Ecciesiastua 
+      <lb ed="#C" n="11"/>vernacula cuiusque Gentis lingua peragenda esse. 
+    </p>
+            <p xml:id="wWpoi1-e17144-d1e118">
+               <lb ed="#C" n="12"/>NVnc ad nostrae sententiae confirmationem accedamus, 
+      quoom<lb ed="#C" n="13" break="no"/>Qnia illa argumenta, quibus in priore parte vsi sumus, refem possunt.  
+      <lb ed="#C" n="14"/>Nam si Scripturae legendae sint vernacule, certe reliqua vernacule 
+      pera<lb ed="#C" n="15" break="no"/>genda sunt. Sed nos iam peculiaribus tamen ac separatis quibusdam 
+      ar<lb ed="#C" n="16" break="no"/>gumentis in hac causavtemur. Primum vero argumentum nostrum ex 
+      <lb ed="#C" n="17"/>priori Pauli Epistola ad Corinthios, Cap. 14. sumetur; quo capite Paulus 
+      <lb ed="#C" n="18"/>praecipit, vt omnia fiant ad aedificationem populrin Ecclesia, vt nemo. 
+      <lb ed="#C" n="19"/>linguis loquatur peregrinis, sine interprete: Et addit, malle se quinque 
+      <lb ed="#C" n="20"/>verba ex intelligentia sua loqui, vt &amp; alios instituat, quam decem millia 
+      <lb ed="#C" n="21"/>verborum incognita lingua: &amp; totum illud caput in hoc argumento 
+      con<lb ed="#C" n="22" break="no"/>sumitur. Unde constat, Papistarum opinionem cum doctrina Apostolica 
+      <lb ed="#C" n="23"/>pugnare. Sic autem exillo capite contra Papistas ratiocinamur: Si 
+      pre<lb ed="#C" n="24" break="no"/>ces lingua Latina sint vbique populo proponendae, tum populus 
+      ignora<lb ed="#C" n="25" break="no"/>bit ea quae dicentur: At Apostolus hoc prohibet diserte in eo capite: Ergo 
+      <lb ed="#C" n="26"/>non sunt preces publicae lingua Latina vbique celebrandae. Sed 
+      Adver<lb ed="#C" n="27" break="no"/>sariorum ad ista responsionem perpendamus: qui sane mirifice 
+      torquen<lb ed="#C" n="28" break="no"/>tur hoc loco, multaque commenti sunt.  
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e157">
+               <lb ed="#C" n="29"/>Quidam Papistae respondent, non loqui Paulum in eo capite de 
+      Preci<lb ed="#C" n="30" break="no"/>bus, de Officiis, aut de statis Sacris, sed de exhortationibus &amp; 
+      concioni<lb ed="#C" n="31" break="no"/>bus publicis, quas illi fatentur lingua vernacula fieri oportere. Sed 
+      nego<lb ed="#C" n="32" break="no"/>hanc fuisse mentem Apostoli, vt in exhortationibus &amp; concionibus 
+      tan<lb ed="#C" n="33" break="no"/>tum peregrinam linguam prohiberet. Quis enim adeo insanus esset, 
+      vt<lb ed="#C" n="34" break="no"/>concionem apud populum incognita lingua haberet? imo quis vel 
+      spe<lb ed="#C" n="35" break="no"/>rare posset, populum adeo attentum futurum esse, vrpatienter ac 
+      benig<lb ed="#C" n="36" break="no"/>ne horamynamaut plures audiret hominem verba non intellecta 
+      pro<lb ed="#C" n="37" break="no"/>nunciantem? Legimus quosdam olim in Ecclesia concionatos esse per¬ 
+      <!--195.xml-->
+      <pb ed="#L" n="186"/>
+               <lb ed="#C" n="1"/>egrina lingua, sed tamen legimus simul praesto fuisse interpretes. Atqui  
+      <lb ed="#C" n="2"/>haec alia res est, Fateor quidem Apostolum loqui de concionibus: huc 
+      <lb ed="#C" n="3"/>enim spectit illud, quod habetur vers. 29. Prophete duo aut tres, λδριτυσαν,  
+      <lb ed="#C" n="4"/>loquantur, &amp; reliqui iudicent: sed hoc totum esse, de quo omnino, &amp; 
+      per<lb ed="#C" n="5" break="no"/>totum illid caput disserit, nego. Quomodo enim illa intelligenda sunt,  
+      <lb ed="#C" n="6"/>quae vers. 14. habentur? Si precer lingua, spiritus meus precatur, sed 
+      intelli<lb ed="#C" n="7" break="no"/>gentia mea est infructuosa. Praeterea, loquitur de eiusmodi sacris officis, 
+      <lb ed="#C" n="8"/>quibus populus respondet Amen: at populus non solet hoc facere in 
+      <lb ed="#C" n="9"/>concionibus. Facit etiam mentionem gratiarum actionis. &amp; laudum 
+      di<lb ed="#C" n="10" break="no"/>vinarum. Quin &amp; Patres ipsi, Chrysostomus, Theophylactus, 
+      Ambro<lb ed="#C" n="11" break="no"/>sius, Oecumenius, &amp; omnes qui dextre hoc caput interpretati sunt, 
+      fa<lb ed="#C" n="12" break="no"/>tentur Paulum non tantum de exhortationibus &amp; concionibus, 
+      verum<lb ed="#C" n="13" break="no"/>etiam de precibus loqui. Imo fatetur Hardingus, 3. Artic. 18. Sect. 
+      ne<lb ed="#C" n="14" break="no"/>cessarium hoc fuisse in Ecclesia primitiva, vt preces scilicet lingua 
+      verna<lb ed="#C" n="15" break="no"/>cula &amp; intellecta haberentur, hac autem nostra aetate non item. Sediam 
+      <lb ed="#C" n="16"/>Papistae doctiores alio modo respondent. Fatentur quidem Apostolum 
+      <lb ed="#C" n="17"/>de precibus publicis loqui; sed negant requiri vt totus populus intelligat  
+      <lb ed="#C" n="18"/>preces, quas minister facit: sufficere enim aiunt, si vnus tantum 
+      intelli<lb ed="#C" n="19" break="no"/>gat, quem Clericum vulgo vocant, qui totius populi nomine respondeat.  
+      <lb ed="#C" n="20"/>Amen. Atque hoc quidem probant ex verbis Apostoli, quae habentur  
+      <lb ed="#C" n="21"/>vers. 16. Si benedixeris spiritiu, quomodo (inquit vetus editio) qui suppleti 
+      <lb ed="#C" n="22"/>locum idiotae, respondebit Amen? Sic Stapletonus in Anglico Libro contra 
+      <lb ed="#C" n="23"/>suellum, Art. 3. Sic Papista quidam, qui Bellarmini dictata in Epitome 
+      <lb ed="#C" n="24"/>redegit: Sic Thomas Aquinas: Sic Catharinus: Sic Sixtus Senens. 6. 
+      <lb ed="#C" n="25"/>Lib. Bibliothec. Annotat. 263. Respondeo: primo, Latinam vulgatam 
+      <lb ed="#C" n="26"/>versionem falsam ineptamque esse, &amp; non quadrare cum Graeco 
+      con<lb ed="#C" n="27" break="no"/>textu. Tiπο enim nusquam pro vice sumitur: &amp; ἀνατληρεν est implere, non 
+      <lb ed="#C" n="28"/>supplere: adeo vt sensus verborum sit, non qui supplet vicem populi, 
+      vt<lb ed="#C" n="29" break="no"/>vetus Latina editio vertit, sed qui locum occupat, &amp; sedet inter Laicos, 
+      <lb ed="#C" n="30"/>hoc est, qui Laicus ipse &amp; vnus e vulgo est. Olim enim Minister non cum 
+      <lb ed="#C" n="31"/>populo promiscue, sed in loco, a populo &amp; reliqua multitudine separato,  
+      <lb ed="#C" n="32"/>redere solebat: hoc enim est, dναλρρον τ τόπον το ἔδτe. Et sic quidem 
+      <lb ed="#C" n="33"/>Chrysostomus, sic Theophylactus, sic Oecumenius hunc locum 
+      inter<lb ed="#C" n="34" break="no"/>pretantur. Oecumenius ait illum implere locum idiotae, qui εἰς ἰλατυυν, 
+      <lb ed="#C" n="35"/>τοσι, in idiotis censetur: &amp; statim subjungit, ἰδιάτυν λέγῆ τἐν τῶ λαικ ταγ¬ 
+      <lb ed="#C" n="36"/>μαπ τεταγανον. Secundo, dico non fuisse in veteri Ecclesia talem aliquem 
+      <lb ed="#C" n="37"/>homulum, que Clericum vocant, sed totum populum simul respondisse 
+      A<lb ed="#C" n="38" break="no"/>men. Sic Hieron in Prol. 2. in comment. in Galat. Tota Ecclesia (inquit)  
+      <!--196.xml-->
+      <pb ed="#L" n="187"/>
+               <lb ed="#C" n="1"/>instar tonitrus reboat eAmen. Non potest Clericus vnus, nisi sit Stentor 
+      a<lb ed="#C" n="2" break="no"/>l: quis, isto modo respondere. Sic Chrysossomus, vt patet excius 
+      Litur<lb ed="#C" n="3" break="no"/>gia, si modocius sit, &amp; non alterius potius cuiusdam sub eius nomine 
+      e<lb ed="#C" n="4" break="no"/>dita. Sic Cyprian. in Serm. de Oratione Dominica: Quando Minister 
+      <lb ed="#C" n="5"/>(inquit) dixit, sursum corda, totus populus respondet, Habemus ad Dominum. 
+      <lb ed="#C" n="6"/>Sed omnium apertissime lustin. Martyr. in 2, Apolog. pro Christianis: 
+      <lb ed="#C" n="7"/>τοσ ολαός (inquit) ἐπῶαριμεί σμ. Non sunt ergo haec verba de illo 
+      suppo<lb ed="#C" n="8" break="no"/>sititio Clerico intelligenda, qui totius populi nomine respondeat, vt 
+      Pa<lb ed="#C" n="9" break="no"/>pistae volunt.  
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e290">
+               <lb ed="#C" n="10"/>Sed Iesuita Bellarminus, &amp; hunc sequuti nuper Rhemenses nostri, 
+      <lb ed="#C" n="11"/>huic responsioni non audent confidere, ac proinde illi aliam 
+      excogita<lb ed="#C" n="12" break="no"/>runt. Dicunt Apostolum de Officijs divinis minime loqui, nec de 
+      publi<lb ed="#C" n="13" break="no"/>ca Scripturarum lectione, sed de spiritualibus quibusdam cantionibus, 
+      <lb ed="#C" n="14"/>extraordinariis illis quidem, quibus Christiani illis temporibus Deum; 
+      <lb ed="#C" n="15"/>IIaudare, eique gratiis agere, &amp; alij alios aedificare ac consolari solebant.  
+      <lb ed="#C" n="16"/>Harum mentionem fieri dicunt Ephes. 5. 19. &amp; Coloss. 3. 16. vbi iubet 
+      <lb ed="#C" n="17"/>Apostolus Christianos, ad quos scribit, loqui inter se mutuo Psalmis, &amp; 
+      <lb ed="#C" n="18"/>hymnis, &amp; spiritualibus cantionibus, canentes ac psallentes in corde Domino. 
+      <lb ed="#C" n="19"/>Huiusmodi etiam cantionum mentionem fieri hoc capite, vers. 26. vbi  
+      <lb ed="#C" n="20"/>ait Apostolus, Quoties convenitis, ἔκασος υμον δαλμον ἔχει, quisque vestrum 
+      <lb ed="#C" n="21"/>canticum habet, doctrinam habet, linguam habet, revelationem habet: omnia 
+      <lb ed="#C" n="22"/>ad aedificationem fiant. Harum denique Tertullianum meminisse in 
+      Apolo<lb ed="#C" n="23" break="no"/>getico suo, cap. 39. Similiter alios Patres. Hoc vero non posse de officiis 
+      <lb ed="#C" n="24"/>intelligi precibusque publicis, quod preces publicae eo tempore apud 
+      <lb ed="#C" n="25"/>Corinthios lingua Graeca celebrabantur, quae ab omnibus intellecta 
+      <lb ed="#C" n="26"/>fuit, non peregrina: atque huius rei Paulum satis memorem fuisse. 
+      Re<lb ed="#C" n="27" break="no"/>spondeo: Loquitur quidem Apostolus (fateor) de illis Canticis, &amp; fuisse 
+      <lb ed="#C" n="28"/>olim huiusmodi hymnos inter Christianos non ignoro: sed tamen non 
+      <lb ed="#C" n="29"/>deulis tantum loquitur. Nam de precibus etiam disertam mentionem 
+      <lb ed="#C" n="30"/>facit, vers. 14. ἐαν ωροσευχυμαι τς γηωη. Et quanquam Ecclesia 
+      Corin<lb ed="#C" n="31" break="no"/>thiorum sermone Graeco vsa est in Officiis divinis, non tamen sequitur,  
+      <lb ed="#C" n="32"/>haec Apostoli verba non esse de Officiis &amp; sacris publicis intelligenda. 
+      <lb ed="#C" n="33"/>Tota certe Apostoli oratio generalis est. Loquitur enim generaliter &amp; 
+      <lb ed="#C" n="34"/>communiter de omnibus Officiis Ecclesiasticis, &amp; linguae ignotae vsum 
+      <lb ed="#C" n="35"/>in Ecclesia, sive in concionibus. sive in precibus, sive in Canticis, 
+      rationi<lb ed="#C" n="36" break="no"/>bus generalibus &amp; communibus damnat: quarum prima est huiusmodi: 
+      <lb ed="#C" n="37"/>Lingua incognita est inutilis: Ergo in Ecclesia vsurpari non debet. 
+      Ante<lb ed="#C" n="38" break="no"/>cedes probatur vers. 2. vbi ait, Qui loquitur lingua, non homiribus loquitur. 
+      <!--197.xml-->
+      <pb ed="#L" n="188"/>
+               <lb ed="#C" n="1"/>sed Deo, nullus enim audit: spiritu vero loquitur mysteria, ô λδυον γλώοοη, quid  
+      <lb ed="#C" n="2"/>loquitur lingua, id est, incognita, inquit Thomas Aquinas: Nulius enim 
+      <lb ed="#C" n="3"/>audit, id est, intelligit. At in Ecclesia sic loquendum est, vt non Deus solus 
+      <lb ed="#C" n="4"/>intelligat, sed &amp; homines. Hoc etiam sexto versu probat, vbi ait, Si 
+      ve<lb ed="#C" n="5" break="no"/>nero ad vos linguis loquens (quantumvis innumeris) quid vos iuvabo? quasi 
+      <lb ed="#C" n="6"/>diceret, nullum omnino fructum ex sermone meo capietis. Et vers. 9. ait,  
+      <lb ed="#C" n="7"/>εον μι ευσημον λόγον δυτe, nisi per linguam bene significantem sermonem 
+      edide<lb ed="#C" n="8" break="no"/>ritis, quomodo intelligetur quod dicitur: εσεδε γυ εις ἀιζα λουθτες, eritis enim 
+      <lb ed="#C" n="9"/>in aerem loquentes. Ex his manifestum est, hanc esse Apostoli mentem, 
+      <lb ed="#C" n="10"/>nempe quaecunque in Ecclesia incognita lingua dicuntur, ea frustra &amp; 
+      <lb ed="#C" n="11"/>inutiliter dici. 
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e384">
+               <lb ed="#C" n="12"/>At Iesuita &amp; Rhemenses contra Apostolum sese efferentes, 
+      precatio<lb ed="#C" n="13" break="no"/>nes etiam non intellectas valde tamen fructuosas esse dicunt, etsi forsan 
+      <lb ed="#C" n="14"/>intellectae fructuosiones sint. Sed Apostoli clara verba sunt, semperque 
+      <lb ed="#C" n="15"/>vrgenda, Quid vos invabo? (inquit) quasi dixisset, nulla in re vobis vtilis 
+      <lb ed="#C" n="16"/>ero. Sic illa verba Oecumenius interpretatur, iκ ἐσομαι υμίν ἐ ποριλῆς. Et 
+      <lb ed="#C" n="17"/>eritis in aerem loquentes, id est, frustra &amp; inutiliter. Sic enim Oecumenius. 
+      <lb ed="#C" n="18"/>recte, ματυν κανρρὼς. Sic etiam Chrysost. in Hom. 35 in hoc caput: 
+      Dis<lb ed="#C" n="19" break="no"/>ceditis (inquit Jἐδεν καρδαναντες, nullum lucrum percipientes ex voce, quam non 
+      <lb ed="#C" n="20"/>intelligitis. Sed audiamus quemadmodum Iesuita probet precationem: 
+      <lb ed="#C" n="21"/>non intellectam populo vtilem esse. Attendite vero rationem pulchram: 
+      <lb ed="#C" n="22"/>Minister (inquit) vel Sacerdos non populum precatur, sed Deum pro 
+      <lb ed="#C" n="23"/>populo. Ergo non necesse est, vt populus intelligat quid dicat, sed sufficit:  
+      <lb ed="#C" n="24"/>Deum ipsum intelligere. Atis omnes linguas intelligit. Hoc similitudine 
+      <lb ed="#C" n="25"/>quadam etiam illustrat. Quemadmodum (inquit) siquis regem pro 
+      ru<lb ed="#C" n="26" break="no"/>stico roget, non necesse est, vt rusticus intelligat, quideius advocatus 
+      ipsi<lb ed="#C" n="27" break="no"/>us causa regi dixerit, nec multum curat ille, modo id quod desiderat 
+      im<lb ed="#C" n="28" break="no"/>petrate possit? ita non necesse est, vt populus illas preces intelligat, quas 
+      <lb ed="#C" n="29"/>Minister eius nomine Deo facit. Praeterea etiam Ecclesia orat pro 
+      infide<lb ed="#C" n="30" break="no"/>libus &amp; absentibus. Respondeo. Ista Iesuitae ratio non sequitur, &amp; malum 
+      <lb ed="#C" n="31"/>argumentum est: Oratio non sit populo, sed Deo pro populo: Ergo 
+      ne<lb ed="#C" n="32" break="no"/>cesse non est populum intelligere quid Minister precetur. Ministerenim 
+      <lb ed="#C" n="33"/>est instaroris populo: precatur quidem Deum, sed tamen pro populo: &amp; 
+      <lb ed="#C" n="34"/>licet populus ore taceat, dum precatur minister, interim tamen 
+      precan<lb ed="#C" n="35" break="no"/>tem ministrumcorde sequitur, &amp; respondet ad extremum, amen: quo 
+      ver<lb ed="#C" n="36" break="no"/>bo suam esse precationem ostendit, &amp; se eadem a Deo petere significat,  
+      <lb ed="#C" n="37"/>quae Minister ipse petiit. Alioqui si populus non vnam cum ministro 
+      pre<lb ed="#C" n="38" break="no"/>cetur, non necesse erit populum adesse, &amp; in vnum locum convenire cum 
+      <!--198.xml-->
+      <pb ed="#L" n="189"/>
+               <lb ed="#C" n="1"/>ministro, sed solus minister poterit deum precari pro populo absente. Sed  
+      <lb ed="#C" n="2"/>publicae preces sunt, id est, totius Ecclesiae. Videmus ergo ineptam esse 
+      si<lb ed="#C" n="3" break="no"/>militudinem istam, qua vtitur Iesuita. Si enim rusticus ille, de quo 
+      loqui<lb ed="#C" n="4" break="no"/>tur, audiret advocatum suum ignota lingua apud Regem cansam suam, 
+      <lb ed="#C" n="5"/>agentem, &amp; ea loquentem, quae ipse non intelligeret, suspicari posset 
+      e<lb ed="#C" n="6" break="no"/>lum non tam pro se, quam contra se loqui. Ita populus cum audit 
+      Mini<lb ed="#C" n="7" break="no"/>strum incognita lingua precantem, dubitare potest, num Deum pro se, 
+      <lb ed="#C" n="8"/>an pro aliis, an contra se precetur. Quid si ne sacerdos ipse intelligat  
+      <lb ed="#C" n="9"/>quid loquatur? quod posse evenire docuit experientia in multis 
+      Papisti<lb ed="#C" n="10" break="no"/>cae Ecclesiae sacrificis. Apostolus vero 14. vers. omnem incognitae 
+      lin<lb ed="#C" n="11" break="no"/>guae vsum in precibus publicis prorsus improbat: Si precer lingua (inquit)  
+      <lb ed="#C" n="12"/>spiritus meus precatur, sed intelligentia mea est infructuosa. Ac loqui 
+      qui<lb ed="#C" n="13" break="no"/>dem illum eo in loco de precibus publicis constat: Primo. Quia 19. vers.  
+      <lb ed="#C" n="14"/>dicit, ἐν τς ἐακλησία. Secundo, Quia loquitur de huiusmodi precibus, 
+      qui<lb ed="#C" n="15" break="no"/>bus populus suum assensum subiungens, respondet Amen, vt patet vers.  
+      <lb ed="#C" n="16"/>16. quod tum demum fit, cum populus in vnum locum congregatur.  
+      <lb ed="#C" n="17"/>Ergo nisi oratio fuerit intellecta, mens erit ἀκαρπος, infructuosa, id est, 
+      <lb ed="#C" n="18"/>ex eo quod mente conceperis, nullus ad Ecclesiam fructus redundabit.  
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e488">
+               <lb ed="#C" n="19"/>Iesuita &amp; Papistae totum illum decimum quartum versum male 
+      inep<lb ed="#C" n="20" break="no"/>teque interpretantur, hoc modo: Si precer lingua, mens mea aut 
+      intelle<lb ed="#C" n="21" break="no"/>ctus non etuditur, quia scilicet non intelligit at spiritus interim, id est, 
+      <lb ed="#C" n="22"/>affectus, vt illi interpretantur, proficit. Exempli gratia (inquit) Si quis 
+      <lb ed="#C" n="23"/>septem Psalmos recitaret, &amp; recitatos non intelligeret, mens eius non 
+      <lb ed="#C" n="24"/>proficeret, affectus tamen interimproficeret: Huius ergo 
+      interpreta<lb ed="#C" n="25" break="no"/>tionis haec summa est: Si lingua incognita precer, licet verba non 
+      <lb ed="#C" n="26"/>intelligam, affectio tamen mea melior interim erit. Respendeo: primo, 
+      <lb ed="#C" n="27"/>Ridicula haec plane interpretatio est. Qui enim lingua non intellecta 
+      <lb ed="#C" n="28"/>preces vel Psalmos aliquos recitat, nihilo magis proficit, quam si non 
+      <lb ed="#C" n="29"/>recitasset omnino. Bonus affectus aut desiderium precandi non 
+      juva<lb ed="#C" n="30" break="no"/>tur legendo verba incognita. Quod si affectus eius, qui lingua 
+      incog<lb ed="#C" n="31" break="no"/>nita precatur, bonus sit, mens vero non proficiat, quia non intelligit; 
+      <lb ed="#C" n="32"/>quare non vtitur ea lingua quam intelligit, vtvtrinque, &amp; mente 
+      nimi<lb ed="#C" n="33" break="no"/>rum &amp; affectu, proficiat? Secundo, Papistae etiam ipsi fatentur, preces 
+      lin<lb ed="#C" n="34" break="no"/>gua cognitae ac intellecta factas, vtiliores ac meliores esse: quare ergo 
+      <lb ed="#C" n="35"/>non precantur lingua cognita? nam eo modo preces fieri debent, quo 
+      <lb ed="#C" n="36"/>nobis vtilissimae esse possint. Precationes vero intellectas non intellectis 
+      <lb ed="#C" n="37"/>vtiliores esse, concedit Iesuita, &amp; Hardingus, vt videre est in 3P. Ant Sect. 
+      <lb ed="#C" n="38"/>29. Et Lyranus etiam in 1. Cor. 14. dicit populum, si intelligat oratio¬  
+      <!--199.xml-->
+      <pb ed="#L" n="190"/>
+               <lb ed="#C" n="1"/>nem sacerdotis, melius reduci in deum, &amp; devotius respondere, Amen. Si hoc  
+      <lb ed="#C" n="2"/>verum sit, vt est verissimum, causas videmus esse iustissimas, 
+      quamob<lb ed="#C" n="3" break="no"/>rem populus preces intelligere debeat: &amp; tamen non puduit 
+      Staple<lb ed="#C" n="4" break="no"/>tonum, in libro Anglico contra doctissimum luellum edito, dicere, 
+      Ar<lb ed="#C" n="5" break="no"/>tic. 3e. Pag. 75. lingua cognita ac intellecta non invari, sed impediri 
+      devo<lb ed="#C" n="6" break="no"/>tionem. Tertio, Quando constat precationem esse sermonis speciem, 
+      <lb ed="#C" n="7"/>nonne ridiculum est, lingua incognita precari? Quis enim adeo amens 
+      <lb ed="#C" n="8"/>est, vt ea lingua loqui velit, alijs praesertim praesentibus, quam aut ipse 
+      ig<lb ed="#C" n="9" break="no"/>noret, aut alij qui adsunt non intelligant? Unde Oecumenius in hoc 
+      Ca<lb ed="#C" n="10" break="no"/>put, diserte asserit orationem esse sermonis speciem, ωροσαχι (inquit) i 
+      <lb ed="#C" n="11"/>ειδδεπ τολόγς. Atque ille quidem 14. versum in hunc modum interpretatur: 
+      <lb ed="#C" n="12"/>Si loquutus fuero aliquid ex necessariis (inquit) &amp; bonis, &amp; ea 
+      auditori<lb ed="#C" n="13" break="no"/>bus non exposuero, spiritus meus precatur, id est, ego ipse fructum 
+      ali<lb ed="#C" n="14" break="no"/>quem percipio; at mens mea est infructuosa, hoc est, id quod ego 
+      mente<lb ed="#C" n="15" break="no"/>concipio, alijs nullum fructum affert. Hinc manifestum est, longe alium 
+      <lb ed="#C" n="16"/>esse horum verborum sensum, quam eum quem isti volunt. Sic 
+      Chryso<lb ed="#C" n="17" break="no"/>stomus exponit hunc locum: &amp; Basilius omnium apertissime ac 
+      lucu<lb ed="#C" n="18" break="no"/>lentissime in definitionibus in Epitomen redactis, Definit. 278. Mens 
+      <lb ed="#C" n="19"/>mea est infructuosa, quia(inquit) nullus adiuvatur, &amp; addit hoc de ijs 
+      intelli<lb ed="#C" n="20" break="no"/>gi, qui offerunt preces γλώσστη αγγονμίνῳ: verba subijciam, quia egregia sunt:  
+      <lb ed="#C" n="21"/>τοτο ωρι τυνἐν γλώσση ἀγνοκμδεη τοις ακιεσι τας ωροσδγας αναπεμτόντον: ὕταννγο 
+      <lb ed="#C" n="22"/>αγνωςασ τοις παροσι τα ρλματα τ ωροσδτις, ακαρπος δειν ο νος το ωροσδχρυδυσ 
+      <lb ed="#C" n="23"/>μηδενὸς αφρελαμηνσ. Quibus verbis Basilius ex precibus non intellectis 
+      <lb ed="#C" n="24"/>nullum plane fructum ad populum pervenire affirmat. Sic August. Lib. 
+      <lb ed="#C" n="25"/>I2. C8. de Gen. ad literam: Nemo(inquit) aedificatur audiendo quod non 
+      in<lb ed="#C" n="26" break="no"/>telligit: ergo ex verbis non intellectis fructus nullus consequitur: &amp; hinc 
+      <lb ed="#C" n="27"/>manifestum est, illorum preces omnes esse infrugiferas, Deoque odiosas. 
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e597">
+               <lb ed="#C" n="28"/>Sed hic Iesuita instat, multaque obijcit, quibus probet preces non 
+      in<lb ed="#C" n="29" break="no"/>tellectas tamen nobis vtiles esse. Ea nobis singula seorsim ex aminanda, 
+      <lb ed="#C" n="30"/>sunt. Primum ait figuras &amp; ceremonias veteris legis populo 
+      Iudaico<lb ed="#C" n="31" break="no"/>vtiles fuisse, quas tamen ipsi non intellexerunt. Respondeo: primo, 
+      Profe<lb ed="#C" n="32" break="no"/>rat Iesuita tale aliquod disertum Dei mandatum de precibus non 
+      intel<lb ed="#C" n="33" break="no"/>lecta lingua habendis, quale Iudaei de ijs ceremoniis habuerunt. 
+      Secun<lb ed="#C" n="34" break="no"/>do, Etsi ludaei non tam perspicue figuras ac ceremonias legis 
+      intellexe<lb ed="#C" n="35" break="no"/>tunt, quam nos iam intelligimus, earum tamen ignari non fuerunt: &amp; 
+      e<lb ed="#C" n="36" break="no"/>rant Levitae, ex quibus facile omnium ceremoniarum rationem discere 
+      <lb ed="#C" n="37"/>atque intelligere potuerunt. Secunda Iesuitae objectio ex Augustino 
+      <lb ed="#C" n="38"/>desumpta est, Lib. 6. de Baptism. contra Donatist. Cap. 25. vbi ait Au¬ 
+      <!--200.xml-->
+      <pb ed="#L" n="191"/>
+               <lb ed="#C" n="1"/>gustinus preces illas, in quibus haereticum aliquid admiscetur, prodesse 
+      <lb ed="#C" n="2"/>tamen posse, cum dicuntur simpliciter ab eo, qui nesciat quid dicat, &amp; 
+      se<lb ed="#C" n="3" break="no"/>recte precari putet. Unde colligit Iesuita, bonas &amp; sanctas preces multo 
+      <lb ed="#C" n="4"/>magis populo profuturas esse, licet populus eas non intellexerit. 
+      Respon<lb ed="#C" n="5" break="no"/>deo: primo, Non opus est vt de illis precibus, quibus Romana Ecclesia 
+      vti<lb ed="#C" n="6" break="no"/>solet, iam aliquid dicamus: In illis enim multa quidem haeretica 
+      osten<lb ed="#C" n="7" break="no"/>di possunt. Secundo, Non loquitur Augustinus de ijs precibus, quae 
+      lin<lb ed="#C" n="8" break="no"/>gua incognita fiunt, sed de iis, in quibus invenitur &amp; admiscetur aliquid  
+      <lb ed="#C" n="9"/>haereticum, quod ab illis qui precantur non animadvertitur. Hoc illis 
+      <lb ed="#C" n="10"/>minime futurum fraudi esse dicit, si modo puri fuerint eorum animi, quia 
+      <lb ed="#C" n="11"/>precis vitium (ut inquit ille) superat affectus precantis. Sed quid hoc ad 
+      <lb ed="#C" n="12"/>rem de qua agitur? Tertia Iesuitae obiectio sumitur ex Origene, Homil. 
+      <lb ed="#C" n="13"/>20. in losue: Quae nos proferimus, saepe non intelligimus, sed virtutes 
+      intelli<lb ed="#C" n="14" break="no"/>gunt. Sic (inquit Iesuita) etsi populus non intelligat preces, quas 
+      sacer<lb ed="#C" n="15" break="no"/>dos fundit, virtutes tamen intelligunt. Respondeo: Origenes in eo 
+      loco<lb ed="#C" n="16" break="no"/>de precibus non loquitur, sed de Scripturarum lectione, ubi occurrit illis 
+      <lb ed="#C" n="17"/>obiectioni, qua Laici vti solent; Scripturae sunt difficiles, &amp; superant 
+      cap<lb ed="#C" n="18" break="no"/>tum nostrum: ergo a nobis legendae non sunt. Quantumvis (inquit 
+      Ori<lb ed="#C" n="19" break="no"/>genes) nos saepe non intelligimus ea quae legimus, virtutes tamen 
+      intelli<lb ed="#C" n="20" break="no"/>gunt. Quarta Iesuitae objectio huiusmodi est: Si ea tantum prec ari 
+      debe<lb ed="#C" n="21" break="no"/>ret populus quae intelligeret, tum nunquam deberet recitare Psalmos &amp; 
+      <lb ed="#C" n="22"/>Prophetas. Respondeo: Alia est ratio Scripturae, alia orationis. Tota enim 
+      <lb ed="#C" n="23"/>Scriptura evolvenda est, etsi sensum non teneamus, vt verba saltem 
+      in<lb ed="#C" n="24" break="no"/>telliganius primo, ac deinde ex verbis sensum assequamur. At 
+      precari<lb ed="#C" n="25" break="no"/>tantum ea debemus, quae scimus: quia precatio est colloquium cum Deo, 
+      <lb ed="#C" n="26"/>&amp; ex nostro sensu nascitur: scire enim debemus quid loquamur, non 
+      tan<lb ed="#C" n="27" break="no"/>tum, vt Iesuita, hoc quod facimus, pertinere ad Dei laudem. Secundo, 
+      <lb ed="#C" n="28"/>Quod tam pauca inter legendum intelligimus, id nostra culpa fit, non 
+      a<lb ed="#C" n="29" break="no"/>liqua Scripturarum obscuritate. Quinta &amp; vitima Iesuitae obiectio est? 
+      <lb ed="#C" n="30"/>de Sancto Antonio ex Cassiano, qui ait perfectam orationem esse, cum 
+      <lb ed="#C" n="31"/>mens ita afficitur interorandum, ve non intelligat ipse verba sua. 
+      Respen<lb ed="#C" n="32" break="no"/>deo: Miror quomodo hoc, quicquid est, ad causam hanc traduci possit.  
+      <lb ed="#C" n="33"/>Non enim ait Antonius ignota lingua nobis precandum esse, sed 
+      quan<lb ed="#C" n="34" break="no"/>do precamur, non esse in verbis haerendum, sed meditationibus divinis 
+      <lb ed="#C" n="35"/>mentem quasi absorbendam esse, &amp; de rebus potius, quam de verbis esse 
+      <lb ed="#C" n="36"/>cogitandum. Si animus syncerus sit, non dubitandum quin Spiritus 
+      San<lb ed="#C" n="37" break="no"/>ctus verba nobis suggeret &amp; dictabit, nosque in precando 
+      guberna<lb ed="#C" n="38" break="no"/>bit. Sic ergo remanet, quod hoc Apostoli argumentum evincit, preces 
+      <!--201.xml-->
+      <pb ed="#L" n="192"/>
+               <lb ed="#C" n="1"/>omnes ignota lingua factas esse prorsus infructuosas. 
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e716">
+               <lb ed="#C" n="2"/>Secundum commune Apostoli argumentum sumitur ex illis verbis, 
+      <lb ed="#C" n="3"/>quae habentur vers. 11. Eαν μῆ ειδο τυν δυναμον τῆς φωνῆς, εσομαι τ λαλεθm, 
+      <lb ed="#C" n="4"/>ζαρζαρζς, μχολαλον εν αμι καρζαος. Ergo si ministerincognita lingua 
+      pre<lb ed="#C" n="5" break="no"/>cabitur, &amp; ille populo, &amp; populus vicissim illi barbaus erit. At hoc in 
+      Ec<lb ed="#C" n="6" break="no"/>clesia fieri non debet, vt Minister populo barbarus sit, aut populus illi. 
+      Er<lb ed="#C" n="7" break="no"/>go Minister non debet lingua incognita precari. Iesuita hoc 
+      argumen<lb ed="#C" n="8" break="no"/>tum non attigit. Rhemenses fingunt Apostolum hic intelligere non tres 
+      <lb ed="#C" n="9"/>illas doctas linguas, Hebraicam nempe, Graecam, &amp; Latinam, sed alias. 
+      <lb ed="#C" n="10"/>Nolunt ergo eum, qui Latine loquitur, populo non intelligente, 
+      barba<lb ed="#C" n="11" break="no"/>rum esse, sed eum qui loquitur Anglice, Gallice, Hispanice, aut qui alia 
+      <lb ed="#C" n="12"/>aliqua lingua populari viitur non intellecta. Respondeo, &amp; dico 
+      Aposto<lb ed="#C" n="13" break="no"/>lum de omnibus linguis communiterloqui, quas populus non 
+      intelli<lb ed="#C" n="14" break="no"/>git. Si lingualoquar (inquit) id est, incognita lingua, quaecunque illa 
+      <lb ed="#C" n="15"/>tandem fuerit. Qui enim omnium purissime &amp; elegantissime loquuntur,  
+      <lb ed="#C" n="16"/>si loquantur ea, quae populus nesciat, populo barbari sunt. Etiam 
+      Cicero<lb ed="#C" n="17" break="no"/>ipse &amp; Demosthenes barbari erunt, si apud populum lingua incognita, 
+      <lb ed="#C" n="18"/>&amp; a populo non intellecta, verba faciant, quantumvis divinissime 
+      lo<lb ed="#C" n="19" break="no"/>quantur. Sic igitur si populus Latinam linguam nesciat, barbarus ei erit, 
+      <lb ed="#C" n="20"/>quisquis illa vretur, cum ipse de ea non possit iudicare. Qvidius Poeta, 
+      <lb ed="#C" n="21"/>cum in Ponto exul esset, sic scribit de seipso, Tristium Lib. 5. Eleg. 11. 
+      <lb ed="#C" n="22"/>Barbarus hic ego sum, quia non intelligor vlli. Anacharsis, cum quidam 
+      <lb ed="#C" n="23"/>Atheniensis eum, probri loco, barbarum vocaret, respondisse fertur, Et  
+      <lb ed="#C" n="24"/>vos Athenienses Scythis barbari estis: αμοι, inquit, παντες ἔλλνεσ συθχεσν, vε 
+      <lb ed="#C" n="25"/>Theodoretus, Lib. 5. de Curand. Graec. affect. &amp; ibidem ait, hoc esse 
+      <lb ed="#C" n="26"/>quod Paulus dicit, Ero loquenti barhartus. Si vel Attice homines 
+      loquan<lb ed="#C" n="27" break="no"/>tur, eos tamen Anacharsis Scythis barbaros fuisse vere dicit, quia 
+      Scy<lb ed="#C" n="28" break="no"/>thae linguam Atticam minime intellexerunt. Et Cicero in quinto Libro 
+      <lb ed="#C" n="29"/>Tusculan. quaest. ait, In ut linguis, quas non inte lligimus, surdi profecte sumus 
+      <lb ed="#C" n="30"/>Si surdi, tum certe multo magis barbari. Chrysostomus eodem plane 
+      <lb ed="#C" n="31"/>modo hunc locum interpretatur: &amp; barbarum dici ait, α τρα τυα ρυσνα 
+      <lb ed="#C" n="32"/>ρωνῆς αλλα ταογ τν ηετραν αγγνοιαν: &amp; similiter Oecumenius. At vt 
+      Rhe<lb ed="#C" n="33" break="no"/>menses nostros Papistarum testimonio iugulemus, Catharinus in 
+      Com<lb ed="#C" n="34" break="no"/>ment. in hunc locum sic scribit: Barbarus hoc in loco is dicitur, qui linguae 
+      <lb ed="#C" n="35"/>differt varietate, vt non intelligatur: quilibet enim qui non intelligitur, 
+      barba<lb ed="#C" n="36" break="no"/>rus est illi, qui audit. Et tum profert Qvidij versum illum, quem nos supra 
+      <lb ed="#C" n="37"/>recitavimus Sacerdotes ergo Papisticos populo barbaros esse statuit,  
+      <lb ed="#C" n="38"/>quantumvis Latine loquantur: quod quam bene faciant, nihil interest. 
+      <!--202.xml-->
+      <pb ed="#L" n="193"/>
+               <lb ed="#C" n="1"/>Certe non loquuntur melius Latine, quam loquutus est Qvidius, qui 
+      ta<lb ed="#C" n="2" break="no"/>men se Ponticis barbarum fuisse scribit. Atque de hoc Apostoli loco 
+      sa<lb ed="#C" n="3" break="no"/>tis iam multa contra Iesuitam &amp; Rhemenses diximus. 
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e810">
+               <lb ed="#C" n="4"/>Sequitur argumentum nostrum secundum, quod ex aliis Apostoli verbis 
+      <lb ed="#C" n="5"/>hoc eodem in capite desumptum est. Oportet omnia fieri in Ecclesia(
+      in<lb ed="#C" n="6" break="no"/>quit Apostolus, I. Cor. 14. 40. Jdecenter, χιχι ταζιν. Pugnat hoc vero cum 
+      <lb ed="#C" n="7"/>εσταζια vel maxime, vt minister lingua incognita precetur. Ita enim 
+      co<lb ed="#C" n="8" break="no"/>gitur populus, cum ad publice precandum conveniat, non publice, sed  
+      <lb ed="#C" n="9"/>privatim precari. Atque hic mos in Ecclesiis Papisticis obtinuit, vt 
+      popu<lb ed="#C" n="10" break="no"/>lus in Ecclesia, in qua publice precandum erat, nullas nisi privatas 
+      pre<lb ed="#C" n="11" break="no"/>ces recitaret. Imo hoc modo non populus tantum, verumetiam Minister, 
+      <lb ed="#C" n="12"/>quem preces publicas offerre oportebat, privatas preces faciat. Populus 
+      <lb ed="#C" n="13"/>enim cum preces illas non intelligat, publice non precatur: Minister 
+      er<lb ed="#C" n="14" break="no"/>go per se precetur solus necesse est. Non enim continuo publicae preces. 
+      <lb ed="#C" n="15"/>sunt, quae in loco publico, sed quae a tota Ecclesia coniunctis studiis 
+      <lb ed="#C" n="16"/>votisque fiunt. Itaque Minister lingua incognita precari in Ecclesia non 
+      <lb ed="#C" n="17"/>debet, quia hoc facit, vtprivatum fit, quod publicum esse debuit, &amp; 
+      tol<lb ed="#C" n="18" break="no"/>lit ἐυταζιαν.  
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e845">
+               <lb ed="#C" n="19"/>Tertium nostrum argumentum est huiusmodi: Ipsi Papistae intelligunt  
+      <lb ed="#C" n="20"/>&amp; concedunt Armenos, Atgyptios, Moscovitas, &amp; Arthiopas sacra sua 
+      <lb ed="#C" n="21"/>vulgari sermone peragere, &amp; preces suas linguis vernaculis habere: 
+      quid<lb ed="#C" n="22" break="no"/>ni ergo &amp; aliae Ecclesiae eodem modo faciant, si illi recte faciunt? Sed 
+      <lb ed="#C" n="23"/>objicit Iesuita, eos aut haereticos, aut schismaticos esse, ac proinde non 
+      <lb ed="#C" n="24"/>esse laborandum quid illi faciant. Respondeo, esse quidem in his 
+      Eccle<lb ed="#C" n="25" break="no"/>siis multos magnosque errores, sed tamen nec plures, nec maiores, quam 
+      <lb ed="#C" n="26"/>in Ecclesia Romana. A Pontificiis istae Ecclesiae improbantur, quia 
+      se<lb ed="#C" n="27" break="no"/>Romano pontifici submittere, aut huiusmodi aliquod cum illo 
+      commer<lb ed="#C" n="28" break="no"/>cium habere nolunt. Sunt amplae Ecclesiae, &amp; Pontificiis forsan 
+      amplio<lb ed="#C" n="29" break="no"/>res, quantumvis isti de sua amplitudine glorientur, Hae omnes linguam, 
+      <lb ed="#C" n="30"/>Latinam nesciunt, &amp; sua lingua in officiis divinis vtuntur, quibus hac in 
+      <lb ed="#C" n="31"/>re nos quam Papistis similes esse malumus. Atque similiter etiam hodiet 
+      <lb ed="#C" n="32"/>Indi faciunt, vt Echius in locis communibus testatur: Non negamus Indis 
+      <lb ed="#C" n="33"/>Australibus permissum, vt in lingua sua rem divinam facerent, quod clerus 
+      <lb ed="#C" n="34"/>eorum hodie observat.  
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e883">
+               <lb ed="#C" n="35"/>Quartum nostrum argumentum ita se habet: Arneas Sylvius, in Lib. 
+      <lb ed="#C" n="36"/>de Origine Bohemorum, ca. 13. refert concessum fuisse Cyrillo &amp; 
+      Metho<lb ed="#C" n="37" break="no"/>dio, vt Moravi sua lingua vterentur in sacris. Quaero ergo, cur non 
+      i<lb ed="#C" n="38" break="no"/>dem etiam aliis Ecclesiis concedi possit? aut cur non aliae Ecclesiae faci¬ 
+      <!--203.xml-->
+      <pb ed="#L" n="194"/>
+               <lb ed="#C" n="1"/>ant, quod sua interesse intelligunt? Obiicit Iesuita, Cyrillum &amp; 
+      Methodi<lb ed="#C" n="2" break="no"/>lum Moravos omnes simul ad fidem convertisse, &amp; fuisse iustam causam 
+      <lb ed="#C" n="3"/>cur id eo tempore fieri deberet, quia non poterant inveniri ministri, qui  
+      <lb ed="#C" n="4"/>Latine celebrarent. Respondeo: Si hoc in initio necessarium illis fuit, 
+      pos<lb ed="#C" n="5" break="no"/>sunt ergo sacra vermacule celebrari, quod ante non debere fieri 
+      affirma<lb ed="#C" n="6" break="no"/>vit, quia divinorum officiorum majestas linguam magis gravem requitit,  
+      <lb ed="#C" n="7"/>Haec si vera ratio sit, nulla potest esse causa iusta, cur vernacule fiant. Quod  
+      <lb ed="#C" n="8"/>de ministrorum inopia addit, commentitium est. 
+      <lb ed="#C" n="9"/>Quintum nostrum argumentum sumitur ex authoritate Iustiniani 
+      Impe<lb ed="#C" n="10" break="no"/>ratoris. Ille Lib. de capitibus Ecclesiasticis, 123. cap. subet vt Ministerint 
+      <lb ed="#C" n="11"/>Ecclesia clara voce omnia pronunciet, quo populus audiat, &amp; 
+      responde<lb ed="#C" n="12" break="no"/>at Amen. Hardingus, Artic. 3. Sect. 14. obiicit primo, Clarae vocis 
+      men<lb ed="#C" n="13" break="no"/>tionem fieri a Iustiniano, vt sciamus vocales, non mentales preces 
+      praeci<lb ed="#C" n="14" break="no"/>pi. Respondeo, Sed ratio adiecta illam dubitationem tollit: subiungit enim, 
+      <lb ed="#C" n="15"/>vrpopulus audiat, &amp; devotione accendatur, &amp; responde at Amen. 
+      Secun<lb ed="#C" n="16" break="no"/>do obiicit, hanc legem Graecis tantum latam fuisse, non aliis. Respondeo: 
+      <lb ed="#C" n="17"/>At Iustinianus non Graeciae tantum Imperator fuit, sed totius plane 
+      Eu<lb ed="#C" n="18" break="no"/>ropae: non ergo Constantinopolitanis tantum, verumetiam Romanis 
+      E<lb ed="#C" n="19" break="no"/>piscopis leges proposuit, vt ex eodem capitulo manifestum est, ὑξαι¬ 
+      <lb ed="#C" n="20"/>ωθθτοινον τος υια μακαριγτάτοις αρχεεπισκθτποις και πατριαρχας τοτεσεα ρεολν¬ 
+      <lb ed="#C" n="21"/>τορασ ρωμησ και λζωνςαθτνθπολεως: θbi leges Romanis etiam Episcopis 
+      diser<lb ed="#C" n="22" break="no"/>te &amp; nominatim praescribit. Tertio obiicit, ista verba non invenimind 
+      <lb ed="#C" n="23"/>antiquis exemplaribus. Respondeo: At in omnibus Graecis codicibus 
+      <lb ed="#C" n="24"/>habentur, quibus maior fides adhibenda est, quam Latinis. Et 
+      Gregori<lb ed="#C" n="25" break="no"/>us Holoander etiam in sua Latina versione habet, a quo Graecos codices. 
+      <lb ed="#C" n="26"/>fideliter conversos esse constat.  
+      </p>
+            <p xml:id="wWpoi1-e17144-d1e955">
+               <lb ed="#C" n="27"/>Sextum, &amp; vltimum nostrum argumentum in authoritate 
+      testimonio<lb ed="#C" n="28" break="no"/>que Patrum ponitur. Primum Basilius Magnus, in Epist. 63. ad Clericos 
+      <lb ed="#C" n="29"/>Ecclesiae Neocaesarianae, scribit in hunc modum: Illucescente iam die, παν¬ 
+      <lb ed="#C" n="30"/>τεσ κοινί ως αζ ενοσ σοματως κιμιας καρδιωςτ τ ἔζομολογίσεως αρμον ἀναριρεσι τ¬ 
+      <lb ed="#C" n="31"/>vρι, pariter omnes, velut ore vno, ac corde uno, confessionis Psalmum Domie 
+      <lb ed="#C" n="32"/>no offerunt, ac suis quisque verbis resipiscentiam profitetur. Et ne quis hoc  
+      <lb ed="#C" n="33"/>de Graecis tantum hominibus intelligi suspicetur, subjungit, τυυτα ταροα 
+      <lb ed="#C" n="34"/>ωπάατς ταις το Θεο εκκλησια: ζααXζυμρωνα τη: has consuetudines omnibus. 
+      <lb ed="#C" n="35"/>Dei ecclesus consentientes esse. Sequitur etiam eodem in loco, Horum 
+      gra<lb ed="#C" n="36" break="no"/>tia si nos fugitis, fugietis simul &amp; AEgyptios, fugietis Lybyam utramque 
+      The<lb ed="#C" n="37" break="no"/>baeos, Palestinos, Arabes, Phaenicas, Syros, &amp; qui ad Euphratem habitant, &amp; 
+      <lb ed="#C" n="38"/>vt semel dicam, omnes apud quos vigiliae ac preces comminesque Psalmodie:  
+      <!--204.xml-->
+      <pb ed="#L" n="195"/>
+               <lb ed="#C" n="1"/>in preciosunt ταρ διι αγρθπνιαι, και ωροσδεγει, και αι κοναι λμαδιαν τετμlν¬ 
+      <lb ed="#C" n="2"/>τu. Perinde est quod idem Basilius Homil. 4. eis ζαημ in fine, 
+      Ecclesi<lb ed="#C" n="3" break="no"/>am mari comparat. Quemadmodum enim fluctus ad littus impulsi 
+      reso<lb ed="#C" n="4" break="no"/>nant, sic Ecclesia (inquit) Couμιγί τχν, promiscuum strepitum virorum, 
+      <lb ed="#C" n="5"/>mulierum, parvulorum, in precibus ad Deum emittit. Hunc ergo veteris 
+      Ec<lb ed="#C" n="6" break="no"/>clesiae morem fuisse intelligimus, vt populus vniversus cum ministri 
+      pre<lb ed="#C" n="7" break="no"/>cibus sua vota assensumque coniungeret, nec, vt fieri solet in Papatu, vbs 
+      <lb ed="#C" n="8"/>sacrificus sua sacra solus peragit sermone incognito, tacitus sederet, aut 
+      <lb ed="#C" n="9"/>suas, nescio quas, privatas preculas sibi demurmuraret. Similem 
+      senten<lb ed="#C" n="10" break="no"/>tiam Ambrosius habet, Hexam. Lib. 3. Cap. 5. Augustinus in Lib. 
+      de<lb ed="#C" n="11" break="no"/>Magistro, Cap. 17. ait orandum esse corde, quia sacrificium iustitiae 
+      os<lb ed="#C" n="12" break="no"/>fertur in templo mentis, &amp; in cubilibus cordis. Quare (inquit) non opus est 
+      lo<lb ed="#C" n="13" break="no"/>cutione, cum oramus, id est, sonantibus verbis, nisi forte sicut sacerdotes 
+      faci<lb ed="#C" n="14" break="no"/>unt, significandae mentis suae causa. Sed quare tum opus est locutiones 
+      <lb ed="#C" n="15"/>Respondet Augustinus, non vt Deus, sed vt homines audiant. Sed quare 
+      <lb ed="#C" n="16"/>debent homines audire? vt consensione quadam per commemorationem (
+      in<lb ed="#C" n="17" break="no"/>quit Augustinus) suspendantur in Deum. At non potest populus ex 
+      com<lb ed="#C" n="18" break="no"/>memoratione sacerdotis suspendi in Deum, nisi ea, quae a sacerdote 
+      <lb ed="#C" n="19"/>commemorantur, intelligat. Haec consensio ex commemoratione 
+      pen<lb ed="#C" n="20" break="no"/>det: commemoratio vero sine intelligentia inanis &amp; inutilis est. Idem 
+      <lb ed="#C" n="21"/>Augustinus in expositione 2. in Psalm. 18. sic scribit. Deprecati 
+      Domi<lb ed="#C" n="22" break="no"/>num, vt ab ocultis nostris mundet nos, &amp; ab alienis parcat servis suis, quid hoc  
+      <lb ed="#C" n="23"/>sit, intelligere debemus, vt humana ratione, non quasiavium voce cantemus. 
+      <lb ed="#C" n="24"/>Nam &amp; meruli(inquit) &amp; psittaci, &amp; corvi, &amp; picae, &amp; huiusmodi volucres 
+      <lb ed="#C" n="25"/>saepe ab hominibus docentur sonare quod nesciunt. Scienter autem cantare, non 
+      <lb ed="#C" n="26"/>avi, sed homini, divina voluntate concessum est. Haec Augustinus. Unde 
+      in<lb ed="#C" n="27" break="no"/>telligimus, populum, cum ea, quae non intelligit, canit vel precatur (quod  
+      <lb ed="#C" n="28"/>in Ecclesia Romana vbique fieri solet) merulis aut psittacis, aut corvis, 
+      <lb ed="#C" n="29"/>aut picis, aut huiusmodi avibus, quae sonare voces quasdam non 
+      intel<lb ed="#C" n="30" break="no"/>lectas docentur, quam hominibus similiorem esse. Ita Augustinus 
+      omni<lb ed="#C" n="31" break="no"/>no absurdum, &amp; ab humano judicio alienum esse statuit, vt populus suas 
+      <lb ed="#C" n="32"/>preces non intelligat, quod passim in Papisticis Synagogis fieri 
+      vide<lb ed="#C" n="33" break="no"/>mus. Et idem Augustinus in Psal. 99. Beatus populus qui intelligit 
+      iubilati<lb ed="#C" n="34" break="no"/>onem. Curramus ad hanc beatitudinem, intelligamus iubilationem, non eam 
+      si<lb ed="#C" n="35" break="no"/>ne intellectu fundamus. Chrysostomus, Hom. 35. in 1. Cor. ait eum, qui 
+      lin<lb ed="#C" n="36" break="no"/>gua ignota loquitur, non modo alijs ἀχgnλον, inutilem esse, &amp; barbarum, 
+      <lb ed="#C" n="37"/>sed etiamsibiipsi, si non intelligat quid loquatur: &amp; si intelligat ipse, non 
+      <lb ed="#C" n="38"/>alij, fructum exiguum ex eius verbis ad alios redundare. Ambrosius ait 
+      <!--205.xml-->
+      <pb ed="#L" n="196"/>
+               <lb ed="#C" n="1"/>in 1. Cor. 14. Si vtique ad aedificandum Ecclesiam convenitis, ea dici debent, 
+      <lb ed="#C" n="2"/>quae intelligant audientes. Hieronymus in 1. Cor. 14. ait: Omnis 
+      sermoqui<lb ed="#C" n="3" break="no"/>non intelligitur, barbarus iudicatur. Latinus ergo sermo barbarus est illis, 
+      <lb ed="#C" n="4"/>qui cum non intelligunt, id est, vniversae omnium nationum plebi: &amp; 
+      <lb ed="#C" n="5"/>quando Apostolus barbarum in Ecclesia sermonem damnat, Latinam, 
+      <lb ed="#C" n="6"/>in sacris publicis linguam damnari manifestum est. Cassiodorus in Psal. 
+      <lb ed="#C" n="7"/>46. Non solum cantantes (inquit) sed etiam intelligentes psallere debemus. 
+      <lb ed="#C" n="8"/>Nemo enim sapienter quicquam facit, quod non intelligit. Isndorus Hispal. in 
+      <lb ed="#C" n="9"/>Lib. 12. de Eccles. Offic. Cap. 10. Oportet (inquit) vi quando psallitur, 
+      psal<lb ed="#C" n="10" break="no"/>latur ab omnibus; cum oratur, oretur ab omnibus, quando lectio legitur, facto 
+      <lb ed="#C" n="11"/>silentio aeque audiatur ab omnibus. Patres Concilij Aquisgran. Cap. 132. 
+      <lb ed="#C" n="12"/>eorum, qui psallunt in Ecclesia, mentem cum voce concordaro debere 
+      ai<lb ed="#C" n="13" break="no"/>unt: &amp; Cap. sequente, tales debere legere, cantare, &amp; psallere in 
+      Ec<lb ed="#C" n="14" break="no"/>clesia, qui suavitate lectionis ac melodiae &amp; doctos permulceant, &amp; minus 
+      do<lb ed="#C" n="15" break="no"/>ctos erudiant. Iacobus Faber in Comment. in 1. Cor. 14. sic habet: 
+      Ala<lb ed="#C" n="16" break="no"/>xima pars hominum, cum nanc orat, nescio si spiritu, tamen mente mon 
+      o<lb ed="#C" n="17" break="no"/>rat: nam in lingua orat, quam non intelligit. Attamen maxime Paulus 
+      pro<lb ed="#C" n="18" break="no"/>bat, vt fideles pariter spiritu orent &amp; mente: &amp; qui sic, vt passim solent, orant, 
+      <lb ed="#C" n="19"/>parum se oratione aedificant, &amp; alios nequaquam suo sermone aedificare valent. 
+      <lb ed="#C" n="20"/>Et Caletanus Cardinalis, vt in multis rebus alijs Romanae Ecclesiae 
+      insti<lb ed="#C" n="21" break="no"/>tuta improbat, sic linguam peregrinam in sacris aperte sibi displiceret 
+      <lb ed="#C" n="22"/>significat, in Comment. in 1. Cor. 14. Sic enim ait: Ex hac Paulidoctrina 
+      <lb ed="#C" n="23"/>habetur, quod melius ad Ecclesiae aedificationem est, orationes publicas, quae 
+      au<lb ed="#C" n="24" break="no"/>diente populo dicuntur, dici lingua communi clericis &amp; populo, quam dici 
+      Lati<lb ed="#C" n="25" break="no"/>ne. Ubi Catharinus tenere se non potuit, quin multas in Cardinalem 
+      su<lb ed="#C" n="26" break="no"/>tum contumelias evomeret: aitque hoc inventum esse Lutheri, 
+      immo<lb ed="#C" n="27" break="no"/>Diaboli in Luthero loquentis: quod tamen esse dogma &amp; praeceptum 
+      A<lb ed="#C" n="28" break="no"/>postolicum contra huius impuri Papistae blasphemias satis constat. 
+      Ni<lb ed="#C" n="29" break="no"/>colaus Lyranus, in postilla m 1. Cor. 14. sic ingenue scribit: Quod 
+      sipo<lb ed="#C" n="30" break="no"/>pulus intelligit orationem, seu benedictionem sacerdotis, melius reducitur in 
+      <lb ed="#C" n="31"/>Deum, &amp; devotius res pondet, Amen. Et mox idem subiungit, Quid 
+      profi<lb ed="#C" n="32" break="no"/>cit populus simplex &amp; non intelligens? quasi dicat, nihil, aut modicum, quod  
+      <lb ed="#C" n="33"/>nescit se conformare tibi, qui es minister Ecclesiae, res pondendo Amen. Propter  
+      <lb ed="#C" n="34"/>quod in primitiva Ecclesia benedictiones, &amp; caetera communia, fiebant in 
+      vul<lb ed="#C" n="35" break="no"/>gari. Atque ita secundam quaestionem conclusimus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

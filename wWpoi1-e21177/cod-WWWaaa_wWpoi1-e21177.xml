@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="229"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e21177"><!-- con1q3c7 -->
+            <head xml:id="wWpoi1-e21177-Hd1e106">Caput 7</head>
+            <p xml:id="wWpoi1-e21177-d1e109">
+               <lb ed="#C" n="33"/>CAPUTTTII 
+      <lb ed="#C" n="34"/>Qeuuuaua  II
+    </p>
+            <p xml:id="wWpoi1-e21177-d1e116">
+               <lb ed="#C" n="35"/>QVintum <name xml:id="wWpoi1-e21177-Nd1e120">Stapletoni</name> argumentum in Se. Cap. 9. Lib. habetur, &amp; 
+      <lb ed="#C" n="36"/> est huiusmodi: Haeretici repudiantes aliquam partem 
+      Scri<lb ed="#C" n="37" break="no"/>pturae, aut de aliquo libro Canonico dubitantes, Ecclesiae authoritate &amp; 
+      <!--239.xml-->
+      <pb ed="#L" n="230"/>
+               <lb ed="#C" n="1"/>traditione refelluntur: Ergo ad Ecclesiam pertinet Scripturae Canonem 
+      <lb ed="#C" n="2"/>consignare. Hic multus est in citandis Augustini testimoniis, sed nullo 
+      <lb ed="#C" n="3"/>suo commodo, quia causam nostram non infirmant, sed aliud probant, s 
+      <lb ed="#C" n="4"/>ac proinde omitti sane possent.
+    </p>
+            <p xml:id="wWpoi1-e21177-d1e141">
+      Respondeo igitur, Hoc argumentum non 
+      <lb ed="#C" n="5"/>sequi: Haeretici refelluntur Ecclesiae authoritate, ergo nullum est aliud 
+      <lb ed="#C" n="6"/>firmius argumentum, quo Scripturae Canon possit confirmari. Petinde 
+      <lb ed="#C" n="7"/>enim est, ac siita disputaret: Homines ἀθεον, qui Deum esse negant, 
+      Ec<lb ed="#C" n="8" break="no"/>clesiae authoritate refelluntur, quae semper confessa est vnum esse Deum; 
+      <lb ed="#C" n="9"/>omnium conditorem; ergo nullum est aliud argumentum, quo vel nobis, 
+      <lb ed="#C" n="10"/>vel aliis persuaderi possit, esse Deum, nulla certior ratio, qua vel illi 
+      refu<lb ed="#C" n="11" break="no"/>tentur, vel nos in veritate confirmemur. Imo ipsae creaturae clamant esse 
+      <lb ed="#C" n="12"/>Deum, nempe coelum &amp; terra, vt ait Propheta, Caeli enarrant gloriam 
+      <lb ed="#C" n="13"/>Dei, &amp; opus manuum eius indicat expansum eorum. Hoc certius est 
+      argu<lb ed="#C" n="14" break="no"/>mentum ad ἀSeus redarguendos &amp; convincendos, quam Ecclesiae 
+      testi<lb ed="#C" n="15" break="no"/>monium: sed longe certissimum argumentum est testimonium Spiritus, 
+      <lb ed="#C" n="16"/>quod nisi accesserit, frustra alia omnia argumenta adhibentur. Apparet: 
+      <lb ed="#C" n="17"/>ergo hanc esse manifestam fallaciam consequentis, dum isto modo 
+      Ad<lb ed="#C" n="18" break="no"/>versarius disputat: Hoc est argumentum, ergo hoc est solum 
+      argumen<lb ed="#C" n="19" break="no"/>tum, vel nullum est praeterea aliud argumentum. Quaeratio quam male: 
+      <lb ed="#C" n="20"/>sequatur, ex simili tatione facile patebit. Philosophi enim suis 
+      argumen<lb ed="#C" n="21" break="no"/>tis refelli possunt, vt nostram religionem veram esse fateantur: num ergo 
+      <lb ed="#C" n="22"/>nulla sunt praeterea argumenta, quibus refelli possunt, 
+      praeterphiloso<lb ed="#C" n="23" break="no"/>phica? nequaquam. Vt ergo paulo fusius responde amus, sic statuimus, 
+      <lb ed="#C" n="24"/>vsos quidem fuisse hoc argumento Patres, &amp; nos etiam vti posse contra 
+      <lb ed="#C" n="25"/>haereticos, quia cum Spiritu sancto haeretici careant, &amp; Scripturae phrasin 
+      <lb ed="#C" n="26"/>ac sententiam ignorent, magis certe hominum authoritate &amp; 
+      testimo<lb ed="#C" n="27" break="no"/>nio, quam vel Dei, vel Scripturae, commoventur. Multum enim 
+      homi<lb ed="#C" n="28" break="no"/>num testimonio tribuunt, adeo vt non alio fere quidem 
+      externoargu<lb ed="#C" n="29" break="no"/>mento fortius ac validius premi possint. Haec enim ratio apud omnes vel 
+      <lb ed="#C" n="30"/>pessimos homines maximi momenti &amp; ponderis fuit: Ecclesia iudicavit  
+      <lb ed="#C" n="31"/>semper hos libros Canonicos esse, ergo tu non debes eos rejicere, vel de 
+      <lb ed="#C" n="32"/>illis dubitare. Sane impudentem esse oportet, qui hoc argumento non 
+      <lb ed="#C" n="33"/>moveatur. Sed aliud est cogere homines, vt agnoscant Scripturas, aliud 
+      <lb ed="#C" n="34"/>vero efficere, vt de eatum veritate persuadeantur. Cogi quidem fortasse 
+      <lb ed="#C" n="35"/>possunt haeretici non Ecclesiae tantum authoritate ac testimonio, 
+      verum<lb ed="#C" n="36" break="no"/>etiam Scripturae phrasi, &amp; summa consensione veteris novique 
+      Testa<lb ed="#C" n="37" break="no"/>menti, quae duo non minus valent, quam Ecclesiae testimonium, vthos 
+      <lb ed="#C" n="38"/>libros Canonicos esse fateamur: at vero vthoc animis nostris penitus. 
+      <!--240.xml-->
+      <pb ed="#L" n="231"/>
+               <lb ed="#C" n="1"/>persuasum sit, non ista, aut alia aliqua huiusmodi argumenta efficere 
+      pos<lb ed="#C" n="2" break="no"/>sunt, sed vox sola Spiritus sancti intus in corde nostro loquentis. Sicut 
+      e<lb ed="#C" n="3" break="no"/>nim homo omnis cogi potest argumentis multis a natura desumptis, 
+      ve<lb ed="#C" n="4" break="no"/>Deum esse fateatur, nec tamen erit interim ante in conscientia sua ea de 
+      <lb ed="#C" n="5"/>re persuasus, quam Spiritus sanctus hanc ei fidem persuasionemque 
+      in<lb ed="#C" n="6" break="no"/>iecerit: sic Ecclesiae quidem authoritate cogi possumus, vt Canonicami 
+      <lb ed="#C" n="7"/>Scripturam agnoscamus: at vero vt in illa, tanquam in firma quadam 
+      ac<lb ed="#C" n="8" break="no"/>solida veritate acquiescamus, nunquam adduci possumus, priusquam 
+      in<lb ed="#C" n="9" break="no"/>ternum Spiritus sancti testimonium accesserit. Et hoc argumentum non 
+      <lb ed="#C" n="10"/>alijs, sed nobis persuadet, nec contra alios, sed contra nos ipsos valet.  
+      <lb ed="#C" n="11"/>Non ergo alios conamur arcano Spiritus testimonio refellere, cum 
+      pro<lb ed="#C" n="12" break="no"/>prium, &amp; privatum, &amp; internum sit, sed communibus argumentis sumptis: 
+      <lb ed="#C" n="13"/>ex libris ipsis, atque ex Ecclesiae iudicio, quae sunt eiusmodi, vt quemvis 
+      <lb ed="#C" n="14"/>non perditum permoveant, nec reclamare sinant. Sed nobis minime 
+      sus<lb ed="#C" n="15" break="no"/>ficit constringi ac cogi iudicium nostrum, mentem totam ad 
+      assentien<lb ed="#C" n="16" break="no"/>dum Spiritus sanctus excitare debet. Etsi autem vtuntur saepe hoc 
+      argu<lb ed="#C" n="17" break="no"/>mento Patres, non tamen propterea tollunt alia argumenta, in quo 
+      vehe<lb ed="#C" n="18" break="no"/>menter errant Papistae, <name xml:id="wWpoi1-e21177-Nd1e260">Stapletonus</name> &amp; reliqui, quod nullum aliud 
+      argu<lb ed="#C" n="19" break="no"/>mentum nobis relinquant. Nos quidem hoc argumentum non 
+      tolli<lb ed="#C" n="20" break="no"/>mus, quemadmodum illi calumniantur, sed bonum esse concedimus, 
+      <lb ed="#C" n="21"/>eoque vtimur: at certiora quaedam ac firmiora argumenta esse 
+      con<lb ed="#C" n="22" break="no"/>tendimus. 
+      </p>
+            <p xml:id="wWpoi1-e21177-d1e272">
+               <lb ed="#C" n="23"/>Non opus est vt ad singula illa testimonia, quae a Stapletono adducta 
+      <lb ed="#C" n="24"/>sunt, respondeamus, cum illa sane omnia verissima esse fateamur. 
+      Lucu<lb ed="#C" n="25" break="no"/>lentissimum vero atque acertimum, quod habet, testimonium, ex 
+      Au<lb ed="#C" n="26" break="no"/>gustino desumptum est, in Lib. contra Epistolam Fundamenti, cap. 5. vbi  
+      <lb ed="#C" n="27"/>Augustinus citaturus aliquid ex Actis Apostolorum (quem librum 
+      Ma<lb ed="#C" n="28" break="no"/>nichaei respuebant, quia Act. 2. descendisse dicitur Spiritus sanctus in 
+      A<lb ed="#C" n="29" break="no"/>postolos, cuius afflatum illi ad se solos pertinere affirmabant) in hunc 
+      <lb ed="#C" n="30"/>modum praefatur: Necesse est me credere huic libro, si credo Evangelio, cum 
+      <lb ed="#C" n="31"/>utramque Scripturam similiter mihi Catholica commendat authoritas: 
+      Er<lb ed="#C" n="32" break="no"/>go (inquit Stapletonus) ob Ecclesiae tantum authoritatem libris 
+      Ca<lb ed="#C" n="33" break="no"/>nonicis fidem adhibemus. Respondeo, vt antea saepius, cogi nos quidem 
+      <lb ed="#C" n="34"/>Ecclesiae authoritate, vt libros hos Canonicos esse credamus, sed non 
+      so<lb ed="#C" n="35" break="no"/>lo hoc argumento niti, quia alia multa firmiora suppetunt, Haeretici 
+      qui<lb ed="#C" n="36" break="no"/>dem hoc vno argumento coguntur, atque hoc maxime contra 
+      pertina<lb ed="#C" n="37" break="no"/>ces haereticos vrgendum est: at qui non sunt turbidi, non improbi, non 
+      per<lb ed="#C" n="38" break="no"/>tinacer, sed probiac veritatis studiosi, multis aliis rationibus persuaderi: 
+      <!--241.xml-->
+      <pb ed="#L" n="232"/>
+               <lb ed="#C" n="1"/>possunt. Atque hoc quidem ex Augustino ipso probari potest, in Lib. 
+      de<lb ed="#C" n="2" break="no"/>Vtilitate credendi, cap. 3. vbi Augustinus alia quaedam argnimenta 
+      com<lb ed="#C" n="3" break="no"/>memorat, cuiusmodi ista sunt: Primum, Ordo rerum. Secundum, Causae 
+      <lb ed="#C" n="4"/>dictorum &amp; factorum. Tertium, Suima veteris &amp; novi Testamenti 
+      con<lb ed="#C" n="5" break="no"/>gruentia, vt apex nullus relinquatur, qui non consonet. Haec quidem 
+      argu<lb ed="#C" n="6" break="no"/>menta magnam in se vim habent: at quia haeretici haec minus attendunt,  
+      <lb ed="#C" n="7"/>aut curant, sunt illi quidem Ecclesiae authoritate vrgendi. Idem etiam 
+      <lb ed="#C" n="8"/>Augustin. 52. cap. eiusdem libri scribit, se sacile persuadere posse hunc 
+      <lb ed="#C" n="9"/>vel illum Scripturae librum Canonicum esse, si sibi aequus &amp; minime 
+      per<lb ed="#C" n="10" break="no"/>tinax animus daretur. Et cap. 22. illius libri rationem reddit, cur 
+      tamsae<lb ed="#C" n="11" break="no"/>pe vsus sit hoc argumento ab authoritate Ecclesiae ducto, illudque tam 
+      di<lb ed="#C" n="12" break="no"/>ligenter tractaverit, quia nimirum Scripturae populariter acccusari possunt, 
+      <lb ed="#C" n="13"/>sed non possunt populariter defendi. Manichaei enim vetus Testamentumin 
+      <lb ed="#C" n="14"/>odium vocabant apud populum, ob adulterium Davidis, coniugium 
+      la<lb ed="#C" n="15" break="no"/>cobi cum duabus sororibus initum, &amp; similia multa, quae in libris veteris: 
+      <lb ed="#C" n="16"/>Testamenti reperiuntur, de quibus apud populum multa declamabant,  
+      <lb ed="#C" n="17"/>Atque haec est illa popularis accusatio, cuius meminit Augustinus. 
+      Cum<lb ed="#C" n="18" break="no"/>ergo sanctus Pater vellet vetus Testamentum defendere, nec 
+      Scriptura<lb ed="#C" n="19" break="no"/>ipsa tam populare argumentum suppeditaret, ad Ecclesiae communem. 
+      <lb ed="#C" n="20"/>authoritatem, quod fuit argumentum non minus populare, suos 
+      adversa<lb ed="#C" n="21" break="no"/>tios revocabat. Et de quinto quidem Stapletoni argumento satis 
+      mul<lb ed="#C" n="22" break="no"/>ta dicta sunt.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

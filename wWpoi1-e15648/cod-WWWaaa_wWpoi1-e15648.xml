@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 15</title>
+            <author ref="#per-uyt678">William Whitaker</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 15</title>
+               <date when="2021-10-15">October 15, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-WWWaaa">Cambridge 1588</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-15" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="168"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="wWpoi1-e15648"><!-- con1q2c15 -->
+            <head xml:id="wWpoi1-e15648-Hd1e106">Caput 15</head>
+            <p xml:id="wWpoi1-e15648-d1e109">
+               <lb ed="#C" n="22"/>CAPUTI 
+      <lb ed="#C" n="23"/>Qumeuta pesua Poyguaculis Sgipiurgum persiopis,
+    </p>
+            <p xml:id="wWpoi1-e15648-d1e116">
+               <lb ed="#C" n="24"/>NVnc ad nostrarum partium defensionem venio, in qua 
+      proban<lb ed="#C" n="25" break="no"/>Udum est, Scripturas omnibus Christianis in linguis suis 
+      vernacu<lb ed="#C" n="26" break="no"/>lis esse proponendas, vt eas vnusquisque legere possit. Primum vero 
+      ar<lb ed="#C" n="27" break="no"/>gumentum meum erit huiusmodi. Quod omnibus est a Domino 
+      praece<lb ed="#C" n="28" break="no"/>ptum, id omnes facere debent: At Scripturas legere omnibus praecepit.  
+      <lb ed="#C" n="29"/>Dominus.: Ergo omnes Scripturas legere debent. De Propositione 
+      nulla<lb ed="#C" n="30" break="no"/>controversia est, nisi cuiquam forte dubium sit, vtrum Deo obtemperate 
+      <lb ed="#C" n="31"/>debeamus. De Assumptione vero dubitari potest. Quaerendum ergo, 
+      v<lb ed="#C" n="32" break="no"/>trum Dominus hoc omnibus praeceperit. Atque id quidem facile 
+      con<lb ed="#C" n="33" break="no"/>stabit. Voluit enim Deus voluntatem suam scribi, verbum suum literis 
+      <lb ed="#C" n="34"/>mandari, Scripturas suas hominibus commendari, atque ea quidem 
+      lin<lb ed="#C" n="35" break="no"/>gua, quae non doctis tantum sed plebeijs nota esset. Quorsum id vero, nisi 
+      <lb ed="#C" n="36"/>vt omnis populus Scripturas legeret, Deique voluntatem verbumque agnos. 
+      <lb ed="#C" n="37"/>ceret. Deut. 3 1. 11, &amp; 12. disertum Dei mandatum habetur, de lectione. 
+      <!--178.xml-->
+      <pb ed="#L" n="169"/>
+               <lb ed="#C" n="1"/>Scripturarum coram toto populo: Leges verba legis huius coram toto 
+      Is<lb ed="#C" n="2" break="no"/>racle illis audientibus, &amp; in unum omni populo congregaro. Et ne forte 
+      quis<lb ed="#C" n="3" break="no"/>quam e populo existimaret, se privilegio aliquo excusari, &amp; ab hoc Dei. 
+      <lb ed="#C" n="4"/>mandato liberari, distributione quadam vtitur Moses, &amp; nominat 
+      vi<lb ed="#C" n="5" break="no"/>ros, foeminas, parvulos, &amp; peregrinos: subiungit etiam posteros. Sed 
+      <lb ed="#C" n="6"/>quare vult Deus suam legem coram toto populo legi? Ratio 
+      subiungi<lb ed="#C" n="7" break="no"/>tur, vi audiant, &amp; vt discant, timeantque Iehovam, &amp; observent praecepta 
+      e<lb ed="#C" n="8" break="no"/>ius. At hoc perpetuo fieri debet:. Ergo Scripturarum lectio semper est 
+      ne<lb ed="#C" n="9" break="no"/>cessaria. Si enim finis &amp; causa proxima alicuius legis sit perpetua, ipsa 
+      <lb ed="#C" n="10"/>etiam lex perpetua indicanda est: At causae illae, ob quas Deus voluit,  
+      <lb ed="#C" n="11"/>Scripturas legi, sunt perpetuae: Eroovult illas perpetuis 
+      seculorumaeta<lb ed="#C" n="12" break="no"/>tibus populo legi. Deut. 17. 19 20. Regi nominatim praecipitur, vt legat  
+      <lb ed="#C" n="13"/>Scripturas: &amp; rationes adduntur eaedem, quae prius, &amp; quaedam etiam 
+      <lb ed="#C" n="14"/>Regi peculiares, nempe ne efferatur superbia animus eius, suosque 
+      fra<lb ed="#C" n="15" break="no"/>tres despiciat, &amp; ne recedat ab hoc praecepto dextrorsum aut sinistrorsum, 
+      <lb ed="#C" n="16"/>Deut. 6. 6. 7. 8. 9. hoc mandatum proponitur toti Israeli; &amp; 
+      vehemen<lb ed="#C" n="17" break="no"/>ter etiam vrgetur, vt verba legis divinae sint in cordibus illorum 
+      inscul<lb ed="#C" n="18" break="no"/>pta, vt narrent filiis suis, vt loquantur de iis sedentes domi suae, &amp; 
+      ambu<lb ed="#C" n="19" break="no"/>lantes in itinere, cubantes &amp; surgentes, vt habeant ea manibus suis 
+      alli<lb ed="#C" n="20" break="no"/>gata tanquam signa, vt sint semper ob oculos suos, denique vt 
+      inscri<lb ed="#C" n="21" break="no"/>bantur postibus aedium suarum &amp; portis suis. Ex quibus omnibus 
+      intelli<lb ed="#C" n="22" break="no"/>gimus, voluisse Deum hanc legem suam populo suo quam notissimam 
+      <lb ed="#C" n="23"/>esse. Ierem. 36. 6. 7. Mandavit Propheta Barucho, vt legeret librum, 
+      <lb ed="#C" n="24"/>quem scripserat ex ore eius, coram toto populo: &amp; ratio subiungitur, si  
+      <lb ed="#C" n="25"/>forte procidant deprecantes coram Iehova, &amp; revertatur quisque a via sua; 
+      <lb ed="#C" n="26"/>pessima. Et in novo Testamento Christus, Ioh. 5. 39. jubetipαυώθτῶς χαρας, 
+      <lb ed="#C" n="27"/>vi scrutemur Scripturas. Quo in loco non doctos tantum &amp; cruditos 
+      al<lb ed="#C" n="28" break="no"/>loquitur, Scribas nempe &amp; Pharisaeos; sed indoctam etiam plebem &amp; 
+      <lb ed="#C" n="29"/>impentum vulgus. Non enim docti tantum, sed indocti etiam vitam 
+      ae<lb ed="#C" n="30" break="no"/>temam quaerunt &amp; cupiunt, imo ad hos aequo inre salus regnumque Dei. 
+      <lb ed="#C" n="31"/>pertinet atque ad illos. Et obseruat Chrysostomus in illum locum, Hom. 
+      <lb ed="#C" n="32"/>40. Christum Iudaeos his verbis, ad Scripturarum non simplicem 
+      tan<lb ed="#C" n="33" break="no"/>tum &amp; nudam lectionem, sed ad investigationem perquam diligentem 
+      <lb ed="#C" n="34"/>relegare, quia iubet eos non legere, sed scrutati Scripturas, Iohan. 30. 31. 
+      <lb ed="#C" n="35"/>Evangelista ait, Haec scripta sunt, vi credatis Iesum esse Christum filium 
+      <lb ed="#C" n="36"/>Dei, &amp; vt credentes vitam habeatis per nomen eius. At omnes expetunt 
+      <lb ed="#C" n="37"/>vitamae salutem: fidem etiam omnes cupiunt aut saltem cupere debent. 
+      <lb ed="#C" n="38"/>Sic ergo existo loco ratiocinamur: Sine fide nulla vita: sine Scripturis 
+      <!--179.xml-->
+      <pb ed="#L" n="170"/>
+               <lb ed="#C" n="1"/>nulla fides: Scripturae ergo sunt omnibus proponendae. Rom. 15. 4. 
+      Quae<lb ed="#C" n="2" break="no"/>cunque scripta sunt, ad nostram doctrinam scripta esse dicit Paulus: nos 
+      er<lb ed="#C" n="3" break="no"/>go doctos esse Dominus voluit, &amp; haec salutaris scientia est: subjungit.  
+      <lb ed="#C" n="4"/>vt per patientiam &amp; consolationem Scripturarum spem habeamus: qui ergo 
+      <lb ed="#C" n="5"/>Scripturis carent, carent patientia, carent consolatione, carent spe: nam 
+      <lb ed="#C" n="6"/>ista omnia ex Scripturis nascuntur.  
+      </p>
+            <p xml:id="wWpoi1-e15648-d1e253">
+               <lb ed="#C" n="7"/>Secundum nostrum argumentum ita se habet. Ea arma, quibus 
+      popu<lb ed="#C" n="8" break="no"/>lus est contra Satanam muniendus, non sunt populo adimenda. At 
+      Scri<lb ed="#C" n="9" break="no"/>pturae sunt ejusmodi arma. Ergo Scripturae populo adimendae non sunt.  
+      <lb ed="#C" n="10"/>Adimuntur autem, si ab earum lectione populus arcetur. Propositio 
+      per<lb ed="#C" n="11" break="no"/>se manifesta est. Assumptio vero probatur Christi ipsius exemplo, Mat. 4. 
+      <lb ed="#C" n="12"/>Quando enim Christus rem habuit cum Satana, &amp; manus cum illo 
+      con<lb ed="#C" n="13" break="no"/>seruit, non aliis armis eum repressit ac refutavit, quam Scripturis. Terilli 
+      <lb ed="#C" n="14"/>respondit, Scriptum est: &amp; tertio responso illum profligavit. Si Christus 
+      <lb ed="#C" n="15"/>se contra Satanam Scripturis defendit, quanto nobis inagis contra hunc 
+      <lb ed="#C" n="16"/>hostem necessariae Scripturae sunt? Atque ideo quidem Christus 
+      Scriptu<lb ed="#C" n="17" break="no"/>rarum telis adversus Satanam vsus est, vtnobis exemplum praeberet: 
+      <lb ed="#C" n="18"/>nam potuit ille vno verbo Satanam repellere: eodem ergo modo nos 
+      o<lb ed="#C" n="19" break="no"/>portet Satanae resistere. Ineptum enim est putare Satanam nudis 
+      cere<lb ed="#C" n="20" break="no"/>monijs, exorcismis, gesticulationibus, &amp; externis nugis propulsari posse: 
+      <lb ed="#C" n="21"/>pugnandum est argumentis Scripturarum, sanctorumque Patrum 
+      exem<lb ed="#C" n="22" break="no"/>plis: sola Scripturarum arma contra illum &amp; valere possunt, &amp; adhiberi: 
+      <lb ed="#C" n="23"/>debent. Qui ergo populo sacras Scripturas adimunt, eum Satanae 
+      nu<lb ed="#C" n="24" break="no"/>dum relinquunt, &amp; in certissimam perniciem conjiciunt. Nam sine 
+      Scri<lb ed="#C" n="25" break="no"/>pturarum praesidio populus omnibus tentationibus succumbat necesse: 
+      <lb ed="#C" n="26"/>est. Paulus Apostolus, Ephes. 6.16. ait Cypeum illum, θυpεον, quo ignita 
+      <lb ed="#C" n="27"/>Satanae tela extinguenda sunt, esse πισιν, fidem: at fides, vt idem Apostolus 
+      <lb ed="#C" n="28"/>testatur, Rom. 10. 17. ex auditu nascitur, auditus vero ex verbo Dei. 
+      At<lb ed="#C" n="29" break="no"/>que vtfide, quae ex Scriptura nascitur, Satanae resistimus; ita etiam 
+      Scri<lb ed="#C" n="30" break="no"/>ptura oppugnandus est. Eodem enim in loco μαχαμα illa τνευμαιος, 
+      gla<lb ed="#C" n="31" break="no"/>dius spiritualis, Dei verbum dicitur Ex Scripturis ergo tum offensiva, 
+      vtlo<lb ed="#C" n="32" break="no"/>quuntur, tum de fensiva contra Satanam arma sumenda sunt, quibus 
+      vn<lb ed="#C" n="33" break="no"/>dique instructi, faelicem procul dubio victoriam reportabimus. Reliqua 
+      <lb ed="#C" n="34"/>illa arma quae ibi describuntur, nituntur omnia fide ex Scripturis 
+      perce<lb ed="#C" n="35" break="no"/>pta. Sic ergo hunc locum, atque adeo hoc secundum nostrum 
+      argumen<lb ed="#C" n="36" break="no"/>tum concludimus: Omnes qui tem habent cum Satana, debent 
+      Scriptu<lb ed="#C" n="37" break="no"/>ras legere, vt armis illis, quae ex Scripturis subministrantur, dextre ac 
+      scite<lb ed="#C" n="38" break="no"/>contra hunc capitalem &amp; teterrimum hostem vtantur: At Satanas om¬ 
+      <!--180.xml-->
+      <pb ed="#L" n="171"/>
+               <lb ed="#C" n="1"/>nibus sine exceptione hominibus bellum indicit: Omnes ergo Scripturas 
+      <lb ed="#C" n="2"/>iebent legere, &amp; per consequens Scripturae lingua vernacula populis 
+      <lb ed="#C" n="3"/>pro poni debent. 
+      </p>
+            <p xml:id="wWpoi1-e15648-d1e336">
+               <lb ed="#C" n="4"/>Tertium argumentum sic instituo. Ita legendae publice Scripturae 
+      <lb ed="#C" n="5"/>sunt, vtex iis populus fructum aliquem capere possit: At in ignota lingua 
+      <lb ed="#C" n="6"/>populo vtiles esse non possunt: Ergo in linguam populo notam 
+      verten<lb ed="#C" n="7" break="no"/>dae sunt, De Maiore nulla dubitatio esse potest. Quod vero ad Minorem 
+      <lb ed="#C" n="8"/>attinet, probat illam Paulus, 1. Cor. 14. quo fere toto capite causam 
+      <lb ed="#C" n="9"/>hanc tractat. Si veniam ad vos (inquit vers. 6.) linquis loquent, τ υμας ωρ
+      e<lb ed="#C" n="10" break="no"/>λήσο, quid vos invabo? ac si dixiffet, plane nihil. Et ver. 7. hoc probat 
+      ex<lb ed="#C" n="11" break="no"/>emplis rerum inanimatarum, tibiae nempe &amp; cytharae, quae nisidiasελλν, 
+      di<lb ed="#C" n="12" break="no"/>st inctionem (inquit) tonis dederint, quomodo cognoscetur, quod tibiacantur,  
+      <lb ed="#C" n="13"/>aut cithara? Sic nostrum omnem sermonem, ευσκμον, significantem esse 
+      o<lb ed="#C" n="14" break="no"/>portet. Itaque concludit vers. 19. malle se in Ecclesia quinque verba diae 
+      <lb ed="#C" n="15"/>voos, ex intelligentia sua loqui, vt alios instituat, quam decem millia verborum 
+      <lb ed="#C" n="16"/>ἐν γλωον, in lirgua incognita. Chrysost. in Homil. 35. in prior. Epist. ad 
+      Co<lb ed="#C" n="17" break="no"/>rinth. Ex voce (inquit) non intellecta quae vtilitas esse potest? τς γο ετι ρονῆς 
+      <lb ed="#C" n="18"/>sise Cuuiele; Et idem in eademHomil. Qui liuguis loquitur (inquit) seipsum 
+      <lb ed="#C" n="19"/>aedificat, neque tamen hoc fieri potest, nisi quae loquatur norit. Sic 
+      Chrysosto<lb ed="#C" n="20" break="no"/>mus, legere quae non intelligas, non modo non aliis, sed ne sibi qui 
+      le<lb ed="#C" n="21" break="no"/>git, quicquam prodesse putat. Legebant autem sacrificuli Papistici 
+      <lb ed="#C" n="22"/>Latine omnia, cum illorum plaerique plane αγαμματει fuerint. Sed de 
+      <lb ed="#C" n="23"/>hoc loco plura dicemus in altera parte. 
+      </p>
+            <p xml:id="wWpoi1-e15648-d1e383">
+               <lb ed="#C" n="24"/>Quartum argumentum. Dominus praecipit &amp; requirit, vt populus sitJ 
+      <lb ed="#C" n="25"/>eruditus, &amp; sapientia ac scientia plenus, vtque salutis mysteria 
+      perfecte<lb ed="#C" n="26" break="no"/>teneat, &amp; saepe conqueritur de ignorantia populi, &amp; iubet exerceri in 
+      ver<lb ed="#C" n="27" break="no"/>bo, vt hinc sapientiam &amp; intelligentiam comparent: ergo debet 
+      popu<lb ed="#C" n="28" break="no"/>lus Scripturas legere, nam sine lectione Scripturarum non potest eam? 
+      <lb ed="#C" n="29"/>scientiam consequi: legere autem non potest, nisi vertantur: verti ergo 
+      <lb ed="#C" n="30"/>Scripturae debent. Antecedens facile probatur multis Scripturae 
+      testimo<lb ed="#C" n="31" break="no"/>niis. Deut. 4. 6. vult Deus populum Israeliticum ita eruditum esse, eaque 
+      <lb ed="#C" n="32"/>sapientia ac legis suae cognitione praeditum, vt exterae nationes 
+      audi<lb ed="#C" n="33" break="no"/>entes admirentur, &amp; dic ant, en populus sapiens &amp; intelligens, genimagna. 
+      <lb ed="#C" n="34"/>Coloss. 3.16. Apostolus vult verbum Christi abundanter vel copiose, πυσ
+      i<lb ed="#C" n="35" break="no"/>ac, in Colossensibus, ενσικεῖν, habitare: &amp; in eadem Epist. 1. 9. vulteos 
+      im<lb ed="#C" n="36" break="no"/>pler τηθεπγνώσει τοῦ θεληματος αυτυ ἐν πάστη σιρια, μι συνίσεε τοδματικς: &amp; 
+      <lb ed="#C" n="37"/>Cap. 2. 2. requirit in illis τηροροριαν τῆς συσεοωσ εἰν ἐπεγνωσεν το μυσνρισ το  
+      <lb ed="#C" n="38"/>Θei. Et 2. Cor. 8. 7. ait Corinthios τοεισσενον, cumulatos esse τιστει, λόγῳ, 
+      <!--181.xml-->
+      <pb ed="#L" n="172"/>
+               <lb ed="#C" n="1"/>γνώσει. Et Num. 11. 29. Moses optat totum populum prophetare posse. 
+      <lb ed="#C" n="2"/>Et I. Cor. 14. 5. Paulusoptat, vt omnes loquantur linguis, sed magis 
+      ve<lb ed="#C" n="3" break="no"/>prophetent. Philip. 1. 9. precatur idem Apostolus, vePhilippensium 
+      <lb ed="#C" n="4"/>charitas magis ac magisredundet, ἐν ἐπγώσεXωάση αιδίσεν Et 2. Pet. 1. 
+      <lb ed="#C" n="5"/>5. admonet Petrus eos ad quos scribit, cum fide virtutem, cum virtute 
+      <lb ed="#C" n="6"/>vero ac vite sanctimonia τυν νώτν, cognitionem quoque coniungere 
+      debe<lb ed="#C" n="7" break="no"/>re. Ex his intelligimus, sapientiam, prudentiam, scientiam, ac 
+      cognitio<lb ed="#C" n="8" break="no"/>nem in populo Dei requirigitaque eos magna iniuria populum afficere, 
+      <lb ed="#C" n="9"/>qui ipsum in stupida illa &amp; erassa ignorantia Scripturarum retinent. 
+      <lb ed="#C" n="10"/>Quin &amp; Patres quoque confitentur Scripturarum cognitionem ac 
+      sci<lb ed="#C" n="11" break="no"/>entiam Christianis omnibus, esse necessanam. Hieron. in Comment. in 
+      <lb ed="#C" n="12"/>Coloss. 3. 16. Hinc perspicimus (inquit) non tantum sufficienter, sed etiam 
+      ae<lb ed="#C" n="13" break="no"/>bundanter debere Laicos Scripturarum cognitionem habere, &amp; se invicem, 
+      <lb ed="#C" n="14"/>docere. Chrysost. in Homil. 9. in Epist. ad Coloss. in eundem 
+      locumscri<lb ed="#C" n="15" break="no"/>bens ait, Apostolum requitere, vt populus εχαλλώς, δια μ πολλῆς τ πορισίαι,  
+      <lb ed="#C" n="16"/>Dei verbum cognoscat: &amp; adiicit: Attendite quotquot estis κοσμικοί, 
+      se<lb ed="#C" n="17" break="no"/>culares, &amp; vxoribus praeestis ac liberis, quomodo vobis potissimum praecipiat 
+      <lb ed="#C" n="18"/>LApostolus) Scripturas legere, idque non simpliciter neque obiter, αλλα μετῶ τολλῆς, 
+      <lb ed="#C" n="19"/>σεσῆς, hoc est, magna cum diligentia. Et observat idem Chrysostomus 
+      <lb ed="#C" n="20"/>eodem in loco, Apostolum non dicere, sit in vobis, sed, Habitet in vobis. 
+      <lb ed="#C" n="21"/>verbum Dei, idque πεηως. Oecumenius etiam in illum locum ait, 
+      Chri<lb ed="#C" n="22" break="no"/>sti doctrinam debere in nobis habitare ἐν τολῶ δαλιλεια, uberrime. Sed. 
+      <lb ed="#C" n="23"/>quomodo hanc tam plenam scientiam assequemur? Docet 
+      Oecumeni<lb ed="#C" n="24" break="no"/>us, cum addit, did τ τῶν χζαρον ἐρευνῆς, ex scrutatione Scripturarum. Sic 
+      <lb ed="#C" n="25"/>Thomas Aquinas, in Lect. 3. in illud Caput. Quibusdam (inquit) sufficu 
+      <lb ed="#C" n="26"/>modicum quid de verbo Dei: sed Apostolus vult quod habeamus multum. 
+      <lb ed="#C" n="27"/>Contra istam scientiam popularem multa ab Adversariis nostris 
+      dispu<lb ed="#C" n="28" break="no"/>tantur. Ac primo quidem in loco objiciunt illud, quod habetur Luc. 8. 
+      <lb ed="#C" n="29"/>10. vbi Christus discipulis suis ait, Vobis datum est nosse mysteria regni Dei, 
+      <lb ed="#C" n="30"/>reliquis autem per parabolas loquer: atque hinc coneludunt, Scripturas 
+      do<lb ed="#C" n="31" break="no"/>ctis tantumac eruditis, hoc est, Ministris, Episcopis, Sacerdotibus, 
+      ac<lb ed="#C" n="32" break="no"/>Professoribus communicandas esse, Laicis vero atque indoctis 
+      homini<lb ed="#C" n="33" break="no"/>bus denegandas. Sed respondeo, Christum illo in loco, non de plebe, 
+      <lb ed="#C" n="34"/>sed de Scribis ac Pharisgis loquutum esse, qui Christo superbe resistebant,  
+      <lb ed="#C" n="35"/>cidentes non videbant, &amp; audientes non intellicebant, ac proinde ista verba 
+      <lb ed="#C" n="36"/>ad causam, quamin manibus habemus, nullo modo pertinere. Pharisaei 
+      <lb ed="#C" n="37"/>enim &amp; Scribae e doctis erant, non e plebe. Atque ita quidem Hugo 
+      Car<lb ed="#C" n="38" break="no"/>dinalis (ut taceam reliquos) hunc locum interpretatur, &amp; Glossa itemor¬ 
+      <!--182.xml-->
+      <pb ed="#L" n="173"/>
+               <lb ed="#C" n="1"/>din aria. Sic enim Hugo: Vobis (inquit) hoc est, quilibenter auditis, &amp; fidem 
+      <lb ed="#C" n="2"/>hubetis verbis meis. Ei Glossa apertius isto modo: vobis qui fideles estis, non 
+      <lb ed="#C" n="3"/>Pharisa is incredulis, sancta sunt danda. Haec ergo Christi verba non 
+      impe<lb ed="#C" n="4" break="no"/>diunt, quo minus sacram Scripturam Laici indoctique homines legant.  
+      </p>
+            <p xml:id="wWpoi1-e15648-d1e518">
+               <lb ed="#C" n="5"/>Se cundo vero in loco contra hanc populi scientiam, Hosius in Lib. 
+      <lb ed="#C" n="6"/>de Sacr. Vernac. legend. quaedam Patium testimonia objicit, nempe 
+      <lb ed="#C" n="7"/>Augustin. in Lib. contra Epist. Fundament. Cap. 4. vbi ait, Turbam non 
+      <lb ed="#C" n="8"/>intestigendi vivacitas, sed credendi simplicitas, tutissimam facit. &amp; rnox. 
+      E<lb ed="#C" n="9" break="no"/>pist. vbi ait, Si propter eos solos Christus mortuus est, qui certa intelligentia 
+      <lb ed="#C" n="10"/>possunt ista discernere, pene frustra in Ecclesia laboramus, &amp;c. In 
+      eandemeti<lb ed="#C" n="11" break="no"/>am sententiam profert Gregor. Nazianmen. Lib. 1. de Theolog. vbi ait, 
+      <lb ed="#C" n="12"/>Non omnium est de Deo&amp; rebus divinis disputare, &amp;c. RESPONDEO, 
+      Istate<lb ed="#C" n="13" break="no"/>stimonia non omnino prohibent lectionem Scripturarum, 
+      quemadmo<lb ed="#C" n="14" break="no"/>dum imelius ex singulorum examinatione patebit. Nam primo, quod 
+      at<lb ed="#C" n="15" break="no"/>tinet ad Augustinum, fateor quidem cum illo, accuratam mysteriorum 
+      <lb ed="#C" n="16"/>cognitionem non requiri a plebe, sed sufficere illi, si fundamentum 
+      re<lb ed="#C" n="17" break="no"/>ligionis salvum &amp; integrumtenuerit. Non enim omnes possunt esse 
+      vi<lb ed="#C" n="18" break="no"/>vaces in intelligendo, sufficit si sint simplices in credendo. Verum 
+      ista<lb ed="#C" n="19" break="no"/>simplicitas non est huiusmodi bruta ignorantia, qualem in suis Laicis 
+      <lb ed="#C" n="20"/>esse volunt Papistae. Istaenim ignorantia, quam tuentur Papistae, plane 
+      <lb ed="#C" n="21"/>stupor petius, quam simplicitas dici potest At simplicitas Christianorum 
+      <lb ed="#C" n="22"/>cum prudentia conjungi debet. Sicut enim vult nos Christus simplices. 
+      <lb ed="#C" n="23"/>esse vi columbas, sic vult prudentes esse vtserpentes, Matth. 10.16. 
+      Pro<lb ed="#C" n="24" break="no"/>multis mortuus est Christus, qui non possunt acute de mysterio salutis 
+      <lb ed="#C" n="25"/>disputare, &amp; scholastice quaestiones Theologicas tractare ac discutere. 
+      <lb ed="#C" n="26"/>vere hoc quidem ab Augustino dictum est, sed tamen hoc non evincit: 
+      <lb ed="#C" n="27"/>nullam a populo cognitionemrequiri. Fateor non tantam scientiam in 
+      <lb ed="#C" n="28"/>populodesiderati, quantam in literatis, qui toti sunt literis ac libris 
+      de<lb ed="#C" n="29" break="no"/>diti: sed omnino ignarus Scripturarum &amp; scientiae populus esse (quod  
+      <lb ed="#C" n="30"/>Papistae volunt) non debet. Simile quiddam habet Greg. Magn. Nin 
+      re<lb ed="#C" n="31" break="no"/>quiritur in vulgo scientia, sed bonavita: &amp; Tertull. in Praescuipt. adversus 
+      <lb ed="#C" n="32"/>haeret. Haec fides tua salvum te fecit: fides tua (ait) non scientia tua, aut 
+      Scri<lb ed="#C" n="33" break="no"/>pturarum exercitatio. Ad Naxianzeni locum idem responderi potest. 
+      <lb ed="#C" n="34"/>Non enim dicit Scripturas a populo legendas non esse, sed non cuiusque 
+      <lb ed="#C" n="35"/>esse de Deo &amp; arcanis religionis mysterijs discernere, &amp; παιτὸς το ωοι Θεοο 
+      <lb ed="#C" n="36"/>ριλοποον, quod nos libenter fatemut. Non est (inquit) res ista ita abiecta 
+      ac<lb ed="#C" n="37" break="no"/>vilis, ἐχετ το ωρογμαενονον, vt quivis de ca possint philosophari. Et  
+      <lb ed="#C" n="38"/>paulo post, Neque ubique, neque omnibus, neque omnia disserenda sunt, 
+      <!--183.xml-->
+      <pb ed="#L" n="174"/>
+               <lb ed="#C" n="1"/>ὑτεπαντοθlε, ετε παην κτο ταντα. Qui ergo nihil legetunt, aut audiverunt, aut  
+      <lb ed="#C" n="2"/>sunt imperiti, &amp; tamen de divinis rebus disputare audent, ij jure 
+      repre<lb ed="#C" n="3" break="no"/>hendendi sunt: atque hos intelligit Nazianzenus. Debent enim 
+      imperi<lb ed="#C" n="4" break="no"/>ti disputationes aliis relinquere. At hortatur idem omnes ad Scripturae 
+      <lb ed="#C" n="5"/>lectionem ex illo Davidis Psal. 1. 2. Sed meditabitur in lege Domini die ac 
+      <lb ed="#C" n="6"/>nocte, &amp; ex Deut6. Imo sapius (inquit eodem in loco) de Deo cogitare, 
+      <lb ed="#C" n="7"/>quam spirare debemus, μγημονθδτεον το Θει μαλλον,  αναπνδσεον. Et, si fieri 
+      pos<lb ed="#C" n="8" break="no"/>set, ὕδεν αλλο ωρακτοον, nihil aliud agere. Non favet ergo Pontificiis 
+      do<lb ed="#C" n="9" break="no"/>ctissimus Nazianzenus. 
+      </p>
+            <p xml:id="wWpoi1-e15648-d1e618">
+               <lb ed="#C" n="10"/>Quintum nostrum argumentum est hujusmodi. Christus docuit 
+      lin<lb ed="#C" n="11" break="no"/>gua vemacula: sic Apostoli &amp; discipuli Christi, cum in die Pentecostes. 
+      <lb ed="#C" n="12"/>Evangelium lingua cognita annunciarunt, tum etiam postea, cum in 
+      <lb ed="#C" n="13"/>orbem terrratum disseminati sunt, omnes gentes sua ac patria lingua 
+      do<lb ed="#C" n="14" break="no"/>cuerunt. Hinc ita concludimus: Sacra Evangelij docttina non 
+      conta<lb ed="#C" n="15" break="no"/>minatur, cum lingua vernacula annunciatur aut docetur, ergo nec cum 
+      <lb ed="#C" n="16"/>vemacule scribitur aut legitur. Hoc Remnitij argumentum est, quod 
+      Ie<lb ed="#C" n="17" break="no"/>suita ait, in dictatis manuscriptis, non valere vnum obolum. Sed de 
+      o<lb ed="#C" n="18" break="no"/>bolis non laboramus. Quare vero non valet? Primo (inquit)quia a 
+      prae<lb ed="#C" n="19" break="no"/>dicatione verbi ad scriptionem non sequitur argumentum, cum in 
+      praedicati<lb ed="#C" n="20" break="no"/>one omnia populo explicentur, vt possint intelligere; at in scriptione 
+      <lb ed="#C" n="21"/>nude singula proponuntur. Secundo, quia Apostoli variis linguis 
+      praedi<lb ed="#C" n="22" break="no"/>carunt, at vna tantum lingua omnes scripserunt. Istam Iesuitae 
+      respon<lb ed="#C" n="23" break="no"/>sionem examinemus. Fateor quidem primo, verbum praedicatum multo 
+      <lb ed="#C" n="24"/>melius intelligi, quam cum nude legitur: quia cum praedicatur, 
+      expli<lb ed="#C" n="25" break="no"/>cantur singula, &amp; ad vsum populi varie accommodantur, ac referuntur,  
+      <lb ed="#C" n="26"/>quod in nuda lectione nequaquam fieri potest. Debet tamen idem 
+      ver<lb ed="#C" n="27" break="no"/>bum lingua vernacula populo proponi, vt dum prae dicatur verbum, 
+      ha<lb ed="#C" n="28" break="no"/>beant libros sacros in manibus, atque ita videant, num id verbum Dei 
+      <lb ed="#C" n="29"/>sit, quod illis proponitur, quemadmodum de Berrhocensibus legimus, 
+      <lb ed="#C" n="30"/>Act. 17. alioqui cuivis liceret populo quidvis tradere ac praescribere, 
+      tan<lb ed="#C" n="31" break="no"/>quam Dei verbum: populus vero ex hac lectione ac praedicatione 
+      Scri<lb ed="#C" n="32" break="no"/>pturarum fructum solidum &amp; yberrimum percipiet. Et quamvis non 
+      sta<lb ed="#C" n="33" break="no"/>tim omnia intelligunt, cum legunt, tamen multa intelligunt, &amp; 
+      plura<lb ed="#C" n="34" break="no"/>quotidie intelligent, si pergant in legendo. Quae hodie obscura sunt, cras 
+      <lb ed="#C" n="35"/>erunt perspicua: quae iam ignota sunt, postea vsu &amp; exercitatione fient. 
+      <lb ed="#C" n="36"/>notiora. Deinde vero, fateor etiam Apostolos vna tantum lingua 
+      scri<lb ed="#C" n="37" break="no"/>psisse: labor enim infinitus fuisset, omnibus omnium gentium linguis 
+      ea<lb ed="#C" n="38" break="no"/>dem scripsisse: dico tamen hanc vnam linguam omnium vulgarissimam 
+      <!--184.xml-->
+      <pb ed="#L" n="175"/>
+               <lb ed="#C" n="1"/>ac communissimam fuisse, quo Scriptura facilius ad plurimos perveniret, 
+      <lb ed="#C" n="2"/>&amp; in omnes alias linguas melius citiusque transferretur: &amp; versae quidem 
+      <lb ed="#C" n="3"/>Scripturae statimfuerunt, vt diximus, &amp; mox ostendemus. Sed hic lesuita. 
+      <lb ed="#C" n="4"/>similitudinem quandam affert, quae quam multos obolos valeat, vide 
+      a<lb ed="#C" n="5" break="no"/>mus. Nutrices (inquit ille) solent cibum non integrum, sed praemansum, 
+      <lb ed="#C" n="6"/>inora insantium ingereres. ita ministri non debent integrum librum 
+      Scri<lb ed="#C" n="7" break="no"/>pturarum populo tradere. Respondeo, populum non debere semper 
+      <lb ed="#C" n="8"/>infantibus similem esse, vt semper opus habeat cibo praemanso, hoc est, 
+      <lb ed="#C" n="9"/>vt quando verbum audit lingua vernacula, nihil intelligat, nisi a 
+      mini<lb ed="#C" n="10" break="no"/>stro explicetur. Opus quidem est ministri voce, vt ea quae obscura sunt,  
+      <lb ed="#C" n="11"/>melius intelligat, vique excitetur ad illorum officiorum ωροζιν &amp; 
+      exerci<lb ed="#C" n="12" break="no"/>tationem, quae ex verbo didicit: non tamen sic ignarus aut infans esset 
+      <lb ed="#C" n="13"/>debet, vt lectionem Scripturarum non agnoscat ac intelligat. Istam enim 
+      <lb ed="#C" n="14"/>infantiam popularem Apostolus saepe reprehendit, vt 1. Cor. 14. 20. 
+      E<lb ed="#C" n="15" break="no"/>phes. 4. 14. Heb 5. 12. &amp; exercitatos in Scriptura sensus, αθετηρια γγ¬ 
+      <lb ed="#C" n="16"/>μνατατνα, requirit. Non oportet ergo populum semper infantem esse, sed  
+      <lb ed="#C" n="17"/>aliquando virum fieri, &amp; ταπογιτίε καταργείν, 1. Cor. 13. 11. 
+      </p>
+            <p xml:id="wWpoi1-e15648-d1e724">
+               <lb ed="#C" n="18"/>Postremum nostrum argumentum (ne plura cumulem) ab vsu ac 
+      <lb ed="#C" n="19"/>praxi veteris Ecclesiae ducitur. Ex historiis ac libris sanctorum Patrum 
+      <lb ed="#C" n="20"/>constat, Scripturas in omnes linguas versas esse, &amp; nonitum semper a 
+      <lb ed="#C" n="21"/>Pastoribus populum fuisse, vt eas assidue diligenterque legeret. 
+      Hinc<lb ed="#C" n="22" break="no"/>concludimus isto modo: Olim vernacule Scripturae habebantur, &amp; 
+      a<lb ed="#C" n="23" break="no"/>populo etiam legebantur; Ergo &amp; idem hodie licet. Antecedens supra 
+      <lb ed="#C" n="24"/>a nobis probatum est, vbi ostendimus Hieronymum Dalmatice, 
+      Chryso<lb ed="#C" n="25" break="no"/>stomum Armenice, &amp; Viphilam Gotthum quendam Episcopum 
+      Gor<lb ed="#C" n="26" break="no"/>thice Scripturas, &amp; alios in alias linguas, transtulisse. Sed respondet Ie 
+      su<lb ed="#C" n="27" break="no"/>ita, licere quidem Scripturas in vemaculas linguas converti, conversas 
+      <lb ed="#C" n="28"/>autem non debere publice in Ecclesia legi. Quod vero attinet ad vern 
+      a<lb ed="#C" n="29" break="no"/>culas illas versiones Hieronymi, Chrysostomi, &amp; aliorum, de quibus supra 
+      <lb ed="#C" n="30"/>a nobis mentio facta est, illas quidem non omnibus factas esse 
+      com<lb ed="#C" n="31" break="no"/>munes, sed ad quorundam tantum hominum consolationem scriptas 
+      <lb ed="#C" n="32"/>fuisse dicit. At non ita potest evadere per hanc rimam Iesuita. Cum enim 
+      <lb ed="#C" n="33"/>causa harum versionum publica fuerit, &amp; ad omnes spectaverit, vt 
+      scili<lb ed="#C" n="34" break="no"/>cet omnesisto modo Scripturas legere, &amp; cognitionem asse qui possent, 
+      <lb ed="#C" n="35"/>facile refellitur hoc Iesuitae commentum. Atqui id quidem verum esse 
+      <lb ed="#C" n="36"/>apparet ex versionum omnium instituto: &amp; nominatim Gotthicae hanc 
+      <lb ed="#C" n="37"/>fuisse causam, hunc finem, docet Socrat. L. 4. C. 33. vrbarbari discerent 
+      <lb ed="#C" n="38"/>ac intelligerent τu δεια λόγα. Ergo non paucorum tantum gratia versae 
+      <!--185.xml-->
+      <pb ed="#L" n="176"/>
+               <lb ed="#C" n="1"/>Scripturae sunt, sed omnium, ve ab omnibus legerentur. Quae enim alia 
+      <lb ed="#C" n="2"/>harum versionum causa esse potuit? Si legi Scripturas publice noluissent, 
+      <lb ed="#C" n="3"/>eas nunquam vernacule vertissent. Si enim nefas fuisset Scripturas lingua 
+      <lb ed="#C" n="4"/>vernacula publice legi, quemadmodum Papistae nobis persuadere 
+      vo<lb ed="#C" n="5" break="no"/>lunt, num putamus Hieronymum, Chrysostomum, &amp; alios pios Patres, 
+      <lb ed="#C" n="6"/>eas vnquam in proprium ac nativum vulgi sermonem versuros fuisse? 
+      <lb ed="#C" n="7"/>Incredibile hoc quidem &amp; absurdum est. Sed lectas ab omnibus 
+      Scrip<lb ed="#C" n="8" break="no"/>turas fuisse, multis Patrum testimoniis evincam. Hieronymus igitur in 
+      <lb ed="#C" n="9"/>Psal. 80. in hunc modum scribit: Dominus narravit in Scripturis 
+      popule<lb ed="#C" n="10" break="no"/>rum, in Scripturis sanctis. Quae Scriptura (inquit) populis omnibus legitur: 
+      <lb ed="#C" n="11"/>vnde apparet, nullos ab illius lectione prohibitos esse. Sed quare sunt 
+      Scri<lb ed="#C" n="12" break="no"/>pturae omnibus populis lectae? Respondet Hieronymus eodem inloco, 
+      ve<lb ed="#C" n="13" break="no"/>scilicet omnes intelligant. Non ergo vtvnus aliquis, vel pauci intelligant,  
+      <lb ed="#C" n="14"/>quod fingit Iesuita. Chrysostomus in Homil. 1. in Evangel. Iohan, 
+      scri<lb ed="#C" n="15" break="no"/>bit, Syros, At gyptios, Indos, Petsas, Atthiopas, &amp; alias innumeras 
+      <lb ed="#C" n="16"/>gentes dogmata divina in suam linguam transtulisse, atque ita homines 
+      <lb ed="#C" n="17"/>barbaros philosophari didicisse. Si quis illustrius adhuc testimonium 
+      deside<lb ed="#C" n="18" break="no"/>rat, legat Augustinum, Lib. 2. de Doct. Christ. Cap. 5. vbi haec verba 
+      <lb ed="#C" n="19"/>habentur: Ex quo factum est, vt Scriptura divina (qua tantis morbis 
+      huma<lb ed="#C" n="20" break="no"/>narum voluntatum subvenitur) ab una lingua profecta, quae opportune potuu 
+      <lb ed="#C" n="21"/>per orbem terrarum disseminari, per varias interpretum linguas longe lateque 
+      <lb ed="#C" n="22"/>diffusa, innotesceret gentibus ad salutem: quam legentes nihil aliudappetunt, 
+      <lb ed="#C" n="23"/>quam cogitationes uoluntatemque illorum, a quibus conscripta est, invenire, &amp; per 
+      <lb ed="#C" n="24"/>illas voluntatem Dei, secundum quam tales homines loquutos esse credimus: 
+      <lb ed="#C" n="25"/>Haec Augustinus: in cuius verbis haec quinque animadvertimus. 
+      Pri<lb ed="#C" n="26" break="no"/>mum: Scripturam editam fuisse ea lingua, ex qua potuit commodissime 
+      <lb ed="#C" n="27"/>in alias linguas detivari. Secundum: Fuisse varie versam. Tertium: Hoc 
+      <lb ed="#C" n="28"/>modo innotuisse omnibus ad salutem. Quartum: Lectam a populo 
+      fuis<lb ed="#C" n="29" break="no"/>se, quod patet ex his verbis, Quam legentes nihil aliud appetunt. Quintum: 
+      <lb ed="#C" n="30"/>Non lectam modo, verumetiam intellectam fuisse: quod vltima 
+      verba<lb ed="#C" n="31" break="no"/>satis declarant, Theodoret. 5. Lib. de corrigendis Graecorum 
+      affecti<lb ed="#C" n="32" break="no"/>bus, eandem tem confirmat his verbis: Hebraici libri (inquit )Jnon modo 
+      en<lb ed="#C" n="33" break="no"/>Graecum idioma conversi sunt, sed in Romanam quoque linguam, e Egyptiam, 
+      <lb ed="#C" n="34"/>Persicam, Indicam, Armenicamque, &amp; Scythicum, atque adeo 
+      Sauromati<lb ed="#C" n="35" break="no"/>cam, semelque vt dicam, in linguas omnes, quibus ad hunc diem nationes 
+      v<lb ed="#C" n="36" break="no"/>tuntur. Scribi sane nihil apertius potuit. Exhis quae dicta sunt, 
+      Scriptu<lb ed="#C" n="37" break="no"/>ras vernacule versas olim fuisse constat, non modo in quibusdam 
+      lin<lb ed="#C" n="38" break="no"/>guis, sed in omnibus promiscue: quare nunc similiter &amp; vertendae, &amp; le¬ 
+      <!--186.xml-->
+      <pb ed="#L" n="177"/>
+               <lb ed="#C" n="1"/>gendae vernacule sunt. Iam si vellem Patrum sententias persequi, 
+      qui<lb ed="#C" n="2" break="no"/>buis populum ad legendas Scripturas hortantur, infinitus essem. 
+      Chry<lb ed="#C" n="3" break="no"/>sostomus gravissime in multis locis hanc admonitionem vrget, tamque 
+      <lb ed="#C" n="4"/>vehemens in causa est, vt nos prae illo frigere videamur. Is in Homil. 9. 
+      <lb ed="#C" n="5"/>in Epist, ad Coloss huiusmodi verbis vtitur: Audite obsecro seculares 
+      om<lb ed="#C" n="6" break="no"/>nes. Comparate vobis Biblia, animae pharmaca. Si nihil aliud vultis, vel 
+      no<lb ed="#C" n="7" break="no"/>vum Testamentum acquirite, Apostolum, Acta, Cvangelia, continuos ac 
+      se<lb ed="#C" n="8" break="no"/>dulos doctores. Si acciderit moestitia, huc veluti ad Apothecam pharmacorum. 
+      <lb ed="#C" n="9"/>incumbe. Hinc tibi sume solamen mali, sive damnum evenerit, sive mors, 
+      si<lb ed="#C" n="10" break="no"/>ve amissio domesticorum. Imo non incumbe solum, sed assume omnia, 
+      mente<lb ed="#C" n="11" break="no"/>que illa contine. Hoc demum malorum omnium causa est, quod Scripturae 
+      ig<lb ed="#C" n="12" break="no"/>norantur. Et ibidem patresfamilias alloquitur isto modo: Omnia 
+      hame<lb ed="#C" n="13" break="no"/>ris nostris iniscitis: vos oportebat duntaxat a nobis institui, uxores vero 
+      a<lb ed="#C" n="14" break="no"/>vobis, a vobis etiam &amp; liberos. Unde quam inepta responsio Iesuitae fuit,  
+      <lb ed="#C" n="15"/>constat, quando huius Patris testimonium nobis e manibus cripere 
+      co<lb ed="#C" n="16" break="no"/>natur. Non est (inquit) Chrysostomus ita intelligendus, 
+      quemadmo<lb ed="#C" n="17" break="no"/>dum verba prae se ferunt: nimis enim emphatice loquitur. Vult ille 
+      tan<lb ed="#C" n="18" break="no"/>tum populum hisce exhortationibus a ludis ac spectaculis avocare, 
+      qui<lb ed="#C" n="19" break="no"/>bus illo tempore totus deditus fuit. Cui respondere possum, nunc etiam 
+      <lb ed="#C" n="20"/>ludos ac spectacula esse, aliasque multas occasiones, quibus populus a 
+      <lb ed="#C" n="21"/>pietate abducitur, ac proinde hisceetiam diebus hortandum esse 
+      popu<lb ed="#C" n="22" break="no"/>lum, vt legat Scripturas. Sed constat Chrysostomum non tantum ea 
+      de<lb ed="#C" n="23" break="no"/>causa haec dixisse, vtpopulum ab his nugis ac illecebris deterreret, aut 
+      re<lb ed="#C" n="24" break="no"/>vocaret, sed quia putavit ad officium populi pertinere, vt Scripturas 
+      le<lb ed="#C" n="25" break="no"/>geret. Ideoque Homil. 3. de Lazaro, vult populum domi ante 
+      examina<lb ed="#C" n="26" break="no"/>re locum illum, quem ipse in Ecclesia tractaturus esset: verba eius haec 
+      <lb ed="#C" n="27"/>sut: Eoque crebro vobis praedicimus, multis ante diebus, argumentum 
+      de<lb ed="#C" n="28" break="no"/>quo sumus loquuturi, vt his in medio diebus sumpto libro, perpensaque ret 
+      <lb ed="#C" n="29"/>summa tota, postquam intellexeritis quid dictum sit, quid restet dicendum, 
+      <lb ed="#C" n="30"/>mentem vestram instructiorem reddatis ad audienda ea, quae post disserentur.  
+      <lb ed="#C" n="31"/>Idque semper hortor, &amp; hortari non desinam, vt non hic tantum aitendatis iss 
+      <lb ed="#C" n="32"/>quae dicuntur, verumetiam cum domi fueritis, assidue divinarum 
+      Scriptura<lb ed="#C" n="33" break="no"/>ram lectioni vacetis. Tum tollit omnes excusationes quibus populus 
+      vti<lb ed="#C" n="34" break="no"/>solebat, quo minus Scripturas sacras legeret, non modo illam de 
+      spe<lb ed="#C" n="35" break="no"/>ctaculis, sed multo iustiores, cuiusmodi hae fuere; Ego non sum 
+      Mo<lb ed="#C" n="36" break="no"/>nachus, sed Laicus, vκorem habeo, &amp; liberos, &amp; samiliam quam cutem, 
+      <lb ed="#C" n="37"/>&amp; negotiis multis distrahot: hoc ad alios pertinet, non ad me: Haec 
+      om<lb ed="#C" n="38" break="no"/>nia removet, &amp; affirmat semel iterumque, Fieri non potest, non potest. 
+      <!--187.xml-->
+      <pb ed="#L" n="178"/>
+               <lb ed="#C" n="1"/>(inquam) fieri, vt quisquam salutem assequatur, ni perpetuo versetur in 
+      lectio<lb ed="#C" n="2" break="no"/>ne spirituali. Imo tollit etiam excusationem de obscuritate Scripturarum, 
+      <lb ed="#C" n="3"/>atque eam non aliud esse, quam praetextum &amp; velamen negligentiae dicit.  
+      <lb ed="#C" n="4"/>Similiter scribit in Genes. Hom. 29. In Ioan. Hom. 13. in Matt. Hom. 2. 
+      <lb ed="#C" n="5"/>in 2. Thess. Hom. 3. &amp; alibi, quorum testimoniorum enumeratione nunc 
+      <lb ed="#C" n="6"/>supersedeo. Et Chrysostomo ac nobis alij Patres hac in causa 
+      suffra<lb ed="#C" n="7" break="no"/>gantur. Origenes Homil. 12. in Exod. reprehendit populum multis 
+      <lb ed="#C" n="8"/>verbis, quod Scripturam in Ecclesia non attendunt, &amp; domi etiam 
+      me<lb ed="#C" n="9" break="no"/>ditantur. Et idem Homil. 2. in Esaiam ait, utinam omnes faceremus illud 
+      <lb ed="#C" n="10"/>quod scriptum est, Scrutamini Scripturas: Omnes, ait, non docti modo, 
+      <lb ed="#C" n="11"/>aut Episcopi, aut religiosi. Hieronymus in Epist. ad Eustochium, 
+      hor<lb ed="#C" n="12" break="no"/>tatur eam ad assiduam lectionem Scripturarum. Sed respondet hic 
+      le<lb ed="#C" n="13" break="no"/>suita, Eustochium &amp; Paulam eius matrem, non Latine tantum, sed 
+      Grae<lb ed="#C" n="14" break="no"/>ce &amp; Hebraice etiam intellexisse: &amp; addit praeterea, has modestas fuisse 
+      <lb ed="#C" n="15"/>foeminas, cuiusmodi si omnes mulieres essent, sine periculo illis 
+      divina<lb ed="#C" n="16" break="no"/>rum Scripturarum lectio permitti posset. At Hieronymus non 
+      Eustochi<lb ed="#C" n="17" break="no"/>lum tantum, sed &amp; omnes pias mulieres ad Scripturarum lectionem 
+      invi<lb ed="#C" n="18" break="no"/>tat, &amp; in Epitaph. Paulae affirmat, non Eustochium tantum, sed &amp; omnes 
+      <lb ed="#C" n="19"/>sorores Psalmos Davidicos ordine cecinisse: Non licebat(inquit) cuiquam 
+      <lb ed="#C" n="20"/>sororum ionorare Psalmos, &amp; non quotidie aliquid de Scripturis sanctis 
+      disce<lb ed="#C" n="21" break="no"/>re. Ad Salvinam viduam scribens, hortatur eam, vt semper sit in manibus. 
+      <lb ed="#C" n="22"/>eius divina lectio. Sic &amp; Celanciam quandam, quae fuit materfamilias, 
+      <lb ed="#C" n="23"/>hortatur, vt praecipua illius cura sit, divinam legem cognoscere. Atque ad 
+      <lb ed="#C" n="24"/>alias etiam quamplures foeminas eodem modo scribit. Atque hoc 
+      modo<lb ed="#C" n="25" break="no"/>olim omnes &amp; viri &amp; foeminae, quorum animus erat ullo pietatis 
+      studio<lb ed="#C" n="26" break="no"/>incensus, in Scripturarum lectione versabantur, Theodoretus, in libro 
+      <lb ed="#C" n="27"/>supra citato, nempe 57. de corrigend. Graecor. affect. hac de re in hunc 
+      <lb ed="#C" n="28"/>modum scribit: Passim videas(inquit) haec nostratia dogmata non ab iis 
+      so<lb ed="#C" n="29" break="no"/>lum teneri, qui sunt Ecclesiae magistri, populorumque praeceptores, sed ab ipsis 
+      <lb ed="#C" n="30"/>quoque sutoribus, fabrisque ferrariis lanificibus praeterea, cunctis qe artificibus, 
+      <lb ed="#C" n="31"/>quin &amp; a fominis item omnibus, non iis medo, si quae demum illae sunt, quali 
+      <lb ed="#C" n="32"/>teras didicerunt, sed quaestuarus ac sartricibus, ancillisque adeo &amp; pedissequis: 
+      <lb ed="#C" n="33"/>Neque ij solum qui vrbes incolunt homines, sed ipsi quoque agricolae 
+      propeea<lb ed="#C" n="34" break="no"/>dem sciunt, fossoresque adeo ac bubulcos invenias plartarumque consteres de 
+      <lb ed="#C" n="35"/>divina Trinitate rerumque omnium creatione decertantes, humanae item 
+      na<lb ed="#C" n="36" break="no"/>turae magis conscios esse, quam Plato Stegiritesque fuerunt. Haec 
+      Theodore<lb ed="#C" n="37" break="no"/>tus. At Papistae hoc nobis probro obijciunt, quod foeminae inter nos 
+      de<lb ed="#C" n="38" break="no"/>rebus divinis colloquuntur, aut viri, nisi literati. Conqueritur enim val¬ 
+      <!--188.xml-->
+      <pb ed="#L" n="179"/>
+               <lb ed="#C" n="1"/>de hac de re Hosius in Lib. de Sacro vernacule legendo. Profanatio haec 
+      <lb ed="#C" n="2"/>(inquit) Scripturae verius, quam transtatio, non solum zonarios, baiulos, 
+      pi<lb ed="#C" n="3" break="no"/>stores, sartores, sutores, verumetiam zonarias, sartrices, sutrices facit nobis 
+      <lb ed="#C" n="4"/>Apostolas, Prophetissas, doctrices: quasi vero non liceat foeminis, in 
+      quo<lb ed="#C" n="5" break="no"/>cunque tandem vitae genere constitutis, religionis mysteria intelligere. 
+      <lb ed="#C" n="6"/>Et Alphonsus de Castro, Lib. 3. cap. 6. de Iust. punit. Haeret, ait 
+      Scrip<lb ed="#C" n="7" break="no"/>turarum transsationem in linguam vulgatem esse causam omnium 
+      haere<lb ed="#C" n="8" break="no"/>sion: nimirum quia sine dubio haereticum est, quicquid Romano 
+      Pon<lb ed="#C" n="9" break="no"/>tifici displicet. Sed hac de re multo melius Eusebius statuit, Lib. 1. cap. 
+      <lb ed="#C" n="10"/>6. de Demonstrat. Evangel. cum ait, dσε ο αυτα μανθανειν κ φιλόσορειν μη 
+      <lb ed="#C" n="11"/>μόνον αυσρασ, δνα κγιαινας, λλασιως το κι πονητες, κι δελας αμα δεσσοταις, 
+      di<lb ed="#C" n="12" break="no"/>vina dogmata tam a foeminis, quam a viris, tam a pauperibus, quam a 
+      diviti<lb ed="#C" n="13" break="no"/>bus, tam a servis, quam adDominis disci posse. Erasmus vir summi iudicij, 
+      <lb ed="#C" n="14"/>atque ingenij singularis, multis locis necessarium esse asserit, vt 
+      vertan<lb ed="#C" n="15" break="no"/>tur Scripturae, &amp; a populo legantur: &amp; cum a Parisiensibus Theologis: 
+      <lb ed="#C" n="16"/>Job id reprehenderetur, seipsum contra illos defendit, non tantum 
+      vete<lb ed="#C" n="17" break="no"/>ris Ecclesiae exemplo, verumetiam rei ipsius necessitate. Atque haec 
+      de<lb ed="#C" n="18" break="no"/>primo membro secundae partis huius secundae Quaestionis sufficiant.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>
