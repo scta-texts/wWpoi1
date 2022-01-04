@@ -77,7 +77,7 @@
                con<lb ed="#C" n="35" break="no"/>tratiatur <foreign>ἀδεωοτον</foreign>, &amp; <foreign>ἀκοραν</foreign>, quod scilicet incertum est; &amp; nullam ex se 
                <lb ed="#C" n="36"/>authoritatem habet. Ergo si Scripturae in se authenticae fuerunt, prius
                <!--252.xml-->
-               <pb ed="#L" n="243"/>
+               <pb ed="#C" n="243"/>
                <lb ed="#C" n="1" break="no"/>quam Ecclesia authenticas esse declaravit, &amp; nobis quoque fuerunt 
                au<lb ed="#C" n="2" break="no"/>thenticae: alioqui declarari authenticae omnino non potuerunt. 
                
@@ -125,7 +125,7 @@
                <lb ed="#C" n="37"/>semper efficit, vt Scriptura authenticam apud nos authoritatem habeat:  
                <lb ed="#C" n="38"/>At hujus rei causa necessaria ac perpetua, est solum Spiritus sancti testi 
                <!--253.xml-->
-               <pb ed="#L" n="244"/>
+               <pb ed="#C" n="244"/>
                <lb ed="#C" n="1" break="no"/>monium, non publicum Ecclesiae iudicium: Ergo Spiritus sancti 
                testi<lb ed="#C" n="2" break="no"/>monium, non publicum Ecclesiae iudicium, est vera ac propria causa 
                <lb ed="#C" n="3"/>authenticae illius, quam Scriptura apud nos habet, authoritatis. De 
@@ -169,7 +169,7 @@
             </p>
             <p xml:id="wWpoi1-e22395-d1e333">
                <!--254.xml-->
-               <pb ed="#L" n="245"/>
+               <pb ed="#C" n="245"/>
                <lb ed="#C" n="1"/>Quartum nostrum argumentum huiusmodi est: Si Scriptura tantam in 
                <lb ed="#C" n="2"/>se vim ac virtutem habeat, vt mentes nostras ad se rapiat, vt nobis 
                peni<lb ed="#C" n="3" break="no"/>tus persuadeat, vt fidem nobis per se faciat, tum eam certum est per se 
@@ -211,7 +211,7 @@
                <lb ed="#C" n="37"/>&amp; Scriptura commendetur testimonio Ecclesiae? Respondeo, dedisse 
                qui<lb ed="#C" n="38" break="no"/>dem Iohannem testimonium Christo, sed non authoritatem aliquam, 
                <!--255.xml-->
-               <pb ed="#L" n="246"/>
+               <pb ed="#C" n="246"/>
                <lb ed="#C" n="1"/>ne quidem quoad nos. Idem dici potest de Ecclesia, eam scilicet 
                Scriptu<lb ed="#C" n="2" break="no"/>rae testimonium dare, ipsam commendare, &amp; authenticam declarare; 
                <lb ed="#C" n="3"/>nullam autem ipsi authoritatem dare, ne quoad nos. Quod vero Christus 
@@ -229,57 +229,55 @@
                <lb ed="#C" n="15"/>Tum igitur sequetur, neque Scripturam etiam Ecclesiae testimonio egere. 
             </p>
             <p xml:id="wWpoi1-e22395-d1e462">
-               <lb ed="#C" n="16"/>Sextum nostrum argumentum ex eodem capite sumitur vers. 36. ubi 
-               <lb ed="#C" n="17"/>Christus ait, Ego habeo testimonium maius, quam fuit Iohannis illud, ἔχω¬ 
-               <lb ed="#C" n="18"/>τθειαν μειζα Ιωαννο: &amp; tum tria recenset huiusmodi testimonia, nimirum 
+               <lb ed="#C" n="16"/>Sextum nostrum argumentum ex <ref>eodem capite sumitur vers. 36</ref>. ubi 
+               <lb ed="#C" n="17"/>Christus ait, <quote>Ego habeo testimonium maius, quam fuit Iohannis illud, <foreign>ἔχω¬ 
+               <lb ed="#C" n="18"/>τθειαν μειζα Ιωαννο</foreign></quote>: &amp; tum tria recenset huiusmodi testimonia, nimirum 
                <lb ed="#C" n="19"/>opera eius, testimonium Patris, &amp; Scripturas. Hinc sic concludo: Si 
                Scri<lb ed="#C" n="20" break="no"/>pturae de Christo testimonium sit certius iudicio ac testimonio 
                Iohan<lb ed="#C" n="21" break="no"/>nis, tum &amp; Ecclesiae iudicio ac testimonio certius multo ac validius est. 
                <lb ed="#C" n="22"/>Non enim audent Papistae dicere, Ecclesiae iudicium de Scriptura 
                certi<lb ed="#C" n="23" break="no"/>us esse, quam fuit testimonium illud Iohannis de Christo. At primum 
                ve<lb ed="#C" n="24" break="no"/>rum: Christus enim testimonium Scripturae Iohannis testimonio 
-               praepo<lb ed="#C" n="25" break="no"/>nit: ergo &amp; secundum. Quin &amp; scriptum etiam Dei verbumest divina 
+               praepo<lb ed="#C" n="25" break="no"/>nit: ergo &amp; secundum. Quin &amp; scriptum etiam Dei verbum est divina 
                <lb ed="#C" n="26"/>quidem revelatione &amp; coelesti voce certius ac firmius: sic enim 
-               legi<lb ed="#C" n="27" break="no"/>mus, 2. Pet. 1. 19. Num Ecclesia plus audet suo iudicio, quam voci 
+               legi<lb ed="#C" n="27" break="no"/>mus, <ref>2. Pet. 1. 19.</ref> Num Ecclesia plus audet suo iudicio, quam voci 
                divi<lb ed="#C" n="28" break="no"/>nae, ac coelesti revelationi tribuere? Fuit Petrus cum Christo in monte, 
-               <lb ed="#C" n="29"/>atque ibi Dei Patris vocem audivit, &amp; tamen ait, nos habemus δεδατε¬ 
-               <lb ed="#C" n="30"/>σοντον ωρορντηκονλόγον. Si ergo divinis e coelo revelationibus Scriptura 
-               cer<lb ed="#C" n="31" break="no"/>tior sit, multo magis Ecclesiae iudicio testimonioque certior sit necesset 
+               <lb ed="#C" n="29"/>atque ibi Dei Patris vocem audivit, &amp; tamen ait, nos habemus <foreign>δεδατε¬ 
+               <lb ed="#C" n="30"/>σοντον ωρορντηκονλόγον</foreign>. Si ergo divinis e coelo revelationibus Scriptura 
+               cer<lb ed="#C" n="31" break="no"/>tior sit, multo magis Ecclesiae iudicio testimonioque certior sit necesse 
                <lb ed="#C" n="32"/>est. Unde nullam posse cogitari omnino maiorem, aut certiorem, quam 
-               <lb ed="#C" n="33"/>Scripturae, authoritatem, manifestum est. Beza quidem transtulit (δeομν¬ 
-               <lb ed="#C" n="34"/>τορον) firmissimum, sed eodem recidit. Si enim Propheticus sermosit fit 
-               <lb ed="#C" n="35"/>missimus, tum certe revelatione quavis firmior est, summamque in se 
-               fir<lb ed="#C" n="36" break="no"/>mitatem habet.  
+               <lb ed="#C" n="33"/>Scripturae, authoritatem, manifestum est. <name>Beza</name> quidem transtulit 
+               (<foreign>δeομν<lb ed="#C" n="34" break="no"/>τορον</foreign>) firmissimum, sed eodem recidit. Si enim Propheticus sermo sit 
+               fir<lb ed="#C" n="35" break="no"/>missimus, tum certe revelatione quavis firmior est, summamque in se 
+               fir<lb ed="#C" n="36" break="no"/>mitatem habet.
             </p>
             <p xml:id="wWpoi1-e22395-d1e510">
-               <lb ed="#C" n="37"/>Septimum nostrum argumentum sumitur ex 1. Thess. 2. 13. vbi 
-               Pau<lb ed="#C" n="38" break="no"/>lus Thessalonicenses alloquitur in hunc modum: Gratias agimus Deo in¬ 
-               <!--256.xml-->
-               <pb ed="#L" n="247"/>
-               <lb ed="#C" n="1"/>de sinenter, quod acceptum de Deo sermonem, quem audivistis ex nobis, ex 
-               ce<lb ed="#C" n="2" break="no"/>peritis, non vt sermonem hominum, sed (sicut est vere) vi Dei sermonem, 
-               <lb ed="#C" n="3"/>ε δαζαθε κ λόγον ανθρωπον, αηα λόγον θεῦ, qui etiam agit in vobis, qui creditis. Ex 
+               <lb ed="#C" n="37"/>Septimum nostrum argumentum sumitur ex <ref>1. Thess. 2. 13.</ref> vbi 
+               Pau<lb ed="#C" n="38" break="no"/>lus Thessalonicenses alloquitur in hunc modum: <quote>Gratias agimus Deo 
+               in<!--256.xml--><pb ed="#C" n="247"/><lb ed="#C" n="1" break="no"/>desinenter, quod acceptum de Deo sermonem, quem audivistis ex nobis, 
+               exce<lb ed="#C" n="2" break="no"/>peritis, non vt sermonem hominum, sed (sicut est vere) vi Dei sermonem, 
+               <lb ed="#C" n="3"/><foreign>εδαζαθε κ λόγον ανθρωπον, αηα λόγον θεῦ</foreign>, qui etiam agit in vobis, qui creditis</quote>. Ex 
                <lb ed="#C" n="4"/>hoc loco in hunc modum disputo: Si Thessalonicenses, audito tantum 
-               <lb ed="#C" n="5"/>Paulo, Scripturae doctrinam, tanquam divinam, acceperunt &amp; amplexit 
+               <lb ed="#C" n="5"/>Paulo, Scripturae doctrinam, tanquam divinam, acceperunt &amp; amplexi
                <lb ed="#C" n="6"/>sunt, tum sine Ecclesiae iudicio Scriptura divinam apud nos 
                authorita<lb ed="#C" n="7" break="no"/>tem habere debet. At primum verum: De nullo enim alicuius Ecclesiae 
                <lb ed="#C" n="8"/>iudicio vel testimonio tum audierant Thessalonicenses, sed verbum 
-               tan<lb ed="#C" n="9" break="no"/>tum ex ore Pauli acceperant; Ergo &amp; secundum. Ambrosius in illum 
+               tan<lb ed="#C" n="9" break="no"/>tum ex ore <name>Pauli</name> acceperant; Ergo &amp; secundum. <name>Ambrosius</name> in illum 
                lo<lb ed="#C" n="10" break="no"/>cum sic scribit: Tanta devotione receperunt verbum, vt probarent se 
                intellex<lb ed="#C" n="11" break="no"/>isse esse Dei verbum. Sed vnde hoc intelligere potuerunt? sane ex ipsa 
                do<lb ed="#C" n="12" break="no"/>ctrina, &amp; Spiritus sancti testimonio, non ex Ecclesiae cuiusquam, nec 
-               ip<lb ed="#C" n="13" break="no"/>sius Apostoli, authoritate. Quae enim Ecclesia potuit Thessalonicensibus. 
+               ip<lb ed="#C" n="13" break="no"/>sius Apostoli, authoritate. Quae enim Ecclesia potuit Thessalonicensibus 
                <lb ed="#C" n="14"/>persuadere pondere testimonij sui, vt Paulum susciperent, eiusque 
                sermo<lb ed="#C" n="15" break="no"/>nibus, tanquam divinis, assentirentur? Nam ignotus illis ipse Apostolus 
                <lb ed="#C" n="16"/>fuit, &amp; nullam vsquam habuit authoritatem, nisi propter doctrinam, cuius 
                <lb ed="#C" n="17"/>minister &amp; praeco fuerat. Ergo ipsa doctrina omnem sibi per se 
-               authorita<lb ed="#C" n="18" break="no"/>tem fidemque conciliavit. Similiter legimus, Galat. 4. 14. Oos me 
-               rece<lb ed="#C" n="19" break="no"/>pistis (inquit Paulus) vt eAngelum Dei, imo vt Christum Iesum. Cuius 
+               authorita<lb ed="#C" n="18" break="no"/>tem fidemque conciliavit. Similiter legimus, <ref>Galat. 4. 14</ref>. <quote>Vos me 
+               rece<lb ed="#C" n="19" break="no"/>pistis (inquit Paulus) vt Angelum Dei, imo vt Christum Iesum</quote>. Cuius 
                <lb ed="#C" n="20"/>quaeso Ecclesiae commendatio hanc Paulo apud Galatas authoritatem 
-               <lb ed="#C" n="21"/>ac dignitatem ac quisivit? nullius. Ergo doctrina illa, quam secum 
-               Apo<lb ed="#C" n="22" break="no"/>stolus afferebat, Calatarum animos acerrimis stimulis ad Paulum 
+               <lb ed="#C" n="21"/>ac dignitatem acquisivit? nullius. Ergo doctrina illa, quam secum 
+               Apo<lb ed="#C" n="22" break="no"/>stolus afferebat, Galatarum animos acerrimis stimulis ad Paulum 
                am<lb ed="#C" n="23" break="no"/>plectendum &amp; venerandum excitabat, &amp; se suumque ministrum satis 
-               per<lb ed="#C" n="24" break="no"/>se commendabat. Sic Act. 17. 11. Beroeenses audito Paulo, ipsius 
+               per<lb ed="#C" n="24" break="no"/>se commendabat. Sic <ref>Act. 17. 11</ref>. Beroeenses audito Paulo, ipsius 
                do<lb ed="#C" n="25" break="no"/>ctrinam non ad alicuius Ecclesiae indicium, sed ad ipsius Scripturae 
                a<lb ed="#C" n="26" break="no"/>mussim exigebant. Apparet ergo Scripturam ex se, sine Ecclesiae 
                au<lb ed="#C" n="27" break="no"/>thoritate ac testimonio, divinam, Canonicam, &amp; authenticam, etiam 
@@ -297,7 +295,7 @@
                <lb ed="#C" n="37"/>quod perabsurdum est. Paulus de lege affirmat, Rom. 2. 15. eam in 
                cor<lb ed="#C" n="38" break="no"/>dibus nostris scriptam esse. Credimus ergo legi, non propter Ecclesiae iu¬ 
                <!--257.xml-->
-               <pb ed="#L" n="248"/>
+               <pb ed="#C" n="248"/>
                <lb ed="#C" n="1"/>dicium aut testimonium, sed quia lumen quoddam Legis in cordibus 
                <lb ed="#C" n="2"/>nostris impressum atque insculptum retinemus. Quod fiergo lex, quae est 
                <lb ed="#C" n="3"/>altera pars verbi divini, ex se suoque lumine agnoscitur, quod in animis 
@@ -343,7 +341,7 @@
                testimo<lb ed="#C" n="37" break="no"/>nio credent, multo minus adduci poterunt, vt fidem habeant voci &amp; 
                ver<lb ed="#C" n="38" break="no"/>bis Ecclesiae. Iansenius Papista ait esse argumentum a maiori, quia ficut 
                <!--258.xml-->
-               <pb ed="#L" n="249"/>
+               <pb ed="#C" n="249"/>
                <lb ed="#C" n="1"/>firmius est, quod mandatur literis, ita est culpabilius &amp; maius non credere, 
                <lb ed="#C" n="2"/>scriptis, quam non credere verbis. Et Theophylactus hunc locum sic 
                inter<lb ed="#C" n="3" break="no"/>pretaum: Si non creditis verbis scriptis, quomodo credetis verbis meis non 
@@ -387,7 +385,7 @@
                e<lb ed="#C" n="37" break="no"/>tiam divinum iudicium Stapletono videtur? quidni ergo in Scripturae 
                ip<lb ed="#C" n="38" break="no"/>sius aeque ac Ecclesiae indicio ac quiescamus? Sed cum sic respondet, ni¬ 
                <!--259.xml-->
-               <pb ed="#L" n="250"/>
+               <pb ed="#C" n="250"/>
                <lb ed="#C" n="1"/>hil agit. Non enim quaeritur, vtrum Ecclesiae iudicium in se divinumsit,J  
                <lb ed="#C" n="2"/>sed vnde nobis constet divinum esse: nisi forsan ipse sit oblitus causaej 
                <lb ed="#C" n="3"/>suae. Hoc ille omnino non docet. Ait modo Deum per Ecclesiam loqui,  
@@ -427,7 +425,7 @@
                Sie<lb ed="#C" n="37" break="no"/>nim Ecclesiae indicium faciat, vt Scripturae libri sint Canonici nobis, 
                <lb ed="#C" n="38"/>tum certe facit, vt ea quae in Scripturis continentur, a nobis vera esse iu¬ 
                <!--260.xml-->
-               <pb ed="#L" n="251"/>
+               <pb ed="#C" n="251"/>
                <lb ed="#C" n="1"/>dicentur ac credantur: quod quidem siita se habeat, nonne fides nostra 
                <lb ed="#C" n="2"/>in Ecclesiae vocem vitimo resolvitur? Propter Ecclesiam credimus &amp; 
                Scri<lb ed="#C" n="3" break="no"/>pturis, &amp; omnibus quae tradita sunt in Scripturis: hoc enim est quod  
@@ -467,7 +465,7 @@
                ma<lb ed="#C" n="37" break="no"/>gistratus ac ministros regios tenetur, sed tamen est maior authoritas, quam 
                <lb ed="#C" n="38"/>horum magistratuum, propter quam in pace teneatur, ipsius sane Prin¬ 
                <!--261.xml-->
-               <pb ed="#L" n="252"/>
+               <pb ed="#C" n="252"/>
                <lb ed="#C" n="1"/>cipis, cuius latissime patet per omnes suae ditionis partes authoritas atque 
                <lb ed="#C" n="2"/>dominatus. 
             </p>
@@ -509,7 +507,7 @@
                <lb ed="#C" n="37"/>consundit. Quaero ergo ab eo, vtrum testimonium illud Dei per 
                Ecclesi<lb ed="#C" n="38" break="no"/>am loquentis, ab ipso Ecclesiae iudicio ac testimonio distinguat, &amp; aliud 
                <!--262.xml-->
-               <pb ed="#L" n="253"/>
+               <pb ed="#C" n="253"/>
                <lb ed="#C" n="1"/>quiddam ab eofaciat; an cum eo confundat, &amp; idem plane esse statuat?  
                <lb ed="#C" n="2"/>Si distinguat, tum concedit id quod nos volumus, authoritatem nemper 
                <lb ed="#C" n="3"/>Scripturae, quoad nos, Dei ipsius testimonioniti: si vero confundat, tum 
@@ -551,7 +549,7 @@
                <lb ed="#C" n="37"/>Quamobrem eo tandem rediguntur, vt fateantur se alio, quam Ecclesiae, 
                <lb ed="#C" n="38"/>testimonioniti, eoqueprivato, quippe quod in vno homine lateat. Ab¬ 
                <!--263.xml-->
-               <pb ed="#L" n="254"/>
+               <pb ed="#C" n="254"/>
                <lb ed="#C" n="1"/>surdum autem est, somniare aliquod forum publicum Spiritus sanctis 
                <lb ed="#C" n="2"/>imo Scripturae ipsae plane contrarium docent, Spiritus sancti 
                testimoni<lb ed="#C" n="3" break="no"/>lum non nisi privatum, internum, &amp; arc anum esse. 2. Cor. 1. 21. Paulus 
@@ -591,7 +589,7 @@
                <lb ed="#C" n="37"/>qui non acquiescit, is certe Ecclesiae etiam authoritatem contemnet. 
                <lb ed="#C" n="38"/>Calumniatur praeterea, nos Ecclesiae iudicium mere humanum faceres 
                <!--264.xml-->
-               <pb ed="#L" n="255"/>
+               <pb ed="#C" n="255"/>
                <lb ed="#C" n="1"/>quod quidem falsumest. Etsi enim dicamus Ecclesiam ex hominibus. 
                <lb ed="#C" n="2"/>constare, tamen quandoeius testimonium cum Spiritus sancti indicio 
                ac<lb ed="#C" n="3" break="no"/>testimonio conspirat, &amp; cum verbo Dei consentit, tum divinum esse 
@@ -634,7 +632,7 @@
                <lb ed="#C" n="38"/>26. 22. vbiPaulus inhunc modum loquiturt, eAuxilium a Deo nactus, inl 
                <lb ed="#C" n="39"/>bunc usque, diemperstiti, IestificageistaupQuι 
                <!--265.xml-->
-               <pb ed="#L" n="256"/>
+               <pb ed="#C" n="256"/>
                <lb ed="#C" n="1"/>quam dicens extra ea, quae Prophetae ac Moses futura praedixerunt: αἔδενοκτός 
                <lb ed="#C" n="2"/>λόγαον. Quicquid ergo docuerunt Apostoli, ex Prophetis &amp; Mose 
                sum<lb ed="#C" n="3" break="no"/>pserunt: extra vero illos nihil docuerunt. Idem etiam confirmari potest. 
@@ -674,7 +672,7 @@
                intelli<lb ed="#C" n="37" break="no"/>gi, &amp; Prophetas alios hic designari ait, quam sunt hi, de quibus Eph. 4U12I 
                <lb ed="#C" n="38"/>&amp; I. Cor. 12. 28. legimus, Eadem est sententia Thomae Aquinatis, eademi 
                <!--266.xml-->
-               <pb ed="#L" n="257"/>
+               <pb ed="#C" n="257"/>
                <lb ed="#C" n="1"/>Dionysij Carthusiani, &amp; aliorum nonnullorum Papistarum, vt &amp; cum 
                <lb ed="#C" n="2"/>suis pugnare Stapletonum intelligamus, De primo ae quivoco diximus, 
                <lb ed="#C" n="3"/>restatiam vt ad secundum veniamus. 
@@ -716,7 +714,7 @@
                ve<lb ed="#C" n="37" break="no"/>to est, quia illorum constantia infirmiores sustentantur, atque 
                corrobo<lb ed="#C" n="38" break="no"/>trantur, illotum praedicatione coelorum quodammodo fores aperiuntur,  
                <!--267.xml-->
-               <pb ed="#L" n="258"/>
+               <pb ed="#C" n="258"/>
                <lb ed="#C" n="1"/>nsic vt sine verbi ministerio nullus cuiquam ad salutem aditus patere 
                pos<lb ed="#C" n="2" break="no"/>sit. Interim tamen verum illud est, quod supra posuimus, pastores in 
                ver<lb ed="#C" n="3" break="no"/>bo fundatos esse, nec posse nisi ex ipso verbo ojudicari. qui veri, bonm, 
@@ -756,7 +754,7 @@
                certissi<lb ed="#C" n="37" break="no"/>ma in se ac firmissima, quae &amp; Dei ipsius authoritate probantur, &amp; se 
                <lb ed="#C" n="38"/>mutuo testimonio communiunt. Subiungit Stapletonus, Scripturam ita 
                <!--268.xml-->
-               <pb ed="#L" n="259"/>
+               <pb ed="#C" n="259"/>
                <lb ed="#C" n="1"/>principium esse in religione, vt tamen vox Ecclesiae prior sit. Quod 
                qui<lb ed="#C" n="2" break="no"/>dem falsissimum est, cum Ecclesiae vox omnis ex Scriptura nascatur.  
                <lb ed="#C" n="3"/>Praeterea, quod docetur, prius semper est eo, quod docet. At Scriptura 
@@ -798,7 +796,7 @@
                de<lb ed="#C" n="37" break="no"/>bet. Argimentum optime sequitur, si judicium authoritativum (ut 
                lu<lb ed="#C" n="38" break="no"/>tisconsulti loquuntur) intelligatur, quale Papistae volunt. Ante cedens 
                <!--269.xml-->
-               <pb ed="#L" n="260"/>
+               <pb ed="#C" n="260"/>
                <lb ed="#C" n="1"/>probatur duplici testimonio Augustini. Primum habetur in Lib. 112. 
                con<lb ed="#C" n="2" break="no"/>tra Faust. Manich. cap. 5. vbi ait Augustinus, Scripturam in sede quadam 
                <lb ed="#C" n="3"/>sublimiter constitutam esse, cui serviat omnis fidelis ac pius intellectus. 
@@ -838,7 +836,7 @@
                iudi<lb ed="#C" n="37" break="no"/>care. Atque hoc sine exceptione omnes mortales facere debent, imo 
                <lb ed="#C" n="38"/>vel ipsi Peaesules, &amp; ij quisummam in Ecclesia authoritatem habent,  
                <!--270.xml-->
-               <pb ed="#L" n="261"/>
+               <pb ed="#C" n="261"/>
                <lb ed="#C" n="1"/>Sed hic Stapletonus ait se velle nobis haereticis ora statim obstruerc: 
                <lb ed="#C" n="2"/>quod quemadmodum praestiterit attendamus. Calvinus 1. Lib. Instit. 
                <lb ed="#C" n="3"/>ap. 9. contra eos disputat, qui Enthusiasinos inducunt, atque illorum 
@@ -880,7 +878,7 @@
                mitacu<lb ed="#C" n="37" break="no"/>la, quorum mentionem facit Moses. Math. 16. 17. Ecatus es Simon 
                Bar<lb ed="#C" n="38" break="no"/>Iona, quia caro &amp; sanguis non revelavit haec tibi, sed Pater meus, qui est in¬ 
                <!--271.xml-->
-               <pb ed="#L" n="262"/>
+               <pb ed="#C" n="262"/>
                <lb ed="#C" n="1"/>coelis, inquit Christus Petro. Audierat quidem Petrus lohannem 
                Bapti<lb ed="#C" n="2" break="no"/>stam, audierat etiam ipsum Christum, &amp; multa eius mitacula viderat; 
                ta<lb ed="#C" n="3" break="no"/>men non ante credere Petrus potuit, quam divina revclatio ac cessit: 
@@ -922,7 +920,7 @@
                <lb ed="#C" n="37"/>dicerent, quae scribebant, non tamen hoc illorum nobis ad fidem 
                suffi<lb ed="#C" n="38" break="no"/>ceret testimonium, sed internum etiam Spiritus sancti testimonium ac¬ 
                <!--272.xml-->
-               <pb ed="#L" n="263"/>
+               <pb ed="#C" n="263"/>
                <lb ed="#C" n="1"/>cedere oporteret, &amp; ipsam veritatem nobis divinitus persuaderi; 
                certe<lb ed="#C" n="2" break="no"/>nec Ecclesiae testimonio credemus, nisi idem Spiritus sancti 
                testimoni<lb ed="#C" n="3" break="no"/>lum identidem accedat. Idem etiam Augustinus, in Lib. contra 
@@ -964,7 +962,7 @@
                vt<lb ed="#C" n="37" break="no"/>que ea, quae in Scripturis accepimus, certo credamus, interno Spiritus 
                <lb ed="#C" n="38"/>sancti testimonio opus est Canisius in Catechismo, in cap. de Praeceptis 
                <!--273.xml-->
-               <pb ed="#L" n="264"/>
+               <pb ed="#C" n="264"/>
                <lb ed="#C" n="1"/>Ecclesiae, sect.16. ait nos Scripturae, propter testimonium divim Spiritus in 
                <lb ed="#C" n="2"/>illa loquentis, credere, adhaerere, ac tribuere maximam authoritatem. Hinc 
                <lb ed="#C" n="3"/>duo colliguntur: Primum, Spiritum sanctum loqui in Scriptura: 
