@@ -65,7 +65,7 @@
       novo<lb ed="#C" n="7" break="no"/>Testamento puriores esse Latina illa editione ostendemus. 
       </p>
             <p xml:id="wWpoi1-e12980-d1e131">
-               <lb ed="#C" n="8"/>Primus locus est Matth. 9. v. 13. <quote source="http://scta.info/resource/mt9_13@11-17">Non veni vocare iustos, sed peccatores.</quote>
+               <lb ed="#C" n="8"/>Primus locus est Matth. 9. v. 13. <quote xml:id="wWpoi1-e12980-Qd1e128" source="http://scta.info/resource/mt9_13@11-17">Non veni vocare iustos, sed peccatores.</quote>
       <lb ed="#C" n="9"/>Remnitius ait sententiam pulchetrimam esse mutilatam, quia deest 
       in<lb ed="#C" n="10" break="no"/>Latino, ad poenitentiam. Tria sunt capita defensionis Bellarminianae: 
       pri<lb ed="#C" n="11" break="no"/>mum, in quibusdam Latinis inveniri illam particulam. Respondeo: at in 
@@ -84,7 +84,7 @@
       <lb ed="#C" n="24"/>non justos, est hortari ad poenitentiam eos, qui egent. Respondeo: esse 
       ne<lb ed="#C" n="25" break="no"/>cessarium perspicuum est, quia Lucas eam sine vlla controversia habet,  
       <lb ed="#C" n="26"/>Cap. 5. v. 32. Sic enim apud Lucam legimus, &amp; omnia exemplaria
-      con<lb ed="#C" n="27" break="no"/>veniunt, <quote source="http://scta.info/resource/lc5_32">ὕκ ἐληλυθα καλέσται διμαοις, αλλ αρετθλός εισ μετόνοιαν.</quote> Tum hoc
+      con<lb ed="#C" n="27" break="no"/>veniunt, <quote xml:id="wWpoi1-e12980-Qd1e172" source="http://scta.info/resource/lc5_32">ὕκ ἐληλυθα καλέσται διμαοις, αλλ αρετθλός εισ μετόνοιαν.</quote> Tum hoc
       eti<lb ed="#C" n="28" break="no"/>am ratio docet. Nam aliud est vocare peccatores, aliud 
       adpoenitenti<lb ed="#C" n="29" break="no"/>am vocare peccatores, quemadmodum Theophylactus in hunc locum,: 
       <lb ed="#C" n="30"/>Mattl. aei verissime scripsit, εκίνα μεινωυστν ακρτθλοι, αλι ἵνα μογοήσοσιν: non 
@@ -116,7 +116,7 @@
       ex<lb ed="#C" n="15" break="no"/>positio eam esse falsam arguit.  
       </p>
             <p xml:id="wWpoi1-e12980-d1e238">
-               <lb ed="#C" n="16"/>Tertius locus est Rom. 1. 4. <quote source="http://scta.info/resource/rom1_4@1-5">Qui praedestinatus est filius Dei.</quote> In Graeco
+               <lb ed="#C" n="16"/>Tertius locus est Rom. 1. 4. <quote xml:id="wWpoi1-e12980-Qd1e241" source="http://scta.info/resource/rom1_4@1-5">Qui praedestinatus est filius Dei.</quote> In Graeco
       <lb ed="#C" n="17"/>est δριθεννος, id est, qui declavatus, sive manifestatus est. Bellarminus sic ait,  
       <lb ed="#C" n="18"/>lειζειν nunquam in Scripturis significat declarare, &amp; omnes Latini sic 
       le<lb ed="#C" n="19" break="no"/>gerunt, Qui praedestinatus est. Respondeo: primo, oeζειν in hoc loco 
@@ -136,7 +136,7 @@
       dubi<lb ed="#C" n="33" break="no"/>tem ad Doctorum hominum vniversum senatum referre. 
       </p>
             <p xml:id="wWpoi1-e12980-d1e281">
-               <lb ed="#C" n="34"/>Quartus locus est Rom. 1. in fine, vbi in vulgata editione habetur, <quote source="http://scta.info/resource/rom1_32@1-22">Qui
+               <lb ed="#C" n="34"/>Quartus locus est Rom. 1. in fine, vbi in vulgata editione habetur, <quote xml:id="wWpoi1-e12980-Qd1e287" source="http://scta.info/resource/rom1_32@1-22">Qui
       <lb ed="#C" n="35"/>cum iustitiam Dei cognovissent, non intellexerunt, quoniam qui talia agunt,
       <lb ed="#C" n="36"/>digni sunt morte, non solum qui ea faciunt, sed etiam qui consentiunt
       facienti<lb ed="#C" n="37" break="no"/>bus,</quote> Hunc locum Remnitius, Valla, Erasmus, Faber, &amp; alij cormuptum
@@ -216,7 +216,7 @@
       Ambrosio<lb ed="#C" n="25" break="no"/>Catharino, in quarto Lib. annotat.  
       </p>
             <p xml:id="wWpoi1-e12980-d1e447">
-               <lb ed="#C" n="26"/>Octavus locus est Ephes. 6. 13. <quote source="http://scta.info/resource/eph6_13@5-14">Dt possitis resistere in die malo, &amp; in
+               <lb ed="#C" n="26"/>Octavus locus est Ephes. 6. 13. <quote xml:id="wWpoi1-e12980-Qd1e455" source="http://scta.info/resource/eph6_13@5-14">Dt possitis resistere in die malo, &amp; in
       om<lb ed="#C" n="27" break="no"/>nibus perfecti stare.</quote> Est in Graeco, ἀπαντα κατρργισαμιοι, quod non
       signifi<lb ed="#C" n="28" break="no"/>cat, in omnibus perfecti: Aliqui interpretantur, omnibus perfectis, id est, 
       <lb ed="#C" n="29"/>cum omnia arma, quaevobis sunt ad hanc militiam necessaria, 
@@ -287,7 +287,7 @@
       di<lb ed="#C" n="8" break="no"/>sputandi. 
       </p>
             <p xml:id="wWpoi1-e12980-d1e595">
-               <lb ed="#C" n="9"/>Vltimus locus est, 1. Iohan. 5. 13. <quote source="http://scta.info/resource/Iio5_13@1-15">Haec scribo vobis, vi sciatis quoniam
+               <lb ed="#C" n="9"/>Vltimus locus est, 1. Iohan. 5. 13. <quote xml:id="wWpoi1-e12980-Qd1e606" source="http://scta.info/resource/Iio5_13@1-15">Haec scribo vobis, vi sciatis quoniam
       <lb ed="#C" n="10"/>vitam habetis aeternam, qui creditis in nomine Filij Dei:</quote> &amp; sic quidem
       ali<lb ed="#C" n="11" break="no"/>qui codices Graeci habent, quemadmodum Robertus Stephanus 
       testa<lb ed="#C" n="12" break="no"/>tur in suo Graeco Testamento. Sed plerique aliter, etiam Complutensis, 
@@ -316,7 +316,7 @@
       A<lb ed="#C" n="33" break="no"/>liud autem est multum loqui, aliud ζατολσειν: non enim Christus 
       prohi<lb ed="#C" n="34" break="no"/>bet longas preces, sed verborum eorundem molestam &amp; hypocriticam, 
       <lb ed="#C" n="35"/>re petitionem. &amp; vers. 11. ἀpτον ἐποσεον, transtulit, panem supersubstantialem. 
-      <lb ed="#C" n="36"/>&amp; vers. 25. in Latino est, <quote source="http://scta.info/resource/mt6_25@4-10">ne solliciti sitis anime vestrae quid manducetis:</quote> in
+      <lb ed="#C" n="36"/>&amp; vers. 25. in Latino est, <quote xml:id="wWpoi1-e12980-Qd1e670" source="http://scta.info/resource/mt6_25@4-10">ne solliciti sitis anime vestrae quid manducetis:</quote> in
       <lb ed="#C" n="37"/>Graeco, n ραγητε, καί τι τιητε, quid comedatis, &amp; quid bibatis. &amp; vers. 32. in 
       <lb ed="#C" n="38"/>Latino, Scit pater vester: in Graeco, ἐ πατῆρ υμόνὀ ἐρανιος. Cap. 7. vers.  
       <!--154.xml-->
@@ -331,12 +331,12 @@
       <lb ed="#C" n="8"/>V. 21. in Latino est, quinque millia: in Graeco, ώσει ποθτακιγιλιοι, circiter 
       quin<lb ed="#C" n="9" break="no"/>quies mille. Ver. 26. deest nomen, discipuli: nam in Graeco est, iδοντες ἀυτὸν,  
       <lb ed="#C" n="10"/>όι μαθκrαι, cum sit in Latino tantum, videntes eum. C. 15. 8. in Latino est,
-      <lb ed="#C" n="11"/><quote source="http://scta.info/resource/mt15_8@1-5">populus hic labiis me honorat:</quote> cum sit in Graeco sic, εγνιζει μοιὀ λαός οα τῳ σο¬
+      <lb ed="#C" n="11"/><quote xml:id="wWpoi1-e12980-Qd1e705" source="http://scta.info/resource/mt15_8@1-5">populus hic labiis me honorat:</quote> cum sit in Graeco sic, εγνιζει μοιὀ λαός οα τῳ σο¬
       <lb ed="#C" n="12"/>ματη θίστον, μι τωις χειλεσι με τιμα: appropinquat mi populus hic ore suo, &amp; labiis me 
       <lb ed="#C" n="13"/>honorat. V. 31: deest, mancos sanos, cum in Graeco sit, μλες vιός. C. 17. 19. 
       <lb ed="#C" n="14"/>in Latino est, quare nos non potuimus eucere illum, pro, illud, scilicet, 
       dae<lb ed="#C" n="15" break="no"/>monium: in Graeco est, ἐκζαλείν αυτῳ. Cap. 18. vers. vlt. deest in Latino, 
-      <lb ed="#C" n="16"/>offensas eorum, τα παργπτυματα ρυτόν. Cap. 19. 17. in Latino sic est, <quote source="http://scta.info/resource/mt19_17@4-12">quid
+      <lb ed="#C" n="16"/>offensas eorum, τα παργπτυματα ρυτόν. Cap. 19. 17. in Latino sic est, <quote xml:id="wWpoi1-e12980-Qd1e719" source="http://scta.info/resource/mt19_17@4-12">quid
       <lb ed="#C" n="17"/>me interregas de bono? unus est bonus, Deus:</quote> in Graecis vero plerisque &amp;
       <lb ed="#C" n="18"/>commendatissimis codicibus, τ με λόγες αγαθεν, ἀδεις αγαθες, ei μη εις, o 
       <lb ed="#C" n="19"/>θeos: hoc est, cur me dicis bonum? nullus est bonus, nisi vnus, Deus. Capit.  
@@ -350,13 +350,13 @@
       tri<lb ed="#C" n="27" break="no"/>duum: &amp; vers. 71. in Latino est, exeunte illo ianuam, pro, exeuntem eum in 
       <lb ed="#C" n="28"/>vestibulum, cum in Graeco sit, iξξθεντα ἀυτὸν εἰς τὸν τυλόνα. Capit. 28. 2. in 
       <lb ed="#C" n="29"/>Latino, post, revolvit lapidem, deest, ab ostio, &amp;ο δυεας, Marc. 2. 7. in
-      Latino<lb ed="#C" n="30" break="no"/>est, <quote source="http://scta.info/resource/mc2_7@1-5">quid hic sic loquitur? blasphemat,</quote> pro, quid iste ita loquitur blasphemias:
+      Latino<lb ed="#C" n="30" break="no"/>est, <quote xml:id="wWpoi1-e12980-Qd1e752" source="http://scta.info/resource/mc2_7@1-5">quid hic sic loquitur? blasphemat,</quote> pro, quid iste ita loquitur blasphemias:
       <lb ed="#C" n="31"/>aδι ττολαλεί ιλασῳημιαςς Marc. 3. 29. in Latino, reus erit aeterns 
       deli<lb ed="#C" n="32" break="no"/>cti, pro, aeterni iudicij, αlονiν κρισεως, Mar. 14. 14. in Latino est, ubi est 
       refe<lb ed="#C" n="33" break="no"/>ctio mea? pro, vbi est diversorium? το ἐσι το κατυλυμα, Luc. 1. 28. in 
       Latino<lb ed="#C" n="34" break="no"/>est, ave, gratia plena: sed κεχαριτωιλον, est gratiosa, vel gratis dilecta, non 
       <lb ed="#C" n="35"/>plena gratiae. Luc. 2. 40. in Latino est, puer crescebat &amp; confortabatur, 
-      vbi<lb ed="#C" n="36" break="no"/>deest, spiritu. Luc. 3. 13. in Latino est, <quote source="http://scta.info/resource/lc3_13@6-13">nihil amplius quam quod constitutum
+      vbi<lb ed="#C" n="36" break="no"/>deest, spiritu. Luc. 3. 13. in Latino est, <quote xml:id="wWpoi1-e12980-Qd1e768" source="http://scta.info/resource/lc3_13@6-13">nihil amplius quam quod constitutum
       <lb ed="#C" n="37"/>est vobis, faciatis.</quote> At hoc loco, ωροωειν non facere, sed exigere significat. 
       <lb ed="#C" n="38"/>Publicanos enim Baptista alloquitur. Luc. 6. 11. in Latino est, ipsi repletis 
       <lb ed="#C" n="39"/>sunt insipientia, pro, amentia. ηδεσανανoίας. Luc. 1 1. 53. ἐπσοματιζειν αυτὸν,  
@@ -364,7 +364,7 @@
       <pb ed="#C" n="146"/>
                <lb ed="#C" n="1"/>ωει πειονον, vetus interpres transtulit, os eius opprimere de mults: inepte: 
       <lb ed="#C" n="2"/>est enim eum vrgere ad loquendum de multis. Luc. 13. 3. &amp; 4. in
-      Latino<lb ed="#C" n="3" break="no"/>est, <quote source="http://scta.info/resource/lc13_3@5-10">nisi poenitentiam habueritis, omnes similiter peribitis:</quote> <quote source="http://scta.info/resource/lc13_4@1-5">sicut illi decem &amp;
+      Latino<lb ed="#C" n="3" break="no"/>est, <quote xml:id="wWpoi1-e12980-Qd1e788" source="http://scta.info/resource/lc13_3@5-10">nisi poenitentiam habueritis, omnes similiter peribitis:</quote> <quote xml:id="wWpoi1-e12980-Qd1e791" source="http://scta.info/resource/lc13_4@1-5">sicut illi decem &amp;
       <lb ed="#C" n="4"/>octo,</quote> pro, aut illi decem &amp; octo, &amp;c. Luc. 15. 8. Evertit domum, pro, evegrit
       <lb ed="#C" n="5"/>domum, σαρσι τυν οικιαν. Ertatum turpe &amp; manifestum, quod 
       Lovanien<lb ed="#C" n="6" break="no"/>ses quidem viderunt, tamen corrigere noluerunt, credo, propter 
@@ -390,8 +390,8 @@
       <lb ed="#C" n="26"/>populus omnis ab illo pendebat, cum eum audiret: ὅλαυς ἀπας ἔζεκριματὸ κτο 
       <lb ed="#C" n="27"/>ἀκεον Iohan. Cap. 5.16. post haec verba, persequebntur Iudaei Iesum, 
       de<lb ed="#C" n="28" break="no"/>sunt illa, &amp; studebant eum interficere καl εζη τευν αυτ ἀτεκτείνι. Cap. 12. 35.
-      <lb ed="#C" n="29"/><quote source="http://scta.info/resource/io12_35@5-10">Adhuc modicum lumen in vobis,</quote> pro, adhuc parto tempore lumen est
-      vobis<lb ed="#C" n="30" break="no"/>cum, ἐτ μικρον χζνον το ρὼς μιι υμον οει. Cap. 21. 22. <quote source="http://scta.info/resource/io21_22@5-13">Sic eum volo manere
+      <lb ed="#C" n="29"/><quote xml:id="wWpoi1-e12980-Qd1e850" source="http://scta.info/resource/io12_35@5-10">Adhuc modicum lumen in vobis,</quote> pro, adhuc parto tempore lumen est
+      vobis<lb ed="#C" n="30" break="no"/>cum, ἐτ μικρον χζνον το ρὼς μιι υμον οει. Cap. 21. 22. <quote xml:id="wWpoi1-e12980-Qd1e855" source="http://scta.info/resource/io21_22@5-13">Sic eum volo manere
       do<lb ed="#C" n="31" break="no"/>nec veniam. Quid adte?</quote> vnde nonnulli adhuc vivere Iohannem suspieati
       <lb ed="#C" n="32"/>sunt, huius versionis errore delusi. Sic autem legendum erat, Si velim; 
       <lb ed="#C" n="33"/>eum manere donec veniam, quid ad te? in Graeco, ααν αυτ θελω μινειν ἔασξργε¬ 
@@ -417,69 +417,69 @@
       patri<lb ed="#C" n="13" break="no"/>Deo meo, pro, quod secundum viam, quam dicunt haeresn, ita servio 
       pa<lb ed="#C" n="14" break="no"/>trio deo, ὕτι χῶ τυν δδσον, κν λόγεσεν αιρεσιν, ὕτῳ λατρεν τ πατραῳ γι. Cap. 27. 
       <lb ed="#C" n="15"/>42. Ot custodias occiderent, pro, vi vinctos occiderent, ἵνα τῶς δεσμώτας ἀπο¬ 
-      <lb ed="#C" n="16"/>Xleivon. Rom. 2. 3. quod iudicas, pro, qui iudicas, ô χρινον. Cap. 5. 6. <quote source="http://scta.info/resource/rom5_6@1-14">Vt quid
+      <lb ed="#C" n="16"/>Xleivon. Rom. 2. 3. quod iudicas, pro, qui iudicas, ô χρινον. Cap. 5. 6. <quote xml:id="wWpoi1-e12980-Qd1e914" source="http://scta.info/resource/rom5_6@1-14">Vt quid
       <lb ed="#C" n="17"/>enim Christus, cum adhuc infirmi essemus,</quote> pro, Christus enim, cum adhuc
       in<lb ed="#C" n="18" break="no"/>firmi essemus, En jP Xεισος ὀντον ἡμον αδενον. &amp; vers. 13. Peccatum non
       im<lb ed="#C" n="19" break="no"/>putabatur, cum lex non esset, pro, peccatum non imputatur, cum nulla est lex, 
       <lb ed="#C" n="20"/>ἄυθηα iκ ελλγειτιμη οντας νόμν. Cap. 7. 25. Quis me liber abit de corpore
-      <lb ed="#C" n="21"/>mortis huius? <quote source="http://scta.info/resource/rom7_25@1-7">Gratia Dei per Iesum Christum,</quote> pro, gratias ago Deo, per
+      <lb ed="#C" n="21"/>mortis huius? <quote xml:id="wWpoi1-e12980-Qd1e928" source="http://scta.info/resource/rom7_25@1-7">Gratia Dei per Iesum Christum,</quote> pro, gratias ago Deo, per
       Ie<lb ed="#C" n="22" break="no"/>sum Christum: ἐυχαρισοας τῶ διγ δια Ιήσοῦ Xρισοῦ. Cap. 8. 18. Existimo quod  
       <lb ed="#C" n="23"/>non sunt dignae passiones, &amp;c. pro, certo statuo, λοριζομαν. Cap. 12. 19. Non 
-      <lb ed="#C" n="24"/>vosmetipsos defendentes, pro, vlciscentes, exδικομντες. Cap. 13. 1. <quote source="http://scta.info/resource/rom13_1@14-20">Quae autem
+      <lb ed="#C" n="24"/>vosmetipsos defendentes, pro, vlciscentes, exδικομντες. Cap. 13. 1. <quote xml:id="wWpoi1-e12980-Qd1e938" source="http://scta.info/resource/rom13_1@14-20">Quae autem
       <lb ed="#C" n="25"/>sunt a deo, ordinata sunt,</quote> pro, quae sunt potestates, a deo ordinatae sunt, ai δε ἐσα
-      <lb ed="#C" n="26"/>ζισιαι, υτο τοΘεκ τεταγιθυνεισιν. Cap. 14. 5. <quote source="http://scta.info/resource/rom14_5@12-16">Unusquisque in suo
+      <lb ed="#C" n="26"/>ζισιαι, υτο τοΘεκ τεταγιθυνεισιν. Cap. 14. 5. <quote xml:id="wWpoi1-e12980-Qd1e945" source="http://scta.info/resource/rom14_5@12-16">Unusquisque in suo
       sen<lb ed="#C" n="27" break="no"/>su abundet,</quote> pro, unusquisque in animo suo plene certus esto, ἐκασοσ ἐν τῶ ιδιῳ
       <lb ed="#C" n="28"/>vώι τκγρει. &amp; vers. 6. desunt, &amp; qui non curat diem, domino non 
-      cu<lb ed="#C" n="29" break="no"/>rat, μαιομι φρονον τυν ημεραν, Xυει α φρονι. Cap. 16. 23. <quote source="http://scta.info/resource/rom16_23@1-8">Salutat vos Gaius
+      cu<lb ed="#C" n="29" break="no"/>rat, μαιομι φρονον τυν ημεραν, Xυει α φρονι. Cap. 16. 23. <quote xml:id="wWpoi1-e12980-Qd1e955" source="http://scta.info/resource/rom16_23@1-8">Salutat vos Gaius
       <lb ed="#C" n="30"/>hospes meus, &amp; universa Ecclesia,</quote> pro, &amp; universa Ecclesiae, α τῆς εκελησίας
       <lb ed="#C" n="31"/>δλης. 1. Cor. 3. 5. Ministri eius, cui credidistis, pro, ministri, per quos 
       credi<lb ed="#C" n="32" break="no"/>distis, διώκονοι, δι ἀνἐπεσευσατε. vers. 9. Dei adiutores, pro, administri, vel 
       coc<lb ed="#C" n="33" break="no"/>perarij, suneργoι. Cap. 6. v. vit. post, in corpore vestro, desiderantur, &amp; inspiritus 
       <lb ed="#C" n="34"/>vestro, quae sunt Dei, και ἐν τῶ τπνευμαηρμον, ἀτναεσί το Oες. Cap. 9. 22. Ot. 
       <lb ed="#C" n="35"/>omnes salvos facerem, pro, vt omnino aliquos salvos facerem, ἵνα ταγτως τενας 
-      <lb ed="#C" n="36"/>σσνζ. 15. 23. <quote source="http://scta.info/resource/Icor15_23@8-15">Deinde i, qui sunt Christi, qui in adventum eius crediderunt,</quote>
+      <lb ed="#C" n="36"/>σσνζ. 15. 23. <quote xml:id="wWpoi1-e12980-Qd1e973" source="http://scta.info/resource/Icor15_23@8-15">Deinde i, qui sunt Christi, qui in adventum eius crediderunt,</quote>
       <lb ed="#C" n="37"/>pro, deinde qui sunt Christi, in adventu ipsius, ἐπειτα ἐι Xρισοκσ τό ἐν τη παρασια 
       <lb ed="#C" n="38"/>φισ8. v. 34. Adreverentiam vobis loquor, pro, loquor, vi vobis pudorem iucuti¬ 
       <!--157.xml-->
       <pb ed="#C" n="148"/>
-               <lb ed="#C" n="1"/>am, ωρος ενθοτον υειν λόγῳ. vers. 51. <quote source="http://scta.info/resource/Icor15_51@5-11">Omnes quidem resurgemus, sed non omnes.
+               <lb ed="#C" n="1"/>am, ωρος ενθοτον υειν λόγῳ. vers. 51. <quote xml:id="wWpoi1-e12980-Qd1e987" source="http://scta.info/resource/Icor15_51@5-11">Omnes quidem resurgemus, sed non omnes.
       <lb ed="#C" n="2"/>immutabimur,</quote> pro, non omnes quidem dormiemus, sed omnes immutabimur, 
       <lb ed="#C" n="3"/>ταντες μιν α κοιμηθεσονλα, τανες ι αλλαlισονλα. vers. 54. desunt, cum 
       corrupti<lb ed="#C" n="4" break="no"/>bile induerit incorruptibilitatem, ὅταν τό φθαρτὸν τοτο ἐνδυσηται αφγαρσιαν. vers.  
-      <lb ed="#C" n="5"/>5S. <quote source="http://scta.info/resource/Icor15_55@6-10">Ubi est mors stimulus tuus?</quote> pro, ubi tua est, o sepulchrim, vel infernum,
-      vi<lb ed="#C" n="6" break="no"/>ctoria? τοῶ εοδ ἀδη τό νίκoςς 2. Cor. 1. 11. <quote source="http://scta.info/resource/IIcor1_11@8-23">Vt ex multarum personis facierum
+      <lb ed="#C" n="5"/>5S. <quote xml:id="wWpoi1-e12980-Qd1e999" source="http://scta.info/resource/Icor15_55@6-10">Ubi est mors stimulus tuus?</quote> pro, ubi tua est, o sepulchrim, vel infernum,
+      vi<lb ed="#C" n="6" break="no"/>ctoria? τοῶ εοδ ἀδη τό νίκoςς 2. Cor. 1. 11. <quote xml:id="wWpoi1-e12980-Qd1e1004" source="http://scta.info/resource/IIcor1_11@8-23">Vt ex multarum personis facierum
       <lb ed="#C" n="7"/>eius quae in nobis est donationis, per multos gratiae agantur pro nobis,</quote> verba in
       <lb ed="#C" n="8"/>Graeco sunt, ἵνα κκ τολ λόν ωροσυπον τό εἰς ημας χαεισμα δια τολλόνενχαρισηηηm 
       <lb ed="#C" n="9"/>χρ ημον id est, vt donum ex multis personis in nos collatum per multos 
-      celebre<lb ed="#C" n="10" break="no"/>tur gratiarum actione pro nobis. C. 7. 8. <quote source="http://scta.info/resource/IIcor7_8@8-13">Non me poenitet, &amp; si poeniteret,</quote> pro, non
+      celebre<lb ed="#C" n="10" break="no"/>tur gratiarum actione pro nobis. C. 7. 8. <quote xml:id="wWpoi1-e12980-Qd1e1016" source="http://scta.info/resource/IIcor7_8@8-13">Non me poenitet, &amp; si poeniteret,</quote> pro, non
       <lb ed="#C" n="11"/>me poenitet, etsi me poenitebat, α μετυμιλομαι, εικμετεμελημlν. C.9. 1. Ex
       abun<lb ed="#C" n="12" break="no"/>danti est mi scribere vobis, pro, super fluum est mi: ωριοσὸν μόι δει. Cap. 12. 11. 
-      <lb ed="#C" n="13"/>Factus sum insipiens, deest, in gloriando, χονχυμδος Galat. 3. 24. <quote source="http://scta.info/resource/gal3_24@2-7">Lex
+      <lb ed="#C" n="13"/>Factus sum insipiens, deest, in gloriando, χονχυμδος Galat. 3. 24. <quote xml:id="wWpoi1-e12980-Qd1e1025" source="http://scta.info/resource/gal3_24@2-7">Lex
       paeda<lb ed="#C" n="14" break="no"/>gogus noster fuit in Christo,</quote> pro, in Christum, eis Xeισeν. C4. 18. Eonum
       aemu<lb ed="#C" n="15" break="no"/>lamini in bono semper, pro, bonum aemulari in bono semper, καλόν τό ζηλοδο εν 
       <lb ed="#C" n="16"/>xaλῶ παντὸτε. In fine hujus capitis illa verba, Qua libertate Christus nos 
       <lb ed="#C" n="17"/>liberavit, sunt cum initio capitis sequentis conjungenda, In libertate, qua 
       <lb ed="#C" n="18"/>Christus nos liberavit, &amp;c. τπ ἐλδθεεια ς Xρισὸς ημας ιλδθερωσε, σηκετe. 
       E<lb ed="#C" n="19" break="no"/>phe. 1. 22. Super omnem Ecclesia, pro, super omnia ipsi Ecclesiae, ὑγ ποντα τῳ  
-      <lb ed="#C" n="20"/>εκκλήσιαᾳ. Cap. 2. 10. <quote source="http://scta.info/resource/eph2_10@5-11">Creati in Christo Iesu in operibus bonis,</quote> pro, ad opera
+      <lb ed="#C" n="20"/>εκκλήσιαᾳ. Cap. 2. 10. <quote xml:id="wWpoi1-e12980-Qd1e1043" source="http://scta.info/resource/eph2_10@5-11">Creati in Christo Iesu in operibus bonis,</quote> pro, ad opera
       bo<lb ed="#C" n="21" break="no"/>na, δτι ἐργόις αγαθόις. Cap. 5. 4. Quaead rem non pertinent, pro, quae non 
       conve<lb ed="#C" n="22" break="no"/>niunt, τα μή αυῆκον τα. Coloss. 2. 14. Chirographum decreti, pro, in decretis, mis 
       <lb ed="#C" n="23"/>δογμαστν. 2. Thess. 2. 13. Elegit vos Deus primitias in salutem, pro, ab 
       initio<lb ed="#C" n="24" break="no"/>ad salutem, ἀπ ἀρχις. 1. Tim. 6. 5. Deest, secede ab eis qui eiusmodi sunt, 
-      agi<lb ed="#C" n="25" break="no"/>σuσο τοεκτον. 2. Tim. 2. 4. <quote source="http://scta.info/resource/IItim2_4@7-12">Ot ei placeat, cui se probavit,</quote> pro, vt ei
-      pla<lb ed="#C" n="26" break="no"/>ceat, a quo delectus est miles, ἵνα τ σρατρλογήισονη αριση. Phile. 9. <quote source="http://scta.info/resource/phm1_9@5-10">Cum sis
+      agi<lb ed="#C" n="25" break="no"/>σuσο τοεκτον. 2. Tim. 2. 4. <quote xml:id="wWpoi1-e12980-Qd1e1057" source="http://scta.info/resource/IItim2_4@7-12">Ot ei placeat, cui se probavit,</quote> pro, vt ei
+      pla<lb ed="#C" n="26" break="no"/>ceat, a quo delectus est miles, ἵνα τ σρατρλογήισονη αριση. Phile. 9. <quote xml:id="wWpoi1-e12980-Qd1e1063" source="http://scta.info/resource/phm1_9@5-10">Cum sis
       ta<lb ed="#C" n="27" break="no"/>lis, vt Paulus senex,</quote> pro, cum sim talis, nempe Paulus senex. Heb. 1. 3.
       Pur<lb ed="#C" n="28" break="no"/>gationem peccatorum faciens, deest, per seipsum, δi ἐουτ8ῦ. Heb. 3. 3.
-      <quote source="http://scta.info/resource/hebr3_3@10-17">Quan<lb ed="#C" n="29" break="no"/>to ampliorem honorem habet domus,</quote> pro, quanto ampliorem habet, quam
-      do<lb ed="#C" n="30" break="no"/>mus, is qui construxit, &amp;c. Heb. 12. 8. <quote source="http://scta.info/resource/hebr12_8@11-16">Ergo adulteri, &amp; non filij estis,</quote>
+      <quote xml:id="wWpoi1-e12980-Qd1e1070" source="http://scta.info/resource/hebr3_3@10-17">Quan<lb ed="#C" n="29" break="no"/>to ampliorem honorem habet domus,</quote> pro, quanto ampliorem habet, quam
+      do<lb ed="#C" n="30" break="no"/>mus, is qui construxit, &amp;c. Heb. 12. 8. <quote xml:id="wWpoi1-e12980-Qd1e1077" source="http://scta.info/resource/hebr12_8@11-16">Ergo adulteri, &amp; non filij estis,</quote>
       <lb ed="#C" n="31"/>pro, spurij &amp; adulterini, non filij estis, αcα vοθοι ἐσε, κι ἐχ oι. Ibidem.
       <lb ed="#C" n="32"/>vers. 18. Accessibilem ignem, pro, incensum ignem, ϰεκνρθεῳ τeι. Iacob. 
       <lb ed="#C" n="33"/>1. 19. Scitis fratres mei dilectissimi, pro, itaque fratres mei dilectissimi, dce dδ
       e<lb ed="#C" n="34" break="no"/>λοι μον αγτητοι. 1. Pet. 2. 5. Super aedificamini, domos spirituales, pro, domus 
-      <lb ed="#C" n="35"/>spiritualis, ώικος τδματηκός. Ibidem, v. 23. <quote source="http://scta.info/resource/Ipetr2_23@10-14">Tradebat autem iudicanti se
+      <lb ed="#C" n="35"/>spiritualis, ώικος τδματηκός. Ibidem, v. 23. <quote xml:id="wWpoi1-e12980-Qd1e1091" source="http://scta.info/resource/Ipetr2_23@10-14">Tradebat autem iudicanti se
       in<lb ed="#C" n="36" break="no"/>iuste,</quote> pro, judicanti iuste, τῳ κρινονη δικαιoς. 1. Pet. 4. 14. desunt, quod ad illos
       <lb ed="#C" n="37"/>quidem attinet, blasphematur, quod ad vos autem, glorificatur, &amp;ς μδα ρυτός 
-      <lb ed="#C" n="38"/>λασρημσιτ, γ σε ας ζαζετι. 2. Pet. 1. 3. <quote source="http://scta.info/resource/IIpetr1_3@1-13">Quomodo omnia nobis
+      <lb ed="#C" n="38"/>λασρημσιτ, γ σε ας ζαζετι. 2. Pet. 1. 3. <quote xml:id="wWpoi1-e12980-Qd1e1101" source="http://scta.info/resource/IIpetr1_3@1-13">Quomodo omnia nobis
       divi<lb ed="#C" n="39" break="no"/>navixtutis sua, quae advitam &amp; petatem, donata sunt,</quote> pro, vipote cumdiuma
       <!--158.xml-->
       <pb ed="#C" n="149"/>
@@ -487,12 +487,12 @@
       <lb ed="#C" n="2"/>ημιν τῆς θειασ δυναωι αυτο τα ωρος ζωον δευσεξραν δεσοημδοης. ver. 16 indoctas 
       <lb ed="#C" n="3"/>fabulas sequuii, pro, doctas, σεσορισμηεωισ μυθεισ εζ ακοληθεσαντες, &amp; ibidem, 
       <lb ed="#C" n="4"/>Christi virtutem &amp; praescientiam, pro, virtutem &amp; praesentiam, δυυιμον κ 
-      <lb ed="#C" n="5"/>τορσίον. 2. Pet. 2. 8. <quote source="http://scta.info/resource/IIpetr2_8@1-9">Aspectu enim &amp; auditu iustus erai, habitans apud eos,
+      <lb ed="#C" n="5"/>τορσίον. 2. Pet. 2. 8. <quote xml:id="wWpoi1-e12980-Qd1e1121" source="http://scta.info/resource/IIpetr2_8@1-9">Aspectu enim &amp; auditu iustus erai, habitans apud eos,
       <lb ed="#C" n="6"/>qui de die in diem animam iustam iniquis operibus excruciabant,</quote> pro, Aspectu
       <lb ed="#C" n="7"/>enim &amp; auditu iustus ide habitans inter eos, de die indiem animam iustam 
       in<lb ed="#C" n="8" break="no"/>iquis factis cruciabat: Eλιμιαη ιο αακοσ ο δικαος εικατοικῶν ἐν αυτεiς, ηuιραν,  
       <lb ed="#C" n="9"/>aήμιρας δυχεσ δικαιαν ανόμοις ἐργοις εζασανιζεν. 1. Ioan. 5. 17. Et est
-      pecca<lb ed="#C" n="10" break="no"/>tum ad mortem, pro, <quote source="http://scta.info/resource/Iio5_17@5-10">&amp; est peccatum non ad mortem:</quote> κι ἐστιν αυθτια κ ωρος Sυ¬
+      pecca<lb ed="#C" n="10" break="no"/>tum ad mortem, pro, <quote xml:id="wWpoi1-e12980-Qd1e1135" source="http://scta.info/resource/Iio5_17@5-10">&amp; est peccatum non ad mortem:</quote> κι ἐστιν αυθτια κ ωρος Sυ¬
       <lb ed="#C" n="11"/>νaτον. 3. Ioan. 4. Matorem horum non habeo gratiam, pro, maius istis 
       gan<lb ed="#C" n="12" break="no"/>dium non habeo: μεζετερον τοτν ικεχῳ χαcον. Id. 5. Scientes semel omnia, 
       <lb ed="#C" n="13"/>pro, vt qui semel hoc sciatis: ειδοταςἀπας τοτ. Apocalyps. 2. 14. Edere &amp; 
